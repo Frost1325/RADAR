@@ -1,0 +1,7 @@
+ steep spiral dive. Usually the rate of divergence in the spiral motion is so gradual the pilot can control the tendency without any difficulty.
+
+Many aircraft are affected to some degree by this characteristic, although they may be inherently stable in all other normal parameters. This tendency explains why an aircraft cannot be flown "hands off" indefinitely.
+
+Much research has gone into the development of control devices (wing leveler) to correct or eliminate this instability. The pilot must be careful in application of recovery controls during advanced stages of this spiral condition or excessive loads may be imposed on the structure. Improper recovery from spiral instability leading to inflight structural failures has probably contributed to more fatalities in general aviation aircraft than any other factor. Since the airspeed in the spiral condition builds up rapidly, the application of back elevator force to reduce this speed and to pull the nose up only "tightens the turn," increasing the load factor. The results of the prolonged uncontrolled spiral are inflight structural failure, crashing into the ground, or both. Common recorded causes for pilots who get into this situation are loss of horizon reference, inability to control the aircraft by reference to instruments, or a combination of both.
+
+## Effect of Wing Planform

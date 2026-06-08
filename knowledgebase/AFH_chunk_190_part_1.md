@@ -1,0 +1,3 @@
+## Lift-Off
+
+After the airplane becomes airborne, the pilot should gently lower the nose with the wheels clear of the surface to allow the airplane to accelerate to a minimum safe climb out speed, Immediately after the airplane becomes airborne and while it accelerates, the pilot should be aware that, while transitioning out of the ground effect area, the airplane will have a tendency to settle back onto the surface, even with full power applied. Therefore, it is essential that the airplane remain in ground effect until at least \(\mathrm{V}_{\mathrm{X}}\) is reached. This requires a good understanding of the control pressures, aircraft responses, visual clues, and acceleration characteristics of that particular airplane.

@@ -1,0 +1,5 @@
+necessary to produce a stall. The wing can be brought to an excessive AOA at any speed. High pitch attitude is not an absolute indication of proximity to a stall. Some airplanes are capable of vertical flight with a corresponding low AOA. Most airplanes are quite capable of stalling at a level or near level pitch attitude.
+
+The key to stall awareness is the pilot's ability to visualize the wing's AOA in any particular circumstance, and thereby be able to estimate his or her margin of safety above stall. This is a learned skill that should be acquired early in flight training and carried through the pilot's entire flying career.
+
+The pilot should understand and appreciate factors such as airspeed, pitch attitude, load factor, relative wind, power setting, and aircraft configuration in order to develop a reasonably accurate mental picture of the wing's AOA at any particular time. It is essential to safety of flight that pilots take into consideration this visualization of the wing's AOA prior to entering any flight maneuver. Chapter 3, Basic Flight Maneuvers, discusses stalls in detail.

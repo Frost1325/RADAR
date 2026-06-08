@@ -1,0 +1,5 @@
+DA is permitted. The helicopter may initiate the final approach segment at speeds up to the upper limit of the highest approach category authorized by the procedure, but must be slowed to no more than 90 KIAS at the missed approach point (MAP) in order to apply the visibility reduction. Pilots are cautioned that such a decelerating approach may make early identification of wind shear on the approach path difficult or impossible. If required, use the Inoperative Components and Visual Aids Table provided in the front cover of the U.S. Terminal Procedures Volume to derive the Category A minima before applying the 14 CFR Section 97.3(d-1) rule.
+
+2. Helicopters flying Copter SIAPs may use the published minima, with no reductions allowed. The maximum airspeed is 90 KIAS on any segment of the approach or missed approach.
+
+3. Helicopters flying GPS Copter SIAPs must limit airspeed to 90 KIAS or less when flying any segment of the procedure, except speeds must be limited to no more than 70 KIAS on the final and missed approach segments. Military GPS Copter SIAPs are limited to no more than 90 KIAS

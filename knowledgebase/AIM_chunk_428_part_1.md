@@ -1,0 +1,7 @@
+## a. General.
+
+1. The following ATC procedures and phraseologies recognize the unique capabilities of helicopters and were developed to improve service to all users. Helicopter design characteristics and user needs often require operations from movement areas and nonmovement areas within the airport boundary. In order for ATC to properly apply these procedures, it is essential that pilots familiarize themselves with the local operations and make it known to controllers when additional instructions are necessary.
+
+2. Insofar as possible, helicopter operations will be instructed to avoid the flow of fixed-wing aircraft to minimize overall delays; however, there will be many situations where faster/larger helicopters may be integrated with fixed-wing aircraft for the benefit of all concerned. Examples would include IFR flights, avoidance of noise sensitive areas, or use of runways/taxiways to minimize the hazardous effects of rotor downwash in congested areas.
+
+3. Because helicopter pilots are intimately familiar with the effects of rotor downwash, they are best qualified to determine if a given operation can be conducted safely. Accordingly, the pilot has the final authority with respect to the specific airspeed/altitude combinations. ATC clearances are in no way intended to place the helicopter in a hazardous position. It is expected that pilots will advise ATC if a

@@ -1,0 +1,5 @@
+from the responsible civil aviation authority. (See Paragraph 4-6-10, Procedures for Accommodation of Non-RVSM Aircraft.) If the operator or aircraft or both have not been authorized for RVSM operations, the aircraft will be referred to as a "non-RVSM" aircraft. Paragraph 4-6-10 discusses ATC policies for accommodation of non-RVSM aircraft flown by the Department of Defense, Air Ambulance
+
+(MEDEVAC) operators, foreign State governments and aircraft flown for certification and development. Paragraph 4- 6- 11, Non- RVSM Aircraft Requesting Climb to and Descent from Flight Levels Above RVSM Airspace Without Intermediate Level Off, contains policies for non- RVSM aircraft climbing and descending through RVSM airspace to/from flight levels above RVSM airspace.
+
+d. Benefits. RVSM enhances ATC flexibility, mitigates conflict points, enhances sector throughput, reduces controller workload and enables crossing traffic. Operators gain fuel savings and operating efficiency benefits by flying at more fuel efficient flight levels and on more user preferred routings.

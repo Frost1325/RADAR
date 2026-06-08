@@ -1,0 +1,3 @@
+34," different avionics platforms may display the identifier in any way the manufacturer deems appropriate. For example, a GPS produced by one manufacturer might display the approach as "VOR 34," whereas another might refer to the approach as "VOR/DME 34," and an FMS produced by another manufacturer may refer to it as "VOR34." [Figure 6- 29]
+
+These differences can cause visual inconsistencies between chart and GPS displays, as well as confusion with approach clearances and other ATC instructions for pilots unfamiliar with specific manufacturer's naming conventions. The manufacturer determines the capabilities and limitations of an RNAV system based on the decisions that it makes regarding that system's processing of the airborne navigation database.

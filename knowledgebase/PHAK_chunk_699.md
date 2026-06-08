@@ -1,0 +1,3 @@
+ \mathrm{C}\) ) and humidity as low as 50 percent. This temperature drop can be as much as 60 to 70 absolute (versus relative) Fahrenheit degrees ( \(70 \times 100 / 180 = 38.89\)
+
+Celsius degrees) (Remember there are 180 Fahrenheit degrees from freezing to boiling versus 100 degrees for the Celsius scale.) Therefore, an outside air temperature of \(100\mathrm{F}(38\mathrm{C})\) a temperature drop of an absolute \(70\mathrm{F}\) degrees (38.89 Celsius degrees) results in an air temperature in the carburetor of 30 \(\mathrm{F(- 1C)}\) . [Figure 7- 12]

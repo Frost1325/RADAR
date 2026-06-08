@@ -1,0 +1,5 @@
+ conditions, increasing the takeoff weight of the average Cessna 182 from 2,400 pounds to 2,700 pounds (11 percent increase) results in an increased takeoff distance from 440 feet to 575 feet (23 percent increase).
+
+For the aircraft with a high thrust- to- weight ratio, the increase in takeoff distance might be approximately 21 to 22 percent, but for the aircraft with a relatively low thrust- to- weight ratio, the increase in takeoff distance would be approximately 25 to 30 percent. Such a powerful effect requires proper consideration of gross weight in predicting takeoff distance.
+
+The effect of wind on takeoff distance is large, and proper consideration must also be provided when predicting takeoff distance. The effect of a headwind is to allow the aircraft to reach the lift- off speed at a lower groundspeed, while the effect of a tailwind is to require the aircraft to achieve a greater groundspeed to attain the lift- off speed.

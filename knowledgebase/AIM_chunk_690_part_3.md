@@ -1,0 +1,3 @@
+pilots should bear in mind that just a slight worsening of the weather conditions from those forecast could place the airport below the published IFR landing minimums.
+
+3. An IFR flight to an airport which requires special equipment; i.e., DME, glide slope, etc., in order to make the available approaches to the lowest minimums. Pilots should be aware that all other minimums on the approach charts may require weather conditions better than those specified in 14 CFR Section 91.167(b). An inflight equipment malfunction could result in the inability to comply with the published approach procedures or, again, in the position of having the airport below the published IFR landing minimums for all remaining instrument approach alternatives.

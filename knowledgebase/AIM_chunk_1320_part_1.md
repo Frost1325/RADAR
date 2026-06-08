@@ -1,0 +1,7 @@
+## 8-1-7. Aerobatic Flight
+
+a. Pilots planning to engage in aerobatics should be aware of the physiological stresses associated with accelerative forces during aerobatic maneuvers. Many prospective aerobatic trainees enthusiastically enter aerobatic instruction but find their first experiences with G forces to be unanticipated and very uncomfortable. To minimize or avoid potential adverse effects, the aerobatic instructor and trainee must have a basic understanding of the physiology of G force adaptation.
+
+b. Forces experienced with a rapid push-over maneuver result in the blood and body organs being displaced toward the head. Depending on forces involved and individual tolerance, a pilot may experience discomfort, headache, "red-out," and even unconsciousness.
+
+c. Forces experienced with a rapid pull-up maneuver result in the blood and body organ displacement toward the lower part of the body away from the head. Since the brain requires continuous blood circulation for an adequate oxygen supply, there is a physiologic limit to the time the pilot can tolerate higher forces before losing consciousness. As the blood circulation to the brain decreases as a result of forces involved, a pilot will experience "narrowing" of visual fields, "gray-out," "blackout," and unconsciousness. Even a brief

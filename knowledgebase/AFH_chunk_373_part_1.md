@@ -1,0 +1,7 @@
+## Short-Field Approach and Landing
+
+The primary elements of a short- field approach and landing do not differ significantly from a normal approach and landing. Many manufacturers do not publish short- field landing techniques or performance charts in the AFM/POH. In the absence of specific short- field approach and landing procedures, the airplane should be operated as recommended in the AFM/POH. No operations should be conducted contrary to the AFM/POH recommendations.
+
+The emphasis in a short- field approach is on configuration (full flaps), a stabilized approach with a constant angle of descent, and precise airspeed control. As part of a short- field approach and landing procedure, some AFM/POHs recommend a slightly slower than normal approach airspeed. If no such slower speed is published, use the AFM/POH- recommended normal approach speed.
+
+Full flaps are used to provide the steepest approach angle. If obstacles are present, the approach should be planned so that no drastic power reductions are required after they are cleared. The power should be smoothly reduced to idle in the round out prior to touchdown. Pilots should keep in mind that the propeller blast blows over the wings providing some lift in addition to thrust. Reducing

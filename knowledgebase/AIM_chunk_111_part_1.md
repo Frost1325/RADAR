@@ -1,0 +1,1 @@
+# e. The Final Approach Runway Occupancy Signal (FAROS) is communicated by flashing of the Precision Approach Path Indicator (PAPI) (see FIG 2-1-9). When activated, the light fixtures of the PAPI flash or pulse to indicate to the pilot on an approach that the runway is occupied and that it may be unsafe to land.

@@ -1,0 +1,5 @@
+ shifting the CG. For more information on weight- shift control aircraft, see the Federal Aviation Administration (FAA) Weight- Shift Control Flying Handbook, FAA- H- 8083- 5. In the case of powered parachutes, aircraft control is accomplished by altering the airfoil via steering lines.
+
+A powered parachute wing is a parachute that has a cambered upper surface and a flatter under surface. The two surfaces are separated by ribs that act as cells, which open to the airflow at the leading edge and have internal ports to allow lateral airflow. The principle at work holds that the cell pressure is greater than the outside pressure, thereby forming a wing that maintains its airfoil shape in flight. The pilot and passenger sit in tandem in front of the engine, which is located at the rear of a vehicle. The airframe is attached to the parachute via two attachment points and lines. Control is accomplished by both power and the changing of the airfoil via the control lines. [Figure 5- 20]
+
+## Moment and Moment Arm

@@ -1,0 +1,7 @@
+ Airworthiness Certificate remains in effect if the aircraft receives the required maintenance and is properly registered in the United States. Flight safety relies in part on the condition of the aircraft, which is determined by inspections performed by mechanics, approved repair stations, or manufacturers that meet specific requirements of 14 CFR part 43.
+
+A Special Airworthiness Certificate is issued for all aircraft certificated in other than the Standard classifications, such as Experimental, Restricted, Limited, Provisional, and Light- Sport Aircraft (LSA). LSA receive a pink special airworthiness certificate; however, there are exceptions. For example, the Piper Cub is in the LSA category, but it was certificated as a normal aircraft during its manufacture. When purchasing an aircraft classified as other than Standard, it is recommended that the local FSDO be contacted for an explanation of the pertinent airworthiness requirements and the limitations of such a certificate.
+
+## Aircraft Maintenance
+
+Maintenance is defined as the preservation, inspection, overhaul, and repair of an aircraft, including the replacement of parts. Regular and proper maintenance ensures that an aircraft meets an acceptable standard of airworthiness throughout its operational life.

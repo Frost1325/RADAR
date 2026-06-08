@@ -1,0 +1,5 @@
+followed by "SM" to note the units of measure. Expected visibilities greater than 6 miles are forecast as P6SM (plus six statute miles).
+
+EXAMPLE- 1/2SM - visibility one-half 4SM - visibility four P6SM - visibility more than six
+
+(c) Weather Phenomena. The expected weather phenomena is coded in TAF reports using the same format, qualifiers, and phenomena contractions as METAR reports (except UP). Obscurations to vision will be forecast whenever the prevailing visibility is forecast to be 6 statute miles or less. If no significant weather is expected to occur during a specific time period in the forecast, the weather phenomena group is omitted for that time period. If, after a time period in which significant weather phenomena has been forecast, a change to a forecast of no significant weather phenomena occurs, the contraction NSW (No Significant Weather) will appear as the weather group in the new time period. (NSW is included only in TEMPO groups).

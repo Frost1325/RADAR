@@ -1,0 +1,5 @@
+## c. Direct Flights
+
+1. All or any portions of the route which will not be flown on the radials or courses of established airways or routes, such as direct route flights, must be defined by indicating the radio fixes over which the flight will pass. Fixes selected to define the route must be those over which the position of the aircraft can be accurately determined. Such fixes automatically become compulsory reporting points for the flight, unless advised otherwise by ATC. Only those navigational aids established for use in a particular structure; i.e., in the low or high structures, may be used to define the en route phase of a direct flight within that altitude structure.
+
+2. The azimuth feature of VOR aids and that azimuth and distance (DME) features of VORTAC and TACAN aids are assigned certain frequency protected areas of airspace which are intended for application to established airway and route use, and to provide guidance for planning flights outside of established airways or routes. These areas of airspace are expressed in terms of cylindrical service volumes of specified dimensions called "class limits" or "categories."

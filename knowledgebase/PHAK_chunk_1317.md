@@ -1,0 +1,5 @@
+ cold front. When this is the case, the cold front rides up and over the warm front. If the air forced aloft by the warm front occlusion is unstable, the weather is more severe than the weather found in a cold front occlusion. Embedded thunderstorms, rain, and fog are likely to occur.
+
+Figure 12- 27 depicts a cross- section of a typical cold front occlusion. The warm front slopes over the prevailing cooler air and produces the warm front type weather. Prior to the passage of the typical occluded front, cirriform and stratiform clouds prevail, light to heavy precipitation falls, visibility is poor, dew point is steady, and barometric pressure drops. During the passage of the front, nimbostratus and cumulonimbus clouds predominate, and towering cumulus clouds may also form. Light to heavy precipitation falls, visibility is poor, winds are variable, and the barometric pressure levels off. After the passage of the front, nimbostratus and altostratus clouds are visible, precipitation decreases, and visibility improves.
+
+## Thunderstorms

@@ -1,0 +1,7 @@
+## Takeoff Roll
+
+For takeoff, the pilot uses the rudder pedals in most general aviation airplanes to steer the airplane's nose- wheel onto the runway centerline to align the airplane and nose- wheel with the runway. After releasing the brakes, the pilot should advance the throttle smoothly and continuously to takeoff power. An abrupt application of power may cause the airplane to yaw sharply to the left because of the torque effects of the engine and propeller. This is most apparent in high horsepower engines. As the airplane starts to roll forward, assure both feet are on the rudder pedals so that the toes or balls of the feet are on the rudder portions, not on the brake. Check the engine instruments for indications of a malfunction during the takeoff roll.
+
+In nose- wheel type airplanes, pressures on the elevator control are not necessary beyond those needed to steady it. Applying unnecessary pressure only aggravates the takeoff and prevents the pilot from recognizing when elevator control pressure is actually needed to establish the takeoff attitude.
+
+As the airplane gains speed, the elevator control tends to assume a neutral position if the airplane is correctly trimmed. At the same time, the rudder pedals are used to keep the nose of the airplane pointed down the runway and parallel to the center

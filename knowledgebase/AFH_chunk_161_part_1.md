@@ -1,0 +1,3 @@
+## Recovery Phase
+
+The recovery phase occurs when rotation ceases and the AOA of the wings is decreased below the critical AOA. This phase may last for as little as a quarter turn or up to several turns depending upon the airplane and the type of spin. To recover, the pilot applies control inputs to disrupt the spin equilibrium by stopping the rotation and unstalling the wing. To accomplish spin recovery, the pilot should always follow the manufacturer's recommended procedures. In the absence of the manufacturer's recommended spin recovery procedures and techniques, use the six- step spin recovery procedure in Figure 5- 17. If the flaps and/or retractable landing gear are extended prior to the spin, they should be retracted as soon as practicable after spin entry.

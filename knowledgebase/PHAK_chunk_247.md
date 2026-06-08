@@ -1,0 +1,7 @@
+. At the time of this study, the general guidelines in the industry were to let the automated system do as much of the flying as possible. That view has since changed and it is recommended that pilots use their best judgment when choosing which level of automation will most efficiently do the task considering the workload and situational awareness.
+
+Emergency maneuvers clearly broadened the difference in manual flying skills between the two groups. In general, the analog pilots tended to fly raw data, so when they were given an emergency, such as an engine failure, and were instructed to fly the maneuver without a flight director, they performed it expertly. By contrast, SOP for EFIS operations at the time was to use the flight director. When EFIS crews had their flight directors disabled, their eye scan again began a more erratic searching pattern and their manual flying subsequently suffered.
+
+Those who reviewed the data saw that the EFIS pilots who better managed the automation also had better flying skills. While the data did not reveal whether those skills preceded or followed automation, it did indicate that automation management needed to be improved. Recommended "best
+
+practices" and procedures have remedied some of the earlier problems with automation.

@@ -1,0 +1,5 @@
+are in progress," the assigning of a time to depart the final approach fix inbound (nonprecision approach) or the outer marker or fix used in lieu of the outer marker inbound (precision approach) is indicative that timed approach procedures are being utilized, or in lieu of holding, the controller may use radar vectors to the Final Approach Course to establish a mileage interval between aircraft that will ensure the appropriate time sequence between the final approach fix/outer marker
+
+or fix used in lieu of the outer marker and the airport.
+
+c. Each pilot in an approach sequence will be given advance notice as to the time they should leave the holding point on approach to the airport. When a time to leave the holding point has been received, the pilot should adjust the flight path to leave the fix as closely as possible to the designated time. (See FIG 5-4-17. )

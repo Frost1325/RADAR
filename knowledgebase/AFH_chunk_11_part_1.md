@@ -1,0 +1,7 @@
+## Runway Incursion Avoidance
+
+A runway incursion is any occurrence at an airport involving an aircraft, vehicle, person, or object on the ground that creates a collision hazard or results in a loss of separation with an aircraft taking off, landing, or intending to land. The three major areas contributing to runway incursions are communications, airport knowledge, and flight deck procedures for maintaining orientation. [Figure 1- 12]
+
+Taxi operations require constant vigilance by the entire flight crew, not just the pilot taxiing the airplane. During flight training, the instructor should emphasize the importance of vigilance during taxi operations. Both the learner and the flight instructor need to be continually aware of the movement and location of other aircraft and ground vehicles on the airport movement area. Many flight training activities are conducted at non- tower controlled airports. The absence of an operating airport control tower creates a need for increased vigilance on the part of pilots operating at those airports. [Figure 1- 13]
+
+Planning, clear communications, and enhanced situational awareness during airport surface operations reduces the potential for surface incidents. Safe aircraft operations can be accomplished and incidents eliminated if the pilot is properly trained early on and throughout their flying career on standard taxi operating procedures and practices.

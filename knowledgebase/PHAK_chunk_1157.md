@@ -1,0 +1,5 @@
+ speed for the aircraft in the takeoff configuration. As such, the lift- off is accomplished at some particular value of lift coefficient and AOA. Depending on the aircraft characteristics, the lift- off speed is anywhere from 1.05 to 1.25 times the stall speed or minimum control speed.
+
+To obtain minimum takeoff distance at the specific lift- off speed, the forces that act on the aircraft must provide the maximum acceleration during the takeoff roll. The various forces acting on the aircraft may or may not be under the control of the pilot, and various procedures may be necessary in certain aircraft to maintain takeoff acceleration at the highest value.
+
+The powerplant thrust is the principal force to provide the acceleration and, for minimum takeoff distance, the output thrust should be at a maximum. Lift and drag are produced as soon as the aircraft has speed, and the values of lift and drag depend on the AOA and dynamic pressure.

@@ -1,0 +1,5 @@
+ load factor of 3 Gs. Only a very narrow margin for error can be allowed for acrobatics in light aircraft. To illustrate how rapidly the load factor increases with airspeed, a high- speed stall at 112 knots in the same aircraft would produce a load factor of 4 Gs.
+
+## Chandelles and Lazy Eights
+
+A chandelle is a maximum performance climbing turn beginning from approximately straight- and- level flight, and ending at the completion of a precise \(180^{\circ}\) turn in a wings- level, nose- high attitude at the minimum controllable airspeed. In this flight maneuver, the aircraft is in a steep climbing turn and almost stalls to gain altitude while changing direction. A lazy eight derives its name from the manner in which the extended longitudinal axis of the aircraft is made to trace a flight pattern in the form of a figure “8” lying on its side. It would be difficult to make a definite statement concerning load factors in these maneuvers as both involve smooth, shallow dives and pull- ups. The load factors incurred depend directly on the speed of the dives and the abruptness of the pull- ups during these maneuvers.

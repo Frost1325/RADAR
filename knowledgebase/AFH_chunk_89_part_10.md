@@ -1,0 +1,7 @@
+on the yoke/stick, reducing AOA and induced drag, and only then advancing the throttle forward to regain total energy. But if the airplane is too close to the ground, there may not be enough room to reverse the negative energy rate and prevent the airplane from striking the ground.
+
+Now consider the scenario depicted in C in Figure 4-13, where the airplane has descended below the desired flight path but is flying at the correct speed. Here, even though there is no speed deviation, the pilot is faced with a combination of total energy and distribution errors. Regaining altitude without changing speed requires advancing the throttle forward while easing aft on the yoke/stick (6 in Figure 4-12). In other words, decoupling altitude and airspeed (i.e. changing one without changing the other) demands the use of both controls simultaneously.
+
+In all cases, path and speed should be monitored carefully as they are corrected, adjusting pitch attitude and throttle setting as appropriate. Once short-term deviations are corrected, the airplane will need to be trimmed for long-term control to maintain the desired path-speed profile (5 in Figure 4-12).
+
+The above approach- to- landing scenario is just one example illustrating the risk of mismanaging

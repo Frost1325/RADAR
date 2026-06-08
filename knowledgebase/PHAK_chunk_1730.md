@@ -1,0 +1,5 @@
+ indicator that uses the output from a flux valve to drive the compass card. The HSI [Figure 16- 30] combines the magnetic compass with navigation signals and a glideslope. The HSI gives the pilot an indication of the location of the aircraft in relation to the chosen course or radial.
+
+In Figure 16- 30, the aircraft magnetic heading displayed on the compass card under the lubber line is \(184^{\circ}\) . The course select pointer shown is set to \(295^{\circ}\) ; the tail of the pointer indicates the reciprocal, \(115^{\circ}\) . The course deviation bar operates with a VOR/Localizer (VOR/LOC) or GPS navigation receiver to indicate left or right deviations from the course selected with the course select pointer; operating in the same manner, the angular movement of a conventional VOR/LOC needle indicates deviation from course.
+
+The desired course is selected by rotating the course select pointer, in relation to the compass card, by means of the

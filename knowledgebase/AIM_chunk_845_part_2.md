@@ -1,0 +1,1 @@
+off and landing minimums prescribed by the authority having jurisdiction at those airports. Unless an emergency exists, civil aircraft operating at military airports normally require advance authorization, commonly referred to as "Prior Permission Required" or "PPR." Information on obtaining a PPR for a particular military airport can be found in the Airport/Facility Directory.

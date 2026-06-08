@@ -1,0 +1,7 @@
+ the normal command of flight, the regime of flight speeds between the speed for minimum required power setting and the stall speed (or minimum control speed) is termed the region of reversed command. In the region of reversed command, a decrease in airspeed must be accompanied by an increased power setting in order to maintain steady flight.
+
+Figure 11- 14 shows the maximum power available as a curved line. Lower power settings, such as cruise power, would also appear in a similar curve. The lowest point on
+
+the power required curve represents the speed at which the lowest brake horsepower sustains level flight. This is termed the best endurance airspeed.
+
+An airplane performing a low airspeed, high pitch attitude power approach for a short- field landing is an example of operating in the region of reversed command. If an unacceptably high sink rate should develop, it may be possible for the pilot to reduce or stop the descent by applying power. But without further use of power, the airplane would probably stall or be incapable of flaring for the landing. Merely lowering the nose of the airplane to regain flying speed in this situation, without the use of power, would result in a rapid sink rate and corresponding loss of altitude.

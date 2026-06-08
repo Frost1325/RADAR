@@ -1,0 +1,5 @@
+ occur during the runup prior to takeoff at high- elevation airports and during climbs or cruise flight at high altitudes. To maintain the correct fuel- air mixture, the mixture must be leaned using the mixture control. Leaning the mixture decreases fuel flow, which compensates for the decreased air density at high altitude.
+
+During a descent from high altitude, the fuel- air mixture must be enriched, or it may become too lean. An overly lean mixture causes detonation, which may result in rough engine operation, overheating, and/or a loss of power. The best way to maintain the proper fuel- air mixture is to monitor the engine temperature and enrich the mixture as needed. Proper mixture control and better fuel economy for fuel- injected engines can be achieved by using an exhaust gas temperature (EGT) gauge. Since the process of adjusting the mixture can vary from one aircraft to another, it is important to refer to the airplane flight manual (AFM) or the POH to determine the specific procedures for a given aircraft.
+
+## Carburetor Icing

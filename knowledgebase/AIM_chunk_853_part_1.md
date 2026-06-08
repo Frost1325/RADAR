@@ -1,0 +1,7 @@
+## NOTE
+
+The FAA Administrator retains the authority to approve instrument approach procedures where the pilot may not necessarily have one of the visual references specified in CFR 14, part 91.175 and related rules. It is not a function of procedure design to ensure compliance with part 91.175. The annotation "Fly Visual to Airport" provides relief from part 91.175 requirements that the pilot have distinctly visible and identifiable visual references prior to descent below MDA/DA.
+
+j. Charting of Close in Obstacles on Instrument Procedure Charts. Obstacles that are close to the airport may be depicted in either the planview of the instrument approach chart or the airport sketch. Obstacles are charted in only one of the areas, based on space available and distance from the runway. These obstacles could be in the visual segment of the instrument approach procedure. On nonprecision approaches, these obstacles should be considered when determining where to begin descent from the MDA (see "Pilot Operational Considerations When Flying Nonprecision Approaches" in this paragraph).
+
+k. Vertical Descent Angle (VDA) on Nonprecision Approaches. FAA policy is to publish VDAs on all nonprecision approaches. Published along with V

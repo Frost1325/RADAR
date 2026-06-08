@@ -1,0 +1,5 @@
+lateral boundaries of the surface area of Class E airspace designated for an airport unless that person has prior authorization from the ATC facility having jurisdiction over that airspace. (See 14 CFR Part 103.)
+
+h. Unmanned Free Balloons. Unless otherwise authorized by ATC, no person may operate an unmanned free balloon below 2,000 feet above the surface within the lateral boundaries of Class B, Class C, Class D, or Class E airspace designated for an airport. (See 14 CFR Part 101.)
+
+i. Parachute Jumps. No person may make a parachute jump, and no pilot-in-command may allow a parachute jump to be made from that aircraft, in or into Class A, Class B, Class C, or Class D airspace without, or in violation of, the terms of an ATC authorization issued by the ATC facility having jurisdiction over the airspace. (See 14 CFR Part 105.)

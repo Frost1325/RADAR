@@ -1,0 +1,5 @@
+should be alert for this on any overlay procedure where the original approach used DME.
+
+(12) If a visual descent point (VDP) is published, it will not be included in the sequence of waypoints. Pilots are expected to use normal piloting techniques for beginning the visual descent, such as ATD.
+
+(13) Unnamed stepdown fixes in the final approach segment may or may not be coded in the waypoint sequence of the aircraft's navigation database and must be identified using ATD. Stepdown fixes in the final approach segment of RNAV (GPS) approaches are being named, in addition to being identified by ATD. However, GPS avionics may or may not accommodate waypoints between the FAF and MAP. Pilots must know the capabilities of their GPS equipment and continue to identify stepdown fixes using ATD when necessary.

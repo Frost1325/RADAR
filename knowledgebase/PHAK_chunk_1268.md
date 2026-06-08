@@ -1,0 +1,5 @@
+ weather.
+
+Rising air expands and cools due to the decrease in air pressure as altitude increases. The opposite is true of descending air; as atmospheric pressure increases, the temperature of descending air increases as it is compressed. Adiabatic heating and adiabatic cooling are terms used to describe this temperature change.
+
+The adiabatic process takes place in all upward and downward moving air. When air rises into an area of lower pressure, it expands to a larger volume. As the molecules of air expand, the temperature of the air lowers. As a result, when a parcel of air rises, pressure decreases, volume increases, and temperature decreases. When air descends, the opposite is true. The rate at which temperature decreases with an increase in altitude is referred to as its lapse rate. As air ascends through the atmosphere, the average rate of temperature change is \(2^{\circ}\mathrm{C}\) (3.5 \(^\circ \mathrm{F}\) ) per 1,000 feet.

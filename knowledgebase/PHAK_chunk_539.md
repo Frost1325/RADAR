@@ -1,0 +1,7 @@
+ and the strength used for design purposes usually corresponds to the highest level flight speed. In extremely rough air, as in thunderstorms or frontal conditions, it is wise to reduce the speed to the design maneuvering speed. Regardless of the speed held, there may be gusts that can produce loads that exceed the load limits.
+
+Each specific aircraft is designed with a specific G loading that can be imposed on the aircraft without causing structural damage. There are two types of load factors factored into aircraft design: limit load and ultimate load. The limit load is a force applied to an aircraft that causes a bending of the aircraft structure that does not return to the original shape. The ultimate load is the load factor applied to the aircraft beyond the limit load and at which point the aircraft material experiences structural failure (breakage). Load factors lower than the limit load can be sustained without compromising the integrity of the aircraft structure.
+
+Speeds up to, but not exceeding, the maneuvering speed allow an aircraft to stall prior to experiencing an increase in load factor that would exceed the limit load of the aircraft.
+
+Most AFM/POH now include turbulent air penetration information, which help today's pilots safely fly aircraft

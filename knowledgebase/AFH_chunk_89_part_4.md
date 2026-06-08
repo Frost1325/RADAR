@@ -1,0 +1,7 @@
+desired energy state (5).
+
+Monitoring the altimeter (or other flight path reference) and airspeed indicator allows the pilot to distinguish these two types of energy errors. In total energy errors, the airplane has too much energy (blue boxes) or too little energy (red boxes). The pilot will notice that altitude and speed deviate in the same direction (“lower- and- slower” or “higher- and- faster”). On the other hand, in energy distribution errors the airplane may have the correct amount of total energy (green boxes) but its distribution over altitude and speed is incorrect. Here, altitude and speed deviate in opposite directions (“higher- and- slower” or “lower- and- faster”). In this case, the pilot deals with relative deviations—not absolute altitude and speed.
+
+Following energy management principles, total energy errors are corrected by increasing or decreasing energy using the throttle, while energy distribution errors are corrected by exchanging energy between altitude and speed using the elevator. To correct a combination of total energy and distribution errors, both controls need to be used simultaneously. Figure 4- 12 summarizes the control skills needed to correct total energy and energy distribution errors.
+
+Scenario 1 [Figure 4- 9] is a good example to illustrate energy errors

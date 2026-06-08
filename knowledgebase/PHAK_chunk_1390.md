@@ -1,0 +1,3 @@
+400Z and 1600Z, the cloud bases are expected to increase to 3,000 feet AGL. After 1900Z, the cloud bases are expected to continue to increase to 5,000 feet AGL and the outlook is VFR.
+
+In northwestern Oklahoma and panhandle, the clouds are scattered at 3,000 feet with another scattered to broken layer at 10,000 feet AGL, with the tops at 20,000 feet. At 1500 Z, the lowest cloud base is expected to increase to 4,000 feet AGL with a scattered layer at 10,000 feet AGL. After 2000Z, the forecast calls for scattered thunderstorms with rain developing and a few becoming severe; the CB clouds have tops at flight level (FL) 450 or 45,000 feet MSL.

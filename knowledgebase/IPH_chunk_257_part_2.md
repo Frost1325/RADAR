@@ -1,0 +1,7 @@
+the IAF outbound.
+
+A procedure turn is the maneuver prescribed to perform a course reversal to establish the aircraft inbound on an intermediate or final approach course. The procedure turn or hold- in- lieu- of procedure turn is a required maneuver when it is depicted on the approach chart. However, the procedure turn or the hold- in- lieu- of PT is not permitted when the symbol "No PT" is depicted on the initial segment being flown, when a RADAR VECTOR to the final approach course is provided, or when conducting a timed approach from a holding fix.
+
+The altitude prescribed for the procedure turn is a minimum altitude until the aircraft is established on the inbound course. The maneuver must be completed within the distance specified in the profile view. This distance is usually 10 miles. This may be reduced to five miles where only Category A or helicopter aircraft are operated. This distance may be increased to as much as 15 miles to accommodate high performance aircraft.
+
+The pilot may elect to use the procedure turn or hold- in- lieu- of PT when it is not required by the procedure, but must first receive an amended clearance from ATC. When ATC is radar vectoring to the final approach course, or to the intermediate fix as may occur with

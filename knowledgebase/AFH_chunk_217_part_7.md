@@ -1,0 +1,7 @@
+correct landing surface and avoid lining up with the wrong runway, an airport road, or a taxiway.
+
+The upwind leg is a course flown parallel to the landing runway in the same direction as landing traffic. The upwind leg is flown at controlled airports and after go- arounds. When necessary, the upwind leg is the part of the traffic pattern in which the pilot will transition from the final approach to the climb altitude to initiate a go- around. When a safe altitude is attained, the pilot should commence a shallow- bank turn to the upwind side of the airport. This allows better visibility of the runway for departing aircraft.
+
+The departure leg of the rectangular pattern is a straight course aligned with, and leading from, the takeoff runway. This leg begins at the point the airplane leaves the ground and continues until the pilot begins the \(90^{\circ}\) turn onto the crosswind leg.
+
+On the departure leg after takeoff, the pilot should continue climbing straight ahead and, if remaining in the traffic pattern, commence a turn to the crosswind leg beyond the departure end of the runway within 300 feet of the traffic pattern altitude. If departing the traffic pattern, the pilot should continue straight out or exit with a \(4

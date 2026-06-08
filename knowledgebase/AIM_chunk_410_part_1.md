@@ -1,0 +1,5 @@
+## 4-3-10. Intersection Takeoffs
+
+a. In order to enhance airport capacities, reduce taxiing distances, minimize departure delays, and provide for more efficient movement of air traffic, controllers may initiate intersection takeoffs as well as approve them when the pilot requests. If for ANY reason a pilot prefers to use a different intersection or the full length of the runway or desires to obtain the distance between the intersection and the runway end, THE PILOT IS EXPECTED TO INFORM ATC ACCORDINGLY.
+
+b. Pilots are expected to assess the suitability of an intersection for use at takeoff during their preflight planning. They must consider the resultant length reduction to the published runway length and to the published declared distances from the intersection intended to be used for takeoff. The minimum runway required for takeoff must fall within the reduced runway length and the reduced declared distances before the intersection can be accepted for takeoff.

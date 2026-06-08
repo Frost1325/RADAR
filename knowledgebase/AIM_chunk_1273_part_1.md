@@ -1,0 +1,5 @@
+## 7-5-8. Seaplane Safety
+
+a. Acquiring a seaplane class rating affords access to many areas not available to landplane pilots. Adding a seaplane class rating to your pilot certificate can be relatively uncomplicated and inexpensive. However, more effort is required to become a safe, efficient, competent “bush” pilot. The natural hazards of the backwoods have given way to modern man-made hazards. Except for the far north, the available bodies of water are no longer the exclusive domain of the airman. Seaplane pilots must be vigilant for hazards such as electric power lines, power, sail and rowboats, rafts, mooring lines, water skiers, swimmers, etc.
+
+b. Seaplane pilots must have a thorough understanding of the right-of-way rules as they apply to aircraft versus other vessels. Seaplane pilots are expected to know and adhere to both the U.S. Coast Guard’s (USCG) Navigation Rules, International-Inland, and 14 CFR Section 91.115, Right-of-Way Rules; Water Operations. The navigation rules of the road are a set of collision avoidance rules as they apply to aircraft on the water. A se

@@ -1,0 +1,7 @@
+safe landing is assured. In no case should it be continued to a point where it creates an undue hazard or an annoyance to persons or property on the ground.
+
+In addition to flying the airplane from the point of simulated engine failure to where it is known that a reasonable safe landing could be made (or to where it is known that the approach cannot be salvaged), a pilot should also receive instruction on certain emergency flight deck procedures. The habit of performing these procedures should be developed to such an extent that, if an engine failure actually occurs, a pilot checks the critical items that might get the engine operating again while selecting a field and planning an approach. Combining the two operations—accomplishing emergency procedures and planning and flying the approach—is difficult during the early training in emergency landings.
+
+There are steps and procedures pilots should follow in a simulated emergency landing. Although they may differ somewhat from the procedures used in an actual emergency, they should be learned thoroughly and each step called out to the instructor. The use of a checklist is strongly recommended. Most airplane manufacturers provide a checklist of the appropriate items. [Figure 9- 29]
+
+Critical items to be checked include the position of the fuel tank selector, the quantity of fuel in the tank selected, the fuel

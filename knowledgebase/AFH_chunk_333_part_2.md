@@ -1,0 +1,3 @@
+bulbs are often interchangeable. Integrated electronic displays may also indicate gear position on a portion of the screen without any dedicated lights.
+
+Other types of landing gear position indicators consist of tab- type indicators with markings "UP" to indicate the gear is up and locked, a display of red and white diagonal stripes to show when the gear is unlocked, or a silhouette of each gear to indicate when it locks in the DOWN position.

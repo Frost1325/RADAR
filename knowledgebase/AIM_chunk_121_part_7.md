@@ -1,0 +1,3 @@
+Function</td></tr><tr><td>7 times within 5 seconds</td><td>Highest intensity available</td></tr><tr><td>5 times within 5 seconds</td><td>Medium or lower intensity (Lower REIL or REIL-off)</td></tr><tr><td>3 times within 5 seconds</td><td>Lowest intensity available (Lower REIL or REIL-off)</td></tr></table>
+
+d. For all public use airports with FAA standard systems the Airport/Facility Directory contains the types of lighting, runway and the frequency that is used to activate the system. Airports with IAPs include data on the approach chart identifying the light system, the runway on which they are installed, and the frequency that is used to activate the system.

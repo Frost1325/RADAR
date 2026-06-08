@@ -1,0 +1,7 @@
+## Go-Arounds (Rejected Landings)
+
+A go- around is a normal maneuver that is used when approach and landing parameters deviate from expectations or when it is hazardous to continue. Situations such as air traffic control (ATC) requirements, unexpected appearance of hazards on the runway, overtaking another airplane, wind shear, wake turbulence, mechanical failure, or an unstable approach are all reasons to discontinue a landing approach. Like any other normal maneuver, the go- around should be practiced and perfected. The flight instructor should emphasize early on, and the pilot should understand, that any approach or landing may result in a go- around. The assumption that an aborted landing is invariably the consequence of a poor approach, which in turn is due to insufficient experience or skill, is a fallacy.
+
+Although the need to discontinue a landing may arise at any point in the landing process, the most critical go- around is one started when very close to the ground. The go- around maneuver is not inherently dangerous in itself. It becomes dangerous only when delayed unduly or executed improperly. Delay in initiating the go- around normally stems from two sources:
+
+1. Landing expectancy or set—the anticipatory belief that conditions are not as threatening as they are and that the

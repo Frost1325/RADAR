@@ -1,0 +1,5 @@
+, up to and including 2,500 feet AGL. However, if the aircraft radio fails in flight, the PIC may operate that aircraft and land if weather conditions are at or above basic VFR, weather minimums, visual contact with the tower is maintained, and a clearance to land is received
+
+If the aircraft radio fails in flight under IFR, the pilot should continue the fight by the route assigned in the last ATC clearance received; or, if being radar vectored by the direct route from the point of radio failure to the fix, route, or airway specified, in the vector clearance. In the absence of an assigned route, the pilot should continue by the routes that ATC advised may be expected in a further clearance; or, if a route had not beend advised, by the route filed in the flight plan. Additionally, beginning January 1, 2020, aircraft operating in the Class E airspace described in 14 CFR part 91, section 91.225, must have ADs- B Out equipment installed, which meets the performance requirements of 14 CFR part 91,section 91.227.
+
+## Class G

@@ -1,0 +1,3 @@
+, and uses runway requirements that depend on the aircraft type. EAL systems also utilize obstacle and a terrain databases. If the system loses GPS coverage, the airplane continues straight flight without attempting to land until GPS coverage resumes.
+
+Currently EAL system capabilities do not include detecting and avoiding other aircraft; receiving or reacting to ATC instructions or Notices to Airmen (NOTAMs); avoiding military operations areas (MOAs), special use airspace (SUA), Restricted Areas, or Temporary Flight Restrictions (TFRs); or turning on aircraft lights.

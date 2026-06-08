@@ -1,0 +1,3 @@
+wing starts to rise, aileron control should be applied toward that wing to lower it. The amount required depends on speed because as the forward speed of the airplane decreases, the ailerons become less effective.
+
+If available runway permits, the speed of the airplane should be allowed to dissipate in a normal manner by the friction and drag of the wheels on the ground. Brakes may be used if needed to help slow the airplane. After the airplane has been slowed sufficiently and has been turned onto a taxiway or clear of the landing area, it should be brought to a complete stop. Only after this is done should the pilot retract the flaps and perform other checklist items.

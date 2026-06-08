@@ -1,0 +1,3 @@
+</td></tr><tr><td>STD</td><td>Standard</td></tr><tr><td>SW</td><td>Southwest</td></tr><tr><td></td><td>T</td></tr><tr><td>TACAN</td><td>Tactical Air Navigational Aid</td></tr><tr><td>TDZ</td><td>Touchdown Zone</td></tr><tr><td>TEMPO</td><td>Temporary</td></tr><tr><td>TFC</td><td>Traffic</td></tr><tr><td>TFR</td><td>Temporary Flight Restriction</td></tr><tr><td>TGL</td><td>Touch and Go Landings</td></tr></table>
+
+<table><tr><td>THR</td><td>Threshold</td></tr><tr><td>TKOF</td><td>Takeoff</td></tr><tr><td>TODA</td><td>Take-off Distance Available</td></tr><tr><td>TORA</td><td>Take-off Run Available</td></tr><tr><td>TWR</td><td>Aerod

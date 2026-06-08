@@ -1,0 +1,3 @@
+## Energy Balance Equation
+
+According to this equation, the net transfer of mechanical energy into and out of the airplane (a function of thrust minus drag) is always equal to the change in its total mechanical energy (a function of altitude and airspeed). Note that this simplified definition does not account for long- term changes in total mechanical energy caused by the reduction in aircraft weight as fuel is gradually burned in flight.

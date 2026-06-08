@@ -1,0 +1,5 @@
+1.137(a)(3) are any of those listed above or by State, county, or city government entities.
+
+e. The type of restrictions issued will be kept to a minimum by the FAA consistent with achievement of the necessary objective. Situations which warrant the extreme restrictions of 14 CFR Section 91.137(a)(1) include, but are not limited to: toxic gas leaks or spills, flammable agents, or fumes which if fanned by rotor or propeller wash could endanger persons or property on the surface, or if entered by an aircraft could endanger persons or property in the air; imminent volcano eruptions which could endanger airborne aircraft and occupants; nuclear accident or incident; and hijackings. Situations which warrant the restrictions associated with 14 CFR Section 91.137(a)(2) include: forest fires which are being fought by releasing fire retardants from aircraft; and aircraft relief activities following a disaster (earthquake, tidal wave, flood, etc.). 14 CFR Section 91.137(a)(3) restrictions are established for events and incidents that would attract an unsafe congestion of sightseeing aircraft.
+
+f. The amount of airspace needed to protect persons and

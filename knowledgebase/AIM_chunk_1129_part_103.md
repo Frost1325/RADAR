@@ -1,0 +1,7 @@
+, a government/industry team worked to comprehensively reassess the requirements for surface observations at the nation's airports. That work resulted in agreement on a set of service standards, and the FAA and NWS ASOS sites to which the standards would apply. The term "Service Standards" refers to the level of detail in weather observation. The service standards consist of four different levels of service (A, B, C, and D) as described below. Specific observational elements included in each service level are listed in TBL 7-1-4.
+
+1. Service Level D defines the minimum acceptable level of service. It is a completely automated service in which the ASOS/AWSS observation will constitute the entire observation, i.e., no additional weather information is added by a human observer. This service is referred to as a stand alone D site.
+
+2. Service Level C is a service in which the human observer, usually an air traffic controller, augments or adds information to the automated observation. Service Level C also includes backup of ASOS/AWSS elements in the event of an ASOS/AWSS malfunction or an unrepresentative ASOS/AWSS report. In backup, the human observer
+
+inserts the correct or missing value for the automated

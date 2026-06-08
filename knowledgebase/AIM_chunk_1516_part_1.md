@@ -1,0 +1,3 @@
+## S
+
+Safety Alert, 5- 5- 3 Alerts, 3- 2- 1 Aircraft Conflict, 3- 2- 1 Mode C Intruder, 3- 2- 1 Terrain/Obstruction, 3- 2- 1 Aviation, Reporting, 7- 6- 1 Seaplane, 7- 5- 6 Safety Alert, 4- 1- 10 Aircraft Conflict Alert, 4- 1- 11 Obstruction Alert, 4- 1- 10 Terrain Alert, 4- 1- 10 SAR. See Search and Rescue SCAT- I DGPS. See Special Category I Differential GPS Scuba Diving, Decompression Sickness, 8- 1- 4

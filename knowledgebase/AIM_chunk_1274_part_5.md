@@ -1,0 +1,3 @@
+be limited to minimum practical to reduce the possibility of reduced visibility and engine ingestion of airborne ash.
+
+h. When departing from airports where volcanic ash has been deposited, it is recommended that pilots avoid operating in visible airborne ash. Allow ash to settle before initiating takeoff roll. It is also recommended that flap extension be delayed until initiating the before takeoff checklist and that a rolling takeoff be executed to avoid blowing ash back into the air.

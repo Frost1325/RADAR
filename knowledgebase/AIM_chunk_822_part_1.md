@@ -1,0 +1,7 @@
+## NOTE
+
+Many factors could prevent ATC from providing this additional service, such as workload, number of targets, precipitation, ground clutter, and radar system capability. These circumstances may make it unfeasible to maintain radar identification of aircraft to detect aircraft straying from the holding pattern. The provision of this service depends entirely upon whether controllers believe they are in a position to provide it and does not relieve a pilot of their responsibility to adhere to an accepted ATC clearance.
+
+3. If an aircraft is established in a published holding pattern at an assigned altitude above the published minimum holding altitude and subsequently cleared for the approach, the pilot may descend to the published minimum holding altitude. The holding pattern would only be a segment of the IAP if it is published on the instrument procedure chart and is used in lieu of a procedure turn.
+
+m. For those holding patterns where there are no published minimum holding altitudes, the pilot, upon receiving an approach clearance, must maintain the last assigned altitude until leaving the holding pattern and established on the inbound course. Thereafter, the published minimum altitude of the route segment being flown will apply. It is expected that the pilot will be assigned a holding altitude that will permit a normal descent on the inbound course.

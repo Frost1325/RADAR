@@ -1,0 +1,5 @@
+good rule of thumb for estimating the pivotal altitude is to square the groundspeed, then divide by 15 (if the groundspeed is in miles per hour) or divide by 11.3 (if the groundspeed is in knots), and then add the mean sea level (MSL) altitude of the ground reference. The pivotal altitude is the altitude at which, for a given groundspeed, the projection of the visual reference line to the pylon appears to pivot. Visually, a taut string, if extended from the pilot's eyes to the pylon, would remain parallel to lateral axis as the airplane makes a turn around the pylon. [Figure 7- 12] The pivotal altitude does not vary with the angle of bank unless the bank is steep enough to affect the groundspeed.
+
+Figure 7-12. Speed versus pivotal altitude.
+
+<table><tr><td colspan="2">Groundspeed</td><td rowspan="2">Approximate Pivotal Altitude</td></tr><tr><td>Knots</td><td>MPH</td></tr><tr><td>87</td><td>100</td><td>670</td></tr><

@@ -1,0 +1,5 @@
+## Airspeed
+
+During the arrival, expect to make adjustments in speed at the controller's request. When pilots fly a high- performance aircraft on an IFR flight plan, ATC may ask them to adjust their airspeed to achieve proper traffic sequencing and separation. This also reduces the amount of radar vectoring required in the terminal area. When operating a reciprocating engine or turboprop airplane within 20 NM from the destination airport, 150 knots is usually the slowest airspeed that is assigned. If the aircraft cannot maintain the assigned airspeed, the pilot must advise ATC. Controllers may ask pilots to maintain the same speed as the aircraft ahead of or behind them on the approach. Pilots are expected to maintain the specified airspeed \(\pm 10\) knots. At other times, ATC may ask pilots to increase or decrease airspeed by 10 knots, or multiples thereof. When the speed adjustment is no longer needed, ATC advises the pilot to "... resume normal speed."
+
+Keep in mind that the maximum speeds specified in 14 CFR Part 91, § 91.117 still apply during speed adjustments. It is the pilot's responsibility to advise ATC if an assigned speed

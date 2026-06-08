@@ -1,0 +1,7 @@
+visually evaluating pitch and bank attitude comes from a continuous stream of attitude information. When the pilot perceives that the attitude is other than desired, the pilot should make precise, smooth, and accurate flight control corrections to return the airplane to the desired attitude. Continuous visual checks of the outside references and immediate corrections made by the pilot minimize the chance for the airplane to deviate from the desired heading, altitude, and flightpath.
+
+- The airplane's attitude is validated by referring to flight instruments and confirming performance. If the flight instruments display that the airplane's performance is in need of correction, the required correction needs to be determined and then precisely, smoothly, and accurately applied with reference to the natural horizon. The airplane's attitude and performance are then rechecked by referring to flight instruments. The pilot then maintains the corrected attitude by reference to the natural horizon.
+
+- The pilot should monitor the airplane's performance by briefly checking the flight instruments. No more than about 10 percent of the pilot's attention should be inside the flight deck. The pilot should develop the skill to quickly analyze the appropriate flight instruments and then immediately return to the visual outside references to control the airplane's attitude.
+
+The pilot should become familiar with the relationship between outside visual references to the natural horizon and the corresponding flight

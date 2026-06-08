@@ -1,0 +1,5 @@
+## Fuel and Oil
+
+While there are various formulations of aviation gasoline (AVGAS), only three grades are conventional: 80/87, 100LL, and 100/130. 100LL is the most widely available in the United States. AVGAS is dyed with a faint color for grade identification: 80/87 is dyed red; 100LL is dyed blue; and 100/130 is dyed green. All AVGAS grades have a familiar gasoline scent and texture. 100LL with its blue dye is sometimes difficult to identify unless a fuel sample is held up against a white background in reasonable white lighting.
+
+Aircraft piston engines certificated for grade 80/87 run satisfactorily on 100LL if approved as an alternate. The reverse is not true. Fuel of a lower grade should never be substituted for a required higher grade. Detonation will severely damage the engine in a very short period of time. Detonation, as the name suggests, is an explosion of the fuel- air mixture inside the cylinder. During detonation, the fuel/air charge (or pockets within the

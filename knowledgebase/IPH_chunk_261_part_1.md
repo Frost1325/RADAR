@@ -1,0 +1,3 @@
+## Missed Approach Segment
+
+The missed approach segment begins at the MAP and ends at a point or fix where an initial or en route segment begins. The actual location of the MAP depends upon the type of approach you are flying. For example, during a precision or an APV approach, the MAP occurs at the DA or DH on the glideslope/glidepath. For non- precision approaches, the MAP is either a fix, NAVAID, or after a specified period of time has elapsed after crossing the FAF.

@@ -1,0 +1,5 @@
+H specify longer cool down routines). The smell of burning insulation from a starter may indicate that the recommended cranking time has been exceeded. After repeated unsuccessful start attempts, the pilot should seek advice from a qualified person to determine the cause for the difficulty.
+
+Although quite rare, the starter motor may remain electrically and mechanically engaged after engine start. This can be detected by a continuous and very high current draw on the ammeter. Some airplanes also have a starter engaged warning light specifically for this purpose. The engine should be shut down immediately if this occurs.
+
+The pilot should be attentive for sounds, vibrations, smells, or smoke that are not consistent with normal after- start operational experience. Any concerns should lead to a shutdown and further investigation.

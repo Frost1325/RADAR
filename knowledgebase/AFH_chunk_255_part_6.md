@@ -1,0 +1,5 @@
+of a mechanical problem or misjudgment. Selecting a point farther down the runway establishes an increased safety margin.
+
+The basic procedure in these approaches involves closing the throttle at a given altitude and gliding to a key position. Starting with the same energy (airspeed and height) each time the throttle is closed, makes the maneuver more predictable. The key position, like the pattern itself, is not the primary objective; it is merely a convenient point in the air from which the pilot can judge what to do such that the landing occurs at or just beyond the desired point. The selected key position should be one that is appropriate for the available altitude and the wind condition. From the key position, the pilot should constantly evaluate the situation.
+
+It should be emphasized that, although accurate spot touchdowns are important, safe and properly executed approaches and landings are vital. A pilot should never sacrifice a good approach or landing just to land on the desired spot.

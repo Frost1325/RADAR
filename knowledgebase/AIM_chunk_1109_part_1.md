@@ -1,0 +1,7 @@
+## 7-1-11. Flight Information Services (FIS)
+
+a. FIS. FIS is a method of disseminating meteorological (MET) and aeronautical information (AI) to displays in the cockpit in order to enhance pilot situational awareness, provide decision support tools, and improve safety. FIS augments traditional pilot voice communication with Flight Service Stations (FSSs), ATC facilities, or Airline Operations Control Centers (AOCCs). FIS is not intended to replace traditional pilot and controller/flight service specialist/aircraft dispatcher preflight briefings or inflight voice communications. FIS, however, can provide textual and graphical information that can help abbreviate and improve the usefulness of such communications. FIS enhances pilot situational awareness and improves safety.
+
+1. Data link Service Providers (DLSP) - DLSP deploy and maintain airborne, ground-based, and, in some cases, space-based infrastructure that supports the transmission of AI/MET information over one or more physical links. DLSP may provide a free of charge or for-fee service that permits end users to uplink and downlink AI/MET and other information. The following are examples of DLSP:
+
+(a) FAA FIS-B. A ground

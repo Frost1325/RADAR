@@ -1,0 +1,5 @@
+ types of safety subjects successfully reduced accidents. Its success led to its demise because the easy- to- fix accident causes have been addressed. To take aviation safety one step further, Flight Standards Service created the FAASTeam, which is devoted to reducing aircraft accidents by using a coordinated effort to focus resources on elusive accident causes.
+
+Each of the FAA's nine regions has a Regional FAASTeam Office dedicated to this new safety program and managed by the Regional FAASTeam Manager (RFM). The FAASTeam is "teaming" up with individuals and the aviation industry to create a unified effort against accidents and tip the safety culture in the right direction. To learn more about this effort to improve aviation safety, to take a course at their online learning center, or to join the FAASTeam, visit their website at www.faasafety.gov.
+
+## Obtaining Assistance from the FAA

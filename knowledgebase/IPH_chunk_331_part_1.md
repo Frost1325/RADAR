@@ -1,0 +1,7 @@
+## Naming Conventions
+
+Obvious differences exist between the names of procedures shown on charts and those that appear on the displays of many RNAV systems. Most of these differences can be accounted for simply by the way the avionics manufacturers elect to display the information to the pilot. It is the avionics manufacturer that creates the interface between the pilot and the database. For example, the VOR 12R approach in San Jose, California, might be displayed several different ways depending on how the manufacturer designs the pilot interface. Some systems display procedure names exactly as they are charted, but many do not.
+
+The naming of multiple approaches of the same type to the same runway is also changing. Multiple approaches with the same guidance will be annotated with an alphabetical suffix beginning at the end of the alphabet and working backwards for subsequent procedures (e.g., ILS Z RWY 28, ILS Y RWY 28, etc.). The existing annotations, such as ILS 2 RWY 28 or Silver ILS RWY 28, will be phased out and replaced with the new designation.
+
+NAVAIDs are also subject to naming discrepancies as well. This problem is complicated by the fact that multiple NAVAIDs can be designated

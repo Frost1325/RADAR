@@ -1,0 +1,5 @@
+ to disorientation. During flight in visual meteorological conditions (VMC), the eyes are the major orientation source and usually prevail over false sensations from other sensory systems. When these visual cues are removed, as they are in instrument meteorological conditions (IMC), false sensations can cause a pilot to quickly become disoriented.
+
+The vestibular system in the inner ear allows the pilot to sense movement and determine orientation in the surrounding environment. In both the left and right inner ear, three semicircular canals are positioned at approximate right angles to each other. [Figure 17- 3] Each canal is filled with fluid and has a section full of fine hairs. Acceleration of the inner
+
+ear in any direction causes the tiny hairs to deflect, which in turn stimulates nerve impulses, sending messages to the brain. The vestibular nerve transmits the impulses from the utricle, saccule, and semicircular canals to the brain to interpret motion.

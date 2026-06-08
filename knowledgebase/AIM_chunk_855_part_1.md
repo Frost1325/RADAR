@@ -1,0 +1,5 @@
+## NOTE-
+
+GPS receivers approved for approach operations in accordance with: AC 20- 138, Airworthiness Approval of Positioning and Navigation Systems, qualify for this minima. WAAS navigation equipment must be approved in accordance with the requirements specified in TSO- C145(r) or TSO- C146() and installed in accordance with Advisory Circular AC 20- 138.
+
+2. Other systems may be authorized to utilize these approaches. See the description in Section A of the U.S. Terminal Procedures books for details. Operational approval must also be obtained for Baro-VNAV systems to operate to the LNAV/VNAV minimums. Baro-VNAV may not be authorized on some approaches due to other factors, such as no local altimeter source being available. Baro-VNAV is not authorized on LPV procedures. Pilots are directed to their local Flight Standards District Office (FSDO) for additional information.

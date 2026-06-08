@@ -1,0 +1,3 @@
+can continue to turn away from the downwind, fly a safe distance away, and return for another attempt to join on the \(45^{\circ}\) entry—all while scanning for traffic.
+
+Before joining the downwind leg, adjust course or speed to fit the traffic. Once fitting into the flow of traffic, adjust power on the downwind leg to avoid flying too fast or too slow. Speeds recommended by the airplane manufacturer should be used. They will generally fall between 70 to 90 knots for typical piston single- engine airplanes.

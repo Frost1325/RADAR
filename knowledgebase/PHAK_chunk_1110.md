@@ -1,0 +1,5 @@
+. Pressure, temperature, and humidity have a great influence on aircraft performance because of their effect upon density. There is no rule- of- thumb or chart used to compute the effects of humidity on density altitude, but it must be taken into consideration. Expect a decrease in overall performance in high humidity conditions.
+
+## Performance
+
+Performance is a term used to describe the ability of an aircraft to accomplish certain things that make it useful for certain purposes. For example, the ability of an aircraft to land and take off in a very short distance is an important factor to the pilot who operates in and out of short, unimproved airfields. The ability to carry heavy loads, fly at high altitudes at fast speeds, and/or travel long distances is essential for the performance of airline and executive type aircraft.

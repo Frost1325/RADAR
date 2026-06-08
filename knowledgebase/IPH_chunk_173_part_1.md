@@ -1,0 +1,5 @@
+## Vertical Navigation (VNAV) Planning
+
+Vertical navigation (VNAV) is the vertical component of the flight plan. This approach path is computed from the top- of- descent (TOD) point down to the end- of- descent waypoint (E/D), which is generally the runway or missed approach point, which is slightly different than to the approach gate for non- flight management system (FMS) equipped aircraft. [Figure 3- 2] The VNAV path is computed based upon the aircraft performance, approach constraints, weather data (winds, temperature, icing conditions, etc.) and aircraft weight.
+
+The two types of VNAV paths that the FMS use is either a performance path or a geometric path. The performance path is computed using at idle or near idle power from the TOD to the first constrained waypoint. [Figure 3- 3] The geometric path is computed from point to point between two constrained waypoints or when on an assigned vertical angle. The geometric path is shallower than the performance path and is typically a non- idle path. [Figure 3- 4]

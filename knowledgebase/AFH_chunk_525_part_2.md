@@ -1,0 +1,5 @@
+increase in airflow is feeding the fire.
+
+On pressurized airplanes, the pressurization air system removes smoke from the cabin; however, if the smoke is intense, it may be necessary to either depressurize at altitude, if oxygen is available for all occupants, or execute an emergency descent.
+
+In unpressurized single- engine and light twin- engine airplanes, the pilot can attempt to expel the smoke from the cabin by opening the foul weather windows. These windows should be closed immediately if the fire becomes more intense. If the smoke is severe, the passengers and crew should use oxygen masks if available, and the pilot should initiate an immediate descent. The pilot should also be aware that on some airplanes, lowering the landing gear and/or wing flaps can aggravate a cabin smoke problem.

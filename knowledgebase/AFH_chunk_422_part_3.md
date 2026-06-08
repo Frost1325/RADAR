@@ -1,0 +1,3 @@
+the burner section provide sufficient power to maintain engine operation through the turbine, the starter is de- energized, and the starting sequence ends. Combustion continues until the engine is shut down by cutting off the fuel supply.
+
+Note: Because compression produces heat and pressure, some pneumatic aircraft systems tap into the source of hot compressed air from the engine compressor (bleed air) and use it for engine anti- ice, airfoil anti- ice, aircraft pressurization, and other ancillary systems after further conditioning its internal pressure and temperature.

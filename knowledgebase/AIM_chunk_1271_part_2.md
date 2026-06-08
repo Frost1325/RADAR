@@ -1,0 +1,7 @@
+liftoff airspeed.
+
+b. This "rule of thumb" is based on a uniform surface condition. Puddles, soft spots, areas of tall and/or wet grass, loose gravel, etc., may impede acceleration or even cause deceleration. Even if the airplane achieves 70 percent of liftoff airspeed by the midpoint, the condition of the remainder of the runway may not allow further acceleration. The entire length of the runway should be inspected prior to takeoff to ensure a usable surface.
+
+c. This "rule of thumb" applies only to runway required for actual liftoff. In the event that obstacles affect the takeoff climb path, appropriate distance must be available after liftoff to accelerate to best angle of climb speed and to clear the obstacles. This will, in effect, require the airplane to accelerate to a higher speed by midpoint, particularly if the obstacles are close to the end of the runway. In addition, this technique does not take into account the effects of upslope or tailwinds on takeoff performance. These factors will also require greater acceleration than normal and, under some circumstances, prevent takeoff entirely.
+
+d. Use of this "rule of thumb" does not alleviate the pilot's responsibility to comply with

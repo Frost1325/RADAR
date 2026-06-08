@@ -1,0 +1,7 @@
+## a.General
+
+1. Pilots should be aware that proper application of transponder operating procedures will provide both VFR and IFR aircraft with a higher degree of safety in the environment where high-speed closure rates are possible. Transponders substantially increase the capability of radar to see an aircraft and the Mode C feature enables the controller to quickly determine where potential traffic conflicts may exist. Even VFR pilots who are not in contact with ATC will be afforded greater protection from IFR aircraft and VFR aircraft which are receiving traffic advisories. Nevertheless, pilots should never relax their visual scanning vigilance for other aircraft.
+
+2. Air Traffic Control Radar Beacon System (ATCRBS) is similar to and compatible with military coded radar beacon equipment. Civil Mode A is identical to military Mode 3.
+
+3. Civil and military transponders should be turned to the "on" or normal altitude reporting position prior to moving on the airport surface to ensure the aircraft is visible to ATC surveillance systems. IN ALL CASES, WHILE IN CONTROLLED AIRSPACE EACH PILOT OPERATING AN AIRCRAFT EQUIPPED WITH AN OPERABLE ATC TRANSPONDER MAINTAINED IN ACCORDANCE WITH 14 CFR SECTION 91.413 MUST OPER

@@ -1,0 +1,7 @@
+ 14 CFR part 91, the primary responsibility for maintaining an aircraft in an airworthy condition falls on the owner or operator of the aircraft. Certain inspections must be performed on the aircraft, and the owner must maintain the airworthiness of the aircraft during the time between required inspections by having any defects corrected.
+
+Under 14 CFR, part 91, subpart E, all civil aircraft are required to be inspected at specific intervals to determine the overall condition. The interval depends upon the type of operations in which the aircraft is engaged. All aircraft need to be inspected at least once every 12 calendar months, while inspection is required for others after every 100 hours of operation. Some aircraft are inspected in accordance with an inspection system set up to provide for total inspection of the aircraft on the basis of calendar time, time in service, number of system operations, or any combination of these.
+
+All inspections should follow the current manufacturer's maintenance manual, including the Instructions for Continued Airworthiness concerning inspection intervals, parts replacement, and life- limited items as applicable to the aircraft.
+
+## Annual Inspection

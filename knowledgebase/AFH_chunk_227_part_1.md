@@ -1,0 +1,5 @@
+## Wrong Surface Landing Avoidance
+
+A wrong surface landing occurs when an aircraft lands or tries to land on the wrong runway, on a taxiway in error, or at the wrong airport. The pilot should take a moment on every final approach to verify the correctness of the landing zone ahead.
+
+Lack of familiarity with a particular airport, complacency, or fatigue may lead to pilot confusion, and occasionally a pilot will line up with the wrong surface while perceiving the situation as normal. A pilot may compensate for any lack of destination airport familiarity by studying an airport diagram and lighting ahead of time and noting key features and geometry. On final approach, the pilot should verify correct runway alignment and runway number. Pilots often refer to moving map displays driven by GPS, and these devices should increase situational awareness and safety. If there is a doubt over the landing surface, the pilot should go around and consider the situation further.

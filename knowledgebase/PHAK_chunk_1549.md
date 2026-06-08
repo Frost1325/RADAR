@@ -1,0 +1,7 @@
+ because they can better integrate VFR and IFR traffic. Give yourself some room- GPS is usually more precise than ATC radar. Using your GPS to fly up to and along the line of the airspace you are trying to avoid could result in a pilot deviation because ATC radar may show you within the restricted airspace.
+
+Ground deviations (also called surface deviations) include taxiing, taking off, or landing without clearance, deviating from an assigned taxi route, or failing to hold short of an assigned clearance limit. To prevent ground deviations, stay alert during ground operations. Pilot deviations can and frequently do occur on the ground. Many strategies and tactics pilots use to avoid airborne deviations also work on the ground.
+
+Pilots should also remain vigilant about vehicle/pedestrian deviations (V/PDs). A vehicle or pedestrian deviation includes pedestrians, vehicles or other objects interfering with aircraft operations by entering or moving on the runway movement area without authorization from air traffic control. In serious instances, any ground deviation (PD or VPD) can result in a runway incursion. Best practices in preventing ground deviations can be found in the following section under runway incursion avoidance.
+
+## Runway Incursion Avoidance

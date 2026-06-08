@@ -1,0 +1,5 @@
+and then a climbing right turn direct to a fix. When this is entered into the database, a heading to an altitude (VA) value must be entered into the record's path and terminator
+
+field for the first leg of the departure route. This path and terminator tells the avionics to provide course guidance based on heading, until the aircraft reaches 6,000 feet, and then the system begins providing course guidance for the next leg. After reaching 6,000 feet, the procedure calls for a right turn direct to the Grand Junction (JNC) VORTAC. This leg is coded into the database using the path and terminator direct to a fix (DF) value, which defines an unspecified track starting from an undefined position to a specific database fix.
+
+Another commonly used path and terminator value is heading to a radial (VR) which is shown in Figure 6- 27 using the CHANNEL ONE DEPARTURE procedure for Santa Ana, California. The first leg of the runway 19L/R procedure requires a climb on runway heading until crossing the I- SNA 1 DME fix or the SLI R- 118, this leg must be coded into the database using the VR value in the Path

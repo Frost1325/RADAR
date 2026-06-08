@@ -1,0 +1,3 @@
+## Introduction
+
+The en route phase of flight is defined as that segment of flight from the termination point of a departure procedure to the origination point of an arrival procedure. The procedures employed in the en route phase of flight are governed by a set of specific flight standards established by 14 CFR [Figure 2- 1], FAA Order 8260.3, and related publications. These standards establish courses to be flown, obstacle clearance criteria, minimum altitudes, navigation performance, and communications requirements.

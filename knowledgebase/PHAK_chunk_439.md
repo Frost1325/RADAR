@@ -1,0 +1,5 @@
+ down load on the tail. On the other hand, a very "low thrust line" would tend to add to the nose- up effect of the horizontal tail surface. Conclusion: with CG forward of the CL and with an aerodynamic tail- down force, the aircraft usually tries to return to a safe flying attitude.
+
+The following is a simple demonstration of longitudinal stability. Trim the aircraft for "hands off" control in level flight. Then, momentarily give the controls a slight push to nose the aircraft down. If, within a brief period, the nose rises towards the original position, the aircraft is statically stable. Ordinarily, the nose passes the original position (that of level flight) and a series of slow pitching oscillations follows. If the oscillations gradually cease, the aircraft has positive stability; if they continue unevenly, the aircraft has neutral stability; if they increase, the aircraft is unstable.
+
+## Lateral Stability (Rolling)

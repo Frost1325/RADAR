@@ -1,0 +1,7 @@
+.
+
+In comparison with conventional- tail aircraft, the elevator on a T- tail aircraft must be moved a greater distance to raise the nose a given amount when traveling at slow speeds. This is because the conventional- tail aircraft has the downwash from the propeller pushing down on the tail to assist in raising the nose.
+
+Aircraft controls are rigged so that an increase in control force is required to increase control travel. The forces required to raise the nose of a T- tail aircraft are greater than the forces required to raise the nose of a conventional- tail aircraft. Longitudinal stability of a trimmed aircraft is the same for both types of configuration, but the pilot must be aware that the required control forces are greater at slow speeds during takeoffs, landings, or stalls than for similar size aircraft equipped with conventional tails.
+
+T- tail aircraft also require additional design considerations to counter the problem of flutter. Since the weight of the horizontal surfaces is at the top of the vertical stabilizer, the moment arm created causes high loads on the vertical stabilizer that can result in flutter. Engineers must compensate for this by increasing the design stiffness of the vertical stabilizer, usually resulting in a weight penalty over conventional tail designs.

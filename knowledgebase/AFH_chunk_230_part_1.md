@@ -1,0 +1,7 @@
+## Round Out (Flare)
+
+The round out is a slow, smooth transition from a normal approach attitude to a landing attitude, gradually rounding out the flightpath to one that is parallel to and a few inches above the runway. When the airplane approaches 10 to 20 feet above the ground in a normal descent, the round out or flare is started. Back- elevator pressure is gradually applied to slowly increase the pitch attitude and AOA. [Figure 9- 10] The AOA is increased at a rate that allows the airplane to continue settling slowly as forward speed decreases. This is a continuous process until the airplane touches down on the ground.
+
+When the AOA is increased, the lift is momentarily increased and this decreases the rate of descent. Since power normally is reduced to idle during the round out, the airspeed also gradually decreases. This causes lift to decrease again and necessitates raising the nose and further increasing the AOA. During the round out, the airspeed is decreased to touchdown speed while the lift is controlled so the airplane settles gently onto the landing surface. The round out is executed at a rate such that the proper landing attitude and the proper touchdown airspeed are attained simultaneously just as the wheels contact the landing surface.
+
+The

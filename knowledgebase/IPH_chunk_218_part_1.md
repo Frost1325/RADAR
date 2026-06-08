@@ -1,0 +1,7 @@
+## Lack of Approach Control Terrain Advisories
+
+Flight crews must understand that terrain clearance cannot be assured by ATC when aircraft are operating at altitudes that are not served by Center or approach radar. Recent National Transportation Safety Board (NTSB) investigations have identified several accidents that involved controlled flight into terrain (CFIT) by IFR rated and VFR pilots operating under visual flight conditions at night in remote areas. In many of these cases, the pilots were in contact with ATC at the time of the accident and receiving radar service. The pilots and controllers involved all appear to have been unaware that the aircraft were in danger. Increased altitude awareness and better preflight planning would likely have prevented all of these accidents. How can pilots avoid becoming involved in a CFIT accident?
+
+CFIT accidents are best avoided through proper preflight planning.
+
+Terrain familiarization is critical to safe visual operations at night. Use sectional charts or other topographic references to ensure that your altitude safely clears terrain and obstructions all along your route. In remote areas, especially in overcast or moonless conditions, be aware that darkness may render visual avoidance of high terrain nearly impossible and that the absence of ground lights may result in loss of horizon reference. When planning a nighttime VFR flight, follow IFR

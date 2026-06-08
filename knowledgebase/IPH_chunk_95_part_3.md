@@ -1,0 +1,5 @@
+after the NRR portion of their routing, an appropriate arrival procedure or other user preferred routing to their destination.
+
+Additionally, information concerning the location and schedule of special use airspace (SUA) and Air Traffic Control Assigned Airspace (ATCAA) can be found at http://sua.faa.gov. ATCAA refers to airspace in the high altitude structure supporting military and other special operations. Pilots are encouraged to file around these areas when they are scheduled to be active, thereby avoiding unplanned reroutes around them.
+
+In conjunction with the HAR program, area navigation (RNAV) routes have been established to provide for a systematic flow of air traffic in specific portions of the en route flight environment. The designator for these RNAV routes begin with the letter Q, for example, Q- 501. Where those routes aid in the efficient orderly management of air traffic, they are published as preferred IFR routes.

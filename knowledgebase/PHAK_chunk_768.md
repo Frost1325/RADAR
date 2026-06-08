@@ -1,0 +1,5 @@
+- air ratio is exceeded in the combustion chamber, the flame will blow out. This condition is often referred to as a rich flameout. It generally results from very fast engine acceleration where an overly rich mixture causes the fuel temperature to drop below the combustion temperature. It may also be caused by insufficient airflow to support combustion.
+
+A more common flameout occurrence is due to low fuel pressure and low engine speeds, which typically are associated with high- altitude flight. This situation may also occur with the engine throttled back during a descent, which can set up the lean- condition flameout. A weak mixture can easily cause the flame to die out, even with a normal airflow through the engine.
+
+Any interruption of the fuel supply can result in a flameout. This may be due to prolonged unusual attitudes, a malfunctioning fuel control system, turbulence, icing, or running out of fuel.

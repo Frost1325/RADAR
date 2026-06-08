@@ -1,0 +1,5 @@
+ violation would occur when operating with a CG that exceeds the rear limit. In this situation, a pilot may not be able to generate sufficient force with the elevator to counteract the excess weight aft of the CG. Without the ability to decrease the AOA, the aircraft continues in a stalled condition until it contacts the ground.
+
+The stalling speed of a particular aircraft is not a fixed value for all flight situations, but a given aircraft always stalls at the same AOA regardless of airspeed, weight, load factor, or density altitude. Each aircraft has a particular AOA where the airflow separates from the upper surface of the wing and the stall occurs. This critical AOA varies from approximately \(16^{\circ}\) to \(20^{\circ}\) depending on the aircraft's design. But each aircraft has only one specific AOA where the stall occurs.
+
+There are three flight situations in which the critical AOA is most frequently exceeded: low speed, high speed, and turning.

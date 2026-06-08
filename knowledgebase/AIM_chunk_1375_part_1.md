@@ -1,0 +1,3 @@
+### h. Gas Venting Helideck/Heliport Operational Hazard Warning(s)/Procedures - Operations Near Gas Vent Booms
+
+1. Background. Ignited flare booms can release a large volume of natural gas and create a hot fire and intense heat with little time for the pilot to react. Likewise, unignited gas vents can release reasonably large volumes of methane gas under certain conditions. Thus, operations conducted very near unignited gas vents require precautions to prevent inadvertent ingestion of combustible gases by the helicopter engine(s). The following practices are recommended.

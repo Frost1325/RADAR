@@ -1,0 +1,7 @@
+V_{Y}\) , performance data may not be available in the RFM to predict compliance with climb gradient requirements. Pilots may use observed performance in similar weight/altitude/temperature/speed conditions to evaluate the suitability of performance. Pilots are cautioned to monitor climb performance to ensure compliance with procedure requirements.
+
+4. TBL 10-1-1 summarizes these requirements.
+
+5. Even with weather conditions reported at or above landing minima, some combinations of reduced cockpit cutoff angle, minimal approach/runway lighting, and high MDA/DH coupled with a low visibility minima, the pilot may not be able to identify the required visual reference(s) during the approach, or those references may only be visible in a very small portion of the pilot's available field of view. Even if identified by the pilot, these visual references may not support normal maneuvering and normal rates of descent to landing. The effect of such a combination may be exacerbated by other conditions such as rain on the windshield, or incomplete windshield defogging coverage.
+
+6. Pilots are cautioned to be prepared to execute a missed approach even though weather conditions may be reported at or above landing minima.

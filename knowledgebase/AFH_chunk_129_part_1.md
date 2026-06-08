@@ -1,0 +1,5 @@
+## Recovery
+
+Last but not least, the academics portion lays the foundation for development of UPRT skills by instilling the knowledge, procedures, and techniques required to accomplish a safe recovery. The airplane and FSTD- based training elements presented below serve to translate the academic material into structured practice. This can start with classroom visualization of recovery procedures and continue with repetitive skill practiced in an airplane, and then potentially further developed in the simulated environment.
+
+In the event looking outside does not provide enough situational awareness of the airplane attitude, a pilot can use the flight instruments to recognize and recover from an upset. To recover from nose- high and nose- low attitudes, the pilot should follow the procedures recommended in the AFM/POI. In general, upset recovery procedures are summarized in Figure 5- 3.

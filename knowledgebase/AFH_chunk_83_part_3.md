@@ -1,0 +1,5 @@
+energy regardless of their location on the line (e.g., A and B).
+
+Thus, even though the airplane in point A is cruising at 100 knots and 6,000 feet, it has the same total specific energy expressed in height (6,500 feet) when cruising at 240 knots and 4,000 feet (B). This also means that the airplane in either position, A or B, would be able to "zoom" to the same maximum altitude of 6,500 feet by trading all its speed for altitude. The lines of constant energy height can be used as idealized trajectories to depict an airplane moving from one energy state to another solely through energy exchange (e.g., A to B). If the airplane rapidly exchanges altitude and airspeed, it would follow along the energy height line while, in the short term, maintaining constant total energy.
+
+In addition to showing energy height lines, the energy map can also depict available specific excess power ( \(P_{S}\) ) contours, as well as energy trajectories of an airplane moving from one energy state to another. [Figure 4- 7] The airplane can move along energy height lines by simply exchanging energy (e.g

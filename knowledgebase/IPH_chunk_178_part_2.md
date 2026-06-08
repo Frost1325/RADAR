@@ -1,0 +1,7 @@
+do not make it down to the pavement. This is primarily because STARs serve multiple runways and sometimes multiple airports.
+
+STARs greatly help to facilitate the transition between the en route and approach phases of flight. The STAR will end at a fix or NAVAID, designated by ATC, which allows for radar vectors and/or to connect to an instrument approach procedure. The objective when connecting a STAR to an instrument approach procedure is to ensure a seamless lateral and vertical transition. The STAR and approach procedure should connect to one another in such a way as to maintain the overall descent and deceleration profiles. This often results in a seamless transition between the en route, arrival, and approach phases of flight, and serves as a preferred route into high volume terminal areas. [Figure 3- 10]
+
+STARs provide a transition from the en route structure to an approach gate, outer fix, instrument approach fix, or arrival waypoint in the terminal area, and they usually terminate with an instrument or visual approach procedure. STARs are included at the front of each Terminal Procedures Publication (TPP) regional booklet.
+
+For STARs based on conventional NAVAIDs, the procedure design and obstacle clearance criteria are essentially the same as that for en route criteria, covered in Chapter

@@ -1,0 +1,3 @@
+## Energy Distribution Error
+
+An energy error where the total mechanical energy is correct, but the distribution between potential (altitude) and kinetic energy (airspeed) is not correct relative to the intended altitude- speed profile. When this error occurs, the pilot will observe that altitud and airspeed deviate in opposite directions (e.g., higher and slower than desired; or lower and faster than desired). An example would be an airplane on final approach that is above the desired glide slope.

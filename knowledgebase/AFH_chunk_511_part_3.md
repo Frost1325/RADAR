@@ -1,0 +1,7 @@
+used up" in the principal slowing- down process.
+
+The overall severity of a deceleration process is governed by speed (groundspeed) and stopping distance. The most critical of these is speed; doubling the groundspeed means quadrupling the total destructive energy and vice versa. Even a small change in groundspeed at touchdown—be it as a result of wind or pilot technique—affects the outcome of a controlled crash. It is important that the actual touchdown during an emergency landing be made at the lowest possible controllable airspeed, using all available aerodynamic devices.
+
+Most pilots instinctively—and correctly—look for the largest available flat and open field for an emergency landing. Actually, very little stopping distance is required if the speed can be dissipated uniformly; that is, if the deceleration forces can be spread evenly over the available distance. This concept is designed into the arresting gear of aircraft carriers that provides a nearly constant stopping force from the moment of hookup.
+
+The typical light airplane is designed to provide protection in crash landings that expose the occupants to nine times the acceleration of gravity (9G) in a forward direction. Assuming a uniform 9G deceleration, at 50 mph the required stopping distance is about 9.4 feet.

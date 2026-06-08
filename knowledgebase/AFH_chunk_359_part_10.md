@@ -1,0 +1,5 @@
+the gear down to land on sufficient runway or overrun is a much better option than landing with the gear retracted. A general recommendation is to raise the landing gear not later than \(\mathrm{V}_{\mathrm{YSE}}\) airspeed, and once the gear is up, consider it a GO commitment if climb performance is available. Some AFM/POHs direct the pilot to apply the wheel brakes momentarily after lift- off to stop wheel rotation prior to landing gear retraction. If flaps were extended for takeoff, they should be retracted as recommended in the AFM/POH.
+
+Once a safe, single- engine maneuvering altitude has been reached, typically a minimum of 400–500 feet AGL, the transition to an en route climb speed should be made. This speed is higher than \(\mathrm{V}_{\mathrm{Y}}\) and is usually maintained to cruising altitude. En route climb speed gives better visibility, increased engine cooling, and a higher groundspeed. Takeoff power can be reduced, if desired, as the transition to en route climb speed is made.
+
+Some airplanes have a climb power setting published in the AFM/POH as a recommendation (or sometimes as a limitation

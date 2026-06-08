@@ -1,0 +1,7 @@
+0^{\circ}\) power- off approaches, the airplane is flown on a downwind heading parallel to the landing runway. The altitude from which this type of approach is started varies with the type of airplane, but should usually not exceed 1,000 feet above the ground, except with large airplanes. Greater accuracy in judgment and maneuvering is required at higher altitudes.
+
+When abreast of or opposite the desired landing spot, the throttle is closed and altitude maintained while decelerating to the manufacturer's recommended glide speed or \(1.4 \mathrm{V_{SO}}\) . The point at which the throttle is closed is the downwind key position.
+
+The turn from the downwind leg to the base leg is a uniform turn with a medium or slightly steeper bank. The degree of bank and amount of this initial turn depend upon the glide angle of the airplane and the velocity and direction of the wind. Again, the base leg is positioned as needed for the altitude or wind condition. Position the base leg to conserve or dissipate altitude so as to reach the desired landing spot.
+
+The turn onto the base leg is made at an altitude high enough and close enough to permit the airplane to glide to what would normally be the base key position in

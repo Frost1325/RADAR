@@ -1,0 +1,7 @@
+ Lift from the wing that is greater than the force of gravity, directed opposite to the direction of gravity, enables an aircraft to fly. Generating this force called lift is based on some important principles, Newton's basic laws of motion, and Bernoulli's principle of differential pressure.
+
+## Newton's Basic Laws of Motion
+
+The formulation of lift has historically been an adaptation over the past few centuries of basic physical laws. These laws, although seemingly applicable to all aspects of lift, do not explain how lift is formulated. In fact, one must consider the many airfoils that are symmetrical, yet produce significant lift.
+
+The fundamental physical laws governing the forces acting upon an aircraft in flight were adopted from postulated theories developed before any human successfully flew an aircraft. The use of these physical laws grew out of the Scientific Revolution, which began in Europe in the 1600s. Driven by the belief the universe operated in a predictable manner open to human understanding, many philosophers, mathematicians, natural scientists, and inventors spent their lives unlocking the secrets of the universe. One of the most well- known was Sir Isaac Newton, who not only formulated the law of universal gravitation, but also described the three basic laws of motion.

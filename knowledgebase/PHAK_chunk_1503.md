@@ -1,0 +1,3 @@
+ during routine traffic situations on the airport surface, leaving little time for corrective action. The Runway Status Lights (RWSL) System is designed to provide a direct indication to you that it is unsafe to enter a runway, cross a runway, or takeoff from or land on a runway when the system is activated.
+
+Runway status lights are red in color and indicate runway status only; they do not indicate clearance to enter a runway or clearance to takeoff. The RWSL system provides warning lights on runways and taxiways, illuminating when it is unsafe to enter, cross, or begin takeoff on a runway. Currently, there are two types: Runway Entrance Lights (REL) and Takeoff Hold Lights (THL). [Figures 14- 35 and 14- 36]

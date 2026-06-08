@@ -1,0 +1,7 @@
+## NOTE-
+
+Current policy, when requesting remote ATC services, requires that a pilot monitor the automated weather broadcast at the landing airport prior to requesting ATC services. The FSS automatically provides Final Guard, when appropriate, during LAA/Remote Airport Advisory (RAA) operations. Final Guard is a value added wind/altimeter monitoring service, which provides an automatic wind and altimeter check during active weather situations when the pilot reports on-final or taking the active runway. During the landing or take-off operation when the winds or altimeter are actively changing the FSS will blind broadcast significant changes when the specialist believes the change might affect the operation. Pilots should acknowledge the first wind/altimeter check but due to cockpit activity no acknowledgement is expected for the blind broadcasts. It is prudent for a pilot to report on-the-ground or airborne to end the service.
+
+2. RAA service is operated within 10 statute miles of specified high activity GA airports where a control tower is not operating. Airports offering this service are listed in the A/FD and the published service hours may be changed by NOTAM D. Final Guard is automatically provided with RAA.
+
+3. Remote Airport Information Service (RAIS) is provided in support of short term special events like

@@ -1,0 +1,5 @@
+transmitting an alert after a crash or manual activation.
+
+(f) Because of the large number of 121.5 MHz ELT false alerts and the lack of a quick means of verifying the actual status of an activated 121.5 MHz or 243.0 MHz analog ELT through an owner registration database, U.S. SAR forces do not respond as quickly to initial 121.5/243.0 MHz ELT alerts as the SAR forces do to 406 MHz ELT alerts. Compared to the almost instantaneous detection of a 406 MHz ELT, SAR forces' normal practice is to wait for either a confirmation of a 121.5/243.0 MHz alert by additional satellite passes or through confirmation of an overdue aircraft or similar notification. In some cases, this confirmation process can take hours. SAR forces can initiate a response to 406 MHz alerts in minutes compared to the potential delay of hours for a 121.5/243.0 MHz ELT.
+
+3. The Cospas-Sarsat system has announced the termination of satellite monitoring and reception of the 121.5 MHz and 243

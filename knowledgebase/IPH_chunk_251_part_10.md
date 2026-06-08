@@ -1,0 +1,1 @@
+, requiring a climb gradient greater than 200 ft/NM. The second set of minimums is higher, but doesn't require a climb gradient. Shown in Figure 4- 26, Barstow- Daggett (KDAG) RNAV (GPS) RWY 26 is an example where there are two LPV lines of minimums.

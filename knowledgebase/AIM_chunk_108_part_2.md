@@ -1,0 +1,7 @@
+RWSL is an independent safety enhancement that does not substitute for or convey an ATC clearance. Clearance to enter, cross, takeoff from, land on, or operate on a runway must still be received from ATC. Although ATC has limited control over the system, personnel do not directly use and may not be able to view light fixture activations and deactivations during the conduct of daily ATC operations.
+
+b. Runway Entrance Lights (REL): The REL system is composed of flush mounted, in-pavement, unidirectional light fixtures that are parallel to and focused along the taxiway centerline and directed toward the pilot at the hold line. An array of REL lights include the first light at the hold line followed by a series of evenly spaced lights to the runway edge; one additional light at the runway centerline is in line with the last two lights before the runway edge (see FIG 2-1-9 and FIG 2-1-12). When activated, the red lights indicate that there is high speed traffic on the runway or there is an aircraft on final approach within the activation area.
+
+1. REL Operating Characteristics - Departing Aircraft:
+
+When a departing aircraft reaches a site adaptable speed of approximately 30 knots,

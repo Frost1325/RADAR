@@ -1,0 +1,3 @@
+C, 4- 1- 15  Under Visual Flight Rules, 4- 1- 17  VFR, 4- 1- 17  Tri- Color Visual Approach Slope Indicator, 2- 1- 4  TRSA. See Terminal Radar Service Areas  Turbulence, Wake, 7- 3- 1  Air Traffic Separation, 7- 3- 7  Helicopters, 7- 3- 6  Pilot Responsibility, 7- 3- 6  Vortex Behavior, 7- 3- 2  Vortex Generation, 7- 3- 1  Vortex Strength, 7- 3- 1  TWEB. See Transcribed Weather Broadcast
+
+TWIP. See Terminal Weather Information For Pilots System

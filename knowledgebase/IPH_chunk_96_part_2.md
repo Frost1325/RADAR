@@ -1,0 +1,7 @@
+routes are correlated with departure procedures (DPs) and STARs and may be defined by airways, jet routes, direct routes between NAVAIDs,
+
+waypoints, NAVAID radials/distance measuring equipment (DME), or any combinations thereof.
+
+Preferred IFR routes are published in the CS for the low and high altitude stratum. If they begin or end with an airway
+
+number, it indicates that the airway essentially overlies the airport and flights normally are cleared directly on the airway. Preferred IFR routes beginning or ending with a fix indicate that pilots may be routed to or from these fixes via a SID route, radar vectors, or a STAR. Routes for major terminals are listed alphabetically under the name of the departure airport. Where several airports are in proximity, they are listed under the principal airport and categorized as a metropolitan area (e.g., New York Metro Area). One way preferred IFR routes are listed is numerically, showing the segment fixes and the direction and times effective. Where more than one route is listed, the routes have equal priority for use. Official location identifiers are used in the route description for very high frequency omnidirectional ranges (VORs) and very high frequency omnidirectional ranges/ tactical air

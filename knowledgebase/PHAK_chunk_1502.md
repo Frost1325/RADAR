@@ -1,0 +1,5 @@
+ and the obstructions are painted orange and white for daytime operations.- High intensity white obstruction lights—flash high intensity white lights during the daytime with the intensity reduced for nighttime.- Dual lighting—a combination of flashing red beacons and steady red lights for nighttime operation and high intensity white lights for daytime operations.
+
+## New Lighting Technologies
+
+A top priority of the FAA is to continue to enhance airport safety while maintaining airport capacity. Reducing runway incursions is a major component of this effort. Runway incursions develop quickly and without warning during routine traffic situations on the airport surface, leaving little time for corrective action. The Runway Status Lights (RWSL) System is designed to provide a direct indication to you that it is unsafe to enter a runway, cross a runway, or takeoff from or land on a runway when the system is activated.

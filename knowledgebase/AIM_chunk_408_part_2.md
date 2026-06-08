@@ -1,0 +1,3 @@
+conditions, the tower will include on the ATIS broadcast the statement, "BRAKING ACTION ADVISORIES ARE IN EFFECT."
+
+d. During the time that braking action advisories are in effect, ATC will issue the latest braking action report for the runway in use to each arriving and departing aircraft. Pilots should be prepared for deteriorating braking conditions and should request current runway condition information if not volunteered by controllers. Pilots should also be prepared to provide a descriptive runway condition report to controllers after landing.

@@ -1,0 +1,5 @@
+Hawaii airways data. BAHAMA.DAT: Bahamas routes data. OCEANIC.DAT: Oceanic routes data. STARS.DAT: Standard terminal arrivals data. DPDAT: Instrument departure procedures data. LOPREF.DAT: Preferred low altitude IFR routes data. HIPREF.DAT: Preferred high altitude IFR routes data. ARF.DAT: Air route radar facilities data. ASR.DAT: Airport surveillance radar facilities data.
+
+2. The National Flight Database (NFD) (ARINC 424 [Ver 13 & 15]). The NFD is a basic digital dataset, modeled to an international standard, which can be used as a basis to support GPS navigation. Initial data elements included are: Airport and Helicopter Records, VHF and NDB Navigation aids, en route waypoints and airways. Additional data elements will be added in subsequent releases to include: departure procedures, standard terminal arrivals, and GPS/RNAV instrument approach procedures. The database is updated every 28 days. The data is available by subscription only and is distributed on CD-ROM or by ftp download.
+
+3. digital-Visual Charts (d-VC). These digital VFR charts are geo-referenced images of

@@ -1,0 +1,6 @@
+the transferring controller for the assignment of an alternative frequency or other instructions.
+2. When an ARTCC radio frequency failure occurs after two-way communications have been established, the pilot should attempt to reestablish contact with the center on any other known ARTCC frequency, preferably that of the next responsible sector when practicable, and ask for instructions. However, when the next normal frequency change along the route is known to involve another ATC facility, the pilot should contact that facility, if feasible,
+
+for instructions. If communications cannot be reestablished by either method, the pilot is expected to request communication instructions from the FSS appropriate to the route of flight.
+
+Note: The exchange of information between an aircraft and an ARTCC through an FSS is quicker than relay via company radio because the FSS has direct interphone lines to the responsible ARTCC sector. Accordingly, when circumstances dictate a choice between the two during an ARTCC frequency outage relay via FSS radio is recommended.

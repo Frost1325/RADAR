@@ -1,0 +1,5 @@
+wind, base,<br>and final. Leaving<br>the runway</td><td></td></tr><tr><td>6.</td><td>Designated CTAF Area<br>(Alaska Only)</td><td>Self-announce on CTAF<br>designated on chart or Alaska<br>Supplement (A/FD).</td><td>Before taxiing and<br>before taxiing on<br>the runway for<br>department until<br>leaving designated<br>area.</td><td>When entering<br>designated CTAF<br>area.</td><td></td></tr></table>
+
+**2. CTAF (Alaska Only).** In Alaska, a CTAF may also be designated for the purpose of carrying out advisory practices while operating in designated areas with a high volume of VFR traffic.
+
+**3.** The CTAF frequency for a particular airport or area is contained in the A/FD, Alaska Supplement,Alaska Terminal Publication, Instrument Approach Procedure Charts, and Instrument Departure Proce-dure (DP) Charts. Also, the CTAF frequency can be obtained by contacting any FSS. Use of the appropriate CTAF, combined with a visual alertness and application of the following recommended

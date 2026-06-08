@@ -1,0 +1,1 @@
+transponders are advised of their position to confirm identity. In this case, the pilot is expected to advise the controller if in disagreement with the position given. Any pilot who cannot confirm the accuracy of the position given because of not being tuned to the NAVAID referenced by the controller should ask for another radar position relative to the tuned in NAVAID.

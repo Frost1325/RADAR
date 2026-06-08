@@ -1,0 +1,1 @@
+- minute harmonic average. The reported sky condition/ ceiling is derived from the ceilometer located next to the visibility sensor. The AWOS algorithm integrates the last 30 minutes of ceilometer data to derive cloud layers and heights. This output may also differ from the observer sky condition in that the AWOS is totally dependent upon the cloud advection over the sensor site.

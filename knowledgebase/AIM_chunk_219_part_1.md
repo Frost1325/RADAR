@@ -1,0 +1,3 @@
+## 3-5-5. Published VFR Routes
+
+Published VFR routes for transitioning around, under and through complex airspace such as Class B airspace were developed through a number of FAA and industry initiatives. All of the following terms, i.e., "VFR Flyway" "VFR Corridor" and "Class B Airspace VFR Transition Route" have been used when referring to the same or different types of routes or airspace. The following paragraphs identify and clarify the functionality of each type of route, and specify where and when an ATC clearance is required.

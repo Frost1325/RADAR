@@ -1,0 +1,7 @@
+## Eights Along a Road
+
+An eight along a road is a ground reference maneuver in which the ground track consists of two opposite \(360^{\circ}\) adjacent turns. An imaginary line drawn through the center of each \(360^{\circ}\) turn is perpendicular to the straight- line ground reference (road, railroad tracks, fence line, pipeline right- of- way, etc.) as illustrated in Figure 7- 7. Like the other ground reference maneuvers, the objective is to further develop division of attention while compensating for drift, maintaining orientation with ground references, and maintaining a constant altitude.
+
+Although eights along a road may be performed with the wind blowing parallel or perpendicular to the straight- line ground reference, only the perpendicular wind situation is explained since the principles involved are common to each. The pilot should select a straight- line ground reference that is perpendicular to the wind and position the airplane parallel to and directly above the straight- line ground reference. Since this places the airplane in a crosswind position, the pilot should compensate for the wind drift with an appropriate wind correction angle.
+
+The following description is illustrated in Figure 7- 7. The airplane is initially in a crosswind position, perpendicular to the wind,

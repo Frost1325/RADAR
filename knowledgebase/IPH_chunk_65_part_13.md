@@ -1,0 +1,1 @@
+>19880 R</td><td>24810 R</td><td>28380 R</td><td>28630</td></tr><tr><td>72</td><td>22</td><td>97.00</td><td></td><td>20380 R</td><td>27460 O</td><td>23420 O</td><td>19740 R</td><td>24630 R</td><td>28110 R</td><td>28330</td></tr><tr><td>73</td><td>23</td><td>96.90</td><td></td><td>20310 R</td><td>27370 R</td><td>23340 O</td><td>19670 R</td><td>24530 R</td><td>27970 R</td><td>2818

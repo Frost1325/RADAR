@@ -1,0 +1,5 @@
+ available routes to flight instruction, the role of the Certificated Flight Instructor (CFI) and Designated Pilot Examiner (DPE) in flight training, Practical Test Standards (PTS), and new, industry- developed Airman Certification Standards (ACS) framework that will eventually replace the PTS.
+
+## History of Flight
+
+From prehistoric times, humans have watched the flight of birds, and longed to imitate them, but lacked the power to do so. Logic dictated that if the small muscles of birds can lift them into the air and sustain them, then the larger muscles of humans should be able to duplicate the feat. No one knew about the intricate mesh of muscles, sinew, heart, breathing system, and devices not unlike wing flaps, variable- camber and spoilers of the modern airplane that enabled a bird to fly. Still, thousands of years and countless lives were lost in attempts to fly like birds.

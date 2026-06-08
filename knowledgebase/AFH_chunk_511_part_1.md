@@ -1,0 +1,7 @@
+## General
+
+A pilot who is faced with an emergency landing in terrain that makes extensive airplane damage inevitable should keep in mind that the avoidance of crash injuries is largely a matter of: (1) keeping the vital structure (cabin area) relatively intact by using dispensable structure (i.e., wings, landing gear, fuselage bottom) to absorb the violence of the stopping process before it affects the occupants and (2) avoiding forceful bodily contact with interior structure. Avoiding forcible contact with interior structure is a matter of seat and body security. Unless the occupant decelerates at the same rate as the surrounding structure, no benefit is realized from its relative intactness. The occupant is brought to a stop violently in the form of a secondary collision.
+
+The advantage of sacrificing dispensable structure is demonstrated daily on the highways. A head- on car impact against a tree at 20 miles per hour (mph) is less hazardous for a properly restrained driver than a similar impact against the driver's door. Accident experience shows that the extent of crushable structure between the occupants and the principal point of impact on the airplane has a direct bearing on the severity of the transmitted crash forces and, therefore, on survivability.
+
+Dispensable airplane structure is not

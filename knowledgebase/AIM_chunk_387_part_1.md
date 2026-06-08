@@ -1,0 +1,5 @@
+## 4-3-3. Traffic Patterns
+
+a. At most airports and military air bases, traffic pattern altitudes for propeller-driven aircraft generally extend from 600 feet to as high as 1,500 feet above the ground. Also, traffic pattern altitudes for military turbojet aircraft sometimes extend up to 2,500 feet above the ground. Therefore, pilots of en route aircraft should be constantly on the alert for other aircraft in traffic patterns and avoid these areas whenever possible. Traffic pattern altitudes should be maintained unless otherwise required by the applicable distance from cloud criteria (14 CFR Section 91.155). (See FIG 4-3-2 and FIG 4-3-3.) Unless otherwise indicated, all turns in the traffic pattern should be made to the left. On Sectional Aeronautical and VFR Terminal Area Charts, right traffic patterns are indicated at public-use and joint-use airports by the abbreviation "RP" (for Right Pattern), followed by the appropriate runway number(s), at the bottom of the airport data block.
+
+EXAMPLE- RP 9, 18, 22R

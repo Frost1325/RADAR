@@ -1,0 +1,5 @@
+## Lazy Eight
+
+The lazy eight is a maneuver that is designed to develop the proper coordination of the flight controls across a wide range of airspeeds and attitudes. It is the only standard flight training maneuver in which flight control pressures are constantly changing. In an attempt to simplify the discussion about this maneuver, the lazy eight can be loosely compared to the ground reference maneuver, S- turns across the road. Recall that S- turns across the road are made of opposing \(180^{\circ}\) turns. For example, first a \(180^{\circ}\) turn to the right, followed immediately by a \(180^{\circ}\) turn to the left. The lazy eight adds both a climb and descent to each \(180^{\circ}\) segment. The first \(90^{\circ}\) is a climb; the second \(90^{\circ}\) is a descent. [Figure 10- 4]
+
+The previous description of a lazy eight and figure 10- 4 describe how a lazy eight looks from outside the flight deck and describes it as two \(180^{\circ}\) turns with altitude changes. How does it look from the pilot's perspective

@@ -1,0 +1,5 @@
+## \(90^{\circ}\) Power-Off Approach
+
+The \(90^{\circ}\) power- off approach is made from a base leg and requires an approximate \(90^{\circ}\) turn onto the final approach. The approach path may be varied by positioning the base leg closer to or farther out from the approach end of the runway according to wind conditions. [Figure 9- 25] The glide from the key position on the base leg through the \(90^{\circ}\) turn to the final approach is the final part of all accuracy landing maneuvers. The \(90^{\circ}\) power- off approach usually begins from a rectangular pattern at approximately 1,000 feet above the ground or at normal traffic pattern altitude. The airplane is flown on a downwind leg at the same distance from the landing surface as in a normal traffic pattern. The before- landing checklist should be completed on the downwind leg, including extension of the landing gear if the airplane is equipped with retractable gear.
+
+After a medium- banked turn onto the base leg is completed, the throttle is retarded slightly and the airspeed allowed to decrease to the normal base- leg speed. [Figure 9-

@@ -1,0 +1,5 @@
+ from performing crewmember duties while using any medication that affects the body in any way contrary to safety. The safest rule is not to fly as a crewmember while taking any medication, unless approved to do so by the FAA. If there is any doubt regarding the effects of any medication, consult an AME before flying.
+
+Prior to each and every flight, all pilots must do a proper physical self- assessment to ensure safety. A great mnemonic, covered in Chapter 2 on Aeronautical Decision- Making, is IMSAFE, which stands for Illness, Medication, Stress, Alcohol, Fatigue, and Emotion.
+
+For the medication component of IMSAFE, pilots need to ask themselves, "Am I taking any medicines that might affect my judgment or make me drowsy? For any new medication, OTC or prescribed, you should wait at least 48 hours after the first dose before flying to determine you do not have any adverse side effects that would make it unsafe to operate an aircraft. In addition to medication questions, pilots should also consider the following -

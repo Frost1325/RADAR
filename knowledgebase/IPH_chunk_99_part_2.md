@@ -1,0 +1,1 @@
+EC reallocates airspace both vertically and geographically to allow flight planning between city pairs while remaining with approach control airspace. All users are encouraged to use the TEC route descriptions located in the CS when filing flight plans. [Figure 2- 20] All published TEC routes are designed to avoid en route airspace, and the majority is within radar coverage.

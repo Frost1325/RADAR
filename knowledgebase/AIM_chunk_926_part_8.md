@@ -1,0 +1,7 @@
+able to consistently display the runway markings. The main differences for EFVS operations are that the visual glide slope indicator (VGSI) lights cannot be used as a visual reference, and specific visual references from both the threshold and TDZ must be distinctly visible and identifiable. However, when using natural vision, only one of the specified visual references must be visible and identifiable.
+
+3. Visual References and Offset Approaches. Pilots must be especially knowledgeable of the approach conditions and approach course alignment when considering whether to rely on EFVS during a non-precision approach with an offset final approach course. Depending upon the combination of crosswind correction and the lateral field of view provided by a particular EFVS, the required visual references may or may not be within the pilot's view
+
+looking through the EFVS display. Pilots conducting any non- precision approach must verify lateral alignment with the runway centerline when determining when to descend from MDA.
+
+4. When to Go Around. Any pilot operating an aircraft with an EFVS installed should be aware that the requirements of 14 CFR part 91.175 (c) for using natural vision and the requirements of 14 CFR part 91.175 (l) for using an EFVS are

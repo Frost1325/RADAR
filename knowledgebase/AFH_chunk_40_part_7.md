@@ -1,0 +1,7 @@
+wing and to nose the airplane over. The application of these crosswind taxi corrections helps to minimize the weathervaning tendency and ultimately results in easier steering. [Figure 2- 15]
+
+The presence of moderate to strong headwinds and/or a strong propeller slipstream creates lift on the horizontal tail surfaces and makes it necessary to control the pitch attitude while taxiing. The elevator control in nosewheel- type airplanes should be held in the neutral position, while in tailwheel- type airplanes, it should be held in the full aft position to hold the tail down unless the headwind gets very strong, which allows for an elevator position closer to neutral.
+
+Downwind taxiing usually requires less engine power after the initial ground roll has begun, since the wind is pushing the airplane forward. To avoid overheating the brakes and controlling the airplane's speed when taxiing downwind, the pilot should keep engine power to a minimum. Rather than continuously riding the brakes to control speed, it is appropriate to apply brakes only occasionally. Other than sharp turns at low speed, the throttle should always be at idle before the brakes are applied. It is a common error to taxi with a power setting that requires controlling taxi speed with the brakes.
+
+Normally, all turns should

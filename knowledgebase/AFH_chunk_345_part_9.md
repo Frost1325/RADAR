@@ -1,0 +1,5 @@
+14 CFR part 23 single- engine climb performance requirements for reciprocating engine- powered multie engine airplanes are broken down as follows:
+
+- More than 6,000 pounds maximum weight and/or \(\mathrm{V}_{\mathrm{SO}}\) more than 61 knots: the single-engine rate of climb in feet per minute (fpm) at 5,000 feet mean sea level (MSL) must be equal to at least 0.027 \(\mathrm{V}_{\mathrm{SO}}\) 2. For airplanes type certificated February 4, 1991, or thereafter, the climb requirement is expressed in terms of a climb gradient, 1.5 percent. The climb gradient is not a direct equivalent of the .027 \(\mathrm{V}_{\mathrm{SO}}\) 2 formula. Do not confuse the date of type certification with the airplane's model year. The type certification basis of many multie engine airplanes dates back to the Civil Aviation Regulations (CAR) 3.
+
+- 6,000 pounds or less maximum weight and \(\mathrm{V}_{\mathrm{SO}}\) 61 knots or

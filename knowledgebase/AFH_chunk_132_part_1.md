@@ -1,0 +1,3 @@
+## Roles of FSTDs and Airplanes in UPRT
+
+Training devices range from aviation training devices (e.g., basic and advanced) to FSTDs (e.g., flight training devices (FTD) and full flight simulators (FFS)) and have a broad range of capabilities. While all of these devices have limitations relative to actual flight, only the higher fidelity devices (i.e., Level C and D FFS) are a satisfactory substitution for developing UPRT skills in the actual aircraft. Except for these higher fidelity devices, initial skill development should be accomplished in a suitable airplane, and the accompanying training device should be used to build upon these skills. [Figure 5- 4]

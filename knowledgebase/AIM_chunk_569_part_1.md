@@ -1,0 +1,5 @@
+## 4-6-1. Applicability and RVSM Mandate (Date/Time and Area)
+
+a. Applicability. The policies, guidance and direction in this section apply to RVSM operations in the airspace over the lower 48 states, Alaska, Atlantic and Gulf of Mexico High Offshore Airspace and airspace in the San Juan FIR where VHF or UHF voice direct controller-pilot communication (DCPC) is normally available. Policies, guidance and direction for RVSM operations in oceanic airspace where VHF or UHF voice DCPC is not available and the airspace of other countries are posted on the FAA "RVSM Documentation" Webpage described in Paragraph 4-6-3, Aircraft and Operator Approval Policy/Procedures, RVSM Monitoring and Databases for Aircraft and Operator Approval.
+
+b. Mandate. At 0901 UTC on January 20, 2005, the FAA implemented RVSM between flight level (FL) 290-410 (inclusive) in the following airspace: the airspace of the lower 48 states of the United States, Alaska, Atlantic and Gulf of Mexico High Offshore Airspace and the San Juan FIR. (A chart showing

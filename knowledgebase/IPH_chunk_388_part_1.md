@@ -1,0 +1,3 @@
+## I
+
+IAF—Initial Approach Fix  IAP—Instrument Approach Procedure  IAS—Indicated Air Speed  ICAO—International Civil Aviation Organization  IF—Intermediate Fix  IFR—Instrument Flight Rules  IIMC—Inadvertent Instrument Meteorological Condition  ILS—Instrument Landing System  IMC—Instrument Meteorological Conditions  INS—Inertial Navigation System  IOC—Initial Operational Capability  IRU—Inertial Reference Unit

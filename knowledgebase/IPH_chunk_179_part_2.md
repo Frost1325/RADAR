@@ -1,0 +1,5 @@
+process and criteria used to develop the STAR. The RNAV 1 or RNAV 2 designation appears in the notes on the chart. RNAV 1 STARs have higher equipment requirements and, often, tighter required navigation performance (RNP) tolerances than RNAV 2. For RNAV 1 STARS, pilots are required to use a course deviation indicator (CDI)/flight director, and/or autopilot in LNAV mode while operating on RNAV courses. (These requirements are detailed in Chapter 1 of this book, under RNAV Departures.) RNAV 1 STARS are generally designated for high- traffic areas. Controllers may clear a pilot to use an RNAV STAR in various ways.
+
+If the pilots clearance simply states, "cleared HADLY ONE arrival," the pilot is to use the arrival for lateral routing only.
+
+A clearance such as "cleared HADLY ONE arrival, descend and maintain flight level two four zero," clears the pilot to descend only to the assigned altitude, and then should maintain that altitude until cleared for further descent. If the pilot is cleared using the phrase "descend via," the controller expects the pilot to use the equipment for both lateral guidance and altitude restrictions, as published on the chart

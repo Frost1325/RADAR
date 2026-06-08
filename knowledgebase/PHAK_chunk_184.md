@@ -1,0 +1,3 @@
+ employing the 5 P approach might consider reserving a rental car at an airport in northern North Carolina or southern Virginia to coincide with a refueling stop. Thus, the passengers have a way to get to Washington, and the pilot has an out to avoid being pressured into continuing the flight if the conditions do not improve.
+
+Passengers can also be pilots. If no one is designated as pilot in command (PIC) and unplanned circumstances arise, the decision- making styles of several self- confident pilots may come into conflict.

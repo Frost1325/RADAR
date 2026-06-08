@@ -1,0 +1,5 @@
+30^{\circ}\) between these letters. The final "0" is omitted from these directions. For example, \(3 = 30^{\circ}\) , \(6 = 60^{\circ}\) , and \(33 = 330^{\circ}\) .
+
+There are long and short graduation marks between the letters and numbers, each long mark representing \(10^{\circ}\) and each short mark representing \(5^{\circ}\) .
+
+The float and card assembly has a hardened steel pivot in its center that rides inside a special, spring- loaded, hard glass jewel cup. The buoyancy of the float takes most of the weight off of the pivot, and the fluid damps the oscillation of the float and card. This jewel- and- pivot type mounting allows the float freedom to rotate and tilt up to approximately \(18^{\circ}\) angle of bank. At steeper bank angles, the compass indications are erratic and unpredictable.

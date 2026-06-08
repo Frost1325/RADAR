@@ -1,0 +1,3 @@
+## Maximum Authorized Altitude (MAA)
+
+An MAA is a published altitude representing the maximum usable altitude or flight level for an airspace structure or route segment. [Figure 2- 57] It is the highest altitude on a Federal airway, jet route, RNAV low or high route, or other direct route for which an MEA is designated at which adequate reception of navigation signals is assured. MAAs represent procedural limits determined by technical limitations or other factors, such as limited airspace or frequency interference of ground- based facilities.

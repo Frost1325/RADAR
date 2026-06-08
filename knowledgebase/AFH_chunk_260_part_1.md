@@ -1,0 +1,3 @@
+## Faulty Approaches and Landings
+
+Landing involves many precise, time- sensitive, and sequential control inputs. When corrected early, small errors are often not noticeable. On the other hand, uncorrected errors may place the airplane and occupants in an undesirable state. Since pilot training normally includes exposure to landing deviations and their appropriate remedies, this section covers several common landing imperfections.

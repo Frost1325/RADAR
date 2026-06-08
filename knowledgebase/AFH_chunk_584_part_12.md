@@ -1,0 +1,1 @@
+td>Fixed shaft</td><td>15-2, 15-3, 15-4, 15-5, 15-9, 15-11</td></tr><tr><td>Split shaft/free turbine engine</td><td>15-5, 15-6, 15-7, 15-9, 15-11, 15-13,</td></tr><tr><td>Turbulent air approach and landing</td><td>9-20</td></tr></table>

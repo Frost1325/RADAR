@@ -1,0 +1,1 @@
+or mobile transmitting unit. The airborne unit in conjunction with the ground unit reduces the transmitted signal to a visual presentation of both azimuth and distance information. TACAN is a pulse system and operates in the Ultrahigh Frequency (UHF) band of frequencies. Its use requires TACAN airborne equipment and does not operate through conventional VOR equipment.

@@ -1,0 +1,7 @@
+## EXAMPLE-
+
+Cleveland Tower, Apache Three Seven Two Two Papa, at the intersection of taxiway Oscar and runway two three right, ready for departure.
+
+f. Controllers are required to separate small aircraft (12,500 pounds or less, maximum certificated takeoff weight) departing (same or opposite direction) from an intersection behind a large nonheavy aircraft on the same runway, by ensuring that at least a 3-minute interval exists between the time the preceding large aircraft has taken off and the succeeding small aircraft begins takeoff roll. To inform the pilot of the required 3-minute hold, the controller will state, "Hold for wake turbulence." If after considering wake turbulence hazards, the pilot feels that a lesser time interval is appropriate, the pilot may request a waiver to the 3-minute interval. To initiate such a request, simply say "Request waiver to 3-minute interval," or a similar statement. Controllers may then issue a takeoff clearance if other traffic permits, since the pilot has accepted the responsibility for wake turbulence separation.
+
+g. The 3-minute interval is not required when the intersection is 500 feet or less from the departure point of the preceding aircraft and both aircraft are taking off in the same direction. Controllers may

@@ -1,0 +1,3 @@
+AOA and to avoid any tendency of the airplane to nose over as a result of soft spots, tall grass, or deep snow.
+
+When the airplane is held at a nose- high attitude throughout the takeoff run, the wings progressively relieve the wheels of more and more of the airplane's weight, thereby minimizing the drag caused by surface irregularities or adhesion. Once airborne, the airplane should be allowed to accelerate to climb speed in ground effect.

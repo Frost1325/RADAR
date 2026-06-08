@@ -1,0 +1,3 @@
+5 IFR En Route Altitudes. 2- 35 Minimum En Route Altitude (MEA). 2- 35 RNAV Minimum En Route Altitude. 2- 35 Minimum Reception Altitude (MRA). 2- 35 Maximum Authorized Altitude (MAA). 2- 35 Minimum Obstruction Clearance Altitude (MOCA) 2- 36 Minimum Turning Altitude (MTA). 2- 38 Minimum Crossing Altitude (MCA). 2- 40 Minimum IFR Altitude (MIA). 2- 40 Minimum Vectoring Altitudes (MVA). 2- 41 IFR Cruising Altitude or Flight Level. 2- 42 Reduced Vertical Separation Minimums (RSVM). 2- 43
+
+Cruise Clearance. 2- 43 Lowest Usable Flight Level. 2- 43 Operations in Other Countries. 2- 44 Altitude Above Ground (QFE). 2- 45 Barometric Pressure for Standard Altimeter Setting (QNE). 2- 45 Barometric Pressure for Local Altimeter Setting (Q

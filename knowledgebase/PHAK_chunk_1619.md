@@ -1,0 +1,5 @@
+ seeking a recreational pilot certificate in 14 CFR part 61 section 61.94, or the aircraft is operated by a student pilot who has met the requirements of 14 CFR part 61, sections 61.94 and 61.95, as applicable.
+
+Unless otherwise authorized by ATC, all aircraft within Class B airspace must be equipped with the applicable operating transponder and automatic altitude reporting equipment specified in 14 CFR part 91, section 91.215(a) and an operable two- way radio capable of communications with ATC on appropriate frequencies for that Class B airspace area. Additionally, beginning January 1, 2020, aircraft operating in the Class B airspace described in 14 CFR part 91, section 91.225, must have ADs- B Out equipment installed, which meets the performance requirements of 14 CFR part 91,section 91.227.
+
+## Class C

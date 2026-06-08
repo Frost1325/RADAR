@@ -1,0 +1,7 @@
+INS EIGHT ARRIVAL, Ephrata Transition. Maintain 10,000 feet." A shorter transmission conveys the same information.
+
+Safety is enhanced when both pilots and controllers know what to expect. Effective communication increases with the reduction of repetitive clearances, decreasing congestion on control frequencies. To accomplish this, STARs are developed according to the following criteria:
+
+- STARs must be simple, easily understood and, if possible, limited to one page.- A STAR transition should be able to accommodate as many different types of aircraft as possible.- VHF Omnidirectional Range/Tactical Aircraft Control (VORTACS) are used wherever possible, with some exceptions on RNAV STARs, so that military and civilian aircraft can use the same arrival.- DME arcs within a STAR should be avoided since not all aircraft operating under IFR are equipped to navigate them.- Altitude crossing and airspeed restrictions are included when they are assigned by ATC a majority of the time. [Figure 3- 12]
+
+STARs usually are named according to the point at which the procedure begins. In the United States, typically there are en route transitions before the STAR itself. So the STAR name is usually the same as the last fix on the en route transitions where

@@ -1,0 +1,5 @@
+ fuselage. These designs are referred to as high- , mid- , and low- wing, respectively. The number of wings can also vary. Airplanes with a single set of wings are referred to as monoplanes, while those with two sets are called biplanes. [Figure 3- 6]
+
+Many high- wing airplanes have external braces, or wing struts that transmit the flight and landing loads through the struts to the main fuselage structure. Since the wing struts are usually attached approximately halfway out on the wing, this type of wing structure is called semi- cantilever. A few high- wing and most low- wing airplanes have a full cantilever wing designed to carry the loads without external struts.
+
+The principal structural parts of the wing are spars, ribs, and stringers. [Figure 3- 7] These are reinforced by trusses, I- beams, tubing, or other devices, including the skin. The wing ribs determine the shape and thickness of the wing (airfoil). In most modern airplanes, the fuel tanks are either an integral part of the wing's structure or consist of flexible containers mounted inside of the wing.

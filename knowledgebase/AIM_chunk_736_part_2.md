@@ -1,0 +1,3 @@
+be advised of the purpose of the heading.
+
+2. At some airports when a departure will fly an RNAV SID that begins at the runway, ATC may advise aircraft of the initial fix/waypoint on the RNAV route. The purpose of the advisory is to remind pilots to verify the correct procedure is programmed in the FMS before takeoff. Pilots must immediately advise ATC if a different RNAV SID is entered in the aircraft's FMC. When this advisory is absent, pilots are still required to fly the assigned SID as published.

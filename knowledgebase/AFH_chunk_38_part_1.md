@@ -1,0 +1,7 @@
+## Engine Starting
+
+Airplane engines vary substantially and specific procedures for engine starting should be accomplished in reference to the approved engine start checklist as detailed in the airplane's AFM/POH. However, some generally accepted hazard mitigation practices and procedures are outlined in this section.
+
+Prior to engine start, the pilot needs to ensure that the ramp area surrounding the airplane is clear of persons, equipment, and other hazards that could come into contact with the airplane or the propeller. Also, the pilot should check what is behind the airplane prior to engine start as standard practice. A propeller or other engine thrust can accelerate objects to substantial velocities, causing damage to property, and injuring those on the ground. The pilot should mitigate the hazard of debris being blown into persons or property. At all times before engine start, the anti- collision lights should be turned on. For night operations, the position (navigation) lights should also be on. Finally, just prior to starter engagement, the pilot should always call "CLEAR" out of the side window and wait for a response from anyone who may be nearby before engaging the starter.
+
+When activating the starter, the wheel brakes need to be depressed and one hand kept on the throttle to manage the initial starting engine speed. Ensuring that properly

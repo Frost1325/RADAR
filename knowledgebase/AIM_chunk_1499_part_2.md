@@ -1,0 +1,3 @@
+6- 3- 2Pilot Authority, 6- 1- 1Pilot Responsibility, 6- 1- 1Request Assistance Immediately, 6- 1- 1Search and Rescue, 6- 2- 4Services, 6- 2- 1Radar Service for VFR Aircraft in Difficulty, 6- 2- 1Survival Equipment, 6- 2- 6Transponder Operation, 6- 2- 1VFR Search and Rescue Protection, 6- 2- 5Emergency Locator Transmitter, 6- 2- 2En Route Flight Advisory Service, 7- 1- 7Enhanced Flight Vision Systems, 5- 4- 58Escort, 6- 2- 1Explosives, FAA K- 9 Detection Team Program, 6- 2- 3
+
+Escort, 6- 2- 1Explosives, FAA K- 8 Detection Team Program, 6- 2- 3

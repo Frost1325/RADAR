@@ -1,0 +1,5 @@
+## NOTE-
+
+Obstruction clearance surfaces are based on the aircraft speed and have been designed on these approaches for 70 knots. If the helicopter is flown at higher speeds, it may fly outside of protected airspace. Some helicopters have a VMINI greater than 70 knots; therefore, they cannot meet the 70 knot limitation to conduct this type of procedure. Some helicopter autopilots, when used in the "go-around" mode, are programmed with a \(V_{YI}\) greater than 70 knots, therefore when using the autopilot "go-around" mode, they cannot meet the 70 knot limitation to conduct this type of approach. It may be possible to use the autopilot for the missed approach in the other than the "go-around" mode and meet the 70 knot limitation to conduct this type of approach. When operating at speeds other than \(V_{YI}\) or \(V_{Y}\) , performance data may not be available in the RFM to predict compliance with climb gradient requirements. Pilots may use observed performance in similar weight/altitude/temperature/speed conditions to evaluate the suitability of performance. Pilots are cautioned to monitor climb performance to ensure compliance with procedure requirements.
+
+4.

@@ -1,0 +1,5 @@
+ be obtained from the local FSDO. Since a DPE serves without pay from the government for conducting practical tests and processing the necessary reports, the examiner is allowed to charge a reasonable fee. There is no charge for the practical test when conducted by an FAA inspector.
+
+## Role of the Certificated Flight Instructor
+
+To become a CFI, a pilot must meet the provisions of 14 CFR part 61. The FAA places full responsibility for student flight training on the shoulders of the CFI, who is the cornerstone of aviation safety. It is the job of the flight instructor to train the student pilot in all the knowledge areas and teach the skills necessary for the student pilot to operate safely and competently as a certificated pilot in the NAS. The training includes airmanship skills, pilot judgment and decision- making, and good operating practices.

@@ -1,0 +1,5 @@
+2, Weather Observing Programs.
+
+b. Aerodrome forecasts are prepared by 122 Weather Forecast Offices (WFOs). These offices prepare and distribute 625 aerodrome forecasts 4 times daily for specific airports in the 50 States, Puerto Rico, the Caribbean and Pacific Islands. These forecasts are valid for 24 or 30 hours and amended as required. A centralized aviation forecast program originating from the Aviation Weather Center (AWC) in Kansas City was implemented in October 1995. In the conterminous U.S., all inflight advisories, Significant Meteorological Information (SIGMETs), Convective SIGMETs, and Airmen's Meteorological Information (AIRMET-text bulletins [WA] and graphics [G-AIRMETs]), and all Area Forecasts (FAs) (6 areas) are now issued by AWC. FAs are prepared 3 times a day in the conterminous U.S. and Alaska (4 times in Hawaii), and amended as required. Inflight advisories are issued only when conditions warrant. Winds aloft forecasts are provided for
+
+176 locations in the 48 contiguous States and 21 locations in Alaska for

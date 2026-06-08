@@ -1,0 +1,3 @@
+## 5-4-6. Approach Clearance
+
+a. An aircraft which has been cleared to a holding fix and subsequently "cleared . . . approach" has not received new routing. Even though clearance for the approach may have been issued prior to the aircraft reaching the holding fix, ATC would expect the pilot to proceed via the holding fix (his/her last assigned route), and the feeder route associated with that fix (if a feeder route is published on the approach chart) to the initial approach fix (IAF) to commence the approach. WHEN CLEARED FOR THE APPROACH, THE PUBLISHED OFF AIRWAY

@@ -1,0 +1,5 @@
+ Regardless of the type of NAVAID utilized (VOR, VOR/DME, or VORTAC), the VOR indicator behaves the same. Unless otherwise noted in this section, VOR, VOR/DME, and VORTAC NAVAIDs are all referred to hereafter as VORs.
+
+The prefix "omni-" means all, and an omnidirectional range is a VHF radio transmitting ground station that projects straight line courses (radials) from the station in all directions. From a top view, it can be visualized as being similar to the spokes from the hub of a wheel. The distance VOR radials are projected depends upon the power output of the transmitter.
+
+The course or radials projected from the station are referenced to MN. Therefore, a radial is defined as a line of magnetic bearing extending outward from the VOR station. Radials are identified by numbers beginning with 001, which is \(1^{\circ}\) east of MN and progress in sequence through all the degrees of a circle until reaching 360. To aid in orientation, a compass rose reference to magnetic north is superimposed on aeronautical charts at the station location.

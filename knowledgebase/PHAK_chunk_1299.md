@@ -1,0 +1,5 @@
+. During this time of stagnation, the air mass takes on the temperature and moisture characteristics of the source region. Areas of stagnation can be found in polar regions, tropical oceans, and dry deserts. Air masses are generally identified as polar or tropical based on temperature characteristics and maritime or continental based on moisture content.
+
+A continental polar air mass forms over a polar region and brings cool, dry air with it. Maritime tropical air masses form over warm tropical waters like the Caribbean Sea and bring warm, moist air. As the air mass moves from its source region and passes over land or water, the air mass is subjected to the varying conditions of the land or water which modify the nature of the air mass. [Figure 12- 23]
+
+An air mass passing over a warmer surface is warmed from below, and convective currents form, causing the air to rise. This creates an unstable air mass with good surface visibility. Moist, unstable air causes cumulus clouds, showers, and turbulence to form.

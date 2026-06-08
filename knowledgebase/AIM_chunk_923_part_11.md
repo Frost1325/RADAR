@@ -1,0 +1,7 @@
+to circle even though only circling minimums are published. If they desire to circle, they should advise ATC.
+
+d. Side-Step Maneuver Minimums. Landing minimums for a side-step maneuver to the adjacent runway will normally be higher than the minimums to the primary runway.
+
+e. Published Approach Minimums. Approach minimums are published for different aircraft categories and consist of a minimum altitude (DA, DH, MDA) and required visibility. These minimums are determined by applying the appropriate TERPS criteria. When a fix is incorporated in a nonprecision final segment, two sets of minimums may be published: one for the pilot that is able to identify the fix, and a second for the pilot that cannot. Two sets of minimums may also be published when a second altimeter source is used in the procedure. When a nonprecision procedure incorporates both a stepdown fix in the final segment and a second altimeter source, two sets of minimums are published to account for the stepdown fix and a note addresses minimums for the second altimeter source.
+
+f. Circling Minimums. In some busy terminal areas, ATC may not allow circling and circling minimums will not be published. Published circling minimums

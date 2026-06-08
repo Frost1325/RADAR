@@ -1,0 +1,7 @@
+### d. Altitude Data.
+
+1. The altitude or flight level instructions in an ATC clearance normally require that a pilot "MAINTAIN" the altitude or flight level at which the flight will operate when in controlled airspace. Altitude or flight level changes while en route should be requested prior to the time the change is desired.
+
+2. When possible, if the altitude assigned is different from the altitude requested by the pilot, ATC will inform the pilot when to expect climb or descent clearance or to request altitude change from another facility. If this has not been received prior to crossing the boundary of the ATC facility's area and assignment at a different altitude is still desired, the pilot should reinitiate the request with the next facility.
+
+3. The term "cruise" may be used instead of "MAINTAIN" to assign a block of airspace to a pilot from the minimum IFR altitude up to and including the altitude specified in the cruise clearance. The pilot may level off at any intermediate altitude within this block of airspace. Climb/descent within the block is to be made at the discretion of the pilot. However, once the pilot starts descent and verbally reports leaving an altitude in the block, the pilot may not return to that altitude without

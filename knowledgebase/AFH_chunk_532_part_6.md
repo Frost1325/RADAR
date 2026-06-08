@@ -1,0 +1,3 @@
+</td><td>1</td><td>13.00</td></tr><tr><td>Landing Gear Motor</td><td>1</td><td>10.00</td></tr><tr><td>Cigarette Lighter</td><td>1</td><td>7.50</td></tr><tr><td>Transceiver (keyed)</td><td>1</td><td>5-7</td></tr><tr><td>Fuel Boost Pump</td><td>1</td><td>2.00</td></tr><tr><td>Cowl Flap Motor</td><td>1</td><td>1.00</td></tr><tr><td>Stall Warning Horn</td><td>1</td><td>1.50</td></tr><tr><td colspan="3">** Amperage for radios varies with equipment.<br>In general, the more recent the model, the less amperage required.<br>NOTE: Panel and indicator lights usually draw less than one amp.</td></tr></table>
+
+If the pilot expects an imminent and complete in-flight loss

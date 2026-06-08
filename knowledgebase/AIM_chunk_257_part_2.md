@@ -1,0 +1,1 @@
+rescue, as well as, airports with no<br>tower, FSS, or UNICOM.</td><td>122.900</td></tr><tr><td>(MULTICOM FREQUENCY)<br>Forestry management and fire<br>suppression, fish and game<br>management and protection, and<br>environmental monitoring and<br>protection.</td><td>122.925</td></tr><tr><td>Airports with a control tower or<br>FSS on airport.</td><td>122.950</td></tr></table>

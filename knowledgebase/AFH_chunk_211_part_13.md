@@ -1,0 +1,3 @@
+Attempting to correct pivotal altitude by the using the altimeter is ineffective.
+
+Eights on pylons are performed at bank angles ranging from shallow to steep. [Figure 7- 14] The pilot should understand that the bank chosen does not alter the pivotal altitude. As proficiency is gained, the instructor should increase the complexity of the maneuver by directing the learner to enter at a distance from the pylon that results in a specific bank angle at the steepest point in the pylon turn.

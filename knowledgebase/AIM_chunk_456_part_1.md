@@ -1,0 +1,7 @@
+## 4-4-3. Clearance Items
+
+ATC clearances normally contain the following:
+
+a. Clearance Limit. The traffic clearance issued prior to departure will normally authorize flight to the airport of intended landing. Many airports and associated NAVAIDs are collocated with the same name and/or identifier, so care should be exercised to ensure a clear understanding of the clearance limit. When the clearance limit is the airport of intended landing, the clearance should contain the airport name followed by the word "airport." Under certain conditions, a clearance limit may be a NAVAID or other fix. When the clearance limit is a NAVAID, intersection, or waypoint and the type is known, the clearance should contain type. Under certain conditions, at some locations a short-range clearance procedure is utilized whereby a clearance is issued to a fix within or just outside of the terminal area and pilots are advised of the frequency on which they will receive the long-range clearance direct from the center controller.
+
+b. Departure Procedure. Headings to fly and altitude restrictions may be issued to separate a departure from other air traffic in the terminal area. Where the volume of traffic warrants, DPs have been developed.

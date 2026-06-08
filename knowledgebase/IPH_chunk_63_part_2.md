@@ -1,0 +1,5 @@
+and increases along the departure route until the ROC value appropriate for en route flight is achieved. The appropriate ROC value for en route operations is typically achieved about 25 NM for 1,000 feet of ROC in non- mountainous areas, and 46 NM for 2,000 feet of ROC in mountainous areas.
+
+If taking off from a runway using a diverse departure (a runway without a published ODP), beyond these distances the pilot is responsible for obstacle clearance if not operating on a published route, and if below the MEA or MOCA of a published route, or below an ATC- assigned altitude. [Figure 1- 15]
+
+Recent changes in TERPS criteria make the OCS lower and more restrictive. [Figure 1- 16] However, there are many departures today that were evaluated under the old criteria that allowed some obstacle surfaces to be as high as 35 feet at the DER. [Figure 1- 14] Since there is no way for the pilot to determine whether the departure was evaluated using the previous or current criteria, and until all departures have been evaluated using the current criteria, pilots need to be very familiar with the departure environment and associated obstacles

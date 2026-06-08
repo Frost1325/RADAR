@@ -1,0 +1,5 @@
+## 2. Low Level Wind Shear Alert System (LLWAS).
+
+(a) The LLWAS provides wind data and software processes to detect the presence of hazardous wind shear and microbursts in the vicinity of an airport. Wind sensors, mounted on poles sometimes as high as 150 feet, are (ideally) located 2,000 – 3,500 feet, but not more than 5,000 feet, from the centerline of the runway. (See FIG 7–1–17.)
+
+(b) LLWAS was fielded in 1988 at 110 airports across the nation. Many of these systems have been replaced by new TDWR and WSP technology. Eventually all LLWAS systems will be phased out; however, 39 airports will be upgraded to the LLWAS-NE (Network Expansion) system, which employs the very latest software and sensor technology. The new LLWAS-NE systems will not only provide the controller with wind shear warnings and alerts, including wind shear/microburst detection at the airport wind sensor location, but will also provide the location of the hazards relative to the airport runway(s). It will also have the

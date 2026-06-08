@@ -1,0 +1,5 @@
+ light turbulence and icing.
+
+High clouds form above 20,000 feet AGL and usually form only in stable air. They are made up of ice crystals and pose no real threat of turbulence or aircraft icing. Typical high level clouds are cirrus, cirrostratus, and circocumulus.
+
+Clouds with extensive vertical development are cumulus clouds that build vertically into towering cumulus or cumulonimbus clouds. The bases of these clouds form in the low to middle cloud base region but can extend into high altitude cloud levels. Towering cumulus clouds indicate areas of instability in the atmosphere, and the air around and inside them is turbulent. These types of clouds often develop into cumulonimbus clouds or thunderstorms. Cumulonimbus clouds contain large amounts of moisture and unstable air and usually produce hazardous weather phenomena, such as lightning, hail, tornadoes, gusty winds, and wind shear. These extensive vertical clouds can be obscured by other cloud formations and are not always visible from the ground or while in flight. When this happens, these clouds are said to be embedded, hence the term, embedded thunderstorms.

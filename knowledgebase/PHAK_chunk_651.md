@@ -1,0 +1,7 @@
+ back pressure on a control column, the need for nose- up trim is indicated. The normal trim procedure is to continue trimming until the aircraft is balanced and the nose- heavy condition is no longer apparent. Pilots normally establish the desired power, pitch attitude, and configuration first, and then trim the aircraft to relieve
+
+control pressures that may exist for that flight condition. As power, pitch attitude, or configuration changes, retrimming is necessary to relieve the control pressures for the new flight condition.
+
+## Balance Tabs
+
+The control forces may be excessively high in some aircraft, and, in order to decrease them, the manufacturer may use balance tabs. They look like trim tabs and are hinged in approximately the same places as trim tabs. The essential difference between the two is that the balancing tab is coupled to the control surface rod so that when the primary control surface is moved in any direction, the tab automatically moves in the opposite direction. The airflow striking the tab counterbalances some of the air pressure against the primary control surface and enables the pilot to move the control more easily and hold the control surface in position.

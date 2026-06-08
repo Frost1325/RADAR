@@ -1,0 +1,3 @@
+### j. Offshore (VFR) Operating Altitudes for Helicopters
+
+1. Background. Mid-air collisions constitute a significant percentage of total fatal offshore helicopter accidents. A method of reducing this risk is the use of coordinated VFR cruising altitudes. To enhance safety through standardized vertical separation of helicopters when flying in the offshore environment, it is recommended that helicopter operators flying in a particular area establish a cooperatively developed Standard Operating Procedure (SOP) for VFR operating altitudes. An example of such an SOP is contained in this example.

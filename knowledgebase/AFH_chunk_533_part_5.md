@@ -1,0 +1,3 @@
+than conventional instruments under the same conditions.
+
+It is imperative for pilots to obtain equipment-specific information in reference to both the aircraft and the avionics that fully prepare them to interpret and properly respond to equipment malfunctions of electronic flight instrument displays. Rapidly changing equipment, complex systems, and the difficulty or inability to simulate failure modes and functions can impose training limitations. Pilots still should be able to respond to equipment malfunctions in a timely manner without impairing other critical flight tasks should the need arise.

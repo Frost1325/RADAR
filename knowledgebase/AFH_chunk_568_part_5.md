@@ -1,0 +1,3 @@
+or results in loss of separation with an aircraft taking off, intending to takeoff, landing, or intending to land.
+
+Runway threshold markings. Runway threshold markings come in two configurations. They either consist of eight longitudinal stripes of uniform dimensions disposed symmetrically about the runway centerline, or the number of stripes is related to the runway width. A threshold marking helps identify the beginning of the runway that is available for landing. In some instances, the landing threshold may be displaced.

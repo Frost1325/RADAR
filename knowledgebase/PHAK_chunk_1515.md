@@ -1,0 +1,5 @@
+ permit issued by the Federal Communications Commission (FCC). There is also no station license requirement for most general aviation aircraft operating in the United States. A station license is required, however, for an aircraft that is operating internationally, that uses other than a VHF radio, and that meets other criteria.
+
+## Radio Equipment
+
+In general aviation, the most common types of radios are VHF. A VHF radio operates on frequencies between 118.0 megahertz (MHz) and 136.975 MHz and is classified as 720 or 760 depending on the number of channels it can accommodate. The 720 and 760 use .025 MHz (25 kilohertz (KHz) spacing (118.025, 118.050) with the 720 having a frequency range up to 135.975 MHz and the 760 reaching up to 136.975 MHz. VHF radios are limited to line of sight transmissions; therefore, aircraft at higher altitudes are able to transmit and receive at greater distances.

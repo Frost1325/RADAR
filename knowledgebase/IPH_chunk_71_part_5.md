@@ -1,0 +1,3 @@
+must be annotated with the note: "RADAR REQUIRED." Prior to using TSO- C129 GPS equipment for RNAV departures, approach receiver autonomous integrity monitoring (RAIM) availability should be checked for that location.
+
+Radar DP- radar may be used for navigation guidance for SID design. Radar SIDs are established when ATC has a need to vector aircraft on departure to a particular ATS Route, NAVAID, or fix. A fix may be a ground- based NAVAID, a waypoint, or defined by reference to one or more radio NAVAIDs. Not all fixes are waypoints since a fix could be a VOR or VOR/DME, but all waypoints are fixes. Radar vectors may also be used to join conventional or RNAV navigation SIDs. SIDs requiring radar vectors must be annotated "RADAR REQUIRED."

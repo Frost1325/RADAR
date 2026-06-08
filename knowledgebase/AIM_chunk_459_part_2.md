@@ -1,0 +1,3 @@
+the cruise clearance. The pilot may level off at any intermediate altitude within this block of airspace. Climb/descent within the block is to be made at the discretion of the pilot. However, once the pilot starts descent and verbally reports leaving an altitude in the block, the pilot may not return to that altitude without additional ATC clearance.
+
+REFERENCE- Pilot/Controller Glossary Term- Cruise.

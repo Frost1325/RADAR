@@ -1,0 +1,5 @@
+## Surface Movement Guidance Control System (SMGCS)
+
+The Surface Movement Guidance Control System (SMGCS) was developed to facilitate the safe movement of aircraft and vehicles at airports where scheduled air carriers were conducting authorized operations. Advisory Circular 120- 57 was developed in 1992. In 2012, FAA Order 8000.94, Procedures for Establishing Airport Low- Visibility Operations and Approval of Low- Visibility Operations/Surface Movement Guidance and Control
+
+System Operations, was published to provide procedures for establishing Airport Low- Visibility Operations (LVO) and Surface Movement Guidance and Control Systems. It established the necessary FAA headquarters and operating services, roles, responsibilities, and activities for operations at 14 CFR Part 139 airports using RVRs of less than 1,200 feet for each runway. The order applies to all users of the system at all levels who are formally listed. The FAA requires the commissioning of an "FAA approved LVO/ SMGCS Operation" for all new Category III ILS supported runways. Since there are no regulatory takeoff minimums for 14 CFR Part 91 operations, the information provided by FAA AC 1

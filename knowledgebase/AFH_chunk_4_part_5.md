@@ -1,0 +1,7 @@
+certification process. This list identifies those items that are required for airworthiness, optional equipment installed in addition to the required equipment, and any supplemental items or appliances.
+
+Figure 1- 5 shows an example of some of the required equipment, standard or supplemental (not required but commonly found in the aircraft) and optional equipment for an aircraft. The equipment list, originally issued by the manufacturer, is maintained by the Type Certificate Data Sheet (TCDS). An aircraft and its installed components and parts must conform to the original Type Certificate or approved altered conditions to meet the definition of airworthy in accordance with 14 CFR part 3.5.
+
+Certification requirements for pilots, medical certificate requirements, and operating rules are found in the following parts:
+
+- 14 CFR part 61 pertains to the certification of pilots, flight instructors, and ground instructors. It prescribes the eligibility, aeronautical knowledge, flight proficiency training, and testing requirements for each type of pilot certificate issued.- 14 CFR part 67 prescribes the medical standards and certification procedures for issuing medical certificates for airmen and for remaining eligible for a medical certificate.- 14 CFR part 68 contains requirements for operating certain small aircraft without a medical certificate.-

@@ -1,0 +1,7 @@
+ is also 100 knots, the same as GS. Since the rate of fuel consumption remains relatively constant at a given TAS, you must use GS to calculate fuel consumption when wind is present. Specific range (NM/lb or NM/gal) is also useful in calculating fuel consumption when wind is a factor.
+
+You should always plan to be on the surface before any of the following occur:
+
+Your flight time exceeds the amount of flight time you calculated for the consumption of your preflight fuel amount Your fuel gauge indicates low fuel level
+
+The rate of fuel consumption depends on many factors: condition of the engine, propeller/rotor pitch, propeller/rotor revolutions per minute (rpm), richness of the mixture, and the percentage of horsepower used for flight at cruising speed. The pilot should know the approximate consumption rate from cruise performance charts or from experience. In addition to the amount of fuel required for the flight, there should be sufficient fuel for reserve. When estimating consumption you must plan for cruise flight as well as startup and taxi, and higher fuel burn during climb. Remember that ground speed during climb is less than during cruise flight at the same airspeed. Additional fuel for adequate reserve should also be added as a safety measure.

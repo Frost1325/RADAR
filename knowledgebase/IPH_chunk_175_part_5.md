@@ -1,0 +1,1 @@
+at 3,000 feet. [Figure 3- 8] Since there is a 200 knot speed restriction while approaching the destination airport, you choose a descent speed of 190 knots and a descent rate of 1,000 fpm. Assuming a 10 knot headwind component, groundspeed in the descent is 180 knots.

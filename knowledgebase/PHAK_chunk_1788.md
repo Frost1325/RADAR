@@ -1,0 +1,5 @@
+ational radio, such as a VOR or ADF receiver, it can be possible to determine position by plotting an azimuth from two or more navigational facilities. If GPS is installed, or a pilot has a portable aviation GPS on board, it can be used to determine the position and the location of the nearest airport.
+
+Communicate with any available facility using frequencies shown on the sectional chart. If contact is made with a controller, radar vectors may be offered. Other facilities may offer direction finding (DF) assistance. To use this procedure, the controller requests the pilot to hold down the transmit button for a few seconds and then release it. The controller may ask the pilot to change directions a few times and repeat the transmit procedure. This gives the controller enough information to plot the aircraft position and then give vectors to a suitable landing site. If the situation becomes threatening, transmit the situation on the emergency frequency 121.5 MHz and set the transponder to 7700. Most facilities, and even airliners, monitor the emergency frequency.
+
+## Flight Diversion

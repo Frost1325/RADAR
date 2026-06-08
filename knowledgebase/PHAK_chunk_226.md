@@ -1,0 +1,5 @@
+ can assist:
+
+Provide information in an irregular situation, especially if familiar with flying. A strange smell or sound may alert a passenger to a potential problem. Confirm after the pilot that the landing gear is down. Learn to look at the altimeter for a given altitude in a descent. Listen to logic or lack of logic.
+
+Also, the process of a verbal briefing (which can happen whether or not passengers are aboard) can help the PIC in the decision- making process. For example, assume a pilot provides a lone passenger a briefing of the forecast landing weather before departure. When the Automatic Terminal Information Service (ATIS) is picked up, the weather has significantly changed. The discussion of this forecast change can lead the pilot to reexamine his or her activities and decision- making. [Figure 2- 17] Other valuable internal resources include ingenuity, aviation knowledge, and flying skill. Pilots can increase flight deck resources by improving these characteristics.

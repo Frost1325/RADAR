@@ -1,0 +1,4 @@
+ airplane must make all turns of that airplane to the left unless the airport displays approved light signals or visual markings indicating that turns should be made to the right, in which case the pilot must make all turns to the right.
+2. Each pilot of a helicopter or a powered parachute must avoid the flow of fixed-wing aircraft.
+
+Unless otherwise authorized or required by ATC, no person may operate an aircraft to, from, through, or on an airport having an operational control tower unless two- way radio communications are maintained between that aircraft and the control tower. Communications must be established within four nautical miles from the airport, up to and including 2,500 feet AGL. However, if the aircraft radio fails in flight, the PIC may operate that aircraft and land if weather conditions are at or above basic VFR weather minimums, visual contact with the tower is maintained, and a clearance to land is received.

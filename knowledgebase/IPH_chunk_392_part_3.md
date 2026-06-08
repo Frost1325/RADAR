@@ -1,0 +1,5 @@
+-RNAV—European Precision RNAV PT—Procedure Turn PTP—Point-To-Point
+
+Q QFE—Transition Height QNE—Transition Level QNH—Transition Altitude
+
+R RA—Resolution Advisory; Radio Altitude RAIM—Receiver Autonomous Integrity Monitoring RAL—Research Applications Laboratory RCO—Remote Communications Outlet RJ—Regional Jet RNAV—Area Navigation RNP—Required Navigation Performance RNP AR—Required Navigation Performance Authorization Required ROC—Required Obstacle Clearance RSP—Runway Safety Program RVR—Runway Visual Range RVSM—Reduced Vertical Separation Minimums RVV—Runway Visibility Value RWY—Runway RWY WP—Runway Waypoint S  SA—Situational Awareness  SAMS—Special Use Airspace Management System  SAR—Search and Rescue  SAS—Stability Augmentation System  SDF—Simplified Directional Facility  SDR—Service Difficulty Reports  SER—Start End of Runway  SIAP—Standard Instrument Approach Procedure  SID—Standard Instrument Departure  SIGMET—Significant Meteorological Information  SM—Statute Mile  SMA—Surface Movement Advisor  SMGCS—Surface Movement Guidance and Control System  SOIA—Simultaneous Offset Instrument Approaches

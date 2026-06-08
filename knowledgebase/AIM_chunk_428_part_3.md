@@ -1,0 +1,7 @@
+ers conducting such operations are expected to adhere to the same conditions, requirements, and practices as apply to other ground taxiing and ATC procedures in the AIM.
+
+1. The phraseology taxi is used when it is intended or expected that the helicopter will taxi on the airport surface, either via taxiways or other prescribed routes. Taxi is used primarily for helicopters equipped with wheels or in response to a pilot request. Preference should be given to this procedure whenever it is necessary to minimize effects of rotor downwash.
+
+2. Pilots may request a hover taxi when slow forward movement is desired or when it may be appropriate to move very short distances. Pilots should avoid this procedure if rotor downwash is likely to cause damage to parked aircraft or if blowing dust/snow could obscure visibility. If it is necessary to operate above 25 feet AGL when hover taxiing, the pilot should initiate a request to ATC.
+
+3. Air taxi is the preferred method for helicopter ground movements on airports provided ground operations and conditions permit. Unless otherwise requested or instructed, pilots are expected to remain below 100 feet AGL. However, if a higher than normal airspeed or altitude is desired, the request should be made prior to lift-off. The pilot is solely responsible

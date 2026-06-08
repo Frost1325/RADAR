@@ -1,0 +1,3 @@
+.
+
+<table><tr><td rowspan="2">Circling MDA in feet MSL<br>1000 or less</td><td colspan="5">Approach Category and Circling Radius (NM)</td></tr><tr><td colspan="5">CAT A CAT B CAT C CAT D CAT E</td></tr><tr><td>1.3</td><td>1.7</td><td>2.7</td><td>3.6</td><td>4.5</td><td></td></tr><tr><td>1.3</td><td>1.8</td><td>2.8</td><td>3.7</td><td>4.6</td><td></td></tr><tr><td>1.3</td><td>1.8</td><td>2.9</td><td>3.8</td><td>4.8</td><td></td></tr><tr><td>1.3</td><td>1.9</td><td>3.0</td><td>4.0</td><td>5.0

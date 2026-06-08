@@ -1,0 +1,5 @@
+ be comprised only of pilots who are safety- conscious, industrious, and cooperative.
+
+Clearly, this is not only an inaccurate inference, it is impossible. Pilots are drawn from the general population and exhibit all types of personality traits. Thus, it is important that good decision- making skills be taught to all pilots.
+
+Historically, the term "pilot error" has been used to describe an accident in which an action or decision made by the pilot was the cause or a contributing factor that led to the accident. This definition also includes the pilot's failure to make a correct decision or take proper action. From a broader perspective, the phrase "human factors related" more aptly describes these accidents. A single decision or event does not lead to an accident, but a series of events and the resultant decisions together form a chain of events leading to an outcome.

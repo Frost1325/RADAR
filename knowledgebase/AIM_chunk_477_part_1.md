@@ -1,0 +1,5 @@
+## NOTE-
+
+LEVELING off at 10,000 feet MSL on descent or 2,500 feet above airport elevation (prior to entering a Class C or Class Dsurface area) to comply with 14 CFR Section 91.117 airspeed restrictions is commonplace. Controllers anticipate this action and plan accordingly. Leveling off at any other time on climb or descent may seriously affect air traffic handling by ATC. Consequently, it is imperative that pilots make every effort to fulfill the above expected actions to aid ATC in safely handling and expediting traffic.
+
+e. If the altitude information of an ATC DESCENT clearance includes a provision to "CROSS (fix) AT" or "AT OR ABOVE/BELOW (altitude)," the manner in which the descent is executed to comply with the crossing altitude is at the pilot's discretion. This authorization to descend at pilot's discretion is only applicable to that portion of the flight to which the crossing altitude restriction applies, and the pilot is expected to comply with the crossing altitude as a provision of the clearance. Any other clearance in which pilot execution is optional will so state "AT PILOT'S DISCRETION."

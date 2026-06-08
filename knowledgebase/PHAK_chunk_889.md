@@ -1,0 +1,5 @@
+ air affects how much power a naturally aspirated engine produces, as well as how efficient the airfoils are. If there are fewer air molecules (lower pressure) to accelerate through the propeller, the acceleration to rotation speed is longer and thus produces a longer takeoff roll, which translates to a decrease in performance.
+
+As an example, consider an airport with a field elevation of 5,048 feet MSL where the standard temperature is \(5^{\circ} \mathrm{C}\) . Under these conditions, pressure altitude and density altitude are the same—5,048 feet. If the temperature changes to \(30^{\circ} \mathrm{C}\) , the density altitude increases to 7,855 feet. This means an aircraft would perform on takeoff as though the field elevation were 7,855 feet at standard temperature. Conversely, a temperature of \(- 25^{\circ} \mathrm{C}\) would result in a density altitude of 1,232 feet. An aircraft would perform much better under these conditions.
+
+## Instrument Check

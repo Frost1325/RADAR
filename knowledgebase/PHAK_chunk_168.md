@@ -1,0 +1,7 @@
+ the runway. The airframe and engines sustained considerable damage. Upon inspecting the wreck, accident investigators found the nose wheel steering tiller in the fully
+
+deflected position. Both the after takeoff and before landing checklists require the tiller to be placed in the neutral position. Everyman had overlooked this item.
+
+Now, is Everyman accident prone or just unlucky? Skipping details on a checklist appears to be a common theme in the preceding accidents. While most pilots have made similar mistakes, these errors were probably caught prior to a mishap due to extra margin, good warning systems, a sharp copilot, or just good luck. What makes a pilot less prone to accidents?
+
+The successful pilot possesses the ability to concentrate, manage workloads, and monitor and perform several simultaneous tasks. Some of the latest psychological screenings used in aviation test applicants for their ability to multitask, measuring both accuracy, as well as the individual's ability to focus attention on several subjects simultaneously. The FAA oversaw an extensive research study on the similarities and dissimilarities of accident- free pilots and those who were not. The project surveyed over 4,000 pilots, half of whom had "clean" records while the other half had been involved in an accident.

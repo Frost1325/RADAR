@@ -1,0 +1,1 @@
+with ailerons, coordinate with rudder, and add power as needed. In the practice of turning stalls, no attempt should be made to stall or recover the airplane on a predetermined heading. However, to simulate a turn from base to final approach, the stall normally should be made to occur within a heading change of approximately \(90^{\circ}\) .

@@ -1,0 +1,3 @@
+## Hydroplaning
+
+Hydroplaning is a condition that can exist when an airplane has landed on a runway surface contaminated with standing water, slush, or wet snow. Hydroplaning can have serious adverse effects on ground controllability and braking efficiency. The three basic types of hydroplaning are dynamic hydroplaning, reverted rubber hydroplaning, and viscous hydroplaning. Any one of the three can render an airplane partially or totally uncontrollable anytime during the landing roll.

@@ -1,0 +1,3 @@
+1572-5 1264 (1300-5)</td></tr><tr><td>LNAV MDA</td><td>1180/24 872 (900-½)</td><td>1180/40 872 (900-½)</td><td>1180-2 872 (900-2)</td><td>1180-2½ 872 (900-2½)</td></tr><tr><td>CIRCING</td><td>1180-1 870 (900-1)</td><td>1180-1½ 870 (900-1½)</td><td>1180-2½ 870 (900-2½)</td><td>1180-2½ 870 (900-2½)</td></tr></table>
+
+The differences in ROC application between non- vertically guided and vertically guided approach procedures may generate differences in minimum altitudes (MDA, DA)

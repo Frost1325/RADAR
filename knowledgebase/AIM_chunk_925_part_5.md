@@ -1,0 +1,7 @@
+necessary, such as when the primary missed approach NAVAID fails during the approach. Pilots may reject an ATC clearance for an alternate missed approach that requires equipment not necessary for the published approach procedure when the alternate missed approach is issued after beginning the approach. However, when the alternate missed approach is issued prior to beginning the approach the pilot must either accept the entire procedure (including the alternate missed approach), request a different approach procedure, or coordinate with ATC for alternative action to be taken, i.e., proceed to an alternate airport, etc.
+
+f. When approach has been missed, request clearance for specific action; i.e., to alternative airport, another approach, etc.
+
+g. Pilots must ensure that they have climbed to a safe altitude prior to proceeding off the published missed approach, especially in nonradar environments. Abandoning the missed approach prior to reaching the published altitude may not provide adequate terrain clearance. Additional climb may be required after reaching the holding pattern before proceeding back to the IAF or to an alternate.
+
+h. A clearance for an instrument approach procedure includes a clearance to fly the published missed approach procedure, unless otherwise instructed by ATC. The published missed approach procedure provides obstacle clearance only when the missed approach is conducted on the missed approach segment

@@ -1,0 +1,3 @@
+## Introduction
+
+Changing weather conditions, air traffic control (ATC), aircraft, and pilots are variables that make instrument flying an unpredictable and challenging operation. Safety of the flight depends on the pilot's ability to manage these variables while maintaining positive aircraft control and adequate situational awareness (SA). This appendix discusses recognition and suggested remedies for emergency events related to un- forecasted, adverse weather, aircraft system malfunctions, communication/navigation system malfunctions, loss of SA, and inadvertent instrument meteorological conditions (IIMCs).

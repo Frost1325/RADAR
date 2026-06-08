@@ -1,0 +1,3 @@
+Pressure altitude and temperature- to define the effect of density altitude Gross weight- which defines the CAS for landing Wind- a large effect due to wind or wind component along the runway Runway slope and condition- relatively small correction for ordinary values of runway slope, but a significant effect of snow, ice, or soft ground
+
+A tail wind of ten knots increases the landing distance by about 21 percent. An increase of landing speed by ten percent increases the landing distance by 20 percent. Hydroplaning makes braking ineffective until a decrease of speed that can be determined by using Figure 11- 18.

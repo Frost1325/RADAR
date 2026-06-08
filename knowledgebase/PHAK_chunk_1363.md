@@ -1,0 +1,5 @@
+) in the "Remarks" section to indicate the type of precipitation sensors employed at the automated station.
+
+When the modifier "COR" is used, it identifies a corrected report sent out to replace an earlier report that contained an error (for example: METAR KGGG 161753Z COR).
+
+5. Wind—reported with five digits (14021KT) unless the speed is greater than 99 knots, in which case the wind is reported with six digits. The first three digits indicate the direction the true wind is blowing from in tens of degrees. If the wind is variable, it is reported as "VRB." The last two digits indicate the speed of the wind in knots unless the wind is greater than 99 knots, in which case it is indicated by three digits. If the winds are gusting, the letter "G" follows the wind speed (G26KT). After the letter "G," the peak gust recorded is provided. If the wind direction varies more than \(60^{\circ}\) and the wind speed is greater than six knots, a separate group of numbers, separated by a "V," will indicate the extremes of the wind directions.

@@ -1,0 +1,5 @@
+to the point when level flight is necessary for the pilot to stabilize the aircraft on final approach. The procedure for a fuel efficient descent is based on an altitude loss which is most efficient for the majority of aircraft being served. This will generally result in a descent gradient window of 250-350 feet per nautical mile.
+
+c. When crossing altitudes and speed restrictions are issued verbally or are depicted on a chart, ATC will expect the pilot to descend first to the crossing altitude and then reduce speed. Verbal clearances for descent will normally permit an uninterrupted descent in accordance with the procedure as described in paragraph b above. Acceptance of a charted fuel efficient descent (Runway Profile Descent) clearance requires the pilot to adhere to the altitudes, speeds, and headings depicted on the charts unless otherwise instructed by ATC. PILOTS RECEIVING A CLEARANCE FOR A FUEL EFFICIENT DESCENT ARE EXPECTED TO
+
+ADVISE ATC IF THEY DO NOT HAVE RUNWAY PROFILE DESCENT CHARTS PUBLISHED FOR THAT AIRPORT OR ARE UNABLE TO COMPLY WITH THE CLEARANCE.

@@ -1,0 +1,5 @@
+, the discharge nozzle must be located at the venturi throat, and the throttle valve must be on the engine side of the discharge nozzle. This means that the drop in temperature due to fuel vaporization takes place within the venturi. As a result, ice readily forms in the venturi and on the throttle valve.
+
+A pressure- type carburetor discharges fuel into the airstream at a pressure well above atmospheric pressure. This results in better vaporization and permits the discharge of fuel into the airstream on the engine side of the throttle valve. With the discharge nozzle in this position fuel vaporization takes place after the air has passed through the throttle valve and at a point where the drop in temperature is offset by heat from the engine. Thus, the danger of fuel vaporization icing is practically eliminated. The effects of rapid maneuvers and rough air on the pressure- type carburetors are negligible, since their fuel chambers remain filled under all operating conditions.
+
+## Mixture Control

@@ -1,0 +1,5 @@
+# 1. Two (2) Helicopter Operations on Offshore Helidecks
+
+**1. Background.** Standardized procedures can enhance the safety of operating a second helicopter on an offshore helideck, enabling pilots to determine/maintain minimum operational parame-ters. Orientation of the parked helicopter on the helideck, wind and other factors may prohibit multi-helicopter operations. More conservative Rotor Diameter (RD) clearances may be required under differing condition, i.e., temperature, wet deck,wind (velocity/direction/gusts), obstacles, approach/departure angles, etc. Operations are at the pilot's discretion.
+
+**2. Recommended Practice.** Helideck size,structural weight capability, and type of main rotor on the parked and operating helicopter will aid in determining accessibility by a second helicopter.Pilots should determine that multi-helicopter deck operations are permitted by the helideck owner/operator.

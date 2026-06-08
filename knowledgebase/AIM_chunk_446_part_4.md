@@ -1,0 +1,5 @@
+intending to move on the ground, and turning it off when stopped or yielding to other ground traffic. Strobe lights should not be illuminated during taxi if they will adversely affect the vision of other pilots or ground personnel.
+
+f. At the discretion of the pilot-in-command, all exterior lights should be illuminated when taxiing on or across any runway. This increases the conspicuousness of the aircraft to controllers and other pilots approaching to land, taxiing, or crossing the runway. Pilots should comply with any equipment operating limitations and consider the effects of landing and strobe lights on other aircraft in their vicinity.
+
+g. When entering the departure runway for takeoff or to "line up and wait," all lights, except for landing lights, should be illuminated to make the aircraft conspicuous to ATC and other aircraft on approach. Landing lights should be turned on when takeoff clearance is received or when commencing takeoff roll at an airport without an operating control tower.

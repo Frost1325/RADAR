@@ -1,0 +1,3 @@
+ by telephone or radio, give the information in the order of the numbered spaces. This enables the FSS specialist to copy the information more efficiently. Most of the fields are either self- explanatory or non- applicable to the VFR flight plan (such as item 13). However, some fields may need explanation.
+
+Item 3 is the aircraft type and special equipment. An example would be C- 150/X, which means the aircraft has no transponder. A listing of special equipment codes is found in the Aeronautical Information Manual (AIM). Item 6 is the proposed departure time in UTC (indicated by the "Z"). Item 7 is the cruising altitude. Normally, "VFR" can be entered in this block since the pilot chooses a cruising altitude to conform to FAA regulations.

@@ -1,0 +1,3 @@
+## 4-3-1. General
+
+Increased traffic congestion, aircraft in climb and descent attitudes, and pilot preoccupation with cockpit duties are some factors that increase the hazardous accident potential near the airport. The situation is further compounded when the weather is marginal, that is, just meeting VFR requirements. Pilots must be particularly alert when operating in the vicinity of an airport. This section defines some rules, practices, and procedures that pilots should be familiar with and adhere to for safe airport operations.

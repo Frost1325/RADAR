@@ -1,0 +1,1 @@
+3VHF Omni- directional Range/Tactical Air Navigation, 1- 1- 3Inertial Navigation System, 1- 1- 15NDB. See Nondirectional Radio BeaconNear Midair Collision, 7- 6- 2NGA. See National Geospatial- Intelligence Agency

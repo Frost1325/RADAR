@@ -1,0 +1,3 @@
+ increases the airfoil camber, resulting in a significant increase in the coefficient of lift \(\mathrm{(C_L)}\) at a given AOA. At the same time, it greatly increases drag and moves the center of pressure (CP) aft on the airfoil, resulting in a nose- down pitching moment.
+
+The split flap is deflected from the lower surface of the airfoil and produces a slightly greater increase in lift than the plain flap. More drag is created because of the turbulent air pattern produced behind the airfoil. When fully extended, both plain and split flaps produce high drag with little additional lift.

@@ -1,0 +1,5 @@
+wish to use SIDs, include the statement "NO SIDs" in the remarks section of your flight plan. Doing so notifies ATC that they cannot issue you a clearance containing a SID, but instead will clear you via your filed route to the extent possible, or via a Preferential Departure Route (PDR). It should be noted that SID usage not only decreases clearance delivery time, but also greatly simplifies your departure, easing you into the IFR structure at a desirable location and decreases your flight management load. While you are not required to depart using a SID, it may be more difficult to receive an "as filed" clearance when departing busy airports that frequently use SID routing.
+
+SIDs are always charted graphically and are located in the TPP after the last approach chart for an airport. The SID may be one or two pages in length, depending on the size of the graphic and the amount of space required for the departure description. Each chart depicts the departure route, navigational fixes, transition routes, and required
+
+altitudes. The departure description outlines the particular procedure for each runway. [Figure 1- 22]

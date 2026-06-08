@@ -1,0 +1,7 @@
+## CAUTION
+
+False glide slope signals may exist in the area of the localizer back course approach which can cause the glide slope flag alarm to disappear and present unreliable glide slope information. Disregard all glide slope signal indications when making a localizer back course approach unless a glide slope is specified on the approach and landing chart.
+
+2. The glide slope transmitter is located between 750 feet and 1,250 feet from the approach end of the runway (down the runway) and offset 250 to 650 feet from the runway centerline. It transmits a glide path beam 1.4 degrees wide (vertically). The signal provides descent information for navigation down to the lowest authorized decision height (DH) specified in the approved ILS approach procedure. The glidepath may not be suitable for navigation below the lowest authorized DH and any reference to glidepath indications below that height must be supplemented by visual reference to the runway environment. Glidepaths with no published DH are usable to runway threshold.
+
+3. The glide path projection angle is normally adjusted to 3 degrees above horizontal so that it intersects the MM at about 200 feet and the OM at about 1,400 feet above the runway elevation.

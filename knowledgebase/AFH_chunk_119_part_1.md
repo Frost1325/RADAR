@@ -1,0 +1,3 @@
+## Diversion of Attention
+
+In addition to its direct impact, an in- flight anomaly or malfunction can also lead to an upset if it diverts the pilot's attention from basic airplane control responsibilities. Failing to monitor the automated systems, over- reliance on those systems, or incomplete knowledge and experience with those systems can lead to an upset. Diversion of attention can also occur simply from the pilot's efforts to set avionics or navigation equipment while flying the airplane.

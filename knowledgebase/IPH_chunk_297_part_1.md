@@ -1,0 +1,5 @@
+## Simplified Directional Facility (SDF)
+
+The SDF provides a final approach course similar to that of the ILS localizer. It does not provide glideslope information. A clear understanding of the ILS localizer and the additional factors listed below completely describe the operational characteristics and use of the SDF. [Figure 4- 62]
+
+The approach techniques and procedures used in an SDF instrument approach are essentially the same as those employed in executing a standard localizer approach except the SDF course may not be aligned with the runway and the course may be wider, resulting in less precision. Like the LOC type approaches, the SDF is an alternative approach that may be installed at an airport for a variety of reasons, including terrain. The final approach is provided a minimum of 250 feet obstacle clearance for straight- in approaches while in the final approach area, which is an area defined for a \(6^{\circ}\) course: 1,000 feet at or abeam the runway threshold expanding to 19,228 feet (10 NM) from the threshold. The same final approach area for a \(12^{\circ}\) course is larger. This type of approach is also designed

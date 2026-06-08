@@ -1,0 +1,7 @@
+### b. Ear Block.
+
+1. As the aircraft cabin pressure decreases during ascent, the expanding air in the middle ear pushes the eustachian tube open, and by escaping down it to the nasal passages, equalizes in pressure with the cabin pressure. But during descent, the pilot must periodically open the eustachian tube to equalize pressure. This can be accomplished by swallowing, yawning, tensing muscles in the throat, or if these do not work, by a combination of closing the mouth, pinching the nose closed, and attempting to blow through the nostrils (Valsalva maneuver).
+
+2. Either an upper respiratory infection, such as a cold or sore throat, or a nasal allergic condition can produce enough congestion around the eustachian tube to make equalization difficult. Consequently, the difference in pressure between the middle ear and aircraft cabin can build up to a level that will hold the eustachian tube closed, making equalization difficult if not impossible. The problem is commonly referred to as an "ear block."
+
+3. An ear block produces severe ear pain and loss of hearing that can last from several hours to several days. Rupture of the ear drum can occur in flight or after landing. Fluid can accumulate in

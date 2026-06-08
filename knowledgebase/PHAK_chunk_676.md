@@ -1,0 +1,5 @@
+ extension of the engine crankshaft. In this case, the rpm of the propeller would be the same as the crankshaft rpm. On some engines, the propeller is mounted on a shaft geared to the engine crankshaft. In this type, the rpm of the propeller is different than that of the engine.
+
+In a fixed- pitch propeller, the tachometer is the indicator of engine power. [Figure 7- 8] A tachometer is calibrated in hundreds of rpm and gives a direct indication of the engine and propeller rpm. The instrument is color coded with a green arc denoting the maximum continuous operating rpm. Some tachometers have additional markings to reflect engine and/or propeller limitations. The manufacturer's recommendations should be used as a reference to clarify any misunderstanding of tachometer markings.
+
+The rpm is regulated by the throttle, which controls the fuel- air flow to the engine. At a given altitude, the higher the tachometer reading, the higher the power output of the engine.

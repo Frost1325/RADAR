@@ -1,0 +1,7 @@
+with an associated Flight Director System (FD). Autopilots typically control the helicopter about the roll and pitch axes (cyclic control) but may also include yaw axis (pedal control) and collective control servos.
+
+6. FDs, which provide visual guidance to the pilot to fly specific selected lateral and vertical modes of operation. The visual guidance is typically provided as either a "dual cue" (commonly known as a "cross-pointer") or "single cue" (commonly known as a "vee-bar") presentation superimposed over the attitude indicator. Some FDs also include a collective cue. The pilot manipulates the helicopter's controls to satisfy these commands, yielding the desired flight path, or may couple the flight director to the autopilot to perform automatic flight along the desired flight path. Typically, flight director mode control and indication is shared with the autopilot.
+
+c. In order to be certificated for IFR operation, a specific helicopter may require the use of one or more of these systems, in any combination.
+
+d. In many cases, helicopters are certificated for IFR operations with either one or two pilots. Certain equipment is required to be installed and functional for two pilot operations, and typically, additional equipment

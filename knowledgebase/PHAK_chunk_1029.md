@@ -1,0 +1,5 @@
+ (excluding those of automatic flight control systems, transponders, and microwave frequency DME), only if no disassembly of the unit is required and pertinent instructions are provided; prior to the unit's intended use, an operational check must be performed in accordance with applicable sections of 14 CFR part 91.
+
+Certificated pilots, excluding student pilots, sport pilots, and recreational pilots, may perform preventive maintenance on any aircraft that is owned or operated by them provided that the aircraft is not used in air carrier service and does not qualify under 14 CFR parts 121, 129, or 135. A pilot holding a sport pilot certificate may perform preventive maintenance on an aircraft owned or operated by that pilot if that aircraft is issued a special airworthiness certificate in the LSA category. (Sport pilots operating LSA should refer to 14 CFR part 65 for maintenance privileges.) 14 CFR part 43, appendix A, contains a list of the operations that are considered to be preventive maintenance.
+
+## Repairs and Alterations

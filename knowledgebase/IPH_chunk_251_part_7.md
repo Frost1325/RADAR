@@ -1,0 +1,5 @@
+.
+
+As shown in Figure 4- 25, there are many different ways that the MAP can be depicted, depending on the type of approach. On all approach charts, it is depicted in the profile and plan views by the end of the solid course line and the beginning of the dotted missed approach course line for the top- line/lowest published minima. For a precision approach, the MAP is the point at which the aircraft reaches the DA or DH while on the glideslope/ glidepath. MAPs on non- precision approaches can be determined in many different ways. If the primary NAVAID is on the airport, and either a VOR or NDB approach is being executed, the MAP is normally the point at which the aircraft passes the NAVAID.
+
+On some non- precision approaches, the MAP is given as a fixed distance with an associated time from the FAF to the MAP based on the groundspeed of the aircraft. A table on the lower right or left hand side of the approach chart shows the distance in NM from the FAF to the MAP and the time it takes at specific groundspeeds, given in 30 knot increments. Pilots must determine the approximate groundspeed and time based on the approach speed and

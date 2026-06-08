@@ -1,0 +1,5 @@
+ flight instruction, as well as when the instructor conducts other pilot operations. Thus, the flight instructor becomes a model of flying proficiency for the student who, consciously or unconsciously, attempts to imitate the instructor. For this reason, a flight instructor should observe recognized safety practices, as well as regulations during all flight operations.
+
+The student pilot who enrolls in a pilot training program commits considerable time, effort, and expense to achieve a pilot certificate. Students often judge the effectiveness of the flight instructor and the success of the pilot training program based on their ability to pass the requisite FAA practical test. A competent flight instructor stresses to the student that practical tests are a sampling of pilot ability compressed into a short period of time. The goal of a flight instructor is to train the "total" pilot.
+
+## Role of the Designated Pilot Examiner

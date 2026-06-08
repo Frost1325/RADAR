@@ -1,0 +1,3 @@
+Normal climb</td><td>3-17, 6-12, 6-13, 11-8</td></tr><tr><td>Combustion heater</td><td>13-8</td></tr><tr><td>Constant radius turn during flight</td><td>7-3</td></tr><tr><td>Construction</td><td>17-5</td></tr><tr><td>Aluminum</td><td>17-5</td></tr><tr><td>Composite</td><td>17-5</td></tr></table>
+
+<table><tr><td>Steel tube and fabric</td><td>17-5</td></tr><tr><td>Continuous ignition</td><td>15-1</td></tr><tr><td>Controllable-pitch propeller</td><td>3-19, 12-1, 12-5, 12-6</td></tr><tr><td>Blade angle control</td><td>12-6, 12-7</td></tr><tr><

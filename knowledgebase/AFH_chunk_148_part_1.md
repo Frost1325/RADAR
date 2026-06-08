@@ -1,0 +1,7 @@
+## Approaches to Stalls (Impending Stalls), Power-On or Power-Off
+
+An impending stall occurs when the airplane is approaching, but does not exceed the critical AOA. The purpose of practicing impending stalls is to learn to retain or regain full control of the airplane immediately upon recognizing that it is nearing a stall, or that a stall is likely to occur if the pilot does not take appropriate action. Pilot training should emphasize teaching the same recovery technique for impending stalls and full stalls.
+
+The practice of impending stalls is of particular value in developing the pilot's sense of feel for executing maneuvers in which maximum airplane performance is required. These maneuvers require flight in which the airplane approaches a stall, but the pilot initiates recovery at the first indication, such as by a stall warning device activation.
+
+Impending stalls may be entered and performed in the same attitudes and configurations as the full stalls or other maneuvers described in this chapter. However, instead of allowing the airplane to reach the critical AOA, the pilot should immediately reduce AOA once the stall warning device goes off, if installed, or recognizes other cues such as buffeting. The pilot should hold the nodown control input as required to eliminate the stall warning. Then level the wings maintain coordinated flight, and then apply

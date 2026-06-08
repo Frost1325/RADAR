@@ -1,0 +1,7 @@
+## Inadvertent Thunderstorm Encounter
+
+A pilot should always avoid intentionally flying through a thunderstorm of any intensity; however, certain conditions may be present that could lead to an inadvertent thunderstorm encounter. For example, flying in areas where thunderstorms are embedded in large cloud masses may make thunderstorm avoidance difficult, even when the aircraft is equipped with thunderstorm detection equipment. Pilots must be prepared to deal with inadvertent thunderstorm penetration. At the very least, a thunderstorm encounter subjects the aircraft to turbulence that could be severe. The pilot, as well as the crew and any passengers, should tighten seat belts and shoulder harnesses and secure any loose items in the cabin or flight deck.
+
+As with any emergency, the first order of business is to fly the aircraft. The pilot workload is high; therefore, increased concentration is necessary to maintain an instrument scan. Once in a thunderstorm, it is better to maintain a course straight through the thunderstorm rather than turning around. A straight course most likely gets the pilot out of the hazard in the least amount of time, and turning maneuvers only increase structural stress on the aircraft.
+
+Reduce power to a setting that maintains a recommended turbulence penetration speed as described in the appropriate aircraft operator's manual, and try to minimize additional

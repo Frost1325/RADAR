@@ -1,0 +1,3 @@
+## NOTE-
+
+Properly trained and approved, as required, TSO-C145() and TSO-C146() equipped users (WAAS users) with and using approved baro-VNAV equipment may plan for LNAV/VNAV DA at an alternate airport. Specifically authorized WAAS users with and using approved baro-VNAV equipment may also plan for RNP 0.3 DA at the alternate airport as long as the pilot has verified RNP availability through an approved prediction program.

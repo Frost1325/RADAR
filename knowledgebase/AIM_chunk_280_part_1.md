@@ -1,0 +1,3 @@
+## EXAMPLE-
+
+In FIG 4- 1- 2 traffic information would be issued to the pilot of aircraft "C" as 2 o'clock. The actual position of the traffic as seen by the pilot of aircraft "C" would be 3 o'clock. Traffic information issued to aircraft "D" would be at an 11 o'clock position. Since it is not necessary for the pilot of aircraft "D" to apply wind correction (crab) to remain on track, the actual position of the traffic issued would be correct. Since the radar controller can only observe aircraft track (course) on the radar display, traffic advisories are issued accordingly, and pilots should give due consideration to this fact when looking for reported traffic.

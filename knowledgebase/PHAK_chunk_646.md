@@ -1,0 +1,5 @@
+ used in conjunction with trailing edge flaps and can reduce the nose- down pitching movement produced by the latter. As is true with trailing edge flaps, a small increment of leading edge flaps increases lift to a much greater extent than drag. As flaps are extended, drag increases at a greater rate than lift.
+
+Leading edge cuffs, like leading edge flaps and trailing edge flaps are used to increase both \(\mathrm{C_{L - MAX}}\) and the camber of the wing. Unlike leading edge flaps and trailing edge flaps, leading edge cuffs are fixed aerodynamic devices. In most cases, leading edge cuffs extend the leading edge down and forward. This causes the airflow to attach better to the upper surface of the wing at higher angles of attack, thus lowering an aircraft's stall speed. The fixed nature of leading edge cuffs extracts a penalty in maximum cruise airspeed, but recent advances in design and technology have reduced this penalty.
+
+## Spoilers

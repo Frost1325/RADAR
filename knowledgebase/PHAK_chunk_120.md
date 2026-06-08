@@ -1,0 +1,5 @@
+ating the risk factors associated with flight. Advisory Circular (AC) 60- 22, "Aeronautical Decision- Making," provides background references, definitions, and other pertinent information about ADM training in the general aviation (GA) environment. [Figure 2- 2]
+
+## History of ADM
+
+For over 25 years, the importance of good pilot judgment, or aeronautical decision- making (ADM), has been recognized as critical to the safe operation of aircraft, as well as accident avoidance. The airline industry, motivated by the need to reduce accidents caused by human factors, developed the first training programs based on improving ADM. Crew resource management (CRM) training for flight crews is focused on the effective use of all available resources: human resources, hardware, and information supporting ADM to facilitate crew cooperation and improve decision- making. The goal of all flight crews is good ADM and the use of CRM is one way to make good decisions.

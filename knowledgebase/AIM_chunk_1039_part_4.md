@@ -1,0 +1,3 @@
+towers, most civil towers, FSSs, and radar facilities. Normally ARTCC emergency frequency capability does not extend to radar coverage limits. If an ARTCC does not respond when called on 121.5 MHz or 243.0 MHz, call the nearest tower or FSS.
+
+2. 2182 kHz. The range is generally less than 300 miles for the average aircraft installation. It can be used to request assistance from stations in the maritime service. 2182 kHz is guarded by major radio stations serving Coast Guard Rescue Coordination Centers, and Coast Guard units along the sea coasts of the U.S. and shores of the Great Lakes. The call "Coast Guard" will alert all Coast Guard Radio Stations within range. 2182 kHz is also guarded by most commercial coast stations and some ships and boats.

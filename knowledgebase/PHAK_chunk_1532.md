@@ -1,0 +1,5 @@
+ position is based on the aircraft track and that wind correction can affect the clock position at which a pilot locates traffic. This service is not intended to relieve the pilot of the responsibility to see and avoid other aircraft. [Figure 14- 44] In addition to basic radar service, terminal radar service
+
+area (TRSA) has been implemented at certain terminal locations. TRSAs are depicted on sectional aeronautical charts and listed in the Chart Supplement U.S. (formerly Airport/Facility Directory). The purpose of this service is to provide separation between all participating VFR aircraft and all IFR aircraft operating within the TRSA. Class C service provides approved separation between IFR and VFR aircraft and sequencing of VFR aircraft to the primary airport. Class B service provides approved separation of aircraft based on IFR, VFR, and/or weight and sequencing of VFR arrivals to the primary airport(s).
+
+## Wake Turbulence

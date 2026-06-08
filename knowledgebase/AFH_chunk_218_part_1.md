@@ -1,0 +1,5 @@
+## Non-Towered Airports
+
+Non- towered airports traffic patterns are always entered at pattern altitude. How a pilot enters the pattern depends upon the direction of arrival. The preferred method for entering from the downwind leg side of the pattern is to approach the pattern on a course \(45^{\circ}\) to the downwind leg and join the pattern at midfield.
+
+There are several ways to enter the pattern if the arrival occurs on the upwind leg side of the airport. One method of entry from the opposite side of the pattern is to announce intentions and cross over midfield at least 500 feet above pattern altitude (normally 1,500 feet AGL). However, if large or turbine aircraft operate at the airport, it is best to remain 2,000 feet AGL so as not to conflict with their traffic pattern. When well clear of the pattern—approximately 2 miles—the pilot should scan carefully for traffic, descend to pattern altitude, then turn right to enter at \(45^{\circ}\) to the downwind leg at midfield. [Figure 8- 3A] An alternate method is to enter on a midfield crosswind at pattern altitude, carefully scan for traffic, announce intentions, and

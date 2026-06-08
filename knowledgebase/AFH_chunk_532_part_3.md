@@ -1,0 +1,5 @@
+suitable airport can also be a factor.
+
+The pilot should remember that the electrically- powered (or electrically- selected) landing gear and flaps do not function properly on the power left in a partially- depleted battery. Landing gear and flap motors use power at rates much greater than most other types of electrical equipment. The result of selecting these motors on a partially- depleted battery may well result in an immediate total loss of electrical power.
+
+<table><tr><td>Electrical Loads for<br>Light Single</td><td>Number<br>of units</td><td>Total<br>Amperes</td></tr><tr><td>A. Continuous Load</td><td></td><td></td></tr><tr><td>Pitot Heating (Operating)</td><td>1</td><td>3.30</td></tr><tr><td>Wingtip Lights</td><td>4</td><td>3.00</td></tr><tr><td>Heater Igniter</td><td>1</td><td>1-20</td></tr><tr><td>**Navigation Receivers</td><td>1-4</td><td>1

@@ -1,0 +1,7 @@
+## 1-1-13. User Reports Requested on NAVAID or Global Navigation Satellite System (GNSS) Performance or Interference
+
+a. Users of the National Airspace System (NAS) can render valuable assistance in the early correction of NAVAID malfunctions or GNSS problems and are encouraged to report their observations of undesirable performance. Although NAVAIDs are monitored by electronic detectors, adverse effects of electronic interference, new obstructions, or changes in terrain near the NAVAID can exist without
+
+detection by the ground monitors. Some of the characteristics of malfunction or deteriorating performance which should be reported are: erratic course or bearing indications; intermittent, or full, flag alarm; garbled, missing or obviously improper coded identification; poor quality communications reception; or, in the case of frequency interference, an audible hum or tone accompanying radio communications or NAVAID identification. GNSS problems are often characterized by navigation degradation or service loss indications.
+
+b. Reporters should identify the NAVAID (for example, VOR) malfunction or GNSS problem, location of the aircraft (i.e., latitude, longitude or bearing/distance from a NAVAID), magnetic heading, altitude, date and time of the observation, type of aircraft (

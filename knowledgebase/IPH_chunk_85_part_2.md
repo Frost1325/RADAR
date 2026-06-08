@@ -1,0 +1,3 @@
+, as well as remaining in VFR weather conditions. You cannot fly in IMC without first receiving your IFR clearance. Likewise, a VFR departure relieves ATC of these duties and basically requires them only to provide you with safety alerts as workload permits.
+
+Maintain VFR until you have obtained your IFR clearance and have ATC approval to proceed on course in accordance with your clearance. If you accept this clearance and are below the minimum IFR altitude for operations in the area, you accept responsibility for terrain/obstruction clearance until you reach that altitude.

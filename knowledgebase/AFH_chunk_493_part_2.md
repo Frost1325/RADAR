@@ -1,0 +1,3 @@
+cooling inlets, which further reduces drag and improves performance. This does present a new system for a transitioning pilot to check. Preflighting this system requires that the radiator, coolant hoses, and expansion tank are checked for condition, freedom from leaks, and coolant level requirements.
+
+Split flaps may be used on some LSA designs. [Figure 17- 14] These flaps hinge down from underneath the wing and inspecting these flaps requires the pilot to crouch and twist low for inspection. A suitable handheld mirror can facilitate inspection without undue twisting and bending. In an attempt to keep complexity to a minimum, flap control is typically a handle that actuates the flaps. A pilot should verify that the flaps extend and retract smoothly.

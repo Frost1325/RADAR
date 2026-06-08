@@ -1,0 +1,5 @@
+ exponentially. To make the control force required by pilots manageable, aircraft engineers designed more complex systems. At first, hydromechanical designs, consisting of a mechanical circuit and a hydraulic circuit, were used to reduce the complexity, weight, and limitations of mechanical flight controls systems. [Figure 6- 2]
+
+As aircraft became more sophisticated, the control surfaces were actuated by electric motors, digital computers, or fiber optic cables. Called "fly- by- wire," this flight control system replaces the physical connection between pilot controls and the flight control surfaces with an electrical interface. In addition, in some large and fast aircraft, controls are boosted by hydraulically or electrically actuated systems. In both the fly- by- wire and boosted controls, the feel of the control reaction is fed back to the pilot by simulated means.
+
+Current research at the National Aeronautics and Space Administration (NASA) Dryden Flight Research Center involves Intelligent Flight Control Systems (IFCS). The goal

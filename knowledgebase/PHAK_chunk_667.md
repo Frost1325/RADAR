@@ -1,0 +1,7 @@
+ main parts of a spark ignition reciprocating engine include the cylinders, crankcase, and accessory housing. The intake/exhaust valves, spark plugs, and pistons are located in the cylinders. The crankshaft and connecting rods are located in the crankcase. The magnetos are normally located on the engine accessory housing.
+
+In a four- stroke engine, the conversion of chemical energy into mechanical energy occurs over a four- stroke operating cycle. The intake, compression, power, and exhaust processes occur in four separate strokes of the piston in the following order.
+
+1. The intake stroke begins as the piston starts its downward travel. When this happens, the intake valve opens and the fuel-air mixture is drawn into the cylinder.
+2. The compression stroke begins when the intake valve closes, and the piston starts moving back to the top of the cylinder. This phase of the cycle is used to obtain a much greater power output from the fuel-air mixture once it is ignited.
+3. The power stroke begins when the fuel-air mixture is ignited. This causes a tremendous pressure increase in the cylinder and forces the piston downward away from the cylinder head, creating the power that turns the crankshaft.

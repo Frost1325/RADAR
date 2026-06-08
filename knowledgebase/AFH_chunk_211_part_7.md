@@ -1,0 +1,7 @@
+When the airplane is again at maneuvering speed, it is placed in a medium- banked turn. At the higher altitude, the projected visual reference line appears to move backward across the ground (pylon appears to move forward).
+
+After demonstrating the maneuver at a high altitude, the pilot should reduce power and begin a descent at maneuvering speed in a continuing medium- bank turn around the pylon. The apparent backward movement of the projected visual reference line with respect to the pylon will slow down as altitude is lost and will eventually stop for an instant. If the pilot continues the descent below the pivotal altitude, the projected visual reference line with respect to the pylon will begin to move forward.
+
+The altitude at which the visual reference line ceases to move across the ground is the pivotal altitude. If the airplane descends below the pivotal altitude, the pilot should increase power to maintain airspeed while regaining altitude to the point at which the projected reference line moves neither backward nor forward but actually pivots on the pylon. In this way, the pilot can determine the pivotal altitude of the airplane.
+
+The pivotal altitude changes with variations in groundspeed. Since the headings throughout turns continuously vary from downwind to upwind, the groundspeed constantly changes. This results in the

@@ -1,0 +1,5 @@
+## 5-4-1. Standard Terminal Arrival (STAR) Procedures
+
+a. A STAR is an ATC coded IFR arrival route established for application to arriving IFR aircraft destined for certain airports. STARs simplify clearance delivery procedures, and also facilitate transition between en route and instrument approach procedures.
+
+1. STAR procedures may have mandatory speeds and/or crossing altitudes published. Other STARs may have planning information depicted to inform pilots what clearances or restrictions to "expect." "Expect" altitudes/speeds are not considered STAR procedures crossing restrictions unless verbally issued by ATC. Published speed restrictions are independent of altitude restrictions and are mandatory unless modified by ATC. Pilots should plan to cross waypoints with a published speed restriction, at the published speed, and should not exceed this speed past the associated waypoint unless authorized by ATC or a published note to do so.

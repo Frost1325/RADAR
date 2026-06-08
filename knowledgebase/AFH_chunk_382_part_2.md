@@ -1,0 +1,3 @@
+operative landings when the airplane is landed under control. Analysis also reveals a very high fatality rate in stall spin accidents when the pilot attempts flight beyond the performance capability of the airplane.
+
+As mentioned previously, if the airplane's landing gear retraction mechanism is dependent upon hydraulic pressure from a certain engine- driven pump, failure of that engine can mean a loss of hundreds of feet of altitude as the pilot either windmills the engine to provide hydraulic pressure to raise the gear or raises it manually with a backup pump.

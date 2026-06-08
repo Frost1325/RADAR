@@ -1,0 +1,7 @@
+. TRSAs are depicted on VFR aeronautical charts. Pilot participation is urged but is not mandatory.
+
+TERMINAL VFR RADAR SERVICE- A national program instituted to extend the terminal radar services provided instrument flight rules (IFR) aircraft to visual flight rules (VFR) aircraft. The program is divided into four types service referred to as basic radar service, terminal radar service area (TRSA) service, Class B service and Class C service. The type of service provided at a particular location is contained in the Airport/Facility Directory.
+
+a. Basic Radar Service- These services are provided for VFR aircraft by all commissioned terminal radar facilities. Basic radar service includes safety alerts, traffic advisories, limited radar vectoring when requested by the pilot, and sequencing at locations where procedures have been established for this purpose and/or when covered by a letter of agreement. The purpose of this service is to adjust the flow of arriving IFR and VFR aircraft into the traffic pattern in a safe and orderly manner and to provide traffic advisories to departing VFR aircraft.
+
+b. TRSA Service- This service provides, in addition to basic radar service, sequencing of all IFR and participating VFR aircraft to the primary airport and separation between all participating V

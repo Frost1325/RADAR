@@ -1,0 +1,1 @@
+and En Route</td><td>1.0</td></tr><tr><td>2</td><td>En Route</td><td>2.0</td></tr><tr><td>4</td><td>Projected for oceanic/remote areas where 30 NM horizontal separation is applied.</td><td>4.0</td></tr><tr><td>10</td><td>Oceanic/remote areas where 50 NM lateral separation is applied.</td><td>10.0</td></tr></table>

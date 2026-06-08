@@ -1,0 +1,5 @@
+3.2005(c)). After a critical loss of thrust, a level 2 low speed airplane \((\mathrm{V}_{\mathrm{NO}}\) or \(\mathrm{V}_{\mathrm{MO}}\) less than or equal to 250 knots calibrated airspeed and \(\mathrm{M}_{\mathrm{MO}}\) less than or equal to 0.6) that does not meet single- engine crashworthiness requirements requires a climb gradient of at least 1.5 percent at a pressure altitude of 5,000 feet in the cruise configuration for certification (section 23.2120(b)(1)).
+
+While, the various subsets of airplanes receiving certification under the current part 23 meet specific single- engine climb performance criteria as listed in 14 CFR part 23, section 23.2120(b), the historical 14 CFR part 23 single- engine climb performance requirements for reciprocating engine- powered multie engine airplanes are broken down as follows:
+
+- More than 6,000 pounds maximum weight and/or \(\mathrm{V}_{\mathrm{SO}}\) more than 61 knots: the

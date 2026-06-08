@@ -1,0 +1,5 @@
+published, a minimum of \(\mathrm{V_{MC}}\) plus 5 knots should be used for \(\mathrm{V_{R}}\) .
+
+The rotation to a takeoff pitch attitude is performed with smooth control inputs. With a crosswind, the pilot should ensure that the landing gear does not momentarily touch the runway after the airplane has lifted off, as a side drift is present. The rotation may be accomplished more positively and/or at a higher speed under these conditions. However, the pilot should keep in mind that the AFM/POI performance figures for accelerate- stop distance, takeoff ground roll, and distance to clear an obstacle were calculated at the recommended \(\mathrm{V_{R}}\) and/or \(\mathrm{V_{LOF}}\) speed.
+
+After lift- off, the next consideration is to gain altitude as rapidly as possible. To assist the pilot in takeoff and initial climb profile, some AFM/POIs give a "50- foot" or "50- foot barrier" speed to use as a target during rotation, lift- off, and acceleration to \(\mathrm{V_{V}}\) . Prior to takeoff, pilots should review the takeoff distance to 50 feet above

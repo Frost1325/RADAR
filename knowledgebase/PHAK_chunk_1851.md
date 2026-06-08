@@ -1,0 +1,7 @@
+ or left, then immediately returns his or her head to an upright position. The instructor pilot should time the maneuver so the roll is stopped as the pilot returns his or her head upright. An intense disorientation is usually produced by this maneuver, and the pilot experiences the sensation of falling downward into the direction of the roll.
+
+In the descriptions of these maneuvers, the instructor pilot is doing the flying, but having the pilot do the flying can also be a very effective demonstration. The pilot should close his or her eyes and tilt the head to one side. The instructor pilot tells the pilot what control inputs to perform. The pilot then attempts to establish the correct attitude or control input with eyes closed and head tilted. While it is clear the pilot has no idea of the actual attitude, he or she will react to what the senses are saying. After a short time, the pilot will become disoriented and the instructor pilot will tell the pilot to look up and recover. This exercise allows the pilot to experience the disorientation while flying the aircraft.
+
+## Coping with Spatial Disorientation
+
+To prevent illusions and their potentially disastrous consequences, pilots can:

@@ -1,0 +1,13 @@
+### a. Position Identification.
+
+1. When a position report is to be made passing a VOR radio facility, the time reported should be the time at which the first complete reversal of the “to/from” indicator is accomplished.
+
+2. When a position report is made passing a facility by means of an airborne ADF, the time reported should be the time at which the indicator makes a complete reversal.
+
+3. When an aural or a light panel indication is used to determine the time passing a reporting point, such as a fan marker, Z marker, cone of silence or intersection of range courses, the time should be noted when the signal is first received and again when it ceases. The mean of these two times should then be taken as the actual time over the fix.
+
+4. If a position is given with respect to distance and direction from a reporting point, the distance and direction should be computed as accurately as possible.
+
+5. Except for terminal area transition purposes, position reports or navigation with reference to aids not established for use in the structure in which flight is being conducted will not normally be required by ATC.
+
+**b. Position Reporting Points.** CFRs require pilots to maintain a listening watch on the appropriate frequency and, unless operating under the provisions

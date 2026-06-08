@@ -1,0 +1,3 @@
+elevator were to remain deflected up, a strong tailwind can get under the control surface and lift the tail with unfortunate consequences for the propeller and engine.
+
+While stick- forward positioning is essential in strong tailwinds, it is not likely to be an appropriate response when winds are light. The propeller wash in even lightly- powered airplanes is usually strong enough to overcome the effects of light tailwinds, producing a net headwind over the tail. This in turn suggests that back stick, not forward, does the most to help with directional control. If in doubt, it is best to sample the wind as you taxi and position the elevator where it will do the most good.

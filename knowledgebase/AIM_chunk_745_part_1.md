@@ -1,0 +1,7 @@
+## EXAMPLE-
+
+"Climb in visual conditions so as to cross the McElory Airport southbound, at or above 6000, then climb via Keemming radial zero three three to Keemming VORTAC."
+
+c. Who is responsible for obstacle clearance? DPs are designed so that adherence to the procedure by the pilot will ensure obstacle protection. Additionally:
+
+1. Obstacle clearance responsibility also rests with the pilot when he/she chooses to climb in visual conditions in lieu of flying a DP and/or depart under increased takeoff minima rather than fly the climb gradient. Standard takeoff minima are one statute mile for aircraft having two engines or less and one-half statute mile for aircraft having more than two engines. Specified ceiling and visibility minima (VCOA or increased takeoff minima) will allow visual avoidance of obstacles until the pilot enters the standard obstacle protection area. Obstacle avoidance is not guaranteed if the pilot maneuvers farther from the airport than the specified visibility minimum prior to reaching the specified altitude. DPs may also contain what are called Low Close in Obstacles. These obstacles are less than 200 feet above the departure end of runway elevation and within one NM of the runway end, and do not require increased take

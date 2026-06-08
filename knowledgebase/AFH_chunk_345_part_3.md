@@ -1,0 +1,5 @@
+known as safe single-engine speed. It is the minimum speed to intentionally render the critical engine inoperative.
+
+- \(\mathbf{V}_{\mathrm{REF}}\) -reference landing speed—an airspeed used for final approach, which is normally 1.3 times \(\mathbf{V}_{\mathrm{SO}}\) , the stall speed in the landing configuration. The pilot may adjust the approach speed for winds and gusty conditions by using \(\mathbf{V}_{\mathrm{REF}}\) plus an additional number of units (e.g., \(\mathbf{V}_{\mathrm{REF}}+5\) ).
+
+- \(\mathrm{V}_{\mathrm{MC}}\) - currently defined in 14 CFR part 23, section 23.2135(c) as the calibrated airspeed at which, following the sudden critical loss of thrust, it is possible to maintain control of the airplane. \(\mathrm{V}_{\mathrm{MC}}\) is typically marked with a red radial line on most airspeed indicators [Figure 13-1]. \(\mathrm{V}_{\mathrm{MC}}\) was previously defined in 14 CFR part 23, section

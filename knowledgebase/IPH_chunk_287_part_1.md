@@ -1,0 +1,5 @@
+## VOR Approach
+
+The VOR is one of the most widely used non- precision approach types in the NAS. VOR approaches use VOR facilities both on and off the airport to establish approaches and include the use of a wide variety of equipment, such as DME and TACAN. Due to the wide variety of options included in a VOR approach, TERPS outlines design criteria for both on and off airport VOR facilities, as well as VOR approaches with and without a FAF. Despite the various configurations, all VOR approaches are non- precision approaches, require the presence of properly operating VOR equipment, and can provide MDAs as low as 250 feet above the runway. VOR also offers a flexible advantage in that an approach can be made toward or away from the navigational facility.
+
+The VOR approach into Fort Rucker, Alabama, is an example of a VOR approach where the VOR facility is on the airport and there is no specified FAF. [Figure 4- 52] For a straight- in approach, the final approach course is typically aligned to intersect the extended runway centerline 3,000 feet from the runway threshold, and the angle of convergence between the two does

@@ -1,0 +1,5 @@
+below the MDA is provided if a VDP is published and descent below the MDA is started at or after the VDP. Protection is also provided if a Visual Glide Slope Indicator (VGSI); e.g., VASI or PAPI, is installed and the aircraft remains on the VGSI glide path angle from the MDA. In either case, a chart note will indicate if the VDP or VGSI are not coincident with the VDA. On RNAV approach charts, a small shaded arrowhead shaped symbol (see the legend of the U.S. Terminal Procedures books, page H1) from the end of the VDA to the runway indicates that the 34:1 visual surface is clear.
+
+3. Pilots may use the published angle and estimated/actual groundspeed to find a target rate of descent from the rate of descent table published in the back of the U.S. Terminal Procedures Publication. This rate of descent can be flown with the Vertical Velocity Indicator (VVI) in order to use the VDA as an aid to flying a stabilized descent. No special equipment is required.
+
+4. Since one of the reasons for publishing a circling only instrument landing procedure is that the descent rate required exceeds the maximum allowed for a

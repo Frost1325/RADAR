@@ -1,0 +1,5 @@
+ and the flight deck or cabin to protect the pilot and passengers from accidental engine fires. This partition is called a firewall and is usually made of heat- resistant material such as stainless steel. However, a new emerging process of construction is the integration of composites or aircraft made entirely of composites.
+
+## Composite Construction History
+
+The use of composites in aircraft construction can be dated to World War II aircraft when soft fiberglass insulation was used in B- 29 fuselages. By the late 1950s, European high performance sailplane manufacturers were using fiberglass as primary structures. In 1965, the FAA type certified the first all- fiberglass aircraft in the normal category, a Swiss sailplane called a Diamant HBV. Four years later, the FAA certified a four- seat, single- engine Windecker Eagle in the normal category. By 2005, over 35 percent of new aircraft were constructed of composite materials.

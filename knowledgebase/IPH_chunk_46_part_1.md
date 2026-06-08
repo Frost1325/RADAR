@@ -1,0 +1,3 @@
+## Operations Specifications (OpSpecs)
+
+Within the air transportation industry, there is a need to establish and administer safety standards to accommodate many variables. These variables include a wide range of aircraft, varied operator capabilities, the various situations requiring different types of air transportation, and the continual, rapid changes in aviation technology. It is impractical to address these variables through the promulgation of safety regulations for each and every type of air transport situation and the varying degrees of operator capabilities. Also, it is impractical to address the

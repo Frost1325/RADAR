@@ -1,0 +1,5 @@
+ passengers decide to buy an airline ticket or rent a car, then a good decision has generally been made. This discussion also allows the pilot to move past what he or she thinks the passengers want to do and find out what they actually want to do. This removes self- induced pressure from the pilot.
+
+## The Programming
+
+The advanced avionics aircraft adds an entirely new dimension to the way GA aircraft are flown. The electronic instrument displays, GPS, and autopilot reduce pilot workload and increase pilot situational awareness. While programming and operation of these devices are fairly simple and straightforward, unlike the analog instruments they replace, they tend to capture the pilot's attention and hold it for long periods of time. To avoid this phenomenon, the pilot should plan in advance when and where the programming for approaches, route changes, and airport information gathering should be accomplished, as well as times it should not. Pilot familiarity with the equipment, the route, the local ATC environment, and personal capabilities vis- à- vis the automation should drive when, where, and how the automation is programmed and used.

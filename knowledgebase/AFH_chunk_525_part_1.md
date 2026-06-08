@@ -1,0 +1,7 @@
+## Cabin Fire
+
+Cabin fires generally result from one of three sources: (1) careless smoking on the part of the pilot and/or passengers; (2) electrical system malfunctions; or (3) heating system malfunctions. A fire in the cabin presents the pilot with two immediate demands: attacking the fire and getting the airplane safely on the ground as quickly as possible. A fire or smoke in the cabin should be controlled by identifying and shutting down the faulty system. In many cases, smoke may be removed from the cabin by opening the cabin air vents. This should be done only after the fire extinguisher (if available) is used. Then the cabin air control can be opened to purge the cabin of both smoke and fumes. If smoke increases in intensity when the cabin air vents are opened, they should be immediately closed. This indicates a possible fire in the heating system, nose compartment baggage area (if so equipped), or that the increase in airflow is feeding the fire.
+
+On pressurized airplanes, the pressurization air system removes smoke from the cabin; however, if the smoke is intense, it may be necessary to either depressurize at altitude, if oxygen is available for all occupants, or execute an emergency descent.
+
+In unpressur

@@ -1,0 +1,5 @@
+### b. Airways and Jet Routes Depiction on Flight Plan
+
+1. It is vitally important that the route of flight be accurately and completely described in the flight plan. To simplify definition of the proposed route, and to facilitate ATC, pilots are requested to file via airways or jet routes established for use at the altitude or flight level planned.
+
+2. If flight is to be conducted via designated airways or jet routes, describe the route by indicating the type and number designators of the airway(s) or jet route(s) requested. If more than one airway or jet route is to be used, clearly indicate points of transition. If the transition is made at an unnamed intersection, show the next succeeding NAVAID or named intersection on the intended route and the complete route from that point. Reporting points may be identified by using authorized name/code as depicted on appropriate aeronautical charts. The following two examples illustrate the need to specify the transition point when two routes share more than one transition fix.

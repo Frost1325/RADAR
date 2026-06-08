@@ -1,0 +1,3 @@
+, further aft movement of the power lever also results in a progressive increase in engine (N<sub>1</sub>) rpm until a maximum value of about negative \(11^{\circ}\) of blade angle and 85 percent N<sub>1</sub> are achieved.
+
+Operating in the beta range and/or with reverse thrust requires specific techniques and procedures depending on the particular airplane make and model. Specific engine parameters and limitations for operations within this area should be adhered to. It is essential that a pilot transitioning to turboprop airplanes becomes knowledgeable and proficient in these areas, which are unique to turbine-engine powered airplanes.

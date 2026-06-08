@@ -1,0 +1,3 @@
+</td></tr><tr><td>ASDE-X</td><td>Airport Surface Detection Equipment -<br>Model X</td></tr><tr><td>ASOS</td><td>Automated Surface Observing System</td></tr><tr><td>ASR</td><td>Airport Surveillance Radar</td></tr></table>
+
+<table><tr><td>Abbreviation/ Acronym</td><td>Meaning</td></tr><tr><td rowspan="2">ASRS</td><td rowspan="2">Aviation Safety Reporting System</td></tr><tr></tr><tr><td>ATC</td><td>Air Traffic Control</td></tr><tr><td>ATCRBS</td><td>Air Traffic Control Radar Beacon System</td></tr><tr><td>ATCSCC</td><td>Air Traffic Control System Command<br>Center</td></tr><tr><td>ATCT</td><td>Airport Traffic Control Tower</td></tr><tr><td>ATD</td><td>Along-Track Distance</td></tr><tr><td>ATIS</td><td>Automatic Terminal

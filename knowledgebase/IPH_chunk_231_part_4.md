@@ -1,0 +1,5 @@
+LNAV MDA, as long as all of the rules for a nonprecision approach are applied at the MDA.
+
+When there are obstacles in the visual area that could cause an aircraft to destabilize the approach between the MDA and touchdown, the IAP will not show a vertical descent angle in the profile view. The charts currently include the following statement: "Descent Angle NA" or "Descent Angle NA- Obstacles" [Figure 4- 11B].
+
+Like flying any other IAP, the pilot must see and avoid any obstacles in the visual segment during transition to landing. A constant- rate descent has many safety advantages over non- precision approaches that require multiple level- offs at stepdown fixes or manually calculating rates of descent. A stabilized approach can be maintained from the FAF to the landing when a constant- rate descent is used. Additionally, the use of an electronic vertical path produced by onboard avionics can serve to reduce CFIT, and minimize the effects of visual illusions on approach and landing. Some countries even mandate the use of continuous descent final approaches (CDFAs) on non- precision approaches.

@@ -1,0 +1,5 @@
+6,000 feet across the ground. Note that both ROC and AOC maximum climb profiles use the aircraft's maximum throttle setting. Any differences between max ROC and max AOC lie primarily in the velocity (airspeed) and AOA combination the aircraft manual specifies. [Figure 11- 7]
+
+ROC performance depends upon excess power. Since climbing is work and power is the rate of performing work, a pilot can increase the climb rate by using any power not used to maintain level flight. Maximum ROC occurs at an airspeed and AOA combination that produces the maximum excess power. Therefore, maximum ROC for a typical jet airplane occurs at an airspeed greater than \(\mathrm{L} / \mathrm{D}_{\mathrm{MAX}}\) and at an AOA less than \(\mathrm{L} / \mathrm{D}_{\mathrm{MAX}}\) AOA. In contrast, maximum ROC for a typical propeller airplane occurs at an airspeed and AOA combination closer to \(\mathrm{L} / \mathrm{D}_{\mathrm{MAX}}\) . [Figure 11- 9]
+
+## Climb Performance Factors

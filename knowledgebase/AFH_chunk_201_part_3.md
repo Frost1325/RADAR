@@ -1,0 +1,5 @@
+speed of 90 knots in a 10 knot tailwind with a desired turn radius of 2,000 feet, the bank angle would be approximately \(24^{\circ}\) . The bank angle flying upwind would be approximately \(16^{\circ}\) .
+
+Put another way, at a higher groundspeed, there is less time to turn the airplane while trying to maintain a ground- referenced constant- radius turn. The pilot increases the bank angle in order to increase the rate of turn, and the increased rate of turn offsets the reduced time available to make the turn. Conversely, when flying at a lower groundspeed, the pilot reduces the angle of bank and rate of turn to compensate for the additional time taken while making the turn. With some experience, pilots may notice how wind direction affects the time needed for various segments of ground- referenced turns.
+
+To demonstrate the effect that wind has on turns, the pilot should select a straight- line ground reference, such as a road or railroad track. [Figure 7- 3] Choosing a straight- line ground reference that is parallel to the wind, the airplane would be flown into the wind and directly over the selected straight- line ground reference. Once a straight- line

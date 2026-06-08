@@ -1,0 +1,5 @@
+is the FAA coordination facility.
+
+2. 14 CFR Section 91.137(a)(2): The following NOTAM permits flight operations in accordance with 14 CFR Section 91.137(a)(2). The on-site emergency response official to authorize media aircraft operations below the altitudes used by the relief aircraft. Flight restrictions 25 miles east of Bransome, Idaho, effective immediately until 9601202359 UTC. Pursuant to 14 CFR Section 91.137(a)(2) temporary flight restrictions are in effect within a 4-nautical-mile radius of the intersection of county roads 564 and 315 at and below 3,500 feet MSL to provide a safe environment for fire fighting aircraft operations. Davis County sheriff's department (792) 555-8122 (122.9) is in charge of on-scene emergency response activities. Glivings FSS (792) 555-1618 (122.2) is the FAA coordination facility.
+
+3. 14 CFR Section 91.13

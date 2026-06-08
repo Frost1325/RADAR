@@ -1,0 +1,5 @@
+has significant drag at small deflections, whereas the hinge flap does not because airflow remains "attached" to the flap.
+
+The slotted flap has a gap between the wing and the leading edge of the flap. The slot allows high- pressure airflow on the wing undersurface to energize the lower pressure over the top, thereby delaying flow separation. The slotted flap has greater lift than the hinge flap but less than the split flap; but, because of a higher lift- drag ratio, it gives better takeoff and climb performance. Small deflections of the slotted flap give a higher drag than the hinge flap but less than the split. This allows the slotted flap to be used for takeoff.
+
+The Fowler flap deflects down and aft to increase the wing area. This flap can be multi- slotted making it the most complex of the trailing- edge systems. This system does, however, give the maximum lift coefficient. Drag characteristics at small deflections are much like the slotted flap. Fowler flaps are most commonly used on larger airplanes because of their structural complexity and difficulty in sealing the slots.

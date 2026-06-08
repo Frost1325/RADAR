@@ -1,0 +1,5 @@
+.). The existing annotations, such as ILS 2 RWY 28 or Silver ILS RWY 28, will be phased out and replaced with the new designation.
+
+NAVAIDs are also subject to naming discrepancies as well. This problem is complicated by the fact that multiple NAVAIDs can be designated with the same identifier. VOR XYZ may occur several times in a provider's database, so the avionics manufacturer must design a way to identify these fixes by a more specific means than the three- letter identifier. Selection of geographic region is used in most instances to narrow the pilot's selection of NAVAIDs with like identifiers.
+
+Non- directional beacons (NDBs) and locator outer markers (LOMs) can be displayed differently than they are charted. When the first airborne navigation databases were being implemented, NDBs were included in the database as waypoints instead of NAVAIDs. This necessitated the use of five character identifiers for NDBs. Eventually, the NDBs were coded into the database as NAVAIDs, but many of the RNAV systems in use today continue to use the five- character identifier. These systems display the characters "NB" after the charted NDB identifier. Therefore, NDB

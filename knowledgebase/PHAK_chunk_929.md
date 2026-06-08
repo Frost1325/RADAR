@@ -1,0 +1,5 @@
+cession can also create some minor errors in some instruments. [Figure 8- 19] Precession can cause a freely spinning gyro to become displaced from its intended plane of rotation through bearing friction, etc. Certain instruments may require corrective realignment during flight, such as the heading indicator.
+
+## Sources of Power
+
+In some aircraft, all the gyros are vacuum, pressure, or electrically operated. In other aircraft, vacuum or pressure systems provide the power for the heading and attitude indicators, while the electrical system provides the power for the turn coordinator. Most aircraft have at least two sources of power to ensure at least one source of bank information is available if one power source fails. The vacuum or pressure system spins the gyro by drawing a stream of air against the rotor vanes to spin the rotor at high speed, much like the operation of a waterwheel or turbine. The amount of vacuum or pressure required for instrument operation varies, but is usually between \(4.5" \mathrm{Hg}\) and \(5.5" \mathrm{Hg}\) .

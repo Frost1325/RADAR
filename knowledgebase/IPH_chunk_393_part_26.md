@@ -1,0 +1,7 @@
+minate information on the current status of special use airspace. This information is provided to the Special Use Airspace Management System (SAMS). The electronic interface also provides SUA schedules and historical activation and utilization data.
+
+Minimum Crossing Altitude (MCA). An MCA is the lowest altitude at certain fixes at which the aircraft must cross when proceeding in the direction of a higher minimum en route IFR altitude. MCAs are established in all cases where obstacles intervene to prevent pilots from maintaining obstacle clearance during a normal climb to a higher MEA after passing a point beyond which the higher MEA applies.
+
+Minimum Descent Altitude (MDA). The lowest altitude, expressed in feet above mean sea level, to which descent is authorized on final approach or during circle- to- land maneuvering in execution of a standard instrument approach procedure where no electronic glide slope is provided.
+
+Minimum En Route Altitude (MEA). The MEA is the lowest published altitude between radio fixes that assures acceptable navigational signal coverage and meets obstacle clearance requirements between those fixes. The MEA prescribed for a Federal Airway or segment, RNAV low or high route, or other direct route applies to the entire width of the airway, segment, or route between the radio fixes defining the airway,

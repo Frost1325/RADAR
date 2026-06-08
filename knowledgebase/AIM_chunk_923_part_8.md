@@ -1,0 +1,3 @@
+</td><td>3.8</td><td>4.8</td><td></td></tr><tr><td>1.3</td><td>1.9</td><td>3.0</td><td>4.0</td><td>5.0</td><td></td></tr><tr><td>1.4</td><td>2.0</td><td>3.2</td><td>4.2</td><td>5.3</td><td></td></tr><tr><td>1.4</td><td>2.1</td><td>3.3</td><td>4.4</td><td>5.5</td><td></td></tr></table>
+
+2. Precision Obstacle Free Zone (POFZ). A volume of airspace above an area beginning at the runway threshold, at the threshold elevation, and centered on the extended runway centerline. The POFZ is 200 feet (60m) long and 800 feet (240m) wide. The POFZ must be clear when an aircraft on a vertically guided

@@ -1,0 +1,3 @@
+BL7-2-3 ICAO Cold Temperature Error Table Height Above Airport in Feet
+
+<table><tr><td></td><td>200</td><td>300</td><td>400</td><td>500</td><td>600</td><td>700</td><td>800</td><td>900</td><td>1000</td><td>1500</td><td>2000</td><td>3000</td><td>4000</td><td>5000</td></tr><tr><td>+10</td><td>10</td><td>10</td><td>10</td><td>10</td><td>20</td><td>20</td><td>20</td><td>20</td><td>20</td><td>30</td><td>40</td><td>60</td><td>80</td><td>90</td></

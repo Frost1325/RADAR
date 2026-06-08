@@ -1,0 +1,5 @@
+. Normally, if the needle is not exactly zero, it is only slightly above or below the zero line. After takeoff, the VSI should trend upward to indicate a positive rate of climb and then, once a stabilized climb is established, a rate of climb can be referenced.
+
+## Airspeed Indicator (ASI)
+
+The ASI is a sensitive, differential pressure gauge that measures and promptly indicates the difference between pitot (impact/dynamic pressure) and static pressure. These two pressures are equal when the aircraft is parked on the ground in calm air. When the aircraft moves through the air, the pressure on the pitot line becomes greater than the pressure in the static lines. This difference in pressure is registered by the airspeed pointer on the face of the instrument, which is calibrated in miles per hour, knots (nautical miles per hour), or both. [Figure 8- 7]

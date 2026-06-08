@@ -1,0 +1,1 @@
+>71-02</td><td>·Lower cowl LH</td><td>C</td><td>1</td><td>20182-005</td><td>5.4</td><td>78.4</td></tr><tr><td>71-03</td><td>·Lower cowl RH</td><td>C</td><td>1</td><td>20439-005</td><td>5.4</td><td>78.4</td></tr><tr><td>71-03<br>Flight Standards Service</td><td>·Engine baffling installation</td><td>C</td><td>1</td><td>15460-001</td><td>10.7</td><td>78.4</td></tr></table>

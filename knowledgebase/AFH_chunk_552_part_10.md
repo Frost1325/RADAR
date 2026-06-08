@@ -1,0 +1,3 @@
+other. The axis from nose to tail is the longitudinal axis, the axis that passes from wingtip to wingtip is the lateral axis, and the axis that passes vertically through the center of gravity is the vertical axis.
+
+Axial flow compressor. A type of compressor used in a turbine engine in which the airflow through the compressor is essentially linear. An axial- flow compressor is made up of several stages of alternate rotors and stators. The compressor ratio is determined by the decrease in area of the succeeding stages.

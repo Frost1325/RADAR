@@ -1,0 +1,5 @@
+## NOTE-
+
+The altitude assigned will assure IFR obstruction clearance from the point at which the approach clearance is issued until established on a segment of a published route or IAP. If uncertain of the meaning of the clearance, immediately request clarification from ATC.
+
+c. Several IAPs, using various navigation and approach aids may be authorized for an airport. ATC may advise that a particular approach procedure is being used, primarily to expedite traffic. If issued a clearance that specifies a particular approach procedure, notify ATC immediately if a different one is desired. In this event it may be necessary for ATC to withhold clearance for the different approach until such time as traffic conditions permit. However, a pilot involved in an emergency situation will be given priority. If the pilot is not familiar with the specific approach procedure, ATC should be advised and they will provide detailed information on the execution of the procedure.

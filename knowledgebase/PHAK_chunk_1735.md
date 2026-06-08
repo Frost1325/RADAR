@@ -1,0 +1,3 @@
+, the azimuth should be rotated \(180^{\circ}\) because, in this case, it is desired to fly "TO" the station. Now, turn the aircraft to the heading indicated on the VOR azimuth dial or course selector, \(350^{\circ}\) in this example.
+
+If a heading of \(350^{\circ}\) is maintained with a wind from the right as shown, the aircraft drifts to the left of the intended track. As the aircraft drifts off course, the VOR course deviation needle gradually moves to the right of center or indicates the direction of the desired radial or track.

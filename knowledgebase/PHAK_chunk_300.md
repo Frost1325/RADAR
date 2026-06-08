@@ -1,0 +1,3 @@
+ the most common matrix is epoxy resin, which is a type of thermosetting plastic. Compared to other choices such as polyester resin, epoxy is stronger and has good high- temperature properties. There are many different types of epoxies available with a wide range of structural properties, cure times and temperatures, and costs.
+
+The most common reinforcing fibers used in aircraft construction are fiberglass and carbon fiber. Fiberglass has good tensile and compressive strength, good impact resistance, is easy to work with, and is relatively inexpensive and readily available. Its main disadvantage is that it is somewhat heavy, and it is difficult to make a fiberglass load- carrying structure lighter than a well designed equivalent aluminum structure.

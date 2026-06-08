@@ -1,0 +1,5 @@
+vehicle drivers that they are within the runway environment or instrument landing system (ILS). Critical area, whichever is more conservative. The fixtures used for lead-on lights are bidirectional, i.e., one side emits light for the lead-on function while the other side emits light for the lead-off function. Any fixture that emits yellow light for the lead-off function must also emit yellow light for the lead-on function. (See FIG 2-1-14. )
+
+e. Land and Hold Short Lights. Land and hold short lights are used to indicate the hold short point on certain runways which are approved for Land and Hold Short Operations (LAHSO). Land and hold short lights consist of a row of pulsing white lights installed across the runway at the hold short point. Where installed, the lights will be on anytime LAHSO is in effect. These lights will be off when LAHSO is not in effect.
+
+REFERENCE- AIM, Pilot Responsibilities When Conducting Land and Hold Short Operations (LAHSO), Paragraph 4- 3- 11.

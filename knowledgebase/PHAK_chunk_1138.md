@@ -1,0 +1,5 @@
+ small, the cruise control procedure can be simplified to essentially maintaining a constant speed and power setting throughout the time of cruise flight. However, a long- range aircraft has a fuel weight that is a considerable part of the gross weight, and cruise control procedures must employ scheduled airspeed and power changes to maintain optimum range conditions.
+
+The effect of altitude on the range of a propeller- driven aircraft is illustrated in Figure 11- 13. A flight conducted at high altitude has a greater true airspeed (TAS), and the power required is proportionately greater than when conducted at sea level. The drag of the aircraft at altitude is the same as the drag at sea level, but the higher TAS causes a proportionately greater power required.
+
+NOTE: The straight line that is tangent to the sea level power curve is also tangent to the altitude power curve.

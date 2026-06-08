@@ -1,0 +1,7 @@
+ airspace. Use a sterile flight deck during arrival from the first radar vector for approach or descent for the approach. Keep the passengers informed during times when the workload is low. Consider using the passenger in the right seat for simple tasks, such as holding the chart. This relieves the pilot of a task.
+
+## Automation
+
+In the GA community, an automated aircraft is generally comprised of an integrated advanced avionics system consisting of a primary flight display (PFD), a multifunction flight display (MFD) including an instrument- certified global positioning system (GPS) with traffic and terrain graphics, and a fully integrated autopilot. This type of aircraft is commonly known as a technically advanced aircraft (TAA). In a TAA aircraft, there are typically two display (computer) screens: PFD (left display screen) and MFD.
+
+Automation is the single most important advance in aviation technologies. Electronic flight displays (EFDs) have made vast improvements in how information is displayed and what information is available to the pilot. Pilots can access electronic databases that contain all of the information traditionally contained in multiple handbooks, reducing clutter in the flight deck. [Figure 2- 21]

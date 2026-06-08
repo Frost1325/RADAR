@@ -1,0 +1,7 @@
+.
+
+In addition to the obvious differences contained in the planview of Figure 4- 16, RNAV (GPS) approach procedure example, pilots should be aware of the issues related to Baro- VNAV and RNP. The notes section of the procedure in the example contains restrictions relating to these topics.
+
+RNP values for each individual leg of the procedure, defined by the procedure design criteria for containment purposes, are encoded into the aircraft's navigation database. Applicable landing minimums are shown in a normal manner along with the associated RNP value in the landing minimums section.
+
+RNP required sensors, FMS capabilities, and relevant procedure notes are included in the Pilot Briefing Information procedure notes section. [Figure 4- 15] RNP AR requirements are highlighted in large, bold print. RNP procedures are sequenced in the same manner as RNAV (GPS) procedures. Procedure title "RNAV" includes parenthetical "(RNP)" terminology. RF legs can be used in any segment of the procedure (transition, intermediate, final, or missed approach). RF leg turn directions (left or right) are not noted in the planview because the graphic depiction of the flight tracks is intuitive. Likewise, the arc center points

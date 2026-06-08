@@ -1,0 +1,5 @@
+ strips on the first 20- 25 percent of the wing's leading edge is another method to introduce a stall prematurely.
+
+The wing never completely stops producing lift in a stalled condition. If it did, the aircraft would fall to the Earth. Most training aircraft are designed for the nose of the aircraft to
+
+drop during a stall, reducing the AOA and "unstalling" the wing. The nose- down tendency is due to the CL being aft of the CG. The CG range is very important when it comes to stall recovery characteristics. If an aircraft is allowed to be operated outside of the CG range, the pilot may have difficulty recovering from a stall. The most critical CG violation would occur when operating with a CG that exceeds the rear limit. In this situation, a pilot may not be able to generate sufficient force with the elevator to counteract the excess weight aft of the CG. Without the ability to decrease the AOA, the aircraft continues in a stalled condition until it contacts the ground.

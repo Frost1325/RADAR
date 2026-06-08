@@ -1,0 +1,5 @@
+ this reserve energy supply is depleted, the body lapses into generalized and severe fatigue.
+
+Acute fatigue can be prevented by proper diet and adequate rest and sleep. A well- balanced diet prevents the body from needing to consume its own tissues as an energy source. Adequate rest maintains the body's store of vital energy.
+
+Chronic fatigue, extending over a long period of time, usually has psychological roots, although an underlying disease is sometimes responsible. Continuous high- stress levels produce chronic fatigue. Chronic fatigue is not relieved by proper diet and adequate rest and sleep and usually requires treatment by a physician. An individual may experience this condition in the form of weakness, tiredness, palpitations of the heart, breathlessness, headaches, or irritability. Sometimes chronic fatigue even creates stomach or intestinal problems and generalized aches and pains throughout the body. When the condition becomes serious enough, it leads to emotional illness.

@@ -1,0 +1,5 @@
+## 7-1-27. PIREPs Relating to Volcanic Ash Activity
+
+a. Volcanic eruptions which send ash into the upper atmosphere occur somewhere around the world several times each year. Flying into a volcanic ash cloud can be extremely dangerous. At least two B747s have lost all power in all four engines after such an encounter. Regardless of the type aircraft, some damage is almost certain to ensue after an encounter with a volcanic ash cloud. Additionally, studies have shown that volcanic eruptions are the only significant source of large quantities of sulphur dioxide \((\mathrm{SO}_2)\) gas at jet-cruising altitudes. Therefore, the detection and subsequent reporting of \(\mathrm{SO}_2\) is of significant importance. Although \(\mathrm{SO}_2\) is colorless, its presence in the atmosphere should be suspected when a sulphur-like or rotten egg odor is present throughout the cabin.
+
+b. While some volcanoes in the U.S. are monitored, many in remote areas are not. These unmonitored volcanoes may erupt without prior warning to the aviation community. A pilot observing a volcanic eruption who has not had previous notification of it may be the only witness to

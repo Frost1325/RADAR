@@ -1,0 +1,5 @@
+A LAHSO clearance does not preclude a rejected landing.
+
+6. A pilot who accepts a LAHSO clearance should land and exit the runway at the first convenient taxiway (unless directed otherwise) before reaching the hold short point. Otherwise, the pilot must stop and hold at the hold short point. If a rejected landing becomes necessary after accepting a LAHSO clearance, the pilot should maintain safe separation from other aircraft or vehicles, and should promptly notify the controller.
+
+7. Controllers need a full read back of all LAHSO clearances. Pilots should read back their LAHSO clearance and include the words, "HOLD SHORT OF (RUNWAY/TAXIWAY/OR POINT)" in their acknowledgment of all LAHSO clearances. In order to reduce frequency congestion, pilots are encouraged to read back the LAHSO clearance without prompting. Don’t make the controller have to ask for a read back!

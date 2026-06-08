@@ -1,0 +1,3 @@
+## Night Blind Spot
+
+The "Night Blind Spot" appears under conditions of low ambient illumination due to the absence of rods in the fovea. [Figure 11- 3] This absence of rods affects the central 5 to 10 degrees of the visual field. If an object is viewed directly at night, it may go undetected or it may fade away after initial detection. The night blind spot can hide larger objects as the distance between the pilot and an object increases.

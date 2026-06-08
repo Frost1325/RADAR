@@ -1,0 +1,3 @@
+## EXAMPLE-
+
+"Kotzebue information ALPHA. One six five five zulu. Wind, two one zero at five; visibility two, fog; ceiling one hundred overcast; temperature minus one two, dew point minus one four; altimeter three one zero five. Altimeter in excess of three one zero zero, high pressure altimeter setting procedures are in effect. Favored runway two six. Weather in Kotzebue surface area is below V-F-R minima - an ATC clearance is required. Contact Kotzebue Radio on 123.6 for traffic advisories and advise intentions. Notice to Airmen, Hotham NDB out of service. Transcribed Weather Broadcast out of service. Advise on initial contact you have ALPHA."

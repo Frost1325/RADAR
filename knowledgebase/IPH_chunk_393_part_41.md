@@ -1,0 +1,7 @@
+control the flow of traffic with minimal communication, and reduce environmental impact through noise abatement procedures.
+
+Standard Service Volume. Most air navigation radio aids that provide positive course guidance have a designated standard service volume (SSV). The SSV defines the reception limits of unrestricted NAVAIDS that are usable for random/unpublished route navigation. Standard service volume limitations do not apply to published IFR routes or procedures. See the AIM (Chapter 1) for the SSV for specific NAVAID types.
+
+Standard Terminal Arrival (STAR). Provides a common method for departing the en route structure and navigating to your destination. A STAR is a preplanned instrument flight rule ATC arrival procedure published for pilot use in graphic and textual form to simplify clearance delivery procedures. STARs provide you with a transition from the en route structure to an outer fix or an instrument approach fix or arrival waypoint in the terminal area. STARs usually terminate with an instrument or visual approach procedure, but may also terminate with a heading or course to fly for radar vectors.
+
+Standard Terminal Arrival (STAR) Charts. Designed to expedite air traffic control arrival procedures and to facilitate transition between en route and instrument approach operations. Each STAR procedure is presented as a separate chart and may serve a single airport or more than one

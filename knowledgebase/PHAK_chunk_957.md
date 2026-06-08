@@ -1,0 +1,5 @@
+FR flight.
+
+A magnet is a piece of material, usually a metal containing iron, that attracts and holds lines of magnetic flux. Regardless of size, every magnet has two poles: north and south. When one magnet is placed in the field of another, the unlike poles attract each other, and like poles repel.
+
+An aircraft magnetic compass, such as the one in Figure 8- 32, has two small magnets attached to a metal float sealed inside a bowl of clear compass fluid similar to kerosene. A graduated scale, called a card, is wrapped around the float and viewed through a glass window with a lubber line across it. The card is marked with letters representing the cardinal directions, north, east, south, and west, and a number for each \(30^{\circ}\) between these letters. The final "0" is omitted from these directions. For example, \(3 = 30^{\circ}\) , \(6 = 60^{\circ}\) , and \(33 = 330^{\circ}\) .

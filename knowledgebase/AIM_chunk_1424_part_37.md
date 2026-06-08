@@ -1,0 +1,3 @@
+tr><td>UWS</td><td>Urgent Weather SIGMET</td></tr><tr><td>VAR</td><td>Volcanic Activity Reporting</td></tr><tr><td>VASI</td><td>Visual Approach Slope Indicator</td></tr><tr><td>VCOA</td><td>Visual Climb Over the Airport</td></tr><tr><td>VDA</td><td>Vertical Descent Angle</td></tr><tr><td>VDP</td><td>Visual Descent Point</td></tr><tr><td>VFR</td><td>Visual Flight Rules</td></tr><tr><td>VGSI</td><td>Visual Glide Slope Indicator</td></tr><tr><td>VHF</td><td>Very High Frequency</td></tr><tr><td>VIP</td><td>Video Integrator Processor</td></tr><tr><td>VMC</td><td>Visual Meteorological Conditions</td></tr></table>
+
+<table><tr><td>Abbreviation/ Acronym</td><td>Meaning</td></tr><tr><td>VMINI ......</td><

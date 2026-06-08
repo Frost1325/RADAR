@@ -1,0 +1,3 @@
+Even the current U.S. Low Altitude En route chart displays a blue symbol for this airport, indicating that it still has a Department of Defense (DOD) approved instrument approach procedure available for use.
+
+Aircrews need to use caution when selecting an airport in a cautionary or emergency situation, especially if the airport was not previously analyzed suitable for diversion during preflight. Aircrews could assume, based on charts and their FMS database, the airport is suitable and perhaps the only available diversionary or emergency option. The airport however, could be closed and hazardous even for emergency use. In these situations, Air Traffic Control may be queried for the airport's status.

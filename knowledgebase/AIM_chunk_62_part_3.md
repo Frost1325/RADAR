@@ -1,0 +1,3 @@
+avionics' application of the navigation database arise, the published approach chart, supplemented by NOT- AMs, holds precedence.
+
+(2) The course into a waypoint may not always be 180 degrees different from the course leaving the previous waypoint, due to the PBN system avionics' computation of geodesic paths, distance between waypoints, and differences in magnetic variation application. Variations in distances may also occur since PBN system distance-to-waypoint values are ATDs computed to the next waypoint and the DME values published on underlying procedures are slant-range distances measured to the station. This difference increases with aircraft altitude and proximity to the NAVAID.

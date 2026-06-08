@@ -1,0 +1,5 @@
+ and are not certified for flight in icing. These light aircraft have limited cross- country capability in the cooler climates during late fall, winter, and early spring. Noncertificated aircraft must exit icing conditions immediately. Refer to the AFM/POF for details.
+
+## Airfoil Anti-ice and Deice
+
+Inflatable deicing boots consist of a rubber sheet bonded to the leading edge of the airfoil. When ice builds up on the leading edge, an engine- driven pneumatic pump inflates the rubber boots. Many turboprop aircraft divert engine bleed air to the wing to inflate the rubber boots. Upon inflation, the ice is cracked and should fall off the leading edge of the wing. Deicing boots are controlled from the flight deck by a switch and can be operated in a single cycle or allowed to cycle at automatic, timed intervals. [Figure 7- 48]

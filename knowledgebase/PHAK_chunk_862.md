@@ -1,0 +1,5 @@
+ system should the aircraft enter precipitation. Both openings in the pitot tube must be checked prior to flight to ensure that neither is blocked. Many aircraft have pitot tube covers installed when they sit for extended periods of time. This helps to keep bugs and other objects from becoming lodged in the opening of the pitot tube.
+
+The one instrument that utilizes the pitot tube is the ASI. The total pressure is transmitted to the ASI from the pitot tube's pressure chamber via a small tube. The static pressure is also delivered to the opposite side of the ASI, which serves to cancel out the two static pressures, thereby leaving the dynamic pressure to be indicated on the instrument. When the dynamic pressure changes, the ASI shows either increase or decrease, corresponding to the direction of change. The two remaining instruments (altimeter and VSI) utilize only the static pressure that is derived from the static port.
+
+## Static Pressure Chamber and Lines

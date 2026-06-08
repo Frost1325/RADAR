@@ -1,0 +1,3 @@
+ angle. If the aircraft heading coincides with the TC and the wind is blowing from the left, the track does not coincide with the TC. The wind causes the aircraft to drift to the right, so the track falls to the right of the desired course or TC. [Figure 16- 15]
+
+The following method is used by many pilots to determine compass heading: after the TC is measured, and wind correction applied resulting in a TH, the sequence \(\mathrm{TH} \pm\) variation \((\mathrm{V}) =\) magnetic heading \((\mathrm{MH}) \pm\) deviation (D) \(=\) compass heading (CH) is followed to arrive at compass heading. [Figure 16- 16]

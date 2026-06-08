@@ -1,0 +1,3 @@
+## Chapter 2
+
+- Added indication that area navigation (RNAV) specific information is sometimes depicted on Victor routes to paragraph "IFR En Route Low Altitude Chart."- Updated figure 2-30, which depicts a Joint Victor/RNAV airway route, to be more realistic by removing a Global Navigation Satellite System (GNSS) minimum en route IFR altitude (MEA) that was a higher altitude than the conventional MEA for the same fix pair. The GNSS MEA should only be depicted when it is lower than the altitude of the conventional MEA.

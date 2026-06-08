@@ -1,0 +1,3 @@
+## NOTE
+
+In accordance with the 2010 DHS Appropriations Act, the U.S. Coast Guard (USCG) terminated the transmission of all U.S. LORAN- C signals on 08 Feb 2010. The USCG also terminated the transmission of the Russian American signals on 01 Aug 2010, and the Canadian LORAN- C signals on 03 Aug 2010. For more information, visit http://www.navcen.uscg.gov. Operators should also note that TSO- C60b, AIRBORNE AREA NAVIGATION EQUIPMENT USING LORAN- C INPUTS, has been canceled by the FAA.

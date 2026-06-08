@@ -1,0 +1,3 @@
+standards may still be qualified under special issuance provisions or the exemption process. This may require that either additional medical information be provided or practical flight tests be conducted.
+
+3. Student pilots should visit an Aviation Medical Examiner as soon as possible in their flight training in order to avoid unnecessary training expenses should they not meet the medical standards. For the same reason, the student pilot who plans to enter commercial aviation should apply for the highest class of medical certificate that might be necessary in the pilot's career.

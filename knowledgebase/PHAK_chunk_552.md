@@ -1,0 +1,3 @@
+ \(\pi\) (3.1415), and the ROT. In one of the previous examples, it was determined that an aircraft with a ROT of 5.25 degrees per second required 68.6 seconds to make a complete circle. An aircraft's speed (in knots) can
+
+be converted to fps by multiplying it by a constant of 1.69. Therefore, an aircraft traveling at 120 knots (TAS) travels at 202.8 fps. Knowing the speed in fps (202.8) multiplied by the time an aircraft takes to complete a circle (68.6 seconds) can determine the size of the circle; 202.8 times 68.6 equals 13,912 feet. Dividing by \(\pi\) yields a diameter of 4,428 feet, which when divided by 2 equals a radius of 2,214 feet [Figure 5- 61], a foot within that determined through use of the formula in Figure 5- 59.

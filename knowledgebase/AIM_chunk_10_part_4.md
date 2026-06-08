@@ -1,0 +1,3 @@
+approximately 30 seconds indicates that the DME is operative.
+
+g. Aircraft equipment which provides for automatic DME selection assures reception of azimuth and distance information from a common source. when designated VOR/DME, VORTAC and ILS/DME navigation facilities are selected. Pilots are cautioned to disregard any distance displays from automatically selected DME equipment when VOR or ILS facilities, which do not have the DME feature installed, are being used for position determination.

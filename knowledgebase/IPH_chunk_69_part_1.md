@@ -1,0 +1,7 @@
+## Standard Instrument Departures (SIDs)
+
+A SID is an ATC- requested and developed departure route, typically used in busy terminal areas. It is designed at the request of ATC in order to increase capacity of terminal airspace, effectively control the flow of traffic with minimal communication, and reduce environmental impact through noise abatement procedures.
+
+While obstacle protection is always considered in SID routing, the primary goal is to reduce ATC/pilot workload while providing seamless transitions to the en route structure. ATC clearance must be received prior to flying a SID. SIDs also provide additional benefits to both the airspace capacity and the airspace users by reducing radio congestion, allowing more efficient airspace use, and simplifying departure clearances. All of the benefits combine to provide effective, efficient terminal operations, thereby increasing the overall capacity of the NAS.
+
+If you cannot comply with a SID, if you do not possess the charted SID procedure, or if you simply do not wish to use SIDs, include the statement "NO SIDs" in the remarks section of your flight plan. Doing so notifies ATC that they cannot issue you a clearance containing a SID, but instead will clear you via your filed route to the extent possible, or via a Preferential Departure Route (PDR

@@ -1,0 +1,7 @@
+an airway, to receive course guidance from the facility ahead of the aircraft instead of the one behind. These COPs divide an airway or route segment and ensure continuous reception of navigational signals at the prescribed minimum en route IFR altitude.
+
+Chart Supplement (CS or d- CS for digital Chart Supplement). Regional booklets published by Aeronautical Information Services that provides general information (graphic and textual) about all airports, both VFR and IFR (in the A/FD section), Notices, Associated Data and Airport Diagrams. The A/FD section includes runway length and width, runway surface, load bearing capacity, runway slope, airport services, and hazards such as birds and reduced visibility.
+
+Charted Visual Flight Procedure (CVFP). A CVFP may be established at some towered airports for environmental or noise considerations, as well as when necessary for the safety and efficiency of air traffic operations. Designed primarily for turbojet aircraft, CVFPs depict prominent landmarks, courses, and recommended altitudes to specific runways.
+
+Closely Spaced Dependent Approaches. Identifies dependent approaches to parallel runways spaced less than 2,500 feet apart where ATC is permitted to apply reduced diagonal separation and special wake turbulence procedures. turbulence procedures

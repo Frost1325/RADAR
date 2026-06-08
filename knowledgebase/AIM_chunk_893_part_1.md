@@ -1,0 +1,5 @@
+# 5-4-15. Simultaneous (Parallel) Independent ILS/RNAV/GLS Approaches (See FIG 5-4-20.)
+
+a. System. An approach system permitting simultaneous ILS/RNAV/GLS approaches to parallel runways with centerlines separated by 4,300 to 9,000 feet (9,200' for airports above 5,000') utilizing NTZ final monitor controllers. Simultaneous (parallel) independent approaches require NTZ radar monitoring to ensure separation between aircraft on the adjacent parallel approach course. Aircraft position is tracked by final monitor controllers who will issue instructions to aircraft observed deviating from the assigned final approach course. Staggered radar separation procedures are not utilized. Integral parts of a total system are ILS, radar, communications, ATC procedures, and required airborne equipment. A chart note identifies that the approach is authorized for simultaneous use. When simultaneous operations are in progress, it will be advertised on the ATIS. When advised that simultaneous approaches are in progress, pilots must advise approach control immediately of
+
+malfunctioning or inoperative receivers, or if a simultaneous approach is not desired.

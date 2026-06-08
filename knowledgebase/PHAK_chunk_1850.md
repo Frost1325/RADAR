@@ -1,0 +1,5 @@
+{\circ}\) bank attitude while maintaining heading and pitch attitude. This creates the illusion of a strong sense of rotation in the opposite direction. After this illusion is noted, the pilot should open his or her eyes and observe that the aircraft is in a banked attitude.
+
+## Diving or Rolling Beyond the Vertical Plane
+
+This maneuver may produce extreme disorientation. While in straight- and- level flight, the pilot should sit normally, either with eyes closed or gaze lowered to the floor. The instructor pilot starts a positive, coordinated roll toward a \(30^{\circ}\) or \(40^{\circ}\) angle of bank. As this is in progress, the pilot tilts his or her head forward, looks to the right or left, then immediately returns his or her head to an upright position. The instructor pilot should time the maneuver so the roll is stopped as the pilot returns his or her head upright. An intense disorientation is usually produced by this maneuver, and the pilot experiences the sensation of falling downward into the direction of the roll.

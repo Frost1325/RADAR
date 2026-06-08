@@ -1,0 +1,7 @@
+ altitude and temperature- to define the effect of density altitude on distance Gross weight- a large effect on distance Wind- a large effect due to the wind or wind component along the runway Runway slope and condition- the effect of an incline and retarding effect of factors such as snow or ice
+
+## Landing Performance
+
+In many cases, the landing distance of an aircraft defines the runway requirements for flight operations. The minimum landing distance is obtained by landing at some minimum safe speed, that allows sufficient margin above stall and provides satisfactory control and capability for a go- around. Generally, the landing speed is some fixed percentage of the stall speed or minimum control speed for the aircraft in the landing configuration. As such, the landing is accomplished at some particular value of lift coefficient and AOA. The exact values depend on the aircraft characteristics but, once defined, the values are independent of weight, altitude, and wind.
+
+To obtain minimum landing distance at the specified landing speed, the forces that act on the aircraft must provide maximum deceleration during the landing roll. The forces acting on the aircraft during the landing roll may require various procedures to maintain landing deceleration at the peak value.

@@ -1,0 +1,5 @@
+s) combined with altimeters have become more accurate and autopilots more adept at maintaining a set level; therefore, it became apparent that for many modern aircraft, the 2,000- foot separation was not required. It was, therefore, proposed by ICAO that this be reduced to 1,000 feet.
+
+Between 1997 and 2005, RVSM was implemented in all of Europe, North Africa, Southeast Asia, North America, South America, and over the North Atlantic, South Atlantic, and Pacific Oceans. The North Atlantic implemented initially in March 1997, at FL 330 through FL 370. The entire western hemisphere implemented RVSM FL 290- FL 410 on January 20, 2005.
+
+Only aircraft with specially certified altimeters and autopilots may fly in RVSM airspace, otherwise the aircraft must fly lower or higher than the airspace, or seek special exemption from the requirements. Additionally, aircraft operators (airlines or corporate operators) must receive specific approval from the aircraft's state of registry in order to conduct operations in RVSM airspace. Non- RVSM approved aircraft may transit through RV

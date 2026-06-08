@@ -1,0 +1,7 @@
+Altitude (OROCA). An off- route altitude that provides obstruction clearance with a 1,000- foot buffer in nonmountainous terrain areas and a 2,000- foot buffer in designated mountainous areas within the U.S. This altitude may not provide signal coverage from groundbased navigational aids, air traffic control radar, or communications coverage.
+
+Operations Specifications (OpSpecs). A published document providing the conditions under which an air carrier and operator for compensation or hire must operate in order to retain approval from the FAA.
+
+Pilot Briefing Information. The current format for charted IAPs issued by Aeronautical Information Services. The information is presented in a logical order facilitating pilot briefing of the procedures. Charts include formatted information required for quick pilot or flight crew reference located at the top of the chart.
+
+Point- in- Space (PinS) Approach. An approach normally developed to heliports that do not meet the IFR heliport design standards but meet the standards for a VFR heliport. A helicopter PinS approach can be developed using conventional NAVAIDs or RNAV systems. These procedures have either a VFR or visual segment between the MAP and the landing area. The procedure specifies a

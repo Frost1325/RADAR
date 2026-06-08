@@ -1,0 +1,5 @@
+## Enhanced Flight Vision Systems (EFVS) and Instrument Approaches (Figure 4-10A)
+
+An Enhanced Flight Vision System (EFVS) is an installed aircraft system which uses a head up display (HUD), or an equivalent display that is a head up presentation, to combine aircraft flight information and flight symbology, navigation guidance, and a real- time image of the external scene to the pilot on a single display. Imaging sensors, which may be based on forward- looking infrared (FLIR), millimeter wave radiometry, millimeter wave radar, low- level light intensification, or other real- time imaging technologies, produce a real- time image of the outside scene. Combining the flight information, navigation guidance, and sensor imagery on a HUD or equivalent display allows the pilot to continue looking forward along the flightpath throughout the entire approach, landing, and rollout.
+
+Sections 91.175(c) and 91.176 specify two means of operating visually below DA/DH or MDA in the visual segment of an IAP. One means is by using natural vision under § 91.175(c), and the other is by using enhanced vision provided by an EFVS under § 9

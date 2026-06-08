@@ -1,0 +1,3 @@
+\times 36\) inches and ships unfolded for wall mounting. Chart is revised biennially. (See FIG 9-1-8. )
+
+4. Charted VFR Flyway Planning Charts. This chart is printed on the reverse side of selected TAC charts. The coverage is the same as the associated TAC. Flyway planning charts depict flight paths and altitudes recommended for use to bypass high traffic areas. Ground references are provided as a guide for visual orientation. Flyway planning charts are designed for use in conjunction with TACs and sectional charts and are not to be used for navigation. Chart scale 1 inch = \(3.43 \mathrm{nm} / 1:250,000\) .

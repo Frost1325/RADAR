@@ -1,0 +1,3 @@
+ the high- pressure area moves aft below the lower surface of the wing, allowing the slats to move forward. Some slats, however, are pilot operated and can be deployed at any AOA. Opening a slat allows the air below the wing to flow over the wing's upper surface, delaying airflow separation.
+
+Leading edge flaps, like trailing edge flaps, are used to increase both \(\mathrm{C_{L - MAX}}\) and the camber of the wings. This type of leading edge device is frequently used in conjunction with trailing edge flaps and can reduce the nose- down pitching movement produced by the latter. As is true with trailing edge flaps, a small increment of leading edge flaps increases lift to a much greater extent than drag. As flaps are extended, drag increases at a greater rate than lift.

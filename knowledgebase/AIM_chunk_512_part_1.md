@@ -1,0 +1,7 @@
+## NOTE-
+
+When a pilot has been told to follow another aircraft or to provide visual separation from it, the pilot should promptly notify the controller if visual contact with the other aircraft is lost or cannot be maintained or if the pilot cannot accept the responsibility for the separation for any reason.
+
+c. Scanning the sky for other aircraft is a key factor in collision avoidance. Pilots and copilots (or the right seat passenger) should continuously scan to cover all areas of the sky visible from the cockpit. Pilots must develop an effective scanning technique which maximizes one's visual capabilities. Spotting a potential collision threat increases directly as more time is spent looking outside the aircraft. One must use timesharing techniques to effectively scan the surrounding airspace while monitoring instruments as well.
+
+d. Since the eye can focus only on a narrow viewing area, effective scanning is accomplished with a series of short, regularly spaced eye movements that bring successive areas of the sky into the central visual field. Each movement should not exceed ten degrees, and each area should be observed for at least one second to enable collision detection. Although many pilots seem to prefer the method of horizontal back-and-forth scanning every pilot should develop a scanning pattern that is not only comfortable but assures optimum effectiveness. Pilots should

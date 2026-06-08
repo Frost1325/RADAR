@@ -1,0 +1,7 @@
+## Introduction
+
+Safe pilots prevent loss of control in flight (LOC- I), which is the leading cause of fatal general aviation accidents in the U.S. and commercial aviation worldwide. LOC- I includes any significant deviation of an aircraft from the intended flightpath and it often results from an airplane upset. Maneuvering represents the most common phase of flight for general aviation LOC- I accidents; however, LOC- I accidents occur in all phases of flight.
+
+To prevent LOC- I accidents, it is important for pilots to recognize and maintain a heightened awareness of situations that increase the risk of loss of control. Those situations include: uncoordinated flight, equipment malfunctions, pilot complacency, distraction, turbulence, and poor risk management. Attempting to fly in instrument meteorological conditions (IMC) when the pilot is not qualified or proficient is a common example of poor risk management. The Emergency Procedures chapter of this handbook contains specific information regarding unintended flight into IMC. Sadly, there are also LOC- I accidents resulting from intentional disregard for safety.
+
+To maintain aircraft control when faced with these or other contributing factors, the pilot needs to be aware of situations where LOC- I can occur; recognize when an airplane is approaching a stall, has stalled, or is in

@@ -1,0 +1,5 @@
+# Helicopter VFR Minimums
+
+Helicopters have the same VFR minimums as airplanes with two exceptions. In Class G airspace or under a special visual flight rule (SVFR) clearance, helicopters have no minimum visibility requirement but must remain clear of clouds and operate at a speed that is slow enough to give the pilot an adequate opportunity to see other aircraft or an obstruction in time to avoid a collision. Helicopters are also authorized (14 CFR Part 91, appendix D, § 3) to obtain SVFR clearances at airports with the designation NO SVFR on the sectional chart or in the Chart Supplement (CS). Figure 7-7shows the visibility and cloud clearance requirements for VFR and SVFR. However, lower minimums associated with Class G airspace and SVFR do not take the place of the VFR minimum requirements of either Part 135 regulations or respective OpSpecs.
+
+Knowledge of all VFR minimums is required in order to determine if a PinS approach can be conducted or if a SVFR clearance is required to continue past the (MAP). These approaches and procedures are discussed in detail later.

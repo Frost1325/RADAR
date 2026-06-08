@@ -1,0 +1,5 @@
+6] On May 20, 1926, Congress passed the Air Commerce Act, which served as the cornerstone for aviation within the United States. This legislation was supported by leaders in the aviation industry who felt that the airplane could not reach its full potential without assistance from the Federal Government in improving safety.
+
+The Air Commerce Act charged the Secretary of Commerce with fostering air commerce, issuing and enforcing air traffic rules, licensing pilots, certificating aircraft, establishing airways, and operating and maintaining aids to air navigation. The Department of Commerce created a new Aeronautics Branch whose primary mission was to provide oversight for the aviation industry. In addition, the Aeronautics Branch took over the construction and operation of the nation's system of lighted airways. The Postal Service, as part of the Transcontinental Air Mail Route system, had initiated this system. The
+
+Department of Commerce made significant advances in aviation communications, including the introduction of radio beacons as an effective means of navigation.

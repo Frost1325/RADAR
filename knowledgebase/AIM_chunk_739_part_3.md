@@ -1,0 +1,6 @@
+Conditions (IMC), when one is available. The following paragraphs will provide an overview of the DP program, why DPs are developed, what criteria are used, where to find them, how they are to be flown, and finally pilot and ATC responsibilities.
+
+a. Why are DPs necessary? The primary reason is to provide obstacle clearance protection information to pilots. A secondary reason, at busier airports, is to increase efficiency and reduce communications and departure delays through the use of SIDs. When an instrument approach is initially developed for an airport, the need for DPs is assessed. The procedure designer conducts an obstacle analysis to support departure operations. If an aircraft may turn in any direction from a runway within the limits of the assessment area (see paragraph 5-2-8b3) and remain clear of obstacles, that runway passes what is called a diverse departure assessment and no ODP will be published. A SID may be published if needed for air traffic control purposes. However, if an obstacle penetrates what is called the 40:1 obstacle identification surface, then the procedure designer chooses whether to:
+
+1. Establish a steeper than normal climb gradient; or
+2. Establish a steeper than normal climb gradient with an alternative that increases

@@ -1,0 +1,7 @@
+## The Four Fundamentals
+
+To master any subject, one should first master the fundamentals. For flying, this includes straight- and- level flight, turns, climbs, and descents. All flying tasks are based on these maneuvers, and an attempt to move on to advanced maneuvers prior to mastering the four fundamentals hinders the learning process.
+
+Consider the following: a takeoff is a combination of a ground roll, which may transition to a brief period of straight- and- level flight, and a climb. After- departure includes the climb and turns toward the first navigation fix and is followed by straight- and- level flight. The preparation for landing at the destination may include combinations of descents, turns, and straight- and- level flight. In a typical general aviation (GA) airplane, the final approach ends with a transition from descent to straight- and- level while slowing for the touchdown and ground roll.
+
+The flight instructor needs to impart competent knowledge of these basic flight maneuvers so that the beginning pilot is able to combine them at a performance level that at least meets the Federal Aviation Administration (FAA) Airman Certification Standards (ACS) or Practical Test Standards (PTS). As the beginning pilot progresses to more complex flight maneuvers, any deficiencies in the mastery of

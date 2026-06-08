@@ -1,0 +1,7 @@
+, feathered propeller is a small part the airplane's total drag.
+
+At the smaller blade angles near the flat pitch position, the drag added by the propeller is large. At these small blade angles, the propeller windmilling at high revolutions per minute (rpm) can create enough drag to make the airplane difficult or impossible to control. A propeller windmilling at high speed in the low range of blade angles can produce parasite drag as great as the parasite drag of the entire airframe.
+
+As a review, the constant- speed propellers on almost all single- engine airplanes are of the non- feathering, oil- pressure- to- increas- pitch design. In this design, increased oil pressure from the propeller governor drives the blade angle towards high pitch, low rpm.
+
+In contrast, the constant- speed propellers installed on most multigenine airplanes are full feathering, counterweighted, oil- pressure- to- decrease- pitch designs. In this design, increased oil pressure from the propeller governor drives the blade angle toward low pitch, high rpm—away from the feather blade angle. In effect, the only thing that keeps these propellers from feathering is a constant supply of high- pressure engine oil. This is

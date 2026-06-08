@@ -1,0 +1,5 @@
+of horizontal travel, expressed as a percentage. An altitude gain of 1.5 feet per 100 feet of travel (or 15 feet per 1,000 or 150 feet per 10,000) is a climb gradient of 1.5 percent.
+
+There is a dramatic performance loss associated with the loss of an engine, particularly just after takeoff. Any airplane's climb performance is a function of thrust horsepower, which is in excess of that required for level flight. In a hypothetical twin with each engine producing 200 thrust horsepower, assume that the total level flight thrust horsepower required is 175. In this situation, the airplane would ordinarily have a reserve of 225 thrust horsepower available for climb. Loss of one engine would leave only 25 (200 minus 175) thrust horsepower available for climb, a drastic reduction.
+
+The performance characteristics of an airplane depend upon the rules in effect during type certification and do not depend on the production year after certification. The current amendment to 14 CFR part 23, 81 FR 96689, went into effect on December 30, 2016

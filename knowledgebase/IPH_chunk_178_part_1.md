@@ -1,0 +1,7 @@
+## Standard Terminal Arrival Routes (STARs)
+
+A STAR is an ATC- coded IFR route established for application to arriving IFR aircraft destined for certain airports. A STAR provides a critical form of communication between pilots and ATC. Once a flight crew has accepted a clearance for a STAR, they have communicated with the controller what route, and in some cases what altitude and airspeed, they fly during the arrival, depending on the type of clearance. The STAR provides a common method for leaving the en route structure and navigating to your destination. It is a preplanned instrument flight rule ATC arrival procedure published for pilot use in graphic and textual form that simplifies clearance delivery procedures.
+
+The principal difference between standard instrument departure (SID) or departure procedures (DPs) and STARs is that the DPs start at the airport pavement and connect to the en route structure. STARs on the other hand, start at the en route structure but do not make it down to the pavement. This is primarily because STARs serve multiple runways and sometimes multiple airports.
+
+STARs greatly help to facilitate the transition between the en route and approach phases of flight. The STAR will end at a fix or NAVAID, designated by ATC, which allows for radar vectors

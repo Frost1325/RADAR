@@ -1,0 +1,3 @@
+procedures is also appropriate when making coupled ILS approaches.
+
+As with all approaches, the primary navigation responsibility falls upon the pilot in command. ATC instructions will be limited to ensuring aircraft separation. Additionally, MAPs are designed to diverge in order to protect all involved aircraft. ILS approaches of all types are afforded the same obstacle clearance protection and design criteria, no matter how capacity is affected by simultaneous ILS approaches. [Figure 4- 40]

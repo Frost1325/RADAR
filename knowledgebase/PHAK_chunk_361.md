@@ -1,0 +1,5 @@
+ the relationship of the airfoil with the oncoming airstream (angle). A paper airplane, which is simply a flat plate, has a bottom and top exactly the same shape and length. Yet, these airfoils do produce lift, and "flow turning" is partly (or fully) responsible for creating lift.
+
+As an airfoil moves through air, the airfoil is inclined against the airflow, producing a different flow caused by the airfoil's relationship to the oncoming air. Think of a hand being placed outside the car window at a high speed. If the hand is inclined in one direction or another, the hand will move upward or downward. This is caused by deflection, which in turn causes the air to turn about the object within the air stream. As a result of this change, the velocity about the object changes in both magnitude and direction, in turn resulting in a measurable velocity force and direction.
+
+## A Third Dimension

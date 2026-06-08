@@ -1,0 +1,7 @@
+## Closed Indefinitely Airports
+
+Some U.S. airports have been closed for up to several years, with little or no chance that they will ever reopen; yet their "indefinite" closure status - as opposed to permanent or UFN closure, or abandonment - causes them to continue to appear on both VFR and IFR charts and in airborne navigation databases; and their instrument approach procedures, if any, continue to be included - and still appear to be valid - in the paper and electronic versions of the United States Terminal Procedures Publication (TPP) charts. Airpark South, 2K2, at Ozark, Missouri, is a case in point.
+
+Even though this airport has been closed going on two years and, due to industrial and residential development surrounding it, likely will never be reopened, the airport is nonetheless still charted in a way that could easily lead a pilot to believe that it is still open and operating. Even the current U.S. Low Altitude En route chart displays a blue symbol for this airport, indicating that it still has a Department of Defense (DOD) approved instrument approach procedure available for use.
+
+Aircrews need to use caution when selecting an airport in a cautionary or emergency situation, especially if the airport

@@ -1,0 +1,7 @@
+IS predictive algorithm.
+
+(a) Intruder Display Limitations. TIS will only display aircraft with operating transponders installed. TIS relies on surveillance of the Mode S radar, which is a "secondary surveillance" radar similar to the ATRCBS described in paragraph 4-5-2
+
+(b) TIS Client Altitude Reporting Requirement. Altitude reporting is required by the TIS client aircraft in order to receive TIS. If the altitude encoder is inoperative or disabled, TIS will be unavailable, as TIS requests will not be honored by the ground system. As such, TIS requires altitude reporting to determine the Proximity Coverage Volume as indicated in FIG 4- 5- 4. TIS users must be alert to altitude encoder malfunctions, as TIS has no mechanism to determine if client altitude reporting is correct. A failure of this nature will cause erroneous and possibly unpredictable TIS operation. If this malfunction is suspected, confirmation of altitude reporting with ATC is suggested.
+
+(c) Intruder Altitude Reporting. Intruders without altitude reporting capability will be displayed without the accompanying altitude tag. Additionally, nonaltitude reporting intruders are assumed to be at the same altitude as the TIS client for alert computations. This helps

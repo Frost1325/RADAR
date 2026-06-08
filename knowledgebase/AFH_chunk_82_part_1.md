@@ -1,0 +1,3 @@
+## Rules of Energy Control
+
+The central principle encapsulating the role of the throttle and elevator for managing the airplane's energy can be summed up as follows: coordinated throttle and elevator inputs control the airplane's energy state. Modifying a popular adage, the principle can be restated as "pitch plus power controls energy state." This central principle serves to guide a set of general energy control rules to achieve and maintain any desired vertical flight path and airspeed targets within the airplane's energy envelope.

@@ -1,0 +1,7 @@
+a shorter vertical track beginning at the decision altitude.
+
+(1) It is FAA policy to design IAPs with minimum altitudes established at fixes/waypoints to achieve optimum stabilized (constant rate) descents within each procedure segment. This design can enhance the safety of the operations and contribute toward reduction in the occurrence of controlled flight into terrain (CFIT) accidents. Additionally, the National Transportation Safety Board (NTSB) recently emphasized that pilots could benefit from publication of the appropriate IAP descent angle for a stabilized descent on final approach. The RNAV IAP format includes the descent angle to the hundredth of a degree; e.g., 3.00 degrees. The angle will be provided in the graphically depicted descent profile.
+
+(2) The stabilized approach may be performed by reference to vertical navigation information provided by WAAS or LNAV/VNAV systems; or for LNAV-only systems, by the pilot determining the appropriate aircraft attitude/groundspeed combination to attain a constant rate descent which best emulates the published angle. To aid the pilot, U.S. Government Terminal Procedures Publication charts publish an expanded Rate of Descent Table on the inside of the
+
+back hard cover for use in planning and executing precision descents under known or approximate groundspeed conditions

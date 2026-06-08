@@ -1,0 +1,3 @@
+ power the aircraft electrical systems. These power sources include: engine- driven alternating current (AC) generators, auxiliary power units (APUs), and external power. The aircraft's electrical power system is used to operate the flight instruments, essential systems, such as anti- icing, and passenger services, such as cabin lighting.
+
+The flight controls are the devices and systems that govern the attitude of an aircraft and, as a result, the flight path followed by the aircraft. In the case of many conventional airplanes, the primary flight controls utilize hinged, trailing- edge surfaces called elevators for pitch, ailerons for roll, and the rudder for yaw. These surfaces are operated by the pilot in the flight deck or by an automatic pilot.

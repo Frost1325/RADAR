@@ -1,0 +1,7 @@
+system source. Ice tolerant antennas are also installed.
+
+In the event of impact ice accumulating over normal engine air induction sources, carburetor heat (carbureted engines) or alternate air (fuel- injected engines) should be selected. Ice buildup on normal induction sources can be detected by a loss of engine rpm with fixed- pitch propellers and a loss of manifold pressure with constant- speed propellers. On some fuel- injected engines, an alternate air source is automatically activated with blockage of the normal air source.
+
+An alternate static system provides an alternate source of static air for the pitot- static system in the unlikely event that the primary static source becomes blocked. In non- pressurized airplanes, most alternate static sources are plumbed to the cabin. On pressurized airplanes, they are usually plumbed to a non- pressurized baggage compartment. The pilot may activate the alternate static source by opening a valve or a fitting in the flight deck. Activation may create airspeed indicator, altimeter, or vertical speed indicator (VSI) errors. A correction table is frequently provided in the AFM/POH.
+
+Anti- icing/deicing equipment only eliminates ice from the protected surfaces. Significant ice accumulations may form on unprotected areas, even

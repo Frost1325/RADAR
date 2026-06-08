@@ -1,0 +1,3 @@
+ Any load factor above this line is unavailable aerodynamically (i.e., the aircraft cannot fly above the line of maximum lift capability because it stalls). The same situation exists for negative lift flight with the exception that the speed necessary to produce a given negative load factor is higher than that to produce the same positive load factor.
+
+If the aircraft is flown at a positive load factor greater than the positive limit load factor of 4.4, structural damage is possible. When the aircraft is operated in this region, objectionable permanent deformation of the primary structure may take place and a high rate of fatigue damage is incurred. Operation above the limit load factor must be avoided in normal operation.

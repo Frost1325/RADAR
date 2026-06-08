@@ -1,0 +1,3 @@
+- ATIS capability are listed in the CS.
+
+It is important to remember that ATIS information is updated hourly and anytime a significant change in the weather occurs. As a result, the information is not the most current report available. Prior to departing the airport, you need to get the latest weather information from the tower. ASOS/Awss and Awos also provide a source of current weather, but their information should not be substituted for weather reports from the tower.

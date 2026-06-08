@@ -1,0 +1,3 @@
+## 4-1-7. Operation Take-off and Operation Raincheck
+
+Operation Take- off is a program that educates pilots in how best to utilize the FSS modernization efforts and services available in Flight Service Stations (FSS), as stated in FAA Order 7230.17, Pilot Education Program - Operation Takeoff. Operation Raincheck is a program designed to familiarize pilots with the ATC system, its functions, responsibilities and benefits.

@@ -1,0 +1,3 @@
+### (b) Fire Suppression:
+
+Helicopters used in HEMS operations are usually powered by turboshaft engines, which use jet fuel. Civil HEMS aircraft typically carry between 50 and 250 gallons of fuel, depending upon the size of the helicopter, and planned flight duration, and the fuel remaining after flying to the scene. Use water to control heat and use foam over fuel to keep vapors from ignition sources.

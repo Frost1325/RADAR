@@ -1,0 +1,5 @@
+other aircraft<br>Paragraph 4-6-6 explains “traffic permitting.”</td></tr></table>
+
+<table><tr><td colspan="2">Mountain Wave Activity (MWA) Encounters - General</td></tr><tr><td>Pilot actions:<br>·Contact ATC and report experiencing MWA<br>·If so desired, pilot may request a FL change or re-route<br>·Report location and magnitude of MWA to ATC<br>See paragraph 4-6-6 for guidance on MWA.</td><td>Controller actions:<br>·Advise pilot of conflicting traffic at adjacent FL<br>·If pilot requests, vector aircraft to avoid merging target with traffic at adjacent RVSM flight levels, traffic permitting<br>·Issue FL change or re-route, traffic permitting<br>·Issue PIREP to other aircraft<br>Paragraph 4-6-6 explains “traffic permitting.”</td></tr><tr><td colspan="2">NOTE-<br>MWA encounters do not necessarily result in altitude deviations on the order of 200 feet. The guidance below is<br>intended to address less significant MWA encounters.</td></tr></table>
+
+<table><tr><td colspan

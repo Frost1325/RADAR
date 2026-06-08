@@ -1,0 +1,5 @@
+ alternately rises and lowers, the aircraft finally settles down to a speed at which the downward force on the tail exactly counteracts the tendency of the aircraft to dive. When this condition is attained, the aircraft is once again in balanced flight and continues in stabilized flight as long as this attitude and airspeed are not changed.
+
+A similar effect is noted upon closing the throttle. The downwash of the wings is reduced and the force at T in Figure 5- 23 is not enough to hold the horizontal stabilizer down. It seems as if the force at T on the lever were allowing the force of gravity to pull the nose down. This is a desirable characteristic because the aircraft is inherently trying to regain airspeed and reestablish the proper balance.
+
+Power or thrust can also have a destabilizing effect in that an increase of power may tend to make the nose rise. The aircraft designer can offset this by establishing a "high thrust line" wherein the line of thrust passes above the CG. [Figures 5- 26 and 5- 27] In this case, as power or thrust is

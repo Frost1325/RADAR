@@ -1,0 +1,7 @@
+ should develop a scanning pattern that is most comfortable and then adhere to it to assure optimum scanning. Even if entitled to the right- of- way, a pilot should yield if another aircraft seems too close.
+
+## Clearing Procedures
+
+The following procedures and considerations are in place to assist pilots in collision avoidance under various situations:
+
+- Before takeoff—prior to taxiing onto a runway or landing area in preparation for takeoff, pilots should scan the approach area for possible landing traffic, executing appropriate maneuvers to provide a clear view of the approach areas.- Climbs and descents—during climbs and descents in flight conditions that permit visual detection of other traffic, pilots should execute gentle banks left and right at a frequency that permits continuous visual scanning of the airspace.- Straight and level—during sustained periods of straight-and-level flight, a pilot should execute appropriate clearing procedures at periodic intervals.- Traffic patterns—entries into traffic patterns while descending should be avoided.- Traffic at VOR sites—due to converging traffic, sustained vigilance should be maintained in the vicinity of VORs and intersections.- Training operations—vigilance should be maintained and clearing turns should be made prior to a practice maneuver. During instruction, the pilot should be asked to verbalize the clearing procedures (call out “clear left, right, above, and below”).

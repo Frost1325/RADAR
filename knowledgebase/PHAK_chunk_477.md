@@ -1,0 +1,5 @@
+ approximately \(16^{\circ}\) to \(20^{\circ}\) depending on the aircraft's design. But each aircraft has only one specific AOA where the stall occurs.
+
+There are three flight situations in which the critical AOA is most frequently exceeded: low speed, high speed, and turning.
+
+One way the aircraft can be stalled in straight- and- level flight by flying too slowly. As the airspeed decreases, the AOA must be increased to retain the lift required for maintaining altitude. The lower the airspeed becomes, the more the AOA must be increased. Eventually, an AOA is reached that results in the wing not producing enough lift to support the aircraft, which then starts settling. If the airspeed is reduced further, the aircraft stalls because the AOA has exceeded the critical angle and the airflow over the wing is disrupted.

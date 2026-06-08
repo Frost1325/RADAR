@@ -1,0 +1,7 @@
+ a fixed distance of the pilot's choosing, if desired. The VOR parallel mode has the same effect as placing a waypoint directly over an existing VORTAC. Some pilots select the VOR parallel mode when utilizing the navigation (NAV) tracking function of their autopilot for smoother course following near the VORTAC.
+
+Navigating an aircraft with VOR/DME- based RNAV can be confusing, and it is essential that the pilot become familiar with the equipment installed. It is not unknown for pilots to operate inadvertently in one of the RNAV modes when the operation was not intended, by overlooking switch positions or annunciators. The reverse has also occurred with a pilot neglecting to place the unit into one of the RNAV modes by overlooking switch positions or annunciators. As always, the prudent pilot is not only familiar with the equipment used, but never places complete reliance in just one method of navigation when others are available for cross- check.
+
+## Automatic Direction Finder (ADF)
+
+Many general aviation- type aircraft are equipped with ADF radio receiving equipment. To navigate using the ADF, the pilot tunes the receiving equipment to a ground station known as a nondirectional radio beacon (NDB). The NDB stations normally operate in a low or medium frequency band

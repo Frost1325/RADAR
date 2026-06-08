@@ -1,0 +1,7 @@
+## Holding Patterns
+
+If aircraft reach a clearance limit before receiving a further clearance from ATC, a holding pattern is required at the last assigned altitude. Controllers assign holds for a variety of reasons, including deteriorating weather or high traffic volume. Holding might also be required following a missed approach. Since flying outside the area set aside for a holding pattern could lead to an encounter with terrain or other aircraft, aircrews need to understand the size of the protected airspace that a holding pattern provides. Each holding pattern has a fix, a direction to hold from the fix, and an airway, bearing, course, radial, or route on which the aircraft is to hold. These elements, along with the direction of the turns, define the holding pattern.
+
+Since the speed of the aircraft affects the size of a holding pattern, maximum holding airspeeds have been designated to limit the amount of airspace that must be protected. The three airspeed limits are shown in Figure 2- 73 in Chapter 2, En Route Operations, of this book. Some holding patterns have additional airspeed restrictions to keep faster aircraft from flying out of the protected area. These are depicted on charts by using an icon and the limiting airspeed.
+
+DME and IFR- certified GPS

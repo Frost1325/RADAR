@@ -1,0 +1,5 @@
+ or directional stability. Yawing or directional stability is the most easily achieved stability in aircraft design. The area of the vertical fin and the sides of the fuselage aft of the CG are the prime contributors that make the aircraft act like the well known weather vane or arrow, pointing its nose into the relative wind.
+
+In examining a weather vane, it can be seen that if exactly the same amount of surface were exposed to the wind in front of the pivot point as behind it, the forces fore and aft would be in balance and little or no directional movement would result. Consequently, it is necessary to have a greater surface aft of the pivot point than forward of it.
+
+Similarly, the aircraft designer must ensure positive directional stability by making the side surface greater aft than ahead of the CG. [Figure 5- 32] To provide additional positive stability to that provided by the fuselage, a vertical fin is added. The fin acts similar to the feather on an arrow in maintaining straight flight. Like the weather vane and the arrow, the farther aft this fin is placed and the larger its size, the greater the aircraft's directional stability.

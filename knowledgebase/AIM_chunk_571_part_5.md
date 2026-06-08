@@ -1,0 +1,5 @@
+. RVSM program managers do regularly review the operators and aircraft that operate in RVSM airspace to identify and investigate those aircraft and operators flying in RVSM airspace, but not listed on the RVSM approvals databases.
+
+2. Registration of U.S. Operators. When U.S. operators and aircraft are granted RVSM authority, the FAA Flight Standards office makes an input to the FAA Program Tracking and Reporting Subsystem (PTRS). The Separation Standards Group at the FAA Technical Center obtains PTRS operator and aircraft information to update the FAA maintained U.S. Operator/Aircraft RVSM Approvals Database. Basic database operator and aircraft information can be viewed on the RVSM Documentation Webpage by clicking on the appropriate database icon.
+
+3. Registration of Non-U.S. Operators. Non-U.S. operators can find policy/procedures for registration on the North American Approvals Registry and Monitoring Organization (NAARMO) database in the "Registration on RVSM Approvals Database" section of RVSM Documentation.

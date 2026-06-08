@@ -1,0 +1,5 @@
+.
+
+An adjustment knob is provided with which the pilot may move the miniature aircraft up or down to align the miniature aircraft with the horizon bar to suit the pilot's line of vision. Normally, the miniature aircraft is adjusted so that the wings overlap the horizon bar when the aircraft is in straight- and- level cruising flight.
+
+The pitch and bank limits of an attitude indicator depend upon the make and model of the instrument. Some attitude indicators have limits in the banking plane from \(100^{\circ}\) to \(110^{\circ}\) , and the pitch limits can be from \(60^{\circ}\) to \(70^{\circ}\) . For those attitude indicators that display only pitch information of \(+ / - 25^{\circ}\) vertically, the instrument could "peg" (stop) and remain at this pitch indication until the pitch no longer exceeds limitation or "tumble" and provide erroneous pitch and bank indications when the aircraft exceeds these limits. This may be extremely hazardous when the aircraft is operating in instrument meteorological conditions or confuse a pilot during an unusual attitude recovery. A number of modern attitude indicators do not have this problem.

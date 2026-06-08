@@ -1,0 +1,3 @@
+ unique to that aircraft's compass system (as affected by localized magnetic influencers) and it now becomes the compass course. Therefore, the compass course, when followed (in a no wind condition), takes the aircraft from point A to point B even though the aircraft heading may not match the original course line drawn on the chart.
+
+If the variation is shown as "9° E," this means that MN is 9° east of TN. If a TC of 360° is to be flown, 9° must be subtracted from 360°, which results in a magnetic heading of 351°. To fly east, a magnetic course of 081° (090° - 9°) would be flown. To fly south, the magnetic course would be 171° (180° - 9°). To fly west, it would be 261° (270° - 9°). To fly a TH of 060°, a magnetic course of 051° (060° - 9°) would be flown.

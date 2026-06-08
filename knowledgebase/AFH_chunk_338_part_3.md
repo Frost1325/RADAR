@@ -1,0 +1,1 @@
+and gear extension and locking) is accompanied by sound and feel that are unique to the specific make and model airplane. Become familiar with the sound and feel of normal gear retraction so that any abnormal gear operation can be readily recognized. Abnormal landing gear retraction is most often a clear sign that the gear extension cycle will also be abnormal.

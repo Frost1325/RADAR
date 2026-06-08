@@ -1,0 +1,5 @@
+ are the date. The last four digits are the time of the METAR/SPECI, which is always given in coordinated universal time (UTC). A "Z" is appended t0 the end of the time to denote the time is given in Zulu time (UTC) as oppo sed to local time.
+
+4. Modifier—denotes that the METAR/SPECI came from an automated source or that the report was corrected. If the notation "AUTO" is listed in the METAR/SPECI, the report came from an automated source. It also lists "AO1" (for no precipitation discriminator) or "AO2" (with precipitation discriminator) in the "Remarks" section to indicate the type of precipitation sensors employed at the automated station.
+
+When the modifier "COR" is used, it identifies a corrected report sent out to replace an earlier report that contained an error (for example: METAR KGGG 161753Z COR).

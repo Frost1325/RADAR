@@ -1,0 +1,5 @@
+ integrate diesel technology into an aircraft engine. The advantage
+
+of a diesel- fueled reciprocating engine lies in the physical similarity of diesel and kerosene. Aircraft equipped with a diesel piston engine runs on standard aviation fuel kerosene, which provides more independence, higher reliability, lower consumption, and operational cost saving.
+
+In 1999, Thielert formed Thielert Aircraft Engines (TAE) to design, develop, certify, and manufacture a brand- new Jet- A- burning diesel cycle engine (also known as jet- fueled piston engine) for the GA industry. By March 2001, the first prototype engine became the first certified diesel engine since World War II. TAE continues to design and develop diesel cycle engines and other engine manufacturers, such as Société de Motorisations Aéronautiques (SMA), now offer jet- fueled piston engines as well. TAE engines can be found on the Diamond DA40 single and the DA42 Twin Star; the first diesel engine to be part of the type certificate of a new original equipment manufacturer (OEM) aircraft.

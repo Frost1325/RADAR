@@ -1,0 +1,5 @@
+ this understanding to the design, development and deployment of systems and services, and the art of ensuring successful application of human factor principles into all aspects of aviation to include pilots, ATC, and aviation maintenance. Human factors is often considered synonymous with CRM or maintenance resource management (MRM) but is really much broader in
+
+both its knowledge base and scope. Human factors involves gathering research specific to certain situations (i.e., flight, maintenance, stress levels, knowledge) about human abilities, limitations, and other characteristics and applying it to tool design, machines, systems, tasks, jobs, and environments to produce safe, comfortable, and effective human use. The entire aviation community benefits greatly from human factors research and development as it helps better understand how humans can most safely and efficiently perform their jobs and improve the tools and systems in which they interact.
+
+## Human Behavior

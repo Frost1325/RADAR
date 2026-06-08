@@ -1,0 +1,5 @@
+,700 feet. Once ALT HOLD is annunciated, the MDA is selected by the PM as requested by the PF. It is extremely important for both pilots to be absolutely sure that the correct altitude is selected for the MDA so that the aircraft does not inadvertently descend below the MDA. For aircraft that the altitude pre- selector can only select 100 foot increments, the MDA for this approach must be set at 700 feet instead of 660 feet.
+
+Vertical speed mode is used from the FAF inbound to allow for more precise control of the descent. If the pilots had not selected the MDA in the altitude pre- selector window, the PF would not be able to input a V/S and the aircraft would remain level. The autopilot mode changes from ALT ACQ to ALT HOLD as the aircraft levels at 700 feet. Once ALT HOLD is annunciated, the PF calls for the missed approach altitude of 5,000 feet to be selected in the altitude pre- selector window. This step is very important because accurate FD guidance is not available to the PF during a missed approach if the MDA is left in the window.
+
+Note: See "Maximum Acceptable Descent

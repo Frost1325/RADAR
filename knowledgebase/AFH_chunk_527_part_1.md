@@ -1,0 +1,7 @@
+## Total Flap Failure
+
+The inability to extend the wing flaps necessitates a no- flap approach and landing. In light airplanes, a no- flap approach and landing is not particularly difficult or dangerous. However, there are certain factors that should be considered in the execution of this maneuver. A no- flap landing requires substantially more runway than normal. The increase in required landing distance could be as much as 50 percent.
+
+When flying in the traffic pattern with the wing flaps retracted, the airplane should be flown in a relatively nose- high attitude to maintain altitude, as compared to flight with flaps extended. Losing altitude can be more of a problem without the benefit of the drag normally provided by flaps. A wider, longer traffic pattern may be required in order to avoid the necessity of diving to lose altitude and consequently building up excessive airspeed.
+
+On final approach, a nose- high attitude can make it difficult to see the runway. This situation, if not anticipated, can result in serious errors in judgment of height and distance. Approaching the runway in a relatively nose- high attitude can also cause the perception that the airplane is close to a stall. This may cause the pilot to lower the nose abruptly and risk touching down on the nose-

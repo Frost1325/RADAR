@@ -1,0 +1,5 @@
+ horizontal stabilizer. ThermaWing systems typically have two zones of heat application. One zone on the leading edge receives continuous heat; the second zone further aft receives heat in cycles to dislodge the ice allowing aerodynamic forces to remove it. Thermal anti- ice systems should be activated prior to entering icing conditions.
+
+An alternate type of leading edge protection that is not as common as thermal anti- ice and deicing boots is known as a weeping wing. The weeping-wing design uses small holes located in the leading edge of the wing to prevent the formation and build- up of ice. An antifreeze solution is pumped to the leading edge and weeps out through the holes. Additionally, the weeping wing is capable of deicing an aircraft. When ice has accumulated on the leading edges, application of the antifreeze solution chemically breaks down the bond between the ice and airframe, allowing aerodynamic forces to remove the ice. [Figure 7- 49]
+
+## Windscreen Anti-ice

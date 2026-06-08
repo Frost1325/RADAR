@@ -1,0 +1,7 @@
+ unit until it is aligned with the transmitter signal. The magnetic slaving transmitter is connected electrically to the HSI.
+
+There are a number of designs of the remote indicating compass; therefore, only the basic features of the system are covered here. Instrument pilots must become familiar with the characteristics of the equipment in their aircraft.
+
+As instrument panels become more crowded and the pilot's available scan time is reduced by a heavier flight deck workload, instrument manufacturers have worked toward combining instruments. One good example of this is the RMI in Figure 8- 30. The compass card is driven by signals from the flux valve, and the two pointers are driven by an automatic direction finder (ADF) and a very high frequency (VHF) omni- directional radio range (VOR).
+
+Heading indicators that do not have this automatic nonthreatening capability are called "free" gyros and require periodic adjustment. It is important to check the indications frequently (approximately every 15 minutes) and reset the heading indicator to align it with the magnetic compass when required. Adjust the heading indicator to the magnetic compass heading when the aircraft is straight and level at a constant speed to avoid compass errors.

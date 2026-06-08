@@ -1,0 +1,3 @@
+></tr><tr><td>SPC</td><td>Storm Prediction Center</td></tr><tr><td>SPS</td><td>Standard Positioning Service</td></tr><tr><td>STAR</td><td>Standard Terminal Arrival</td></tr><tr><td>STARS</td><td>Standard Terminal Automation<br>Replacement System</td></tr></table>
+
+<table><tr><td>Abbreviation/ Acronym</td><td>Meaning</td></tr><tr><td colspan="2">TA</td></tr><tr><td>TAA</td><td>Terminal Arrival Area</td></tr><tr><td>TAC</td><td>Terminal Area Chart</td></tr><tr><td>TACAN</td><td>Tactical Air Navigation</td></tr><tr><td>TAF</td><td>Aerodrome Forecast</td></tr><tr><td>TAS</td><td>True Air Speed</td></tr><tr><td>TCAS</td><td>Traffic Alert and Collision Avoidance<br>System</td></tr><tr><td>TCH</td><td>Threshold Crossing Height</

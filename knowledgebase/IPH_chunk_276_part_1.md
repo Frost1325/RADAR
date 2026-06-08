@@ -1,0 +1,5 @@
+## GPS Stand-Alone/RNAV (GPS) Approach
+
+The number of GPS stand- alone approaches continues to decrease as they are replaced by RNAV approaches. RNAV (GPS) approaches are named so that airborne navigation databases can use either GPS or RNAV as the title of the approach. This is required for non- GPS approach systems, such as VOR/DME based RNAV systems. In the past, these approaches were often referred to as "stand- alone GPS" approaches. They are considered non- precision approaches, offering only LNAV and circling minimums. Precision minimums are not authorized, although LNAV/ VNAV minimums may be published and used as long as the on- board system is capable of providing approach approved VNAV. The RNAV (GPS) Runway 14 approach for Lincoln, Nebraska, incorporates only LNAV and circling minimums. [Figure 4- 39]
+
+For a non- vertically guided straight- in RNAV (GPS) approach, the final approach course must be aligned within 15" of the extended runway centerline. The final approach segment should not exceed 10 NM, and when it exceeds 6 NM, a stepdown fix is typically incorporated. A

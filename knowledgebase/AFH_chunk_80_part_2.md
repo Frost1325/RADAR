@@ -1,0 +1,7 @@
+distribution device whose primary job is to allocate changes in total energy between vertical flight path and airspeed by adjusting pitch attitude. Here, once the chosen path- speed profile is achieved, the elevator sets the appropriate pitch attitude to maintain the demanded distribution of total energy over vertical flight path and airspeed. Thus, the elevator is the energy distribution controller.
+
+The throttle and elevator then are really energy state controls- - neither one controls altitude nor airspeed independently since these two variables are inherently coupled through the airplane's total mechanical energy. Instead, to control altitude and airspeed effectively, the pilot coordinates the use of both devices to manage the airplane's energy state.
+
+The reservoir analogy [Figure 4- 3] illustrates the energy- based role of the throttle and the elevator. In this analogy, the throttle controls the "valve" regulating the net total energy flow while the elevator controls the "valve" regulating the distribution of energy into and out of the altitude and airspeed "reservoirs." Referring back to the energy balance equation [Figure 4- 2], it becomes clear then that the throttle controls the left side of the equation (total energy) and the elevator controls the right side (energy distribution).
+
+As illustrated in Figure 4- 3

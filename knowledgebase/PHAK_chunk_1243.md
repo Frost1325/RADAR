@@ -1,0 +1,5 @@
+erts a force on the mercury. An increase in pressure forces the mercury to rise inside the tube. When the pressure drops, mercury drains out of the tube decreasing the height of the column. This type of barometer is typically used in a laboratory or weather observation station, is not easily transported, and difficult to read.
+
+An aneroid barometer is the standard instrument used to measure pressure; it is easier to read and transport. [Figure 12- 7] The aneroid barometer contains a closed vessel called an aneroid cell that contracts or expands with changes in pressure. The aneroid cell attaches to a pressure indicator with a mechanical linkage to provide pressure readings. The pressure sensing part of an aircraft altimeter is essentially an aneroid barometer. It is important to note that due to
+
+the linkage mechanism of an aneroid barometer, it is not as accurate as a mercurial barometer.

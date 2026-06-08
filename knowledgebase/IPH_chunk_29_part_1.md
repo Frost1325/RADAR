@@ -1,0 +1,7 @@
+## Airport Sketches and Diagrams
+
+Airport sketches and diagrams provide pilots of all levels with graphical depictions of the airport layout. Aeronautical Information Services, formerly known as Aeronautical Products (AeroNav), provide an airport sketch on the lower left or right portion of every instrument approach chart. [Figure 1- 1] This sketch depicts the runways, their length, width and slope, the touchdown zone elevation, the lighting system installed on the end of the runway, and taxiways. Graphical depictions of NOTAMS are also available for selected airports as well as for temporary flight restriction (TFRs) areas on the defense internet NOTAM service (DINS) website.
+
+For select airports, typically those with heavy traffic or complex runway layouts, Aeronautical Information Services also prints an airport diagram. The diagram is located in the IFR TPP booklet following the instrument approach chart for a particular airport. It is a full page depiction of the airport that includes the same features of the airport sketch plus additional details, such as taxiway identifiers,
+
+airport latitude and longitude, and building identification. The airport diagrams are also available in the Airport/Facility Directory section of the Chart Supplement (CS) and on the Aeronautical Information Services'

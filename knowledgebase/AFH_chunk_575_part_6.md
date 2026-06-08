@@ -1,0 +1,3 @@
+5-13, 16-18</td></tr><tr><td>Energy system</td><td>4-1, 4-18</td></tr><tr><td>Engine and propeller</td><td>2-11, 3-3, 6-1, 6-3, 13-12, 13-34, 15-3, 15-6</td></tr><tr><td>Engine failure:</td><td></td></tr><tr><td>After lift-off</td><td>13-11</td></tr><tr><td>After takeoff</td><td>13-31, 13-32, 13-33</td></tr></table>
+
+<table><tr><td>After takeoff (single-engine)</td><td>18-7</td></tr><tr><td>During flight</td><td>13-34</td></tr><tr><td>Engine fire</td><td>13-32, 18-8, 18-

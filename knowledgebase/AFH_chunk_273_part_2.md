@@ -1,0 +1,3 @@
+velocity of the airplane is abruptly decelerated, as shown in Figure 9- 37. This creates a moment around the main wheel when it contacts the ground, tending to overturn or tip the airplane. If the upwind wingtip is raised by the action of this moment, all the weight and shock of landing is borne by one main wheel. This concentration of forces may cause tire failure or structural damage.
+
+Not only are the same factors present that are attempting to raise a wing, but the crosswind is also acting on the fuselage surface behind the main wheels, tending to yaw (weatheverage) the airplane into the wind. This often results in a ground loop.

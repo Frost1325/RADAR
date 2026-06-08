@@ -1,0 +1,5 @@
+ and acts rearward parallel to the relative wind. Lift—is a force that is produced by the dynamic effect of the air acting on the airfoil, and acts perpendicular to the flight path through the center of lift (CL) and perpendicular to the lateral axis. In level flight, lift opposes the downward force of weight.
+
+- Weight—the combined load of the aircraft itself, the crew, the fuel, and the cargo or baggage. Weight is a force that pulls the aircraft downward because of the force of gravity. It opposes lift and acts vertically downward through the aircraft's center of gravity (CG).
+
+In steady flight, the sum of these opposing forces is always zero. There can be no unbalanced forces in steady, straight flight based upon Newton's Third Law, which states that for every action or force there is an equal, but opposite, reaction or force. This is true whether flying level or when climbing or descending.

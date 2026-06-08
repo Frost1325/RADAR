@@ -1,0 +1,7 @@
+## Off-Route Obstruction Clearance Altitude
+
+An off- route obstruction clearance altitude (OROCA) is an off- route altitude that provides obstruction clearance with a 1,000- foot buffer in non- mountainous terrain areas and a 2,000- foot buffer in designated mountainous areas within the United States. This altitude may not provide signal coverage from ground- based NAVAIDs, ATC radar,
+
+or communications coverage. OROCAs are intended primarily as a pilot tool for emergencies and SA. OROCAs depicted on en route charts do not provide the pilot with an acceptable altitude for terrain and obstruction clearance for the purposes of off- route, random RNAV direct flights in either controlled or uncontrolled airspace. OROCAs are not subject to the same scrutiny as MEAs, minimum vectoring altitude (MVAs), MOCAs, and other minimum IFR altitudes. Since they do not undergo the same obstruction evaluation, airport airspace analysis procedures, or flight inspection, they cannot provide the same level of confidence as the other minimum IFR altitudes.
+
+When departing an airport VFR intending to or needing to obtain an IFR clearance en route, you must be aware of the position of your aircraft relative to terrain

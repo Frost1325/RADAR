@@ -1,0 +1,5 @@
+## Operations Specifications
+
+A flight operated under 14 CFR Part 135 has minimums and procedures more restrictive than a flight operated under 14 CFR Part 91. These Part 135 requirements are detailed in their operations specifications (OpSpecs). Helicopter Air Ambulance (HAA) operators have even more restrictive OpSpecs. Shown in Figure 7- 5 is an excerpt from an OpSpecs detailing the minimums for precision approaches. The inlay in Figure 7- 5 shows the minimums for the ILS Runway 3R approach at Detroit Metro Airport. With all lighting operative, the minimums for helicopter Part 91 operations are a 200- foot ceiling, and 1,200- feet runway visual range (RVR) - one- half airplane Category A visibility but no less than 1/4 SM/1,200 RVR. However, as shown in
+
+the OpSpecs, the minimum visibility this Part 135 operator must adhere to is 1,600 RVR. Pilots operating under 14 CFR Part 91 are encouraged to develop their own personal OpSpecs based on their

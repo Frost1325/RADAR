@@ -1,0 +1,7 @@
+NP-1. The reliability of the navigation system has to be very high in order to conduct these approaches. Operation on these procedures generally requires redundant equipment, as no single point of failure can cause loss of both approach and missed approach navigation.
+
+4. Non-standard speeds or climb gradients. RNP AR approaches are developed based on standard approach speeds and a 200 ft/NM climb gradient in the missed approach. Any exceptions to these standards will be indicated on the approach procedure, and the operator should ensure they can comply with any published restrictions before conducting the operation.
+
+5. Temperature Limits. For aircraft using barometric vertical navigation (without temperature compensation) to conduct the approach, low and high-temperature limits are identified on the procedure. Cold temperatures reduce the glidepath angle while high temperatures increase the glidepath angle. Aircraft using baro VNAV with temperature compensation or aircraft using an alternate means for vertical guidance (e.g., SBAS) may disregard the temperature restrictions. The charted temperature limits are evaluated for the final approach segment only. Regardless of charted temperature limits or temperature compensation by the FMS, the pilot may need to manually compensate for cold temperature on minimum altitudes and the decision altitude.
+
+6. Aircraft size. The achieved minimums may be dependent

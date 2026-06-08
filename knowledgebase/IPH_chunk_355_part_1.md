@@ -1,0 +1,5 @@
+## Approach to a PinS
+
+The note associated with these procedures is: "PROCEED VFR FROM (NAMED MAP) OR CONDUCT THE SPECIFIED MISSED APPROACH." They may be developed as a special or public procedure where the MAP is located more than 2 SM from the landing site, the turn from the final approach to the visual segment is greater than 30 degrees, or the VFR segment from the MAP to the landing site has obstructions that require pilot actions to avoid them. Figure 7- 13 is an example of a public PinS approach that allows the pilot to fly to one of four heliports after reaching the MAP.
+
+For Part 135 operations, pilots may not begin the instrument approach unless the latest weather report indicates that the weather conditions are at or above the authorized IFR or VFR minimums as required by the class of airspace, operating rule and/or OpSpecs, whichever is higher. Visual contact with the landing site is not required; however, prior to the MAP, for either Part 91 or 135 operators, the pilot must determine if the flight visibility meets the basic VFR minimums required by the class of airspace, operating rule and/or OpSpecs

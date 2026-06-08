@@ -1,0 +1,3 @@
+## Broadcast Weather
+
+The most common method used by flight crews to obtain specific in-flight weather information is to use a source that broadcasts weather for the specific airport. Information about ceilings, visibility, wind, temperature, barometric pressure, and field conditions can be obtained from most types of broadcast weather services. Broadcast weather can be transmitted to the aircraft in radio voice format or digital format, if it is available, via an ACARS system.

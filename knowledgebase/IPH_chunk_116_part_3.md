@@ -1,0 +1,5 @@
+the long range navigation equipment. Examples of other selected areas requiring specialized en route authorization include the following:
+
+Class I navigation in the United States Class A airspace using area of long range navigation system. Class II navigation using multiple long range navigation systems. Operations in central East Pacific airspace. North Pacific operations. Operations within North Atlantic (NAT) minimum navigation performance specifications (MNPS) airspace.
+
+Operations in areas of magnetic unreliability. North Atlantic operation (NAT/OPS) with two engine aircraft under 14 CFR Part 121. Extended range operations (ER- OPS) with two engine aircraft under 14 CFR Part 121. Special fuel reserves in international operations. Planned in- flight re- dispatch or re- release en route. Extended over water operations using a single longrange communication system. Operations in reduced vertical separation minimum (RVSM) airspace.

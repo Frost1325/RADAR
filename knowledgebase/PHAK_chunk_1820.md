@@ -1,0 +1,5 @@
+ Hypoxic oxygenation Hypoxic
+oxygenation Hypoxic hypoxia Hypoxic oxygenation Hypoxic oxygenation Hypoxic oxygenation Hypoxic oxygenation Hypoxic oxygenation Hypoxics Hypoxia Hypoxic oxygenation Hypoxic oxygenation Hypoxic oxygenation Hypoxic oxygenation Hypoxic oxygenation Hypoxic
+oxygen sation Hypoxic oxygenation Hypoxic oxygenation Hypoxic oxygenation Hypoxic oxygenation Hypoxic oxygenation Hypoxic oxygenation from Hypoxic oxygenation Hypoxic oxygenation Hypoxic oxygenation Hypoxic oxygenation Hypoxic oxygenation Hypoxic oxygenation Hyp need it. An arm or leg “going to sleep” because the blood flow has accidentally been shut off is one form of stagnant hypoxia. This kind of hypoxia can also result from shock, the heart failing to pump blood effectively, or a constricted artery. During flight, stagnant hypoxia can occur with excessive acceleration of gravity (Gs). Cold temperatures can also reduce circulation and decrease the blood supplied to extremities.
+
+## Histotoxic Hypoxia

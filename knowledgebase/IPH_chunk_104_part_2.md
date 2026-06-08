@@ -1,0 +1,3 @@
+"G" suffix. MEAs for DME/DME/IRU RNAV aircraft do not have a "G" suffix. All RNAV routes and associated data is charted in aeronautical blue and magnetic reference bearings are shown originating from a waypoint, fix/reporting point, or NAVAID. When joint Jet/RNAV routes are depicted, the route identification boxes are located adjacent to each other with the route charted in black. [Figure 2- 35] With the exception of "Q" routes in the Gulf of Mexico, GNSS or DME/DME/IRU RNAV equipment is required along with radar monitoring
+
+capabilities. For aircraft that have DME/DME/IRU RNAV equipment, refer to the CS for specific DME information.

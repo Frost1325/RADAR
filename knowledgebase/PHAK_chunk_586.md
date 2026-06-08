@@ -1,0 +1,6 @@
+
+Assuming for illustration purposes that the pilot climbs at a \(\mathrm{M_{MO}}\) of 0.82 from sea level up to FL 380. KCAS goes from 543 to 261. The KIAS at each altitude would follow the same behavior and just differ by a few knots. Recall from the earlier discussion that the speed of sound is decreasing with the drop in temperature as the aircraft climbs. The Mach number is simply the ratio of the true airspeed to the speed of sound at flight conditions. The significance of this is that at a constant Mach number climb, the KCAS (and KTAS or KIAS as well) is falling off.
+
+If the aircraft climbed high enough at this constant \(\mathrm{M_{MO}}\) with decreasing KIAS, KCAS, and KTAS, it would begin to approach its stall speed. At some point, the stall speed of the aircraft in Mach number could equal the \(\mathrm{M_{MO}}\) of the aircraft, and the pilot could neither slow down (without stalling) nor speed up (without exceeding the max operating speed of the aircraft). This has been dubbed the "coffin corner."
+
+## Boundary Layer

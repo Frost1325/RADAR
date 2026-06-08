@@ -1,0 +1,7 @@
+## Three-Point Landing
+
+As with all landings, success begins with an orderly arrival: airspeed, alignment, and configuration well in hand crossing the threshold. Round out (level- off) should be made with the main wheels about one foot off the surface. From that point forward, the technique is essentially the same that is used in nose- wheels: a gentle increase in AOA to maintain flight while slowing. In a tailwheel aircraft, however, the goal is to attain a much steeper fuselage angle than that commonly used in nose- wheel models; one that touches the tailwheels at the same time as the main wheels.
+
+With the tailwheel on the surface, a further increase in pitch attitude is impossible, so the plane remains on the runway, albeit tenuously. With deceleration, weight shifts increasingly from wings to wheels, with the final result that the plane once again becomes a ground vehicle after shedding most of its speed.
+
+There are two potential errors in attempting a three- point landing. In the first, the main wheels are allowed to make runway contact a little early with the tail still in the air. With the CG aft of themain wheels, the tail naturally drops when thmian wheels touch, AOA increases

@@ -1,0 +1,3 @@
+C, E) are numbered sequentially from number one each day, beginning at 00Z. A convective SIGMET for a continuing phenomenon will be reissued every hour at H+55 with a new number. The text of the bulletin consists of either an observation and a forecast or just a forecast. The forecast is valid for up to 2 hours.
+
+EXAMPLE- CONVECTIVE SIGMET 44C VALID UNTIL 1455Z AR TX OK FROM 40NE ADM- 40ESE MLC- 10W TXK- 50WNW LFK- 40ENE SJT- 40NE ADM AREA TS MOV FROM 26025KT. TOPS ABV FL450. OUTLOOK VALID 061455- 061855 FROM 60WSW OKC- MLC- 40N TXK- 40WSW IGB- VUZ- MGM- HRV- 60S BTR- 40N IAH- 60SW SJT- 40ENE LBB- 60WSW OKC WST ISS

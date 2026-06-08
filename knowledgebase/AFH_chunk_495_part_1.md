@@ -1,0 +1,5 @@
+## Taxi
+
+LSAs may have a full- casting or steerable nose- wheel, or a tailwheel if equipped with conventional gear. In order to taxi a full- casting nose- wheel equipped airplane, the use of differential brakes is required. This type of nose- wheel can require practice to keep the airplane on the centerline while minimizing brake application or damage to the tires. If the taxi speed is too slow, application of a brake can cause the aircraft to pivot to a stop, rather than adjust in direction. This results in excessive brake and tire wear. If the speed is too fast, excessive brake wear is likely.
+
+Transitioning into an LSA with conventional gear (tailwheel) should occur initially during no- wind conditions. Due to its light weight the airplane, requires the development of the proper flight control responses before operations in any substantial wind.

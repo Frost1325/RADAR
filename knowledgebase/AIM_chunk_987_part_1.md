@@ -1,0 +1,7 @@
+## NOTE-
+
+Pilots must be aware of how their navigation system operates, along with any AFM limitations, and confirm that the aircraft's lateral deviation display (or map display if being used as an allowed alternate means) is suitable for the accuracy of the segment being flown. Automatic scaling and alerting changes are appropriate for some operations. For example, TSO- C129 systems change within 30 miles of destination and within 2 miles of FAF to support approach operations. For some navigation systems and operations, manual selection of scaling will be necessary.
+
+(a) Pilots flying FMS equipped aircraft with barometric vertical navigation (Baro-VNAV) may descend when the aircraft is established on-course following FMS leg transition to the next segment. Leg transition normally occurs at the turn bisector for a fly-by waypoint (reference paragraph 1-2-1 for more on waypoints). When using full automation, pilots should monitor the aircraft to ensure the aircraft is turning at appropriate lead times and descending once established on-course.
+
+(b) Pilots flying TSO-C129 navigation system equipped aircraft without full automation should use normal lead points to begin the turn. Pilots may descend when established on-course on the next segment of the approach.

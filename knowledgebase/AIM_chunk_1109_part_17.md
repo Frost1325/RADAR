@@ -1,0 +1,3 @@
+itude Tier Radios
+
+<table><tr><td>Product</td><td>Surface Radios</td><td>Low Altitude Tier</td><td>Medium Altitude Tier</td><td>High Altitude Tier</td></tr><tr><td>CONUS NEXRAD</td><td>N/A</td><td>CONUS NEXRAD not provided</td><td>CONUS NEXRAD imagery</td><td>CONUS NEXRAD imagery</td></tr><tr><td>Winds &amp;amp; Temps Aloft</td><td>500 NM look-ahead range</td><td>500 NM look-ahead range</td><td>750 NM look-ahead range</td><td>1,000 NM look-ahead range</td></tr><tr><td>METAR</td><td>100 NM look-ahead range</td><td>250 NM look-ahead range</td><td>375 NM look-ahead range</td><td>CONUS: CONUS Class B &amp;amp; C airport METARs and 500 NM look-ahead range<br>Outside of CONUS:

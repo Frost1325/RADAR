@@ -1,0 +1,5 @@
+ of the compass. Each shaft rotates one or two small compensating magnets. The end of one shaft is marked E- W, and its magnets affect the compass when the aircraft is pointed east or west. The other shaft is marked N- S and its magnets affect the compass when the aircraft is pointed north or south.
+
+The adjustments position the compensating magnets to minimize the difference between the compass indication and the actual aircraft magnetic heading. The AMT records any remaining error on a compass correction card like the one in Figure 8- 35 and places it in a holder near the compass. Only AMTs can adjust the compass or complete the compass correction card. Pilots determine and fly compass headings using the deviation errors noted on the card. Pilots must also note the use of any equipment causing operational magnetic interference such as radios, deicing equipment, pitot heat, radar, or magnetic cargo.
+
+The corrections for variation and deviation must be applied in the correct sequence as shown below, starting from the true course desired.

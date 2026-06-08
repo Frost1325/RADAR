@@ -1,0 +1,5 @@
+ principles of operation that are common to all. Pilots are urged to study the manufacturer's operating guide and receive instruction prior to the use of VOR/DME RNAV or any unfamiliar navigational system. Operational information and limitations should also be sought from placards and the supplement section of the AFM/POH.
+
+VOR/DME- based RNAV units operate in at least three modes: VOR, en route, and approach. A fourth mode, VOR Parallel, may also be found on some models. The units need both VOR and DME signals to operate in any RNAV mode. If the NAVAID selected is a VOR without DME, RNAV mode will not function.
+
+In the VOR (or non- RNAV) mode, the unit simply functions as a VOR receiver with DME capability. [Figure 16- 36] The unit's display on the VOR indicator is conventional in all respects. For operation on established airways or any other ordinary VOR navigation, the VOR mode is used.

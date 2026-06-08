@@ -1,0 +1,3 @@
+will use caution to avoid startling the intercepted crew or passengers and understand that maneuvers considered normal for interceptor aircraft may be considered hazardous to other aircraft.
+
+3. All aircraft operating in US national airspace are highly encouraged to maintain a listening watch on VHF/UHF guard frequencies (121.5 or 243.0 MHz). If subjected to a military intercept, it is incumbent on civilian aviators to understand their responsibilities and to comply with ICAO standard signals relayed from the intercepting aircraft. Specifically, aviators are expected to contact air traffic control without delay (if able) on the local operating frequency or on VHF/UHF guard. Noncompliance may result in the use of force.

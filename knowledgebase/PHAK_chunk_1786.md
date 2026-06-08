@@ -1,0 +1,7 @@
+ in a route of flight. Pilots must use the VFR waypoints only when operating under VFR conditions.
+
+Any VFR waypoints intended for use during a flight should be loaded into the receiver while on the ground and prior to departure. Once airborne, pilots should avoid programming routes or VFR waypoint chains into their receivers.
+
+Pilots should be especially vigilant for other traffic while operating near VFR waypoints. The same effort to see and avoid other aircraft near VFR waypoints is necessary, as is the case when operating near VORs and NDBs. In fact, the increased accuracy of navigation through the use of GPS demands even greater vigilance as there are fewer off- course deviations among different pilots and receivers. When operating near a VFR waypoint, use all available ATC services, even if outside a class of airspace where communications are required. Regardless of the class of airspace, monitor the available ATC frequency closely for information on other aircraft operating in the vicinity. It is also a good idea to turn on landing light(s) when operating near a VFR waypoint to make the aircraft more conspicuous to other pilots, especially when visibility is reduced.
+
+## Lost Procedures

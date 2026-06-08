@@ -1,0 +1,7 @@
+ indicate proper boot operation. These gauges have range markings that indicate the operating limits for boot operation. Some systems may
+
+also incorporate an annunciator light to indicate proper boot operation.
+
+Proper maintenance and care of deicing boots are important for continued operation of this system. They need to be carefully inspected during preflight.
+
+Another type of leading edge protection is the thermal anti- ice system. Heat provides one of the most effective methods for preventing ice accumulation on an airfoil. High performance turbine aircraft often direct hot air from the compressor section of the engine to the leading edge surfaces. The hot air heats the leading edge surfaces sufficiently to prevent the formation of ice. A newer type of thermal anti- ice system referred to as ThermaWing uses electrically heated graphite foil laminate applied to the leading edge of the wing and horizontal stabilizer. ThermaWing systems typically have two zones of heat application. One zone on the leading edge receives continuous heat; the second zone further aft receives heat in cycles to dislodge the ice allowing aerodynamic forces to remove it. Thermal anti- ice systems should be activated prior to entering icing conditions.

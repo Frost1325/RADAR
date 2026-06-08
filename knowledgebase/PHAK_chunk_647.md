@@ -1,0 +1,7 @@
+ down and forward. This causes the airflow to attach better to the upper surface of the wing at higher angles of attack, thus lowering an aircraft's stall speed. The fixed nature of leading edge cuffs extracts a penalty in maximum cruise airspeed, but recent advances in design and technology have reduced this penalty.
+
+## Spoilers
+
+Found on some fixed- wing aircraft, high drag devices called spoilers are deployed from the wings to spoil the smooth airflow, reducing lift and increasing drag. On gliders, spoilers are most often used to control rate of descent for accurate landings. On other aircraft, spoilers are often used for roll control, an advantage of which is the elimination of adverse yaw. To turn right, for example, the spoiler on the right wing is raised, destroying some of the lift and creating more drag on the right. The right wing drops, and the aircraft banks and yaws to the right. Deploying spoilers on both wings at the same time allows the aircraft to descend without gaining speed. Spoilers are also deployed to help reduce ground roll after landing. By destroying lift, they transfer weight to the wheels, improving braking effectiveness. [Figure 6- 19]
+
+## Trim Systems

@@ -1,0 +1,3 @@
+failure of all primary altimeters</td><td>Controller will:<br>·Acknowledge operation with single primary<br>altimeter</td></tr></table>
+
+<table><tr><td colspan="2">Transponder Failure</td></tr><tr><td>Pilot will:<br>·Contact ATC and request authority to continue to operate at cleared flight level<br>·Comply with revised ATC clearance, if issued<br>NOTE-<br>14 CFR Section 91.215 (ATC transponder and altitude reporting equipment and use) regulates operation with the transponder inoperative.</td><td>Controller will:<br>·Consider request to continue to operate at<br>cleared flight level<br>·Issue revised clearance, if necessary</td></tr></table>

@@ -1,0 +1,7 @@
+## Users Role
+
+Like paper charts, airborne navigation databases are subject to revision. According to 14 CFR Part 91, § 91.503, the end user (operator) is ultimately responsible for ensuring that data meets the quality requirements for its intended application. Updating data in an aeronautical database is considered to be maintenance and all Part 91 operators may update databases in accordance with 14 CFR Part 91, § 43.3(g). Parts 121, 125, and 135 operators must update databases in accordance with their approved maintenance program. For Part 135 helicopter operators, this includes maintenance by the pilot in accordance with
+
+14 CFR Part 43, § 43.3(h).
+
+Pilots using the databases are ultimately responsible for ensuring that the database they are operating with is current. This includes checking Notices to Airmen (NOTAM)- type information concerning errors that may be supplied by the avionics manufacturer or the database supplier. The database user is responsible for learning how the specific navigation equipment handles the navigation database. The manufacturer's documentation is the pilot's best source of information regarding the capabilities and limitations of a specific database

@@ -1,0 +1,3 @@
+as possible to allow the NOTAM to be activated.
+
+(c) To supplement the existing NOTAM procedure and further assist in reducing these hazards, a standardized visual signal(s) on the helideck/heliport will provide a positive indication to an approaching helicopter of the status of the landing area. Recommended Practice(s) have been developed to reinforce the NOTAM procedures and standardize visual signals.

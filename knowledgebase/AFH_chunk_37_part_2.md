@@ -1,0 +1,7 @@
+secured after refueling.
+
+Passengers may have little experience with the open ramp of an airport. The pilot should ensure the safety of the passengers by cautioning them to move on the surface only as directed. If not under the pilot's direct supervision, passengers should have an escort to ensure their safety and ramp security. Baggage loading and security should also be supervised by the pilot. Unsecured baggage or improperly loaded baggage may adversely affect the center of gravity of the aircraft.
+
+Ramp traffic may vary from a deserted open space to a complex environment with heavy corporate or military aircraft. Powerful aircraft may produce exhaust blast or rotor downwash, for example, which could easily cause a light airplane to become uncontrollable. Mitigating these hazards in a light airplane is important to starting off on a safe flight.
+
+Some ramps may be staffed by personnel to assist the pilot in managing a safe departure from the ramp to the taxiway. Figure 2- 13 shows standard aircraft taxiing signals, such as those published in the Aeronautical Information Manual (AIM). There are other standard signals, such as those published in Advisory Circular 00- 34, as revised, and by the Armed Forces. Furthermore, operation conditions in many areas may call for a

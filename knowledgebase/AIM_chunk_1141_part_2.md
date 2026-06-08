@@ -1,0 +1,5 @@
+4\) , 1, 1 \(1 / 4\) , 1 \(1 / 2\) , 1 \(3 / 4\) , 2, 2 \(1 / 2\) , 3, 4, 5, etc., AWOS: M \(1 / 4\) , \(1 / 4\) , \(1 / 2\) , \(3 /4\) , 1, 1 \(1 / 4\) , 1 \(1/2\) , 1 \(3 / 4\) , 2, 2 \(1/2\) , 3, 4, 5, etc.) Visibility is determined through the ability to see and identify preselected and prominent objects at a known distance from the usual point of observation.
+
+b. Prevailing visibility is the greatest visibility equaled or exceeded throughout at least one half of the horizon circle, not necessarily contiguous. Segments of the horizon circle which may have a significantly different visibility may be reported in the remarks section of the weather report; i.e., the southeastern quadrant of the horizon circle may be determined to be 2 miles in mist while the remaining quadrants are determined to be 3 miles in mist.
+
+c. When

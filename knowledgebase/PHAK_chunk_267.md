@@ -1,0 +1,5 @@
+requent events, humans perform poorly. The more reliable the system, the poorer the human performance. For example, the pilot only monitors a backup alert system, rather than the situation that the alert system is designed to safeguard. It is a paradox of automation that technically advanced avionics can both increase and decrease pilot awareness.
+
+It is important to remember that EFDs do not replace basic flight knowledge and skills. They are a tool for improving flight safety. Risk increases when the pilot believes the gadgets compensate for lack of skill and knowledge. It is especially important to recognize there are limits to what the electronic systems in any light GA aircraft can do. Being PIC requires sound ADM, which sometimes means saying "no" to a flight.
+
+Risk is also increased when the pilot fails to monitor the systems. By failing to monitor the systems and failing to check the results of the processes, the pilot becomes detached from the aircraft operation and slides into the complacent role of passenger in command. Complacency led to tragedy in a 1999 aircraft accident.

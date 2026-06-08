@@ -1,0 +1,3 @@
+circ}\) toward the operating engine. Therefore, the inoperative, or "dead" engine should be "raised" with a very slight bank.
+
+Not all engine failures result in complete power loss. If there is a performance loss when the throttle of the affected engine is retarded, some power is still available. In this case, the pilot may consider allowing the engine to run until the airplane reaches a safe altitude and airspeed for single- engine flight. While shutdown of a malfunctioning engine may prevent additional damage to the engine in certain circumstances, shutting down an engine that can still produce partial power may increase risk for an accident.

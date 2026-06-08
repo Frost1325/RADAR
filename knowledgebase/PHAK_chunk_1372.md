@@ -1,0 +1,5 @@
+onimbus clouds. Temperature \(18^{\circ}\mathrm{C}\) and dew point \(17^{\circ}\mathrm{C}\) . Barometric pressure is \(29.70" \mathrm{Hg}\) and falling rapidly.
+
+## Pilot Weather Reports (PIREPs)
+
+PIREPs provide valuable information regarding the conditions as they actually exist in the air, which cannot be gathered from any other source. Pilots can confirm the height of bases and tops of clouds, locations of wind shear and turbulence, and the location of inflight icing. If the ceiling is below 5,000 feet, or visibility is at or below five miles, ATC facilities are required to solicit PIREPs from pilots in the area. When unexpected weather conditions are encountered, pilots are encouraged to make a report to a FSS or ATC. When a pilot weather report is filed, the ATC facility or FSS adds it to the distribution system to brief other pilots and provide inflight advisories.

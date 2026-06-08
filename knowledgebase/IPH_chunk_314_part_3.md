@@ -1,0 +1,3 @@
+to determine the appropriate tracks, headings, and distances to be flown. [Figure 6- 3]
+
+Modern FMS are capable of a large number of functions including basic en route navigation, complex departure and arrival navigation, fuel planning, and precise vertical navigation. Unlike stand-alone navigation systems, most FMS use several navigation inputs. Typically, they formulate the aircraft's current position using a combination of conventional distance measuring equipment (DME) signals, inertial navigation systems (INS), GPS receivers, or other RNAV devices. Like stand-alone navigation avionics, they rely heavily on airborne navigation databases to provide the information needed to perform their numerous functions.

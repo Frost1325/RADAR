@@ -1,0 +1,3 @@
+>Charted Visual Flight Procedure</td></tr><tr><td>CVRS</td><td>Computerized Voice Reservation System</td></tr><tr><td>CWA</td><td>Center Weather Advisory</td></tr><tr><td>CWSU</td><td>Center Weather Service Unit</td></tr><tr><td>DA</td><td>Decision Altitude</td></tr><tr><td>DCA</td><td>Ronald Reagan Washington National<br>Airport</td></tr><tr><td>DCP</td><td>Data Collection Package</td></tr><tr><td>DER</td><td>Departure End of Runway</td></tr></table>
+
+<table><tr><td>Abbreviation/ Acronym</td><td>Meaning</td></tr><tr><td>DH</td><td>Decision Height</td></tr><tr><td>DME</td><td>Distance Measuring Equipment</td></tr><tr><td>DME/N</td><td>Standard DME</td></tr><tr><td>DME/P</td><td>Precision DME</td></tr><tr><td>D

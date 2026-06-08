@@ -1,0 +1,5 @@
+ the MEL and the operator- generated procedures document.
+
+The use of an MEL for an aircraft operated under 14 CFR part 91 also allows for the deferral of inoperative items or equipment. The primary guidance becomes the FAA- approved MEL issued to that specific operator and N- numbered aircraft.
+
+The FAA has developed master minimum equipment lists (MMELs) for aircraft in current use. Upon written request by an operator, the local FSDO may issue the appropriate make and model MMEL, along with an LOA, and the preamble. The operator then develops operations and maintenance (O&M) procedures from the MMEL. This MMEL with O&M procedures now becomes the operator's MEL. The MEL, LOA, preamble, and procedures document developed by the operator must be on board the aircraft during each operation. The FAA considers an approved MEL to be a supplemental type certificate (STC) issued to an aircraft by serial number and registration number. It, therefore, becomes the authority to operate that aircraft in a condition other than originally type certificated.

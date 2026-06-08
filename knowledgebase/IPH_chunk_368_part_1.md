@@ -1,0 +1,5 @@
+## Precipitation Static
+
+Precipitation static occurs when accumulated static electricity discharges from extremities of the aircraft. This discharge has the potential to create problems with the aircraft's instruments. These problems range from serious, such as complete loss of VHF communications and erroneous magnetic compass readings, to the annoyance of high- pitched audio squealing.
+
+Precipitation static is caused when an aircraft encounters airborne particles during flight (rain or snow) and develops a negative charge. It can also result from atmospheric electric fields in thunderstorm clouds. When a significant negative voltage level is reached, the aircraft discharges it, creating electrical disturbances. To reduce problems associated with precipitation static, the pilot ensures that the aircraft's static wicks are maintained and accounted for. All broken or missing static wicks should be replaced before an instrument flight.

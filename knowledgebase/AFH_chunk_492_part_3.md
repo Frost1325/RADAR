@@ -1,0 +1,7 @@
+should always verify the direction of control surface movement.
+
+Elevator trim on many LSAs is electrically actuated with no mechanical trim adjustment available. [Figure 17- 12] Depending on the airplane, trim position indication may be displayed on the EFIS, an LED display, or with a mechanical indicator. On electric trim systems, as it is with any airplane, it is important to ensure that the trim position is correctly set prior to takeoff. Because trim positioning/indicting systems vary widely in light- sport airplanes, pilots should fully understand not only how to position the trim, but also how to respond to a trim- run- away condition. Part of the preflight inspection should include actuating the trim switch in both nose- up and nose- down directions, verifying that the trim disconnect (if equipped) is properly functioning, and then properly setting the takeoff trim position.
+
+Depending on the engine manufacturer, the engine controls may be completely familiar to a transitioning pilot (throttle, mixture, and carburetor heat); however, some engines have no mixture control or carburetor heat. Instead, there could be a throttle, a choke control, and carburetor preheater.
+
+Regardless, a pilot should become familiar with

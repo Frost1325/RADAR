@@ -1,0 +1,7 @@
+previously outlined. For example, in a non- radar environment, the controller may clear the flight to use an approach based on a NAVAID other than the one aligned with the landing runway, such as a circling approach. In this case, the descent to a lower altitude usually is limited to the circling approach area with the circle- to- land maneuver confined to the traffic pattern.
+
+IFR en route descent procedures should include a review of minimum, maximum, mandatory, and recommended altitudes that normally precede the fix or NAVAID facility to which they apply. The initial descent gradient for a low altitude instrument approach procedure does not exceed 500 ft/NM (approximately \(5^{\circ}\) ), and for a high altitude approach, the maximum allowable initial gradient is 1,000 ft/NM (approximately \(10^{\circ}\) ).
+
+Remember during arrivals, when cleared for an instrument approach, maintain the last assigned altitude until established on a published segment of the approach or on
+
+a segment of a published route. If no altitude is assigned with the approach clearance and the aircraft is already on a published segment, the pilot can descend to its minimum altitude for that segment of the approach.

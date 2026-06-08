@@ -1,0 +1,3 @@
+## Emergency Landings
+
+This section contains information on emergency landing techniques in small fixed- wing airplanes. The guidelines that are presented apply to the more adverse terrain conditions for which no practical training is possible. The objective is to instill in the pilot the knowledge that almost any terrain can be considered "suitable" for a survivable crash landing if the pilot knows how to use the airplane structure for self- protection and the protection of passengers.

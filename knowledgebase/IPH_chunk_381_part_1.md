@@ -1,0 +1,5 @@
+## Responsibility
+
+ATC, in communication with an aircraft in distress, should handle the emergency and coordinate and direct the activities of assisting facilities. ATC will not transfer this responsibility to another facility unless that facility can better handle the situation. When an ATC facility receives information about an aircraft in distress, they forward detailed data to the center in the area of the emergency. Centers serve as central points for collecting information, coordinating with search and rescue (SAR) and distributing information to appropriate agencies.
+
+Although 121.5 megahertz and 243.0 megahertz are emergency frequencies, the pilot should keep the aircraft on the initial contact frequency. The pilot should change frequencies only when a valid reason exists. When necessary, and if weather and circumstances permit, ATC should recommend that aircraft maintain or increase altitude to improve communications, radar, or DF reception.

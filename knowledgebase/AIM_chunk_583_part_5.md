@@ -1,0 +1,5 @@
+>Failure of Automatic Altitude Control System, Altitude Alerter or All Primary Altimeters</td></tr><tr><td>Pilot will:<br>·Contact ATC and state “Unable RVSM Due<br>Equipment”<br>·Request clearance out of RVSM airspace unless<br>operational situation dictates otherwise</td><td>Controller will:<br>·Provide 2,000 feet vertical separation or<br>appropriate horizontal separation<br>·Clear aircraft out of RVSM airspace unless<br>operational situation dictates otherwise</td></tr></table>
+
+<table><tr><td colspan="2">One Primary Altimeter Remains Operational</td></tr><tr><td>Pilot will:<br>·Cross check stand-by altimeter<br>·Notify ATC of operation with single primary<br>altimeter<br>·If unable to confirm primary altimeter accuracy,<br>follow actions for failure of all primary altimeters</td><td>Controller will:<br>·Acknowledge operation with single primary<br>altimeter</td></tr></table>
+
+<table><tr><td colspan="2">Transponder Failure</td></tr><tr><td>Pilot will:<br>·Contact ATC

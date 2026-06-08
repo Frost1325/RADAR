@@ -1,0 +1,5 @@
+## Equipment Requirements
+
+The navigation equipment that is required to join and fly an IAP is indicated by the title of the procedure and notes on the chart. Straight- in IAPs are identified by the navigation system by providing the final approach guidance and the runway with which the approach is aligned (for example, VOR RWY 13). Circling- only approaches are identified by the navigation system by providing final approach guidance and a letter (for example, VOR A). More than one navigation system separated by a slant indicates that more than one type of equipment must be used to execute the final approach (for example, VOR/DME RWY 31). More than one navigation system separated by the word"or"indicates either type of equipment can be used to execute the final approach (for example, VOR or GPS RWY 15).
+
+In some cases, other types of navigation systems, including radar, are required to execute other portions of the approach or to navigate to the IAF (for example, an NDB procedure turn to an ILS, or an NDB in the missed approach, or radar required to join the procedure or identify a fix). When ATC radar or other equipment is required for procedure entry from

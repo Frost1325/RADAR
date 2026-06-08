@@ -1,0 +1,3 @@
+## Angle of Attack
+
+A second strong contrast to nose- wheel airplanes, tailwheel aircraft make lift while on the ground anytime there is a relative headwind. The amount of lift obviously depends on the wind speed, but even at slow taxi speeds, the wings and ailerons are doing their best to aid in liftoff. This phenomenon requires care and management, especially during the takeoff and landing rolls, and is again unexpected by nose- wheel pilots making the transition.

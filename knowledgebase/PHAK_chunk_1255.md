@@ -1,0 +1,5 @@
+ air over the water rises and is replaced by the cooler, denser air from the land, creating an offshore wind called a land breeze. This reverses the local wind circulation pattern. Convective currents can occur anywhere there is an uneven heating of the Earth's surface. [Figure 12- 13]
+
+Convective currents close to the ground can affect a pilot's ability to control the aircraft. For example, on final approach, the rising air from terrain devoid of vegetation sometimes produces a ballooning effect that can cause a pilot to overshoot the intended landing spot. On the other hand, an approach over a large body of water or an area of thick vegetation tends to create a sinking effect that can cause an unwary pilot to land short of the intended landing spot. [Figure 12- 14]
+
+## Effect of Obstructions on Wind

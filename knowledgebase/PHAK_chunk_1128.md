@@ -1,0 +1,7 @@
+ an aircraft produces zero ROC. The service ceiling is the altitude at which the aircraft is unable to climb at a rate greater than 100 feet per minute (fpm). Usually, these specific performance reference points are provided for the aircraft at a specific design configuration. [Figure 11- 10]
+
+The terms "power loading," "wing loading," "blade loading," and "disk loading" are commonly used in reference to performance. Power loading is expressed in pounds per horsepower and is obtained by dividing the total weight of the aircraft by the rated horsepower of the engine. It is a significant factor in an aircraft's takeoff and climb capabilities. Wing loading is expressed in pounds per square foot and is obtained by dividing the total weight of an airplane in pounds by the wing area (including ailerons) in square feet. It is the airplane's wing loading that determines the landing
+
+speed. Blade loading is expressed in pounds per square foot and is obtained by dividing the total weight of a helicopter by the area of the rotor blades. Blade loading is not to be confused with disk loading, which is the total weight of a helicopter divided by the area of the disk swept by the rotor blades.
+
+## Range Performance

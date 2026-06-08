@@ -1,0 +1,7 @@
+## Engine Failure After Takeoff (Single-Engine)
+
+A number of variables and pilot actions factor into a successful emergency landing shortly after takeoff. When an engine failure occurs during the initial climb, the pilot should lower the nose of the airplane and establish the proper glide attitude. What happens next if the engine does not restart? Does the pilot select a field directly ahead (or slightly to the side of the takeoff path) or should the pilot turn back toward the point of departure? There's not much time to decide and a lot to consider.
+
+Continuing straight ahead or making a slight turn gives the pilot time to establish a safe landing attitude, and the landing occurs under control and as slowly as possible (assuming a takeoff made into a headwind). This minimizes the risk of injury and usually represents the option with the lowest risk—i.e. the safest option. Turning back requires a more complex analysis and consideration of risk. At some urban airports, there may be numerous hazards in the departure path. In that case, the pilot might turn back, but only if certain the airplane can reach the field from its current position and the pilot has trained and practiced the turn back maneuver.
+
+Turning back to an airport after a low- altitude engine failure, also known

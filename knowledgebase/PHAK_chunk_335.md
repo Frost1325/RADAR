@@ -1,0 +1,7 @@
+ given density is to be found. The density of air has significant effects on the aircraft's performance because as air becomes less dense, it reduces:
+
+Power because the engine takes in less air Thrust because a propeller is less efficient in thin air Lift because the thin air exerts less force on the airfoils
+
+Density altitude is pressure altitude corrected for nonstandard temperature. As the density of the air increases (lower density altitude), aircraft performance increases; conversely as air density decreases (higher density altitude), aircraft performance decreases. A decrease in air density means a high density altitude; an increase in air density means a lower density altitude. Density altitude is used in calculating aircraft performance because under standard atmospheric conditions, air at each level in the atmosphere not only has a specific density, its pressure altitude and density altitude identify the same level.
+
+The computation of density altitude involves consideration of pressure (pressure altitude) and temperature. Since aircraft performance data at any level is based upon air density under standard day conditions, such performance data apply to air density levels that may not be identical with altimeter indications. Under conditions higher or lower than standard, these levels cannot be determined directly from the altimeter.

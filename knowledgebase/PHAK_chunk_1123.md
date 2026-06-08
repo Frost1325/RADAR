@@ -1,0 +1,3 @@
+ over a period of time. For example, in a maximum AOC profile, a certain aircraft takes 30 seconds to reach 1,000 feet AGL, but covers only 3,000 feet over the ground. By comparison, using its maximum ROC profile, the same aircraft climbs
+
+to 1,500 feet in 30 seconds but covers 6,000 feet across the ground. Note that both ROC and AOC maximum climb profiles use the aircraft's maximum throttle setting. Any differences between max ROC and max AOC lie primarily in the velocity (airspeed) and AOA combination the aircraft manual specifies. [Figure 11- 7]

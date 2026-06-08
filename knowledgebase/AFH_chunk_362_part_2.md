@@ -1,0 +1,1 @@
+fuel in the main tanks for descent and landing. Electric fuel pump operation can also vary widely among different models, particularly during tank switching or fuel transfer. Some fuel pumps are to be on for takeoff and landing; others are to be off. There is simply no substitute for thorough systems and AFM/POI knowledge when operating complex aircraft.

@@ -1,0 +1,7 @@
+## Final Approach Fix Altitude
+
+Another important altitude that should be briefed during an IAP briefing is the FAF altitude, designated by the cross on a non- precision approach, and the lightning bolt symbol designating the glideslope/glidepath intercept altitude on a precision approach. Adherence and cross- check of this altitude can have a direct effect on the success and safety of an approach.
+
+Proper airspeed, altitude, and configuration, when crossing the FAF of a non- precision approach, are extremely important no matter what type of aircraft is being flown. The stabilized approach concept, implemented by the FAA within the SOPs of each air carrier, suggests that crossing the FAF at the published altitude is often a critical component of a successful non- precision approach, especially in a large turbojet aircraft.
+
+The glideslope intercept altitude of a precision approach should also be included in the IAP briefing. Awareness of this altitude when intercepting the glideslope can ensure the flight crew that a "false glideslope" or other erroneous indication is not inadvertently followed. Many air carriers include a standard callout when the aircraft passes over the FAF of the non- precision approach underlying the ILS. The PM states the name of the fix and the

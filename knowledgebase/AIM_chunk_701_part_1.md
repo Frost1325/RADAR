@@ -1,0 +1,3 @@
+## 5-1-12. Change in Flight Plan
+
+In addition to altitude or flight level, destination and/or route changes, increasing or decreasing the speed of an aircraft constitutes a change in a flight plan. Therefore, at any time the average true airspeed at cruising altitude between reporting points varies or is expected to vary from that given in the flight plan by plus or minus 5 percent, or 10 knots, whichever is greater, ATC should be advised.

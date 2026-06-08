@@ -1,0 +1,3 @@
+## Total Energy Error
+
+An energy error where the total amount of mechanical energy is not correct. The airplane has too much or too little total energy relative to the intended altitude- speed profile. When this error occurs, the pilot will observe that altitude and airspeed deviate in the same direction (e.g., higher and faster than desired; or lower and slower than desired). An example would be an airplane on final approach that is above the desired glide slope and at a faster airspeed than desired.

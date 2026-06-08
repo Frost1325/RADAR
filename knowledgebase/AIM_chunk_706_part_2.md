@@ -1,0 +1,7 @@
+check the cleared flight plan against charts or other applicable resources, as well as the navigation system textual display and the aircraft map display. This process includes confirmation of the waypoints sequence, reasonableness of track angles and distances, any altitude or speed constraints, and identification of fly-by or fly-over waypoints. A procedure must not be used if validity of the navigation database is in doubt.
+
+e. Prior to commencing takeoff, the flight crew must verify that the RNAV system is operating correctly and the correct airport and runway data have been loaded.
+
+f. During the pre-flight planning phase RAIM prediction must be performed if TSO-C129() equipment is used to solely satisfy the RNAV and RNP requirement. GPS RAIM availability must be confirmed for the intended route of flight (route and time) using current GPS satellite information. In the event of a predicted, continuous loss of RAIM of more than five (5) minutes for any part of the intended flight, the flight should be delayed, canceled, or re-routed where RAIM requirements can be met. Operators may satisfy the predictive RAIM requirement through any one of the following methods:
+
+1. Operators may monitor the status of each satellite in its plane/slot position, by accounting for the

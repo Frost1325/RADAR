@@ -1,0 +1,3 @@
+designation, and the estimated time of arrival (ETA) at destination. As the pilot calls in the aircraft's position and time at a predetermined location, the strips are removed from their slots and filed. Any change from the original flight plan is noted on the strips as the flight continues. Thus, from a quick study of the flight progress board, a controller can assess the overall traffic situation and can avoid possible conflicts.
+
+Figure 2- 8 shows the Fort Worth, Texas Air Route Traffic Control Center (ZFW) and the geographical area that it covers. The Center has approximately 350 controllers. Most are certified and some are in on- the- job training.

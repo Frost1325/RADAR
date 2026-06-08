@@ -1,0 +1,5 @@
+ surface. This is accomplished by the forward speed of the aircraft. Lift is proportional to the square of the aircraft's velocity. For example, an airplane traveling at 200 knots has four times the lift as the same airplane traveling at 100 knots, if the AOA and other factors remain constant.
+
+\[\mathrm{L} = \frac{\mathrm{C}_{\mathrm{L}}\cdot\rho\cdot\mathrm{V}^{2}\cdot\mathrm{S}}{2}\]
+
+The above lift equation exemplifies this mathematically and supports that doubling of the airspeed will result in four times the lift. As a result, one can see that velocity is an important component to the production of lift, which itself can be affected through varying AOA. When examining the equation, lift (L) is determined through the relationship of the air density \((\rho)\) , the airfoil velocity (V), the surface area of the wing (S) and the coefficient of lift \((\mathrm{C}_{\mathrm{L}})\) for a given airfoil.

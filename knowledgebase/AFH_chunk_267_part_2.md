@@ -1,0 +1,1 @@
+of floating and the effect of any crosswind, as well as the amount of runway remaining. Since prolonged floating utilizes considerable runway length, it should be avoided especially on short runways or in strong crosswinds. If a landing cannot be made on the first third of the runway, or the airplane drifts sideways, execute a go- around.

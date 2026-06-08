@@ -1,0 +1,3 @@
+## ILS Approach Categories
+
+There are three general classifications of ILS approaches: CAT I, CAT II, and CAT III (autoland). The basic ILS approach is a CAT I approach and requires only that pilots be instrument rated and current, and that the aircraft be equipped appropriately. CAT II and CAT III ILS approaches have lower minimums and require special certification for operators, pilots, aircraft, and airborne/ground equipment. Because of the complexity and high cost of the equipment, CAT III ILS approaches are used primarily in air carrier and military operations. [Figure 4- 41]

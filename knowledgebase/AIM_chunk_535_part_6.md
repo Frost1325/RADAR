@@ -1,0 +1,1 @@
+distance. TIS will alert the pilot to aircraft (under surveillance of the Mode S radar) that are estimated to be within 34 seconds of potential collision, regardless of distance of altitude. TIS surveillance data is derived from the same radar used by ATC; this data is uplinked to the client aircraft on each radar scan (nominally every 5 seconds).

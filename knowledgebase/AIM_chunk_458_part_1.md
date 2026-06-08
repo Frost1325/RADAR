@@ -1,0 +1,5 @@
+## c. Route of Flight.
+
+1. Clearances are normally issued for the altitude or flight level and route filed by the pilot. However, due to traffic conditions, it is frequently necessary for ATC to specify an altitude or flight level or route different from that requested by the pilot. In addition, flow patterns have been established in certain congested areas or between congested areas whereby traffic capacity is increased by routing all traffic on preferred routes. Information on these flow patterns is available in offices where preflight briefing is furnished or where flight plans are accepted.
+
+2. When required, air traffic clearances include data to assist pilots in identifying radio reporting points. It is the responsibility of pilots to notify ATC immediately if their radio equipment cannot receive the type of signals they must utilize to comply with their clearance.

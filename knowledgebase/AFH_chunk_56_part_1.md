@@ -1,0 +1,7 @@
+## Integrated Flight Instruction
+
+When introducing basic flight maneuvers to a beginning pilot, it is recommended that the "integrated" or "composite" method of flight instruction be used. This means the use of outside references and flight instruments to establish and maintain desired flight attitudes and airplane performance. When beginning pilots use this technique, they achieve a more precise and competent overall piloting ability. Although this method of airplane control may become second nature with experience, the beginning pilot needs to make a determined effort to master the technique. In all cases, a pilot's visual skills need to be sufficiently developed for long- term, safe, and effective aircraft control. [Figure 3- 5]
+
+The basic elements of integrated flight instruction are as follows:
+
+- The pilot visually controls the airplane's attitude in reference outside to the natural horizon. Approximately 90 percent of the pilot's attention should be devoted to outside visual references and scanning for airborne traffic. The process of visually evaluating pitch and bank attitude comes from a continuous stream of attitude information. When the pilot perceives that the attitude is other than desired, the pilot should make precise, smooth, and accurate flight control corrections to return the airplane to the desired attitude. Continuous visual checks of the outside references and immediate corrections made by the pilot

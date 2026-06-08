@@ -1,0 +1,3 @@
+0 feet AGL, the pilot is already 1,000 feet down the 3,500 feet runway. The airspeed is still high by about ten percent (should be at 70 knots and is at about 80 knots). The wind of ten knots is blowing from behind.
+
+First, the airspeed being high by about ten percent (80 knots versus 70 knots), as presented in the performance chapter, results in a 20 percent increase in the landing distance. In performance planning, the pilot determined that at 70 knots the distance would be 1,600 feet. However, now it is increased by 20 percent and the required distance is now 1,920 feet.

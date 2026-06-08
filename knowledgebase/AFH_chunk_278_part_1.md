@@ -1,0 +1,5 @@
+## Reverted Rubber Hydroplaning
+
+Reverted rubber (steam) hydroplaning occurs during heavy braking that results in a prolonged locked- wheel skid. Only a thin film of water on the runway is required to facilitate this type of hydroplaning. The tire skidding generates enough heat to cause the rubber in contact with the runway to revert to its original uncured state. The reverted rubber acts as a seal between the tire and the runway and delays water exit from the tire footprint area. The water heats and is converted to steam, which supports the tire off the runway.
+
+Reverted rubber hydroplaning frequently follows an encounter with dynamic hydroplaning, during which time the pilot may have the brakes locked in an attempt to slow the airplane. Eventually the airplane slows enough to where the tires make contact with the runway surface and the airplane begins to skid. The remedy for this type of hydroplaning is to release the brakes and allow the wheels to spin up and apply moderate braking. Reverted rubber hydroplaning is insidious in that the pilot may not know when it begins, and it can persist to very slow groundspeeds (20 knots or less).

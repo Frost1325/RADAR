@@ -1,0 +1,5 @@
+not violate the requirement to fly the centerline of the airway. Many factors enter into the construction and application of the turning area to provide pilots with adequate obstacle clearance protection. These may include aircraft speed, the amount of turn versus NAVAID distance, flight track, curve radii, MEAs, and MTA. [Figure 2- 60]
+
+Due to increased airspeeds at 10,000 feet MSL or above, an expanded area in the vicinity of the turning fix is examined to ensure the published MEA is sufficient for obstacle clearance. In some locations (normally mountainous), terrain/obstacles in the expanded search area may obviate the published MEA and necessitate a higher minimum altitude while conducting the turning maneuver. Turning fixes requiring a higher MTA are charted with a flag along with accompanying text describing the MTA restriction. [Figure 2- 59]
+
+An MTA restriction normally consists of the ATS route leading to the turning fix, the ATS route leading from the turning fix, and an altitude (e.g., MTA V330 E TO V520 W 16000). When an MTA is applicable for the intended route of flight, pilots

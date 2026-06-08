@@ -1,0 +1,5 @@
+## Short-Field Takeoff and Maximum Performance Climb
+
+When performing takeoffs and climbs from fields where the takeoff area is short or the available takeoff area is restricted by obstructions, the pilot should operate the airplane at the maximum limit of its takeoff performance capabilities. To depart from such an area safely, the pilot needs to exercise positive and precise control of airplane attitude and airspeed, so that takeoff and climb performance result in the shortest ground roll and the steepest angle of climb. [Figure 6- 8] The pilot should consult and follow the performance section of the AFM/POH to obtain the power setting, flap setting, airspeed, and procedures prescribed by the airplane's manufacturer.
+
+The pilot should have adequate knowledge in the use and effectiveness of the best angle- of- climb speed \((\mathrm{V}_{\mathrm{X}})\) and the best rate- of- climb speed \((\mathrm{V}_{\mathrm{Y}})\) for the specific make and model of airplane being flown in order to safely accomplish a takeoff at maximum performance.

@@ -1,0 +1,5 @@
+his or her left hand up to the control wheel. The pilot's other hand should be on the thrust levers until at least \(\mathrm{V}_{1}\) speed is attained. Although the pilot not flying maintains a check on the engine instruments throughout the takeoff roll, the pilot flying (pilot- in- command) makes the decision to continue or reject a takeoff for any reason. A decision to reject a takeoff requires immediate retarding of thrust levers.
+
+The takeoff and climb- out should be accomplished in accordance with a standard takeoff and departure profile developed for the particular make and model airplane. [Figure 16- 13]
+
+The pilot not flying should call out \(\mathrm{V}_{1}\) . After passing \(\mathrm{V}_{1}\) speed on the takeoff roll, it is no longer mandatory for the pilot flying to keep a hand on the thrust levers. The point for abort has passed, and both hands may be placed on the control wheel. As the airspeed approaches \(\mathrm{V}_{\mathrm{R}}\) , the control column should be moved to a neutral position. As the pre- computed \(\mathrm{V}_{\mathrm{R}}

@@ -1,0 +1,7 @@
+## 7-3-6. Vortex Avoidance Procedures
+
+a. Under certain conditions, airport traffic controllers apply procedures for separating IFR aircraft. If a pilot accepts a clearance to visually follow a preceding aircraft, the pilot accepts responsibility for separation and wake turbulence avoidance. The controllers will also provide to VFR aircraft, with whom they are in communication and which in the tower's opinion may be adversely affected by wake turbulence from a larger aircraft, the position, altitude and direction of flight of larger aircraft followed by the phrase "CAUTION - WAKE TURBULENCE." After issuing the caution for wake turbulence, the airport traffic controllers generally do not provide additional information to the following aircraft unless the airport traffic controllers know the following aircraft is overtaking the preceding aircraft. WHETHER OR NOT A WARNING OR INFORMATION HAS BEEN GIVEN, HOWEVER, THE PILOT IS EXPECTED TO ADJUST AIRCRAFT OPERATIONS AND FLIGHT PATH AS NECESSARY TO PRECLUDE SERIOUS WAKE ENCOUNTERS. When any doubt exists about maintaining safe separation distances between aircraft during approaches, pilots should ask the control tower for updates on separation distance and aircraft ground speed.
+
+b. The following vortex avoidance procedures are recommended for the various situations:
+
+1. Landing behind a larger aircraft-

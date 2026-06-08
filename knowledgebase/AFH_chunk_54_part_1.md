@@ -1,0 +1,7 @@
+## Feel of the Airplane
+
+The ability to sense a flight condition, such as straight- and- level flight or a dive, without relying on instrumentation is often called "feeling the airplane." Examples of this "feel" may be sounds of the airflow across the airframe, vibrations felt through the controls, engine and propeller sounds and vibrations at various flight attitudes, and the sensations felt by the pilot through physical accelerations.
+
+Humans sense "feel" through kinesthetics (the ability to sense movement through the body) and proprioception (unconscious perception of movement and spatial orientation). These stimuli are detected by nerves and by the semicircular canals of the inner ear. When properly developed, kinesthesis can provide the pilot with critical information about changes in the airplane's direction and speed; however, there are limits in kinesthetic sense when relied upon solely without visual information, as when flying in instrument meteorological conditions (IMC). Sole reliance on the kinesthetic sense ultimately leads to disorientation and loss of aircraft control.
+
+Developing this "feel" takes time and exposure in a particular airplane. It only comes with dedicated practice at the various flight conditions so that a pilot's senses are trained by the sounds, vibrations, and forces produced by

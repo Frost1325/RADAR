@@ -1,0 +1,3 @@
+maintaining situational awareness while the aircraft moves on the ground.
+
+When using the checklist for the before- takeoff and run- up checks during the day, any forward movement of the airplane can be detected easily. However, at night, the airplane could creep forward without being noticed unless the pilot takes steps to prevent this possibility. Pilots should hold or lock the brakes during the run- up and be alert for any forward movement.

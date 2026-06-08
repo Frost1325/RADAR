@@ -1,0 +1,3 @@
+## 7-1-10. Inflight Weather Broadcasts
+
+a. Weather Advisory Broadcasts. ARTCCs broadcast a Severe Weather Forecast Alert (AWW), Convective SIGMET, SIGMET, or CWA alert once on all frequencies, except emergency, when any part of the area described is within 150 miles of the airspace under their jurisdiction. These broadcasts contain SIGMET or CWA (identification) and a brief description of the weather activity and general area affected.

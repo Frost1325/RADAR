@@ -1,0 +1,5 @@
+unaccelerated flight). However, the airplane can also stall at a higher indicated airspeed when the airplane is subject to an acceleration greater than \(+1\mathrm{G}\) , such as when turning, pulling up, or other abrupt changes in flightpath. Stalls encountered any time the G- load exceeds \(+1\mathrm{G}\) are called "accelerated maneuver stalls." The accelerated stall would most frequently occur inadvertently during improperly executed turns, stall and spin recoveries, pullouts from steep dives, or when overshooting a base to final turn. An accelerated stall is typically demonstrated during steep turns.
+
+A pilot should never practice accelerated stalls with wing flaps in the extended position due to the lower design G- load limitations in that configuration. Accelerated stalls should be performed with a bank of approximately \(45^{\circ}\) , and in no case at a speed greater than the airplane manufacturer's recommended airspeed, or the specified design maneuvering speed \((\mathrm{V}_{\mathrm{A}})\) or operating maneuvering speed \((\mathrm{V}_{\mathrm{O}})\) .
+
+It is important to be familiar with \(\mathrm{V}_{\mathrm{A}}\) or

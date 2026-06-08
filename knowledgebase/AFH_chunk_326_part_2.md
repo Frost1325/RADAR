@@ -1,0 +1,3 @@
+pressure with an increase in airspeed is magnified by the compressor resulting in an increase in manifold pressure. The increase in manifold pressure creates a higher mass flow through the engine, causing higher turbine speeds and thus further increasing manifold pressure.
+
+When running at high altitudes, aviation gasoline tends to vaporize prior to reaching the cylinder. If this occurs in the portion of the fuel system between the fuel tank and the engine- driven fuel pump, an auxiliary positive pressure pump may be needed in the tank. Since engine- driven pumps pull fuel, they are easily vapor locked. A boost pump provides positive pressure, which pushes the fuel and reduces the tendency to vaporize.

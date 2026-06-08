@@ -1,0 +1,7 @@
+## Civil Aircraft Pilots
+
+FAR Part 91 states that each person operating a civil aircraft of U.S. registry over the high seas shall comply with Annex 2 to the Convention of International Civil Aviation. International Standards - Rules of the Air. Annex 2 requires the submission of a flight plan containing items 1- 1 9 prior to operating any flight across international waters. Failure to file could result in a civil penalty not to exceed &#36;1,000 for each violation (Section 901 of the Federal Aviation Act of 1958, as amended).
+
+International briefing information may not be current or complete. Data should be secured, at the first opportunity, from the country in whose airspace the flight will be conducted.
+
+Paperwork Reduction Act Statement: Flight Plan information is collected for the protection and identification of aircraft and property and persons on the ground. Air Traffic uses the information to provide control services and search and rescue services. An individual respondent would require about 2.5 minutes to provide the information. FAR Part 91 requires an Instrument Flight Rules (IFR) flight plan to operate under IFR in controlled airspace. Filing a Visual Flight Rules flight plan is recommended but not mandatory. It is

@@ -1,0 +1,5 @@
+assigned by ATC (e.g., "Climb heading 330 to 1200 before turning or use Manchester Departure" or "Turn right, climb direct ABC very high frequency (VHF) omnidirectional range (VOR) or as assigned by ATC."). ODPs are textual in nature. However, due to the complex nature of some procedures, a visual presentation may be necessary for clarification and understanding. If the ODP is charted graphically, the chart itself includes the word "Obstacle" in parentheses in the title. Additionally, all newly- developed
+
+RNAV ODPs are issued in graphical form.
+
+All ODPs are listed in the front of the Aeronautical Information Services approach chart booklets under the heading Takeoff Minimums and Obstacle Departure Procedures. Each procedure is listed in alphabetical order by city and state. The ODP listing in the front of the booklet includes a reference to the graphic chart located in the main body of the booklet if one exists. [Figure 1- 21]

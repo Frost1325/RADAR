@@ -1,0 +1,3 @@
+## Chapter 6
+
+Airborne Navigation Databases 6- 1 Introduction 6- 1 Airborne Navigation Database Standardization 6- 3 ARINC 424 6- 4 Fix Records 6- 4 Simple Route Records 6- 4 Complex Route Records 6- 5 Miscellaneous Records 6- 5 Path and Terminator Concept 6- 5 Path and Terminator Legs 6- 5 Path and Terminator Limitations 6- 9 Role of the Database Provider 6- 13 Role of the Avionics Manufacturer 6- 13 Users Role 6- 14 Operational Limitations of Airborne Navigation Databases 6- 14 Closed Indefinitely Airports 6- 14 Storage Limitations 6- 15 Charting/Database Inconsistencies 6- 15 Naming Conventions 6- 15 Issues Related To Magnetic Variation 6- 16 Issues Related To Revision Cycle 6- 17

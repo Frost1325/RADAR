@@ -1,0 +1,5 @@
+10]
+
+Multigenge turboprop airplanes normally have several power sources—at least one generator per engine and at least one battery for the airplane. The electrical systems are usually designed so that any bus can be energized by any of the power sources. For example, a typical system has a left and right engine generator- powered bus. While these buses are normally isolated, they may be fed from other power sources. However, in the event of a short- circuit, the bus remains isolated. Pilots should refer to the appropriate checklist when an electrical fault occurs.
+
+Power distribution buses are protected from short circuits and other malfunctions by a type of fuse called a current limiter. In the case of excessive current supplied by any power source, the current limiter opens the circuit and thereby isolates that power source and separates the affected bus from the system. If this occurs, pilots should refer to the appropriate checklist.

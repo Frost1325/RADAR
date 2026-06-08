@@ -1,0 +1,5 @@
+ and carbon fiber. Fiberglass has good tensile and compressive strength, good impact resistance, is easy to work with, and is relatively inexpensive and readily available. Its main disadvantage is that it is somewhat heavy, and it is difficult to make a fiberglass load- carrying structure lighter than a well designed equivalent aluminum structure.
+
+Carbon fiber is generally stronger in tensile and compressive strength than fiberglass and has much higher bending stiffness. It is also considerably lighter than fiberglass. However, it is relatively poor in impact resistance; the fibers are brittle and tend to shatter under sharp impact. This can be greatly improved with a "toughened" epoxy resin system, as used in the Boeing 787 horizontal and vertical stabilizers. Carbon fiber is more expensive than fiberglass, but the price has dropped due to innovations driven by the B- 2 program in the 1980s and Boeing 777 work in the 1990s. Very well- designed carbon fiber structures can be significantly lighter than an equivalent aluminum structure, sometimes by 30 percent or so.
+
+## Advantages of Composites

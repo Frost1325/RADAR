@@ -1,0 +1,5 @@
+ a theoretical plane where air pressure (corrected to \(15^{\circ} \mathrm{C}\) ) equals \(29.92" \mathrm{Hg}\) . Pressure altitude is used to compute density altitude, true altitude, true airspeed (TAS), and other performance data.
+
+5. Density altitude—pressure altitude corrected for variations from standard temperature. When conditions are standard, pressure altitude and density altitude are the same. If the temperature is above standard, the density altitude is higher than pressure altitude. If the temperature is below standard, the density altitude is lower than pressure altitude. This is an important altitude because it is directly related to the aircraft's performance.
+
+A pilot must understand how the performance of the aircraft is directly related to the density of the air. The density of the air affects how much power a naturally aspirated engine produces, as well as how efficient the airfoils are. If there are fewer air molecules (lower pressure) to accelerate through the propeller, the acceleration to rotation speed is longer and thus produces a longer takeoff roll, which translates to a decrease in performance.

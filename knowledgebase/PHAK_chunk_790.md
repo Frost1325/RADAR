@@ -1,0 +1,5 @@
+ the use of a chamois does not always ensure decontaminated fuel. Worn- out chamois do not filter water; neither will a new, clean chamois that is already water- wet or damp. Most imitation chamois skins do not filter water.
+
+## Fuel System Icing
+
+Ice formation in the aircraft fuel system results from the presence of water in the fuel system. This water may be undissolved or dissolved. One condition of undissolved water is entrained water that consists of minute water particles suspended in the fuel. This may occur as a result of mechanical agitation of free water or conversion of dissolved water through temperature reduction. Entrained water settles out in time under static conditions and may or may not be drained during normal servicing, depending on the rate at which it is converted to free water. In general, it is not likely that all entrained water can ever be separated from fuel under field conditions. The settling rate depends on a series of factors including temperature, quiescence, and droplet size.

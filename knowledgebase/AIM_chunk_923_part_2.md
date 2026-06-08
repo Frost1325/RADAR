@@ -1,0 +1,3 @@
+>RVR</td><td>Visibility (statute miles)</td></tr><tr><td>1600</td><td>\(1/4\)</td></tr><tr><td>2400</td><td>\(1/2\)</td></tr><tr><td>3200</td><td>\(5/8\)</td></tr><tr><td>4000</td><td>\(3/4\)</td></tr><tr><td>4500</td><td>\(7/8\)</td></tr><tr><td>5000</td><td>1</td></tr><tr><td>6000</td><td>\(1 1/4\)</td></tr></table>
+
+1. Circling approach protected areas are defined by the tangential connection of arcs drawn from each runway end (see FIG 5-4-26). Circling approach protected areas developed prior to late 2012 used fixed radius distances, dependent on aircraft approach category, as shown in the table on page B2 of the U.S. TPP. The approaches using

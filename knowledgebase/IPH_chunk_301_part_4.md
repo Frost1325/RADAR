@@ -1,0 +1,5 @@
+data link equipped, the exchange of routine controller-pilot messages and clearances via data link will enable controllers to handle more traffic. This will improve ATC productivity, enhancing capacity and safety. [Figure 5-5]
+
+4. Next generation network enabled weather (NNEW)—seventy percent of NAS delays are attributed to weather every year. The goal of NNEW is to cut weather-related delays at least in half. Tens of thousands of global weather observations and sensor reports from ground, airborne, and space-based sources will fuse into a single national weather information system updated in real time. NNEW will provide a common weather picture across the NAS and enable better air transportation decision-making. [Figure 5-6]
+
+5. NAS voice switch (NVS)—there are currently seventeen different voice switching systems in the NAS; some in use for more than twenty years. NVS will replace these systems with a single air/ground and ground/ground voice communications system. [Figure 5- 7]

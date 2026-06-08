@@ -1,0 +1,3 @@
+then maneuvers to the published holding fix, while contacting ATC. If navigational guidance or pilot SA were lost, the pilot would then climb to the published MSA (see AIM paragraph 5-4-7c).
+
+In order to survive an encounter with IMC, a pilot must recognize and accept the seriousness of the situation. The pilot will need to immediately commit to the instruments and perform the proper recovery procedures.

@@ -1,0 +1,1 @@
+about a stationary inboard wheel and landing gear. The airplane was not designed for this action, and the pilot should not allow it to occur. Unless otherwise directed by the AFM/POH, all ground operations should be conducted with the cowl flaps fully open. The use of strobe lights is normally deferred until taxiing onto the active runway.

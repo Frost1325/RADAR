@@ -1,0 +1,1 @@
+feet (FL 195; FL 215; FL 235, etc.)</td></tr><tr><td>180° to 359°</td><td>Even thousands MSL, plus 500 feet (4,500; 6,500; 8,500, etc.)</td><td>Even Flight Levels plus 500 feet (FL 185; FL 205; FL 225, etc.)</td></tr></table>

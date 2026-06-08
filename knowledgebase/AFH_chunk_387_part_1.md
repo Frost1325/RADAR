@@ -1,0 +1,3 @@
+## Climb
+
+As soon as directional control is established and the airplane configured for climb, the bank angle should be reduced to that producing best climb performance. Without specific guidance for zero sideslip, a bank of \(2^{\circ}\) and one- third to one- half ball deflection on the slip/skid indicator toward the operative engine is suggested. \(\mathrm{V}_{\mathrm{YSE}}\) is maintained with pitch control. As turning flight reduces climb performance, climb should be made straight ahead or with shallow turns to avoid obstacles to an altitude of at least 400 feet AGL before attempting a return to the airport.

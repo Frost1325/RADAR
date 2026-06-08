@@ -1,0 +1,5 @@
+. FAA rules for obtaining a pilot's certificate differ depending on the type of aircraft flown. Individuals can choose among airplanes, gyroplanes, weight- shift, helicopters, powered parachutes, gliders, balloons, or airships. A pilot does not need a certificate to fly ultralight vehicles.
+
+## Basic Requirements
+
+A student pilot is one who is being trained by an instructor pilot for his or her first full certificate, and is permitted to fly alone (solo) under specific, limited circumstances. Before a student pilot may be endorsed to fly solo, that student must have a Student Pilot Certificate. There are multiple ways that an aspiring pilot can obtain their Student Pilot Certificate. The application may be processed by an FAA inspector or technician, an FAA- Designated Pilot Examiner, a Certified Flight Instructor (CFI), or an Airman Certification Representative (ACR). If the application is completed electronically, the authorized person will submit the application to the FAA's Airman Certification Branch (AFS- 760) in Oklahoma City, OK, via the Integrated

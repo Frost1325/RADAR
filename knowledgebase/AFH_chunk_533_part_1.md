@@ -1,0 +1,7 @@
+# Pitot-Static System
+
+The source of the pressure for operating the airspeed indicator, the vertical speed indicator (VSI), and the altimeter is the pitot-static system. The major components of the pitot-static system are the impact pressure chamber and lines and the static pressure chamber and lines, each of which are subject to total or partial blockage by ice, dirt, and/or other foreign matter. Blockage of the pitot-static system adversely affects instrument operation. [Figure 18-10]
+
+Partial static system blockage is insidious in that it may go unrecognized until a critical phase of flight. During takeoff, climb, and level-off at cruise altitude the altimeter, airspeed indicator, and VSI may operate normally. No indication of malfunction may be present until the airplane begins a descent.
+
+If the static reference system is severely restricted, but not entirely blocked, as the airplane descends, the static reference pressure at the instruments begins to lag behind the actual outside air pressure. While descending, the altimeter may indicate that the airplane is higher than actual because the obstruction slows the airflow from the static port to the altimeter. The VSI confirms the altimeter's information regarding rate of change because the reference pressure is not

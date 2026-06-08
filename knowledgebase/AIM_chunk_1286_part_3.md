@@ -1,0 +1,7 @@
+towers. When a plume is visible via smoke or a condensation cloud, remain clear and realize a plume may have both visible and invisible characteristics. Exhaust stacks without visible plumes may still be in full operation, and airspace in the vicinity should be treated with caution.
+
+As with mountain wave turbulence or clear air turbulence, an invisible plume may be encountered unexpectedly. Cooling towers, power plant stacks, exhaust fans, and other similar structures are depicted in FIG 7- 5- 2.
+
+Pilots are encouraged to exercise caution when flying in the vicinity of exhaust plumes. Pilots are also encouraged to reference the Airport/Facility Directory where amplifying notes may caution pilots and identify the location of structure(s) emitting exhaust plumes.
+
+The best available information on this phenomenon must come from pilots via the PIREP reporting procedures. All pilots encountering hazardous plume conditions are urgently requested to report time, location, and intensity (light, moderate, severe, or extreme) of the element to the FAA facility with which they are maintaining radio contact. If time and conditions permit, elements should be reported according to the standards for other PIREPs and position reports (see GEN 3.5- , PIREPS Relating to Turbulence

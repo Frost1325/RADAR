@@ -1,0 +1,4 @@
+
+nose and tail of the aircraft track along the same path. If no rudder is used in a turn, the nose of the aircraft yaws to the outside of the turn. The rudder is used rolling into the turn to bring the nose back in line with the relative wind. Once in the turn, the rudder should not be needed.
+
+An aircraft is not steered like a boat or an automobile. In order for an aircraft to turn, it must be banked. If it is not banked, there is no force available to cause it to deviate from a straight flight path. Conversely, when an aircraft is banked, it turns provided it is not slipping to the inside of the turn. Good directional control is based on the fact that the aircraft attempts to turn whenever it is banked. Pilots should keep this fact in mind when attempting to hold the aircraft in straight- and- level flight.

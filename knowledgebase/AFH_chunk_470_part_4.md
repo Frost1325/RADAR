@@ -1,0 +1,3 @@
+weight of the airplane to be loaded onto the wheels. The spoilers increase wheel loading, which increases the tire ground friction force making the maximum tire braking forces available.
+
+Like spoilers, thrust reversers are most effective at high speeds and should be deployed quickly after touchdown. However, the pilot should not command significant reverse thrust until the nose- wheel is on the ground. If the reversers deploy asymmetrically resulting in an uncontrollable yaw toward the side with more reverse thrust, the pilot needs whatever nose- wheel steering is available to maintain directional control. When runway length is not a factor, using idle reverse thrust may be adequate.

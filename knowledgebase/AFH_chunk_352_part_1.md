@@ -1,0 +1,3 @@
+## Yaw Damper
+
+Yaw DamperThe yaw damper is a servo that moves the rudder in response to inputs from a gyroscope or accelerometer that detects yaw rate or lateral Gs, respectively. The yaw damper reduces motion about the vertical axis caused by turbulence. (Yaw dampers on swept wing airplanes provide another, more vital function of damping Dutch roll characteristics.) Occupants feel a smoother ride, particularly if seated in the rear of the airplane, when the yaw damper is engaged. The yaw damper should be off for takeoff and landing. There may be additional restrictions against its use with one engine inoperative. Most yaw dampers can be engaged independently of the autopilot.

@@ -1,0 +1,7 @@
+- range transformation of the
+
+entire United States air transportation system. NextGen consists of the following five systems:
+
+1. Automatic dependent surveillance-broadcast (ADS-B)—automatically broadcasts the aircraft's position and other aircraft specific information to air traffic control (ATC) ground facilities and nearby aircraft equipped with ADS-B In. Effective January 1, 2020 all aircraft operating in certain controlled U.S. airspace will be required to operate ADS-B Out equipment at all times. While Global Navigation Satellite System (GNSS) is not mandated by rule as the position sensor, it is currently the only position source that meets the rule's performance requirements. Aircraft broadcasting ADS-B Out data provide ATC and cooperating ADS-B-In aircraft more precise on-the-ground or in-the-air positioning information based on the increased frequency of the data broadcasts and the accuracy of GNSS. ADS-B will provide a complete picture of air traffic for ATC and pilots of ADS-B In-equipped aircraft. The FAA's ADS- B ground infrastructure is complete and ATC now uses ADS- B for aircraft tracking both in the air and on the ground at many airports.
+
+2. System wide information management (SWIM)—will provide a single infrastructure and information management system to deliver high quality, timely

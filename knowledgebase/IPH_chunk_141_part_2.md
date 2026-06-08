@@ -1,0 +1,3 @@
+extra 1,000 feet is added in mountainous areas, in most cases.
+
+ATC controllers have an important role in helping pilots remain clear of obstructions. Controllers are instructed to issue a safety alert if the aircraft is in a position that, in their judgment, places the pilot in unsafe proximity to terrain, obstructions, or other aircraft. Once pilots inform ATC of action being taken to resolve the situation, the controller may discontinue the issuance of further alerts. A typical terrain/obstruction alert may sound like this: "(Aircraft call sign), Low altitude alert. Check your altitude immediately. The MOCA in your area is 12,000."

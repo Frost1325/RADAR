@@ -1,0 +1,5 @@
+ from wingtip to wingtip is the lateral axis, and the axis that passes through the CG at right angles to the other two axes is the vertical axis. Whenever an aircraft changes its flight attitude or position in flight, it rotates about one or more of the three axes. [Figure 5- 18]
+
+The aircraft's motion about its longitudinal axis resembles the roll of a ship from side to side. In fact, the names used to describe the motion about an aircraft's three axes were originally nautical terms. They have been adapted to aeronautical terminology due to the similarity of motion of aircraft and seagoing ships. The motion about the aircraft's longitudinal axis is "roll," the motion about its lateral axis is
+
+"pitch," and the motion about its vertical axis is "yaw." Yaw is the left and right movement of the aircraft's nose.

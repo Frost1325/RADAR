@@ -1,0 +1,3 @@
+## Emergency Response Systems
+
+Airplanes may have installed systems that provide alternatives in certain emergency situations. For example, ballistic parachute systems, if installed, may be deployed in an emergency allowing an airplane to descend slowly enough toward the ground such that occupants usually survive the resulting impact with minor or no injuries. Airplanes may also have an Emergency Autoland (EAL) system, which can take over control of the aircraft when necessary for a safe outcome.

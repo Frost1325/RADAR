@@ -1,0 +1,3 @@
+ATC has advised to expect in a further clearance.
+
+In some cases, the assigned or expected altitude may not be as high as the MEA on the next route segment. In this situation, pilots normally begin a climb to the higher MEA when they reach the fix where the MEA rises. If the fix also has a published MCA, they start the climb so they are at or above the MCA when reaching the fix. If the next succeeding route segment has a lower MEA, descend to the applicable altitude either the last assigned altitude or the altitude expected in a further clearance—when reaching the fix where the MEA decreases.

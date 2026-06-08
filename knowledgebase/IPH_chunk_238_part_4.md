@@ -1,0 +1,5 @@
+900-2½)</td><td>1180-2½ 870 (900-2½)</td></tr></table>
+
+The differences in ROC application between non- vertically guided and vertically guided approach procedures may generate differences in minimum altitudes (MDA, DA) that seem illogical. Depending on the location and height of the obstacle, cases can exist where the straight- in (SI) vertically- guided DA must be higher than the SI non- vertically guided MDA. Note: The vertically- guided DA may also be higher than the circling minima in cases where the circling MDA is not higher than the SI non- vertically guided MDA (typically where the circling maneuver is restricted).
+
+is DME/DME. The necessary DME NAVAI D ground infrastructure may or may not be available at the airport of intended landing. The procedure designer has a computer program for determining the usability of DME based on geometry and coverage. Where FAA flight inspection successfully determines that the coverage and accuracy of DME facilities support RNP, and that the DME signal meets inspection tolerances, although there are none currently published, the note"DME/DME RNP 0.3 Authorized"would

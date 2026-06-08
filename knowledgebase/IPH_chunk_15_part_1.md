@@ -1,0 +1,3 @@
+## Chapter 7
+
+Chapter 7- Updated various paragraphs by changing "Helicopter Emergency Medical Service (HEMS)" to "Helicopter Air Ambulance (HAA)."- Clarified in paragraph "Helicopter IFR Takeoff Minimums" regarding takeoff minimums and acceleration to minimum speed.- Updated figure 7- 7 regarding the visibility for "Class G 1200 feet or less above the surface" changing from "none" to "/2 SM."- Updated paragraph "Approach to a PinS" regarding proceeding VFR in uncontrolled airspace. Deleted figure 7- 14 and references to the figure are deleted; information is already covered elsewhere in the paragraph.- Reworded paragraph "Approach to a Specific VFR Heliport" indicating that some of the requirements stated in the first sub- paragraph apply only to public procedures.

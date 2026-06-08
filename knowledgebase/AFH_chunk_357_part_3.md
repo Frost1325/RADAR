@@ -1,0 +1,7 @@
+standard empty weight, the result is licensed empty weight. Licensed empty weight, therefore, includes the standard airplane, optional equipment, full hydraulic fluid, unusable fuel, and undrainable oil.
+
+The major difference between the two formats (GAMA and the old) is that basic empty weight includes full oil and licensed empty weight does not. Oil should always be added to any weight and balance utilizing a licensed empty weight.
+
+When the airplane is placed in service, amended weight and balance documents are prepared by appropriately- rated maintenance personnel to reflect changes in installed equipment. The old weight and balance documents are customarily marked "superseded" and retained in the AFM/POH. Maintenance personnel are under no regulatory obligation to utilize the GAMA terminology, so weight and balance documents subsequent to the original may use a variety of terms. Pilots should use care to determine whether or not oil has to be added to the weight and balance calculations or if it is already included in the figures provided.
+
+The multigenine airplane is where most pilots encounter the term "zero fuel weight" for the first time. Not all multigenine airplanes have a zero fuel weight limitation published in their AFM/POH, but many do. Zero fuel weight is simply the maximum allowable

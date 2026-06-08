@@ -1,0 +1,7 @@
+## 7-1-1. National Weather Service Aviation Products
+
+a. Weather service to aviation is a joint effort of the National Weather Service (NWS), the Federal Aviation Administration (FAA), the military weather services, and other aviation oriented groups and individuals. The NWS maintains an extensive surface, upper air, and radar weather observing program; a nationwide aviation weather forecasting service; and provides limited pilot briefing service (interpretational). Pilot weather briefings are provided by personnel at Flight Service Stations operated by FAA (in Alaska) or by federal contract facilities (elsewhere in the U.S.). Aviation routine weather reports (METAR) are taken manually by NWS, FAA, contractors, or supplemental observers. METAR reports are also provided by Automated Weather Observing System (AWOS), Automated Surface Observing System (ASOS), and Automated Weather Sensor System (AWSS).
+
+REFERENCE- AIM, Para 7- 1- 12, Weather Observing Programs.
+
+b. Aerodrome forecasts are prepared by 122 Weather Forecast Offices (WFOs). These offices prepare and distribute 625 aerodrome forecasts 4 times daily for specific airports in the 50 States, Puerto Rico, the Caribbean and Pacific Islands.

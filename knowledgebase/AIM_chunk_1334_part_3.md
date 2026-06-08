@@ -1,0 +1,5 @@
+, airport diagrams, radar minimums, and supporting data for the Hawaiian and Pacific Islands are included. The manual is published every 56 days. Volume is side-bound 5-3/8 x 8-1/4 inches.
+
+4. North Pacific Route Charts. These charts are designed for FAA controllers to monitor transoceanic flights. They show established intercontinental air routes, including reporting points with geographic positions. Composite Chart: Scale 1 inch = 164nm/1:12,000,000. 48 x 41-1/2 inches. Area Charts: Scale 1 inch = 95.9nm/1:7,000,000. 52 x 40-1/2 inches. All charts shipped unfolded. Charts revised every 56 days. (See FIG 9-1-10.)
+
+5. North Atlantic Route Chart. Designed for FAA controllers to monitor transatlantic flights, this 5-color chart shows oceanic control areas, coastal navigation aids, oceanic reporting points, and NAVAID geographic coordinates. Full Size Chart: Scale 1 inch = 113.1nm/1:

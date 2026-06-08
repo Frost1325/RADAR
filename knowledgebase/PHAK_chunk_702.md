@@ -1,0 +1,5 @@
+ intake filter clogs, such as in sudden or unexpected airframe icing conditions. The carburetor heat should be checked during the engine runup. When using carburetor heat, follow the manufacturer's recommendations.
+
+When conditions are conducive to carburetor icing during flight, periodic checks should be made to detect its
+
+presence. If detected, full carburetor heat should be applied immediately, and it should be left in the ON position until the pilot is certain that all the ice has been removed. If ice is present, applying partial heat or leaving heat on for an insufficient time might aggravate the situation. In extreme cases of carburetor icing, even after the ice has been removed, full carburetor heat should be used to prevent further ice formation. If installed, a carburetor temperature gauge is useful in determining when to use carburetor heat.

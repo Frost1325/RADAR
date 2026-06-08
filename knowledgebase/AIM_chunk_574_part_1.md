@@ -1,0 +1,1 @@
+## 4-6-6. Guidance on Severe Turbulence and Mountain Wave Activity (MWA)

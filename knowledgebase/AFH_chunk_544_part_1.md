@@ -1,0 +1,7 @@
+## Transition to Visual Flight
+
+One of the most difficult tasks a trained and qualified instrument pilot contends with is the transition from instrument to visual flight prior to landing. For the untrained instrument pilot, these difficulties are magnified.
+
+The difficulties center around acclimatization and orientation. On an instrument approach, the trained instrument pilot prepares in advance for the transition to visual flight. The pilot has a mental picture of what to expect when the transition to visual flight is made and will quickly acclimate to the new environment. Geographical orientation also begins before the transition, as the pilot visualizes where the airplane is in relation to the airport/runway.
+
+In an ideal situation, the transition to visual flight is made with ample time, at a sufficient altitude above terrain, and to visibility conditions sufficient to accommodate acclimatization and geographical orientation. This, however, is not always the case. The untrained instrument pilot may find the visibility still limited, the terrain completely unfamiliar, and altitude above terrain such that a "normal" airport traffic pattern and landing approach is not possible. Additionally, the pilot is most likely under considerable self- induced psychological pressure to get the airplane on the ground. The pilot should take this into account and, if possible, allow time to become accl

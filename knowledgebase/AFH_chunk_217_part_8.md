@@ -1,0 +1,5 @@
+takeoff, the pilot should continue climbing straight ahead and, if remaining in the traffic pattern, commence a turn to the crosswind leg beyond the departure end of the runway within 300 feet of the traffic pattern altitude. If departing the traffic pattern, the pilot should continue straight out or exit with a \(45^{\circ}\) turn (to the left when in a left- hand traffic pattern or to the right when in a right- hand traffic pattern) beyond the departure end of the runway after reaching the traffic pattern altitude.
+
+The crosswind leg is the part of the rectangular pattern that is horizontally perpendicular to the extended centerline of the takeoff runway. The pilot should enter the crosswind leg by making approximately a \(90^{\circ}\) turn from the upwind leg. The pilot should continue on the crosswind leg, to the downwind leg position.
+
+If the takeoff is made into the wind, the wind will now be approximately perpendicular to the airplane's flightpath. As a result, the pilot should turn or head the airplane slightly into the wind while on the crosswind leg to maintain a ground track that is perpendicular to the runway centerline extension.

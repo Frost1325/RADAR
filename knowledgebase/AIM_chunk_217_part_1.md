@@ -1,0 +1,5 @@
+## 6. 14 CFR Section 91.143:
+
+The following NOTAM prohibits any aircraft of U.S. registry, or pilot any aircraft under the authority of an airman certificate issued by the FAA.
+
+Kennedy space center space operations area effective immediately until 9610152100 UTC. Pursuant to 14 CFR Section 91.143, flight operations conducted by FAA certificated pilots or conducted in aircraft of U.S. registry are prohibited at any altitude from surface to unlimited, within the following area 30- nautical- mile radius of the Melbourne/MLB/VORTAC 010 degree radial 21- nautical- mile fix. St. Petersburg, Florida/PIE/FSS 813- 545- 1645(122.2) is the FAA coordination facility and should be contacted for the current status of any airspace associated with the space shuttle operations. This airspace encompasses R2933, R2932, R2931, R2934, R2935, W497A and W158A. Additional warning

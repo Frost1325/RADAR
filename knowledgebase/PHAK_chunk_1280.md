@@ -1,0 +1,5 @@
+14^{\circ}\) . Divide the temperature dew point spread by the convergence rate of \(4.4^{\circ}\mathrm{F}\) , and multiply by 1,000 to determine the approximate height of the cloud base.
+
+## Methods by Which Air Reaches the Saturation Point
+
+If air reaches the saturation point while temperature and dew point are close together, it is highly likely that fog, low clouds, and precipitation will form. There are four methods by which air can reach the saturation point. First, when warm air moves over a cold surface, the air temperature drops and reaches the saturation point. Second, the saturation point may be reached when cold air and warm air mix. Third, when air cools at night through contact with the cooler ground, air reaches its saturation point. The fourth method occurs when air is lifted or is forced upward in the atmosphere.

@@ -1,0 +1,5 @@
+ because of the force of gravity. It opposes lift and acts vertically downward through the aircraft's center of gravity (CG).
+
+Lift opposes the downward force of weight, is produced by the dynamic effect of the air acting on the wing, and acts perpendicular to the flight path through the wing's center of lift (CL).
+
+An aircraft moves in three dimensions and is controlled by moving it about one or more of its axes. The longitudinal, or roll, axis extends through the aircraft from nose to tail, with the line passing through the CG. The lateral or pitch axis extends across the aircraft on a line through the wing tips, again passing through the CG. The vertical, or yaw, axis passes through the aircraft vertically, intersecting the CG. All control movements cause the aircraft to move around one or more of these axes and allows for the control of the aircraft in flight. [Figure 3- 2]

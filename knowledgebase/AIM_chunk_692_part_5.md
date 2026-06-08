@@ -1,0 +1,1 @@
+as long as actual arrival is within 15 minutes of the original ETA, otherwise a new notice must be given to Customs. Notices will be accepted up to 23 hours in advance. Unless an exemption has been granted by Customs, private aircraft are required to make first landing in the U.S. at one of the following designated airports nearest to the point of border of coastline crossing:

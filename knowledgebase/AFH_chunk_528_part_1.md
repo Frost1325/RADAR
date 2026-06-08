@@ -1,0 +1,7 @@
+## Asymmetric (Split) Flap
+
+An asymmetric "split" flap situation is one in which one flap deploys or retracts while the other remains in position. The problem is indicated by a pronounced roll toward the wing with the least flap deflection when wing flaps are extended/retracted.
+
+The roll encountered in a split flap situation is countered with opposite aileron. The yaw caused by the additional drag created by the extended flap requires substantial opposite rudder resulting in a cross- control condition. Almost full aileron may be required to maintain a wings- level attitude, especially at the reduced airspeed necessary for approach and landing. The pilot should not attempt to land with a crosswind from the side of the deployed flap because the additional roll control required to counteract the crosswind may not be available.
+
+The approach to landing with a split flap condition should be flown at a higher than normal airspeed. The pilot should not risk an asymmetric stall and subsequent loss of control by flaring excessively. Rather, the airplane should be flown onto the runway so that the touchdown occurs at an airspeed consistent with a safe margin above flaps- up stall speed.

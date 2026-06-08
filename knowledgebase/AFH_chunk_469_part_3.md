@@ -1,0 +1,7 @@
+even if the speed is excessive. A deliberate touchdown should be planned and practiced on every flight. A positive touchdown helps prevent an extended flare.
+
+Pilots should learn the flare characteristics of each model of airplane they fly. The visual reference cues observed from each airplane are different because window geometry and visibility are different. The geometric relationship between the pilot's eye and the landing gear is different for each make and model. It is essential that the flare maneuver be initiated at the proper height—not too high and not too low.
+
+Beginning the flare too high or reducing the thrust too early may result in the airplane floating beyond the target touchdown point or may include a rapid pitch up as the pilot attempts to prevent a high sink rate touchdown. This can lead to a tail strike. The flare that is initiated too late may result in a hard touchdown.
+
+Proper thrust management through the flare is also important. In many jet airplanes, the engines produce a noticeable effect on pitch trim when the thrust setting is changed. A rapid change in the thrust setting requires a quick elevator response. If the thrust levers are moved to idle too quickly during the flare, the pilot may need to make rapid changes in pitch control. If the thrust levers are moved more slowly, the elevator input can be more

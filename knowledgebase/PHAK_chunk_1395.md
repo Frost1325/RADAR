@@ -1,0 +1,5 @@
+ET MTN OBSCN...ME NH VT MA NY PA FROM CAR TO MLT TO CON TO SLT TO SYR TO CAR MTNS OCNLY OBSCD BY CLDS/PCPN/BR. CONDS CONT BYD 02Z THRU 08Z
+
+## Explanation:
+
+AIRMET SIERRA was issued for the Boston area at 1945Z on the 21st day of the month. SIERRA contains information on IFR and/or mountain obscurations. This is the third updated issuance of this Boston AIRMET series as indicated by "SIERRA UPDT 3" and is valid until 0200Z on the 22nd. The affected states within the BOS area are: Maine, New Hampshire, Vermont, Massachusetts, New York, and Pennsylvania. Within an area bounded by: Caribou, ME; to Saint Johns, New Brunswick; to 150 nautical miles east of Nantucket, MA; to Newark, NJ; to Ottawa, Ontario; to Caribou, ME. The effected states within Caribou, ME to Millinocket, ME to Concord, NH to Slate Run, PA to Syracuse, NY to Caribou, ME will experience ceilings below 1,000 feet/visibility below 3 SM, precipitation/mist. Conditions will continue beyond 0200Z through 0800Z.

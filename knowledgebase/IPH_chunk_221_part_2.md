@@ -1,0 +1,3 @@
+procedure, pilots may have to brief the transition from an initial NAVAID to the primary and missed approach NAVAIDs. Figure 4- 8 shows the Cheyenne, Wyoming, ILS Runway 27 approach procedure, which requires additional consideration during an IAP briefing.
+
+If the 15 DME arc of the CYS VOR is to be used as the transition to this ILS approach procedure, caution must be paid to the transition from en route navigation to the initial NAVAID and then to the primary NAVAID for the ILS approach. Planning when the transition to each of these NAVAIDs occurs may prevent the use of the incorrect NAVAID for course guidance during approaches where high pilot workloads already exist.

@@ -1,0 +1,7 @@
+## Heat Management
+
+Turbocharged engines should be thoughtfully and carefully operated with continuous monitoring of pressures and temperatures. There are two temperatures that are especially important—turbine inlet temperature (TIT) or, in some installations, exhaust gas temperature (EGT) and cylinder head temperature. TIT or EGT limits are set to protect the elements in the hot section of the turbocharger, while cylinder head temperature limits protect the engine's internal parts.
+
+Due to the heat of compression of the induction air, a turbocharged engine runs at higher operating temperatures than a non- turbocharged engine. Because turbocharged engines operate at high altitudes, their environment is less efficient for cooling. At altitude, the air is less dense and, therefore, cools less efficiently. Also, the less dense air causes the compressor to work harder. Compressor turbine speeds can reach 80,000–100,000 rpm, adding to the overall engine operating temperatures. Turbocharged engines are also operated at higher power settings a greater portion of the time.
+
+High heat is detrimental to piston engine operation. Its cumulative effects can lead to piston, ring, and cylinder head failure and place thermal stress on other operating components. Excessive cylinder head temperature can

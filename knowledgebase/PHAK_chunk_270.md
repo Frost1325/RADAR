@@ -1,0 +1,5 @@
+This chapter focused on helping the pilot improve his or her ADM skills with the goal of mitigating the risk factors associated with flight in both classic and automated aircraft. In the end, the discussion is not so much about aircraft, but about the people who fly them.
+
+## Aircraft Design, Certification, and Airworthiness
+
+The FAA certifies three types of aviation products: aircraft, aircraft engines, and propellers. Each of these products has been designed to a set of airworthiness standards. These standards are parts of Title 14 of the Code of Federal Regulations (14 CFR), published by the FAA. The airworthiness standards were developed to help ensure that aviation products are designed with no unsafe features. Different airworthiness standards apply to the different categories of aviation products as follows:

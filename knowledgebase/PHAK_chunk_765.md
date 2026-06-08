@@ -1,0 +1,3 @@
+foils and are subject to the same aerodynamic principles that apply to any airfoil. A compressor blade has an AOA that is a result of inlet air velocity and the compressor's rotational velocity. These two forces combine to form a vector, which defines the airfoil's actual AOA to the approaching inlet air.
+
+A compressor stall is an imbalance between the two vector quantities, inlet velocity, and compressor rotational speed. Compressor stalls occur when the compressor blades' AOA exceeds the critical AOA. At this point, smooth airflow is interrupted and turbulence is created with pressure fluctuations. Compressor stalls cause air flowing in the compressor to slow down and stagnate, sometimes reversing direction. [Figure 7- 28]

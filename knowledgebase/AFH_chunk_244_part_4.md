@@ -1,0 +1,3 @@
+airplanes, there may not be sufficient rudder travel available to compensate for the strong turning tendency caused by the steep bank. If the required bank is such that full opposite rudder does not prevent a turn, the wind is too strong to safely land the airplane on that particular runway with those wind conditions. Since the airplane's capability is exceeded, it is imperative that the landing be made on a more favorable runway either at that airport or at an alternate airport.
+
+Flaps are used during most approaches since they tend to have a stabilizing effect on the airplane. The degree to which flaps are extended vary with the airplane's handling characteristics, as well as the wind velocity.

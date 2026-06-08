@@ -1,0 +1,3 @@
+Crewmember Testing Requirements, as appropriate.
+
+j. Experience has shown that modern AFCS/AP/FD equipment installed in IFR helicopters can, in some cases, be very complex. This complexity requires the pilot(s) to obtain and maintain a high level of knowledge of system operation, limitations, failure indications and reversionary modes. In some cases, this may only be reliably accomplished through formal training.

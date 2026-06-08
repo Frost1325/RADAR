@@ -1,0 +1,5 @@
+ the same direction) equals the thrust. [Figure 5- 37] Due to momentum, the change in airspeed is gradual, varying considerably with differences in aircraft size, weight, total drag, and other factors. Consequently, the total effective drag is greater than the thrust, and the airspeed decreases.
+
+Generally, the forces of thrust and drag, and lift and weight, again become balanced when the airspeed stabilizes but at
+
+a value lower than in straight- and- level flight at the same power setting. Since the aircraft's weight is acting not only downward but rearward with drag while in a climb, additional power is required to maintain the same airspeed as in level flight. The amount of power depends on the angle of climb. When the climb is established steep enough that there is insufficient power available, a slower speed results.

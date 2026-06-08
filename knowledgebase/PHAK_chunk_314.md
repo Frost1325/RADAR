@@ -1,0 +1,5 @@
+ lead to more innovative aircraft designs in the future. From the Cirrus SR- 20 to the Boeing 787, it is obvious that composites have found a home in aircraft construction and are here to stay. [Figure 3- 17]
+
+## Instrumentation: Moving into the Future
+
+Until recently, most GA aircraft were equipped with individual instruments utilized collectively to safely operate and maneuver the aircraft. With the release of the electronic flight display (EFD) system, conventional instruments have been replaced by multiple liquid crystal display (LCD) screens. The first screen is installed in front of the pilot position and is referred to as the primary flight display (PFD). The second screen, positioned approximately in the center of the instrument panel, is referred to as the multi- function display (MFD). These two screens de- clutter instrument panels while increasing safety. This has been accomplished through the utilization of solid state instruments that have a failure rate far less than those of conventional analog instrumentation. [Figure 3- 18]

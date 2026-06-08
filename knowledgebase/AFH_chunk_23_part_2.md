@@ -1,0 +1,7 @@
+be hindered by wheel pants, which are covers used to reduce aerodynamic drag. It is still the pilot's responsibility to inspect the airplane properly. A flashlight helps the pilot in peering into covered areas. On low- wing airplanes, covered or retraceable landing gear presents additional effort required to crouch below the wing to inspect the landing gear properly.
+
+The following provides guidelines for inspecting the landing gear system; however, the AFM/POH should be the pilot's reference for the appropriate procedures.
+
+- The pilot, when approaching the airplane, should look at the landing gear struts and the adjacent ground for leaking hydraulic fluid that may be coming from struts, hydraulic lines from landing gear retraction pumps, or from the braking system. Landing gear should be relatively free from grease, oil, and fluid without any undue amounts. Any amount of leaking fluid is unacceptable. In addition, an overview of the landing gear provides an opportunity to verify landing gear alignment and height consistency.
+
+- All landing gear shock struts should also be checked to ensure that they are properly inflated, clean, and free from hydraulic fluid and damage. All axles, links, collars, over-center locks, push rods, forks, and fasteners should be inspected to ensure that

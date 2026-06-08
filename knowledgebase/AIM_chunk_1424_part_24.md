@@ -1,0 +1,3 @@
+td></tr><tr><td>NDB...</td><td>Nondirectional Radio Beacon</td></tr></table>
+
+<table><tr><td>Abbreviation/ Acronym</td><td>Meaning</td></tr><tr><td rowspan="2">NEXRAD...</td><td>Next Generation Weather Radar</td></tr><tr><td>National Flight Data Center</td></tr><tr><td>NFDC...</td><td>National Geospatial-Intelligence Agency</td></tr><tr><td>NGA...</td><td>Nautical Mile</td></tr><tr><td>NM...</td><td>Near Midair Collision</td></tr><tr><td>NMAC...</td><td>National Oceanic and Atmospheric<br>Administration</td></tr><tr><td>NOPAC...</td><td>North Pacific</td></tr><tr><td>NoPT...</td><td>No Procedure Turn Required</td></tr><tr><td>NOTAM...</td><td>Notice to Airmen</td></tr><tr><td>NPA...</td><td>Nonprecision Approach</td></tr><tr><td>NRS...</td><td

@@ -1,0 +1,7 @@
+/ VHF navigator screens seem to offer too much information presented in colorful menus and submenus. In fact, the pilot may be drowning in information but unable to find a specific piece of information. It might be helpful to remember these systems are similar to computers that store some folders on a desktop and some within a hierarchy.
+
+The first critical information management skill for flying with advanced avionics is to understand the system at a conceptual level. Remembering how the system is organized helps the pilot manage the available information. It is important to understanding that learning knob- and- dial procedures is not enough. Learning more about how advanced avionics systems work leads to better memory for procedures and allows pilots to solve problems they have not seen before.
+
+There are also limits to understanding. It is generally impossible to understand all of the behaviors of a complex avionics system. Knowing to expect surprises and to continually learn new things is more effective than attempting to memorize mechanical manipulation of the knobs. Simulation software and books on the specific system used are of great value.
+
+The second critical information management skill is stop, look, and read. Pilots new to advanced avionics often become

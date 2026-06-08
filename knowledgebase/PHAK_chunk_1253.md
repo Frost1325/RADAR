@@ -1,0 +1,5 @@
+ ground, rocks, sand, and barren land absorb solar energy quickly and can therefore give off a large amount of heat; whereas, water, trees, and other areas of vegetation tend to more slowly absorb heat and give off heat. The resulting uneven heating of the air creates small areas of local circulation called convective currents.
+
+Convective currents cause the bumpy, turbulent air sometimes experienced when flying at lower altitudes during warmer weather. On a low- altitude flight over varying surfaces, updrafts are likely to occur over pavement or barren places, and downdrafts often occur over water or expansive areas of vegetation like a group of trees. Typically, these turbulent conditions can be avoided by flying at higher altitudes, even above cumulus cloud layers. [Figure 12- 12]
+
+Convective currents are particularly noticeable in areas with a land mass directly adjacent to a large body of water, such as an ocean, large lake, or other appreciable area of water. During the day, land heats faster than water, so the air over the land becomes warmer and less dense. It rises and is replaced by

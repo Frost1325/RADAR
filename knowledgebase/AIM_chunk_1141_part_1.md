@@ -1,0 +1,3 @@
+## 7-1-17. Reporting Prevailing Visibility
+
+a. Surface (horizontal) visibility is reported in METAR reports in terms of statute miles and increments thereof; e.g., \(1 / 16\) , \(1 / 8\) , \(3 / 16\) , \(1 / 4\) , \(5 / 16\) , \(3 / 8\) , \(1 / 2\) , \(5 / 8\) , \(3 / 4\) , \(7 / 8\) , 1, 1 \(1 / 8\) , etc. (Visibility reported by an unaugmented automated site is reported differently than in a manual report, i.e., ASOS/AWSS: 0, \(1 / 16\) , \(1 / 8\) , \(1 / 4\) , \(1 / 2\) , \(3 / 4\) , 1, 1 \(1 / 4\) , 1 \(1 / 2\) , 1 \(3 / 4\) , 2, 2 \(1 / 2\) , 3, 4, 5, etc., AWOS: M \(1 /

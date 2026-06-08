@@ -1,0 +1,7 @@
+check the indicators from a distance or altitude well above the traffic pattern in case any other aircraft are in the traffic pattern.
+
+Consider the following points when arriving at an airport for landing:
+
+- The pilot should be aware of the appropriate traffic pattern altitude before entering the pattern and remain clear of the traffic flow until established on the entry leg.- The traffic pattern is normally entered at a \(45^{\circ}\) angle to the downwind leg, headed toward a point abeam the midpoint of the runway to be used for landing.- The pilot should ensure that the entry leg is of sufficient length to provide a clear view of the entire traffic pattern and to allow adequate time for planning the intended path in the pattern and the landing approach.- Entries into traffic patterns while descending create specific collision hazards and should be avoided.
+
+The downwind leg is a course flown parallel to the landing runway, but in a direction opposite to the intended landing direction. This leg is flown approximately \(1 / 2\) to 1 mile out from the landing runway and at the specified traffic pattern altitude. When flying on the downwind leg, the pilot should complete all before- landing checks and extend the landing gear if the airplane is equipped with retractable landing gear. Pattern altitude is maintained until at least

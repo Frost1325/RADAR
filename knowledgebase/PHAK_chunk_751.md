@@ -1,0 +1,7 @@
+ case, there must be a backup electrical source available because failure of a FADEC system could result in a complete loss of engine thrust. To prevent loss of thrust, two separate and identical digital channels are incorporated for redundancy. Each channel is capable of providing all engine and propeller functions without limitations.
+
+## Turbine Engines
+
+An aircraft turbine engine consists of an air inlet, compressor, combustion chambers, a turbine section, and exhaust. Thrust is produced by increasing the velocity of the air flowing through the engine. Turbine engines are highly desirable aircraft powerplants. They are characterized by smooth operation and a high power- to- weight ratio, and they use readily available jet fuel. Prior to recent advances in material, engine design, and manufacturing processes, the use of turbine engines in small/light production aircraft was cost prohibitive. Today, several aviation manufacturers are producing or plan to produce small/light turbine- powered aircraft. These smaller turbine- powered aircraft typically seat between three and seven passengers and are referred to as very light jets (VLJs) or microjets. [Figure 7- 22]
+
+## Types of Turbine Engines

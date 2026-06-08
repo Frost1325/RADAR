@@ -1,0 +1,7 @@
+wind correction angle in order to maintain the track over the ground.
+
+- Preparing the pilot for the airport traffic pattern and subsequent landing pattern practice.
+
+To fly the rectangular course, the pilot should first locate a square field, a rectangular field, or an area with suitable ground references on all four sides. Note that a square meets the definition of a rectangle. As previously mentioned, this area should be selected consistent with safe practices. The airplane should be flown parallel to and at an equal distance between one- half to three- fourths of a mile away from the field boundaries or selected ground references. The flightpath should be positioned outside the field boundaries or selected ground references so that the references may be easily observed from either pilot seat. It is not practical to fly directly above the field boundaries or selected ground references. The pilot should avoid flying close to the references, as this will require the pilot to turn using very steep bank angles, thereby increasing aerodynamic load factor and the airplane's stall speed, especially in the downwind to crosswind turn.
+
+The entry into the maneuver should be accomplished downwind. This places the wind on the tail of the airplane and results in an increased groundspeed. There should be no wind correction angle if the wind is directly on the tail of

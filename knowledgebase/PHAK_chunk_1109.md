@@ -1,0 +1,5 @@
+ less. Perfectly dry air that contains no water vapor has a relative humidity of zero percent, while saturated air that cannot hold any more water vapor has a relative humidity of 100 percent. Humidity alone is usually not considered an essential factor in calculating density altitude and aircraft performance; however, it does contribute.
+
+The higher the temperature, the greater amount of water vapor that the air can hold. When comparing two separate air masses, the first warm and moist (both qualities making air lighter) and the second cold and dry (both qualities making it heavier), the first must be less dense than the second. Pressure, temperature, and humidity have a great influence on aircraft performance because of their effect upon density. There is no rule- of- thumb or chart used to compute the effects of humidity on density altitude, but it must be taken into consideration. Expect a decrease in overall performance in high humidity conditions.
+
+## Performance

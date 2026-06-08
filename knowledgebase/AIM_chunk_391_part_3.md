@@ -1,0 +1,7 @@
+calm wind conditions as the tetrahedron may not be aligned with the designated calm- wind runway. At airports with control towers, the tetrahedron should only be referenced when the control tower is not in operation. Tower instructions supersede tetrahedron indications.
+
+4. Landing strip indicators. Installed in pairs as shown in the segmented circle diagram and used to show the alignment of landing strips.
+
+5. Traffic pattern indicators. Arranged in pairs in conjunction with landing strip indicators and used to indicate the direction of turns when there is a variation from the normal left traffic pattern. (If there is no segmented circle installed at the airport, traffic pattern indicators may be installed on or near the end of the runway.)
+
+c. Preparatory to landing at an airport without a control tower, or when the control tower is not in operation, pilots should concern themselves with the indicator for the approach end of the runway to be used. When approaching for landing, all turns must be made to the left unless a traffic pattern indicator indicates that turns should be made to the right. If the pilot will mentally enlarge the indicator for the runway to be used, the base and final approach legs of the traffic pattern to be flown immediately become apparent. Similar treatment of the indicator at the

@@ -1,0 +1,1 @@
+should also understand how the factors that affect stalls are interrelated. In a power-off stall, for instance, the cues (buffeting, shaking) are less noticeable than in the power-on stall. In the power-off, 1G stall, the predominant cue may be the elevator control position (full up elevator against the stops) and a high descent rate.

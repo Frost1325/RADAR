@@ -1,0 +1,1 @@
+td><td>Y</td><td>VHF with 8.33 kHz channel spacing capability</td></tr><tr><td>J5</td><td>CPDLC FANS 1/A SATCOM (INMARSAT)</td><td>Z</td><td>Other equipment carried or other capabilities - see Note 5</td></tr></table>

@@ -1,0 +1,7 @@
+## Landing Gear, Tires, and Brakes
+
+The landing gear, tires, and brakes allow the airplane to maneuver from and return to the ramp, taxiway, and runway environment in a precise and controlled manner. The landing gear, tires, and brakes should be inspected to ensure that the airplane can be positively controlled on the ground. Landing gear on airplanes varies from simple fixed gear to complex retractable gear systems.
+
+Fixed landing gear is a gear system in which the landing gear struts, tires, and brakes are exposed and lend themselves to relatively simple inspection. However, more complex airplanes may have retractable landing gear with multiple tires per landing gear strut, landing gear doors, over- center locks, springs, and electrical squat switches. Regardless of the system, the pilot should follow the AFM/POH during inspection to determine that the landing gear is ready for operation.
+
+On many fixed- gear airplanes, inspection of the landing gear system can be hindered by wheel pants, which are covers used to reduce aerodynamic drag. It is still the pilot's responsibility to inspect the airplane properly. A flashlight helps the pilot in peering into covered areas. On low- wing airplanes, covered or retraceable landing gear presents additional effort required to crouch below the

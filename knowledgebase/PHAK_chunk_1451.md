@@ -1,0 +1,5 @@
+/air_traffic/flight_info/aeronav. Figure 14- 4 contains an excerpt from a directory. For a complete listing of information provided in a Chart Supplement U.S. and how the information may be decoded, refer to the "Legend Sample" located in the front of each Chart Supplement U.S.
+
+In addition to airport information, each Chart Supplement U.S. contains information such as special notices, Federal Aviation Administration (FAA) and National Weather Service (NWS) telephone numbers, preferred instrument flight rules (IFR) routing, visual flight rules (VFR) waypoints, a listing of very high frequency (VHF) omnidirectional range (VOR) receiver checkpoints, aeronautical chart bulletins, land and hold short operations (LAHSO) for selected airports, airport diagrams for selected towered airports, en route flight advisory service (EFAS) outlets, parachute jumping areas, and facility telephone numbers. It is beneficial to review a Chart Supplement U.S. to become familiar with the information it contains.
+
+## Notices to Airmen (NOTAM)

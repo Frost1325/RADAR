@@ -1,0 +1,5 @@
+"WS," followed by a three-digit height, slant character "/," and winds at the height indicated in the same format as surface winds. The wind shear element is omitted if not expected to occur.
+
+WS010/18040KT - "LOW LEVEL WIND SHEAR AT ONE THOUSAND, WIND ONE EIGHT ZERO AT FOUR ZERO"
+
+d. Probability Forecast. The probability or chance of thunderstorms or other precipitation events occurring, along with associated weather conditions (wind, visibility, and sky conditions). The PROB30 group is used when the occurrence of thunderstorms or precipitation is \(30 - 39\%\) and the PROB40 group is used when the occurrence of thunderstorms or precipitation is \(40 - 49\%\) . This is followed by two four-digit groups separated by a "/", giving the beginning date and hour, and the ending date and hour of the time period during which the thunderstorms or precipitation are expected.

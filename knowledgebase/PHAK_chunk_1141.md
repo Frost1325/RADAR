@@ -1,0 +1,5 @@
+ the engine. One advantage of supercharging is that the cruise power may be maintained at high altitude, and the aircraft may achieve the range at high altitude with the corresponding increase in TAS. The principal differences in the high altitude cruise and low altitude cruise are the TAS and climb fuel requirements.
+
+## Region of Reversed Command
+
+The aerodynamic properties of an aircraft generally determine the power requirements at various conditions of flight, while the powerplant capabilities generally determine the power available at various conditions of flight. When an aircraft is in steady, level flight, a condition of equilibrium must prevail. An unaccelerated condition of flight is achieved when lift equals weight, and the powerplant is set for thrust equal to drag. The power required to achieve equilibrium in constant- altitude flight at various airspeeds is depicted on a power required curve. The power required curve illustrates the fact that at low airspeeds near the stall or minimum controllable airspeed, the power setting required for steady, level flight is quite high.

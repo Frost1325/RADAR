@@ -1,0 +1,3 @@
+# Altitude Above Ground (QFE)
+
+A local altimeter setting equivalent to the barometric pressure measured at an airport altimeter datum, usually signifying the approach end of the runway is in use. At the airport altimeter datum, an altimeter set to QFE indicates zero altitude. If required to use QFE altimetry, altimeters are set to QFE while operating at or below the transition altitude and below the transition level. On the airport, the altimeter will read "0" feet.

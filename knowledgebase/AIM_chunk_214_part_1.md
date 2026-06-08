@@ -1,0 +1,3 @@
+## 3-5-3. Temporary Flight Restrictions
+
+a. General. This paragraph describes the types of conditions under which the FAA may impose temporary flight restrictions. It also explains which FAA elements have been delegated authority to issue a temporary flight restrictions NOTAM and lists the types of responsible agencies/offices from which the FAA will accept requests to establish temporary flight restrictions. The 14 CFR is explicit as to what operations are prohibited, restricted, or allowed in a temporary flight restrictions area. Pilots are responsible to comply with 14 CFR Sections 91.137, 91.138, 91.141 and 91.143 when conducting flight in an area where a temporary flight restrictions area is in effect, and should check appropriate NOTAMs during flight planning.

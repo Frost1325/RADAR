@@ -1,0 +1,3 @@
+9, 9-20, 9-33, 13-22, 14-2, 14-4, 14-6, 17-6, 18-7</td></tr><tr><td>Three-point landing</td><td>14-4, 14-5, 14-6</td></tr><tr><td>Wheel landing</td><td>14-4, 14-5, 14-6</td></tr><tr><tr><td>Touchdown in a drift or crab</td><td>9-35</td></tr><tr><td>Tracking over and parallel to a straight line</td><td>7-5</td></tr><tr><td>Training considerations</td><td>13-35, 15-13, 15-15</td></tr><tr><td>Flight training</td><td>13-35, 13-36, 15-14, 15-15</td></tr></tr></table>
+
+<table

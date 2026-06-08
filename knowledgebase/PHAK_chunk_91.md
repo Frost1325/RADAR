@@ -1,0 +1,3 @@
+ Designated Pilot Examiner, a Certified Flight Instructor (CFI), or an Airman Certification Representative (ACR). If the application is completed electronically, the authorized person will submit the application to the FAA's Airman Certification Branch (AFS- 760) in Oklahoma City, OK, via the Integrated
+
+Airman Certification and Rating Application (IACRA). If the application is completed on paper, it must be sent to the local Flight Standards District Office (FSDO), who will forward it to AFS- 760. Once the application is processed, the applicant will receive the Student Pilot Certificate by mail at the address provided on the application.

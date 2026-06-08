@@ -1,0 +1,5 @@
+ aircraft with fixed- position horizontal stabilizers, the aircraft manufacturer sets the stabilizer at an angle that provides the best stability (or balance) during flight at the design cruising speed and power setting.
+
+If the aircraft's speed decreases, the speed of the airflow over the wing is decreased. As a result of this decreased
+
+flow of air over the wing, the downwash is reduced, causing a lesser downward force on the horizontal stabilizer. In turn, the characteristic nose heaviness is accentuated, causing the aircraft's nose to pitch down more. [Figure 5- 25] This places the aircraft in a nose- low attitude, lessening the wing's AOA and drag and allowing the airspeed to increase. As the aircraft continues in the nose- low attitude and its speed increases, the downward force on the horizontal stabilizer is once again increased. Consequently, the tail is again pushed downward and the nose rises into a climbing attitude.

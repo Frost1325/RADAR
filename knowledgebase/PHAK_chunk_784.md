@@ -1,0 +1,5 @@
+ engines because they ignite at higher temperatures, but not prematurely. If the proper grade of fuel is not available, use the next higher grade as a substitute. Never use a grade lower than recommended. This can cause the cylinder head temperature and engine oil temperature to exceed their normal operating ranges, which may result in detonation.
+
+Several grades of AVGAS are available. Care must be exercised to ensure that the correct aviation grade is being used for the specific type of engine. The proper fuel grade is stated in the AFM/POH, on placards in the flight deck, and next to the filler caps. Automobile gas should NEVER be used in aircraft engines unless the aircraft has been modified with a Supplemental Type Certificate (STC) issued by the Federal Aviation Administration (FAA).
+
+The current method identifies AVGAS for aircraft with reciprocating engines by the octane and performance number, along with the abbreviation AVGAS. These aircraft use AVGAS 80, 100, and 100LL. Although AVGAS 100LL

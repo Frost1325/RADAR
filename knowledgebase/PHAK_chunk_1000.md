@@ -1,0 +1,4 @@
+ the aircraft.
+3. Aircraft Serial Number. Indicates the manufacturer's serial number assigned to the aircraft, as noted on the aircraft data plate.
+4. Category. Indicates the category in which the aircraft must be operated. In this case, it must be operated in accordance with the limitations specified for the "NORMAL" category.
+5. Authority and Basis for Issuance. Indicates the aircraft conforms to its type certificate and is considered in condition for safe operation at the time of inspection and issuance of the certificate. Any exemptions from the applicable airworthiness standards are briefly noted here and the exemption number given. The word "NONE" is entered if no exemption exists.

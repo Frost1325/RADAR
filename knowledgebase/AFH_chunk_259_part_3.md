@@ -1,0 +1,7 @@
+airport, smoke from factories or houses, dust, brush fires, wind farms, or patterns displayed on nearby bodies of water.
+
+Once a field has been selected, a pilot should indicate the proposed landing area to the instructor. Normally, the pilot should plan and fly a pattern for landing on the field first elected until the instructor terminates the simulated emergency landing. This provides the instructor an opportunity to explain and correct any errors; it also gives the pilot an opportunity to see the results of the errors. However, if the pilot realizes during the approach that a poor field has been selected—one that would obviously result in disaster if a landing were to be made—and there is a more advantageous field within gliding distance, a change to the better field should be permitted. The instructor should thoroughly explain the hazards involved in these last- minute decisions, such as excessive maneuvering at very low altitudes.
+
+Instructors should stress slipping the airplane, using flaps, varying the position of the base leg, and varying the turn onto final approach as ways of correcting for misjudgment of altitude and glide angle.
+
+Eagerness to get down is one of the most common faults of inexperienced pilots during simulated emergency landings. They forget about speed and arrive at the edge of the field with too much

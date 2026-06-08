@@ -1,0 +1,5 @@
+ because of the possible airflow disruption and loss of lift. Rain can contribute to water in the fuel tanks. Precipitation can create hazards on the runway surface itself, making takeoffs and landings difficult, if not impossible, due to snow, ice, or pooling water and very slick surfaces.
+
+## Air Masses
+
+Air masses are classified according to the regions where they originate. They are large bodies of air that take on the characteristics of the surrounding area or source region. A source region is typically an area in which the air remains relatively stagnant for a period of days or longer. During this time of stagnation, the air mass takes on the temperature and moisture characteristics of the source region. Areas of stagnation can be found in polar regions, tropical oceans, and dry deserts. Air masses are generally identified as polar or tropical based on temperature characteristics and maritime or continental based on moisture content.

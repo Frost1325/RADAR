@@ -1,0 +1,3 @@
+with rudder input as needed.
+
+To exit the slow flight maneuver, add power. As airspeed and lift increase, apply forward control pressure to reduce the AOA and maintain altitude. Maintain coordinated flight, level the wings as necessary, and return to the desired flightpath. As airspeed increases, clean up the airplane by retracting flaps and landing gear, if they were extended, and adjust trim as needed. A pilot should anticipate the changes to the AOA as the landing gear and flaps are retracted to avoid a stall.

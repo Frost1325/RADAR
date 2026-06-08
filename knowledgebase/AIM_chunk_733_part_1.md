@@ -1,0 +1,5 @@
+## EXAMPLE
+
+Clearance void if not off by (clearance void time) and, if required, if not off by (clearance void time) advise (facility) not later than (time) of intentions.
+
+2. Hold for Release. ATC may issue "hold for release" instructions in a clearance to delay an aircraft's departure for traffic management reasons (i.e., weather, traffic volume, etc.). When ATC states in the clearance, "hold for release," the pilot may not depart utilizing that IFR clearance until a release time or additional instructions are issued by ATC. In addition, ATC will include departure delay information in conjunction with "hold for release" instructions. The ATC instruction, "hold for release," applies to the IFR clearance and does not prevent the pilot from departing under VFR. However, prior to takeoff the pilot should cancel the IFR flight plan and operate the transponder on the appropriate VFR code. An IFR clearance may not be available after departure.

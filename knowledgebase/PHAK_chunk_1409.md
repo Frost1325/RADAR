@@ -1,0 +1,5 @@
+ and should be used in the beginning stages of flight planning. Typically, weather charts show the movement of major weather systems and fronts. Surface analysis, weather depiction, and significant weather prognostic charts are sources of current weather information. Significant weather prognostic charts provide an overall forecast weather picture.
+
+## Surface Analysis Chart
+
+The surface analysis chart depicts an analysis of the current surface weather. [Figure 13- 10] This chart is transmitted every 3 hours and covers the contiguous 48 states and adjacent areas. A surface analysis chart shows the areas of high and low pressure, fronts, temperatures, dew points, wind directions and speeds, local weather, and visual obstructions. Surface weather observations for reporting points across the United States are also depicted on this chart. Each of these reporting points is illustrated by a station model. [Figure 13- 11] A station model includes:

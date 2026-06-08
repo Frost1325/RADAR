@@ -1,0 +1,5 @@
+is not under their control at an altitude which, in the controller's judgment, places both aircraft in unsafe proximity to each other. With the alert, ATC will offer the pilot an alternate course of action when feasible; e.g., "Traffic Alert, advise you turn right heading zero niner zero or climb to eight thousand immediately."
+
+Note: The issuance of a safety alert is contingent upon the capability of the controller to have an awareness of an unsafe condition. The course of action provided will be predicated on other traffic under ATC control. Once the alert is issued, it is solely the pilot's prerogative to determine what course of action, if any, he/she will take.
+
+SAFETY LOGIC SYSTEM- A software enhancement to ASDE- 3, ASDE- X, and ASDE- 3X, that predicts the path of aircraft landing and/or departing, and/or vehicular movements on runways. Visual and aural alarms are activated when the safety logic projects a potential collision. The Airport Movement Area Safety System (AMASS) is a safety logic system enhancement to the ASDE- 3. The Safety Logic System for ASDE- X and ASDE- 3X is an integral part of the software program.

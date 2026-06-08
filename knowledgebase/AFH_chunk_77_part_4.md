@@ -1,0 +1,5 @@
+deficit. When energy gained equals that lost (T-D = 0), all thrust is spent on drag. In this case, the total amount of mechanical energy and its distribution over altitude and airspeed does not change. Both remain constant as the airplane maintains a constant altitude and airspeed. [Figure 4-1E]
+
+Energy can also be exchanged between altitude and airspeed. For example, when a pilot trades airspeed for altitude, as altitude increases, airspeed decreases. In other words, when energy is exchanged, altitude and airspeed always change in opposite directions (absent any other energy or control inputs). As one goes up, the other one comes down. Also note that even though the distribution of energy over altitude and airspeed may change dramatically during energy exchange, the total amount of mechanical energy can remain the same at the end of the exchange maneuver [Figure 4-1F], as long as thrust is adjusted to match drag as the latter varies with changes in airspeed.
+
+<table><tr><td colspan="2" rowspan="2">Energy Transaction Examples</td><td>Net Energy<br>Change<br>(T-D)</td><td>Change in Stored Energy<br>Altitude Airspeed</td><td colspan="2">

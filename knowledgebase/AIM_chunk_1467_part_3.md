@@ -1,0 +1,7 @@
+0 foot buffer in nonmountainous terrain areas and a 2,000 foot buffer in designated mountainous areas within the United States. This altitude may not provide signal coverage from ground- based navigational aids, air traffic control radar, or communications coverage.
+
+OTR- (See OCEANIC TRANSITION ROUTE.)OTS- (See ORGANIZED TRACK SYSTEM.)
+
+OUT- The conversation is ended and no response is expected.
+
+OUTER AREA (associated with Class C airspace)- Nonregulatory airspace surrounding designated Class C airspace airports wherein ATC provides radar vectoring and sequencing on a full- time basis for all IFR and participating VFR aircraft. The service provided in the outer area is called Class C service which includes: IFR/IFR- standard IFR separation; IFR/VFR- traffic advisories and conflict resolution; and VFR/VFR- traffic advisories and, as appropriate, safety alerts. The normal radius will be 20 nautical miles with some variations based on site- specific requirements. The outer area extends outward from the primary Class C airspace airport and extends from the lower limits of radar/radio coverage up to the ceiling of the approach control's delegated airspace excluding the Class C charted area and other

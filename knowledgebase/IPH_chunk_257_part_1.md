@@ -1,0 +1,7 @@
+## Course Reversal
+
+Some approach procedures do not permit straight- in approaches unless pilots are being radar vectored. In these situations, pilots are required to complete a procedure turn (PT) or other course reversal, generally within 10 NM of the PT fix, to establish the aircraft inbound on the intermediate or final approach segment.
+
+If Category E airplanes are using the PT or there is a descent gradient problem, the PT distance available can be as much as 15 NM. During a procedure turn, a maximum speed of 200 knots indicated airspeed (KIAS) should be observed from first crossing the course reversal IAF through the procedure turn maneuver to ensure containment within the obstruction clearance area. Unless a holding pattern or teardrop procedure is published, the point where pilots begin the turn and the type and rate of turn are optional. If above the procedure turn minimum altitude, pilots may begin descent as soon as they cross the IAF outbound.
+
+A procedure turn is the maneuver prescribed to perform a course reversal to establish the aircraft inbound on an intermediate or final approach course. The procedure turn or hold- in- lieu- of procedure turn is a required maneuver when it is depicted on the approach chart. However, the procedure turn or the hold

@@ -1,0 +1,7 @@
+, larger diameter tube conducts air around the combustion tube's outer surface, and a second fan blows the warmed air into tubing to direct it towards the interior of the aircraft. Most gasoline heaters can produce between 5,000 and 50,000 British Thermal Units (BTU) per hour.
+
+Fuel fired heaters require electricity to operate and are compatible with a 12- volt and 24- volt aircraft electrical system. The heater requires routine maintenance, such as regular inspection of the combustion tube and replacement of the igniter at periodic intervals. Because gasoline heaters are required to be vented, special care must be made to ensure the vents do not leak into the interior of the aircraft. Combustion byproducts include soot, sulfur dioxide, carbon dioxide, and some carbon monoxide. An improperly adjusted, fueled, or poorly maintained fuel heater can be dangerous.
+
+## Exhaust Heating Systems
+
+Exhaust heating systems are the simplest type of aircraft heating system and are used on most light aircraft. Exhaust heating systems are used to route exhaust gases away from the engine and fuselage while reducing engine noise. The exhaust systems also serve as a heat source for the cabin and carburetor.

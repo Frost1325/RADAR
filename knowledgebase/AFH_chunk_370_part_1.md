@@ -1,0 +1,5 @@
+## Accelerated Approach to Stall
+
+Accelerated approach to stall should be performed with a bank of approximately \(45^{\circ}\) , and in no case at a speed greater than the airplane manufacturer's recommended airspeed, the specified design maneuvering speed \((\mathrm{V}_{\mathrm{A}})\) , or operating maneuvering speed \((\mathrm{V}_{\mathrm{O}})\) . The pilot should select an entry altitude that will allow completion of the maneuver no lower than 3,000 feet AGL.
+
+The entry method for the maneuver is no different than for a single- engine airplane. Once at an appropriate speed, begin increasing the back pressure on the elevator while maintaining a coordinated \(45^{\circ}\) turn. A good speed reduction rate is approximately 3 to 5 knots per second. Once a stall warning occurs, recover promptly by reducing the AOA until the stall warning stops. Then, roll the wings level with coordinated rudder and add power as necessary to return to the desired flightpath.

@@ -1,0 +1,7 @@
+## NOTE-
+
+When the barometric pressure exceeds 31.00 inches Hg., see Paragraph 7-2-2, Procedures, for the altimeter setting procedures.
+
+2. The AWOS observations will include the prefix "AUTO" to indicate that the data are derived from an automated system. Some AWOS locations will be augmented by certified observers who will provide weather and obstruction to vision information in the remarks of the report when the reported visibility is less than 7 miles. These sites, along with the hours of augmentation, are to be published in the A/FD. Augmentation is identified in the observation as "OBSERVER WEATHER." The AWOS wind speed, direction and gusts, temperature, dew point,
+
+and altimeter setting are exactly the same as for manual observations. The AWOS will also report density altitude when it exceeds the field elevation by more than 1,000 feet. The reported visibility is derived from a sensor near the touchdown of the primary instrument runway. The visibility sensor output is converted to a visibility value using a 10- minute harmonic average. The reported sky condition/ceiling is derived from the ceilometer located next to the visibility sensor. The AWOS algorithm integrates the last 30

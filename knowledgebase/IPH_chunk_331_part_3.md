@@ -1,0 +1,5 @@
+of five character identifiers for NDBs. Eventually, the NDBs were coded into the database as NAVAIDs, but many of the RNAV systems in use today continue to use the five- character identifier. These systems display the characters "NB" after the charted NDB identifier. Therefore, NDB ABC would be displayed as "ABCNB."
+
+Other systems refer to NDB NAVAIDs using either the NDB's charted name if it is five or fewer letters, or the one to three character identifier. PENDY NDB located in North Carolina, for instance, is displayed on some systems as "PENDY," while other systems might only display the NDBs identifier "ACZ." [Figure 6- 31]
+
+Using the VOR/DME Runway 34 approach at Eugene Mahlon Sweet Airport (KEUG) in Eugene, Oregon, as another example, which is named V34, may be displayed differently by another avionics platform. For example, a GPS produced by one manufacturer might display the approach as VOR 34, whereas another might refer to the approach as VOR/DME 34, and an FMS produced by another manufacturer may refer to it as VOR

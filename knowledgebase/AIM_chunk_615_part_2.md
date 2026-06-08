@@ -1,0 +1,3 @@
+the hood); however, pilots are cautioned to review and adhere to the requirements specified in 14 CFR Section 91.109 before and during such flight.
+
+c. When flying VFR at night, in addition to the altitude appropriate for the direction of flight, pilots should maintain an altitude which is at or above the minimum en route altitude as shown on charts. This is especially true in mountainous terrain, where there is usually very little ground reference. Do not depend on your eyes alone to avoid rising unlighted terrain, or even lighted obstructions such as TV towers.

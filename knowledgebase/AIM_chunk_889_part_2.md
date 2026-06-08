@@ -1,0 +1,5 @@
+5 NM radar separation (diagonal) is required between successive aircraft on the adjacent final approach course when runway centerlines are at least 2,500 feet but no more than 4,300 feet apart. When runway centerlines are more than 4,300 feet but no more than 9,000 feet apart a
+
+minimum of 2 NM diagonal radar separation is provided. Aircraft on the same final approach course course within 10 NM of the runway end are provided a minimum of 3 NM radar separation, reduced to 2.5 NM in certain circumstances. In addition, a minimum of 1,000 feet vertical or a minimum of three miles radar separation is provided between aircraft during turn on to the parallel final approach course.
+
+d. Whenever parallel approaches are in progress, pilots are informed by ATC or via the ATIS that approaches to both runways are in use. The charted IAP also notes which runways may be used simultaneously. In addition, the radar controller will have the interphone capability of communicating with the tower controller where separation responsibility has not been delegated to the tower.

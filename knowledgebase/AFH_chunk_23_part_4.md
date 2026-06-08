@@ -1,0 +1,7 @@
+inspected to ensure that they are free from cracks, corrosion, and rust, that all fasteners are secure, and that the air valve stem is straight, capped, and in good condition.
+
+- Brakes and brake systems should be checked to ensure that they are free from rust and corrosion and that all fasteners and safety wires are secure. Brake pads should have a proper amount of material remaining and should be secure. All brake lines should be secure, dry, and free of signs of hydraulic leaks, and devoid of abrasions and deep cracking.
+
+- On tricycle gear airplanes, a shimmy damper is used to damp oscillations of the nose gear and should be inspected to ensure that it is securely attached, is free of hydraulic fluid leaks, and is in overall good condition. Some shimmy dampers do not use hydraulic fluid and instead use an elastomeric compound as the dampening medium. Nose gear links, collars, steering rods, and forks should be inspected to ensure the security of fasteners, minimal free play between torque links, crack-free components, and for proper servicing and general condition.
+
+- On some conventional gear airplanes, those airplanes with a tailwheel or skid, the main landing gear may have bungee cords to help in absorbing

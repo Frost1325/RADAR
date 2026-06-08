@@ -1,0 +1,3 @@
+# W
+
+<table><tr><td>Weather considerations</td><td>17-4, 17-7</td></tr><tr><td>Weathervaning</td><td>2-19, 2-20, 6-8, 9-18, 9-36, 14-1, 14-2, 14-3, 14-7, 14-8,</td></tr><tr><td>Weight and balance</td><td>2-4, 5-23, 5-26, 13-11, 13-12, 13-13, 17-9</td></tr><tr><td>Basic empty weight</td><td>13-12, 13-13, 13-14</td></tr><tr><td>Empty weight</td><td>13-12, 13-13,</td></tr><tr><td>Maximum landing weight</td><td>13-14</td></tr><tr><td>R

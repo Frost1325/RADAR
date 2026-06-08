@@ -1,0 +1,7 @@
+ FADEC system. The pilot simply positions the throttle lever to a desired detent, such as start, idle, cruise power, or max power, and the FADEC system adjusts the engine and propeller automatically for the mode selected. There is no need for the pilot to monitor or control the fuel- air mixture.
+
+During aircraft starting, the FADEC primes the cylinders, adjusts the mixture, and positions the throttle based on engine temperature and ambient pressure. During cruise flight, the FADEC constantly monitors the engine and adjusts fuel flow and ignition timing individually in each cylinder. This precise control of the combustion process often results in decreased fuel consumption and increased horsepower.
+
+FADEC systems are considered an essential part of the engine and propeller control and may be powered by the aircraft's main electrical system. In many aircraft, FADEC uses power from a separate generator connected to the engine. In either case, there must be a backup electrical source available because failure of a FADEC system could result in a complete loss of engine thrust. To prevent loss of thrust, two separate and identical digital channels are incorporated for redundancy. Each channel is capable of providing all engine and propeller functions without limitations.
+
+## Turbine Engines

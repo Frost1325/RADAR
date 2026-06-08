@@ -1,0 +1,5 @@
+therefore, the receiver should always be armed (if required) not later than the \(30\mathrm{NM}\) annunciation.
+
+(4) The pilot must be aware of what bank angle/turn rate the particular receiver uses to compute turn anticipation, and whether wind and airspeed are included in the receiver's calculations. This information should be in the receiver operating manual. Over or under banking the turn onto the final approach course may significantly delay getting on course and may result in high descent rates to achieve the next segment altitude.
+
+(5) When within \(2\mathrm{NM}\) of the Final Approach Waypoint (FAWP) with the approach mode armed, the approach mode will switch to active, which results in RAIM and CDI changing to approach sensitivity. Beginning \(2\mathrm{NM}\) prior to the FAWP, the full scale CDI sensitivity will smoothly change from \(\pm 1\mathrm{NM}\) to \(\pm 0.3\mathrm{NM}\) at the FAWP. As sensitivity changes from \(\pm 1\mathrm{NM}\) to \(\pm 0.3\mathrm{NM} \mathrm{approaching}\) the FAWP,

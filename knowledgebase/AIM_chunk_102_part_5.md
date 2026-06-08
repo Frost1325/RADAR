@@ -1,0 +1,7 @@
+typically provides safe obstruction clearance within plus or minus 10 degrees of the extended runway centerline and to 4 SM from the runway threshold. Descent, using the PAPI, should not be initiated until the aircraft is visually aligned
+
+with the runway. The row of light units is normally installed on the left side of the runway and the glide path indications are as depicted. Lateral course guidance is provided by the runway or runway lights. In certain circumstances, the safe obstruction clearance area may be reduced by narrowing the beam width or shortening the usable distance due to local limitations, or the PAPI may be offset from the extended runway centerline. This will be noted in the Airport/Facility Directory and/or applicable NOTAMs. (See FIG 2- 1- 5. )
+
+c. Tri-color Systems. Tri-color visual approach slope indicators normally consist of a single light unit projecting a three-color visual approach path into the final approach area of the runway upon which the indicator is installed. The below glide path indication is red, the above glide path indication is amber, and
+
+the on glide path indication is green. These types of indicators have a useful range of approximately one-half to one mile during the day and up to five miles at night

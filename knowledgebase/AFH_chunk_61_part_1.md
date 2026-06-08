@@ -1,0 +1,7 @@
+## Trim Control
+
+Trim control surfaces are required to offset any constant flight control pressure inputs provided by the pilot. For example, elevator trim is a typical trim in light GA airplanes and is used to null the pressure exerted by the pilot in order to maintain a particular pitch attitude. [Figure 3- 9] This provides an opportunity for the pilot to divert attention to other tasks.
+
+Because of their relatively low power, speed, and cost constraints, not all light airplanes have a complete set (elevator, rudder, and aileron) of trim controls that are adjustable from inside the flight deck. Nearly all light airplanes are equipped with at least adjustable elevator trim. As airplanes increase in power, weight, and complexity, flight deck adjustable trim systems for the rudder and aileron may be available.
+
+In airplanes where multiple trim axes are available, the rudder should be trimmed first. Rudder, elevator, and then aileron should be trimmed next in sequence. However, if the airspeed is varying, continuous attempts to trim the rudder and aileron produce unnecessary pilot workload and distraction. Attempts to trim the rudder at varying airspeeds are impractical in many propeller airplanes because of the built- in compensation for the effect

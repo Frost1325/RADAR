@@ -1,0 +1,7 @@
+enhanced by alternately applying, releasing, and reapplying brake pressure. The brakes are applied firmly and smoothly as necessary.
+
+During the ground roll, the airplane's direction of movement can be changed by carefully applying pressure on one brake or uneven pressures on each brake in the desired direction. Caution must be exercised when applying brakes to avoid over- controlling.
+
+The ailerons serve the same purpose on the ground as they do in the air—they change the lift and drag components of the wings. During the after- landing roll, they are used to keep the wings level in much the same way they are used in flight. If a wing starts to rise, aileron control is applied toward that wing to lower it. The amount required depends on speed because as the forward speed of the airplane decreases, the ailerons become less effective. Procedures for using ailerons in crosswind conditions are explained in the "Crosswind Approach and Landing" section of this chapter.
+
+Once the airplane has slowed sufficiently and has turned onto the taxiway and stopped, the pilot performs the after- landing checklist. Many accidents have occurred as a result of the pilot unintentionally operating the landing gear control and retracting the gear instead of the flap control when the airplane was still rolling.

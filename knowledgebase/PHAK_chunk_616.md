@@ -1,0 +1,7 @@
+ actuated systems. In both the fly- by- wire and boosted controls, the feel of the control reaction is fed back to the pilot by simulated means.
+
+Current research at the National Aeronautics and Space Administration (NASA) Dryden Flight Research Center involves Intelligent Flight Control Systems (IFCS). The goal
+
+of this project is to develop an adaptive neural network- based flight control system. Applied directly to flight control system feedback errors, IFCS provides adjustments to improve aircraft performance in normal flight, as well as with system failures. With IFCS, a pilot is able to maintain control and safely land an aircraft that has suffered a failure to a control surface or damage to the airframe. It also improves mission capability, increases the reliability and safety of flight, and eases the pilot workload.
+
+Today's aircraft employ a variety of flight control systems. For example, some aircraft in the sport pilot category rely on weight- shift control to fly while balloons use a standard burn technique. Helicopters utilize a cyclic to tilt the rotor in the desired direction along with a collective to manipulate rotor pitch and anti- torque pedals to control yaw. [Figure 6- 3]

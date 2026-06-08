@@ -1,0 +1,5 @@
+ area on the upper surface. In the vicinity of the tips, there is a tendency for these pressures to equalize, resulting in a lateral flow outward from the underside to the upper surface. This lateral flow imparts a rotational velocity to the air at the tips, creating vortices that trail behind the airfoil.
+
+When the aircraft is viewed from the tail, these vortices circulate counterclockwise about the right tip and clockwise about the left tip. [Figure 5- 9] As the air (and vortices) roll off the back of your wing, they angle down, which is known as downwash. Figure 5- 10 shows the difference in downwash at
+
+altitude versus near the ground. Bearing in mind the direction of rotation of these vortices, it can be seen that they induce an upward flow of air beyond the tip and a downwash flow behind the wing's trailing edge. This induced downwash has nothing in common with the downwash that is necessary to produce lift. It is, in fact, the source of induced drag.

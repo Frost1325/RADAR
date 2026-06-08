@@ -1,0 +1,5 @@
+ primary flight control surfaces. Designed to help minimize a pilot's workload, trim systems aerodynamically assist movement and position of the flight control surface to which they are attached. Common types of trim systems include trim tabs, balance tabs, antiservo tabs, ground adjustable tabs, and an adjustable stabilizer.
+
+## Trim Tabs
+
+The most common installation on small aircraft is a single trim tab attached to the trailing edge of the elevator. Most trim tabs are manually operated by a small, vertically mounted control wheel. However, a trim crank may be found in some aircraft. The flight deck control includes a trim tab position indicator. Placing the trim control in the full nose- down position moves the trim tab to its full up position. With the trim tab up and into the airstream, the airflow over the horizontal tail surface tends to force the trailing edge of the elevator down. This causes the tail of the aircraft to move up and the nose to move down. [Figure 6- 20]

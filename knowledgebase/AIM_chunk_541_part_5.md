@@ -1,0 +1,7 @@
+the radar horizon will lose TIS coverage from that radar until it is below this 34 degree angle. The aircraft may not actually lose service in areas of
+
+multiple radar coverage since an adjacent radar will provide TIS. If no other TIS- capable radar is available, the "Good- bye" message will be received and TIS terminated until coverage is resumed.
+
+(e) Intermittent Operations. TIS operation may be intermittent during turns or other maneuvering, particularly if the transponder system does not include antenna diversity (antenna mounted on the top and bottom of the aircraft). As in (d) above, TIS is dependent on two-way, "line of sight" communications between the aircraft and the Mode S radar. Whenever the structure of the client aircraft comes between the transponder antenna (usually located on the underside of the aircraft) and the ground-based radar antenna, the signal may be temporarily interrupted.
+
+(f) TIS Predictive Algorithm. TIS information is collected one radar scan prior to the scan during which the uplink occurs. Therefore, the surveillance information is approximately 5 seconds old. In order to present the intruders in a "real time" position, TIS uses a "predictive algorithm" in its tracking

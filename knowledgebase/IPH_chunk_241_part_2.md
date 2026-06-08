@@ -1,0 +1,3 @@
+4- 19 shows the airport sketch and diagram for Chicago- O'Hare International Airport (KORD).
+
+Pilots making approaches to airports that have this type of complex runway and taxiway configuration must ensure that they are familiar with the airport diagram prior to initiating an instrument approach. A combination of poor weather, high traffic volume, and high ground controller workload makes the pilot's job on the ground every bit as critical as the one just performed in the air.

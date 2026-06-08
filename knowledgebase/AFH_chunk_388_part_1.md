@@ -1,0 +1,3 @@
+## Checklist
+
+Having accomplished the memory items from the engine failure after takeoff checklist, the printed copy should be reviewed as time permits. The securing failed engine checklist should then be accomplished. [Figure 13- 22] Unless the pilot suspects an engine fire, the remaining items should be accomplished deliberately and without undue haste. Airplane control should never be sacrificed to execute the remaining checklists. The priority items have already been accomplished from memory.

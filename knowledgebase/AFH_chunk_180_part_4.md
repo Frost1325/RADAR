@@ -1,0 +1,3 @@
+bounces develop into side- skipping. This side- skipping imposes severe side stresses on the landing gear and may result in structural failure.
+
+During a crosswind takeoff roll, it is important that the pilot hold sufficient aileron pressure into the wind not only to keep the upwind wing from rising but to hold that wing down so that the airplane sideslips into the wind enough to counteract drift immediately after lift- off.

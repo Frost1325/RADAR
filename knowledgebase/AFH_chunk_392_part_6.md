@@ -1,0 +1,7 @@
+the mistaken perception that the engine is still developing useful thrust, resulting in a psychological reluctance to feather, as feathering results in cessation of propeller rotation. The flight instructor should spend ample time demonstrating the difference in the performance capabilities of the airplane with a simulated feathered propeller (zero thrust) as opposed to a windmilling propeller.
+
+Actual and safe propeller feathering for training is performed at altitudes and positions where safe landings on established airports may be readily accomplished if the propeller will not unfearer. Plan unfearering and restart to be completed no lower than 3,000 feet AGL. At certain elevations and with many popular multigenic training airplanes, this may be above the single- engine service ceiling, and level flight will not be possible.
+
+Repeated feathering and unfearering is hard on the engine and airframe, and is done as necessary to ensure adequate training. The FAA's Airman Certification Standards for a multigenic class rating contains a task for feathering and unfearering of one propeller during flight in airplanes in which it is safe to do so.
+
+While much of this chapter has been devoted to the unique flight characteristics of a multigenic airplane with one engine inoperative, the modern

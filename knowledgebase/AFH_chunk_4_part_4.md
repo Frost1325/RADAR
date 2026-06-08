@@ -1,0 +1,7 @@
+the identification of aircraft, engines, propellers, certain replacement and modification parts, and the nationality and registration marking required on U.S.-registered aircraft.
+
+- 14 CFR part 91 outlines aircraft certifications and equipment requirements for the operation of aircraft in U.S. airspace. It also prescribes rules governing maintenance, preventive maintenance, and alterations. Also found in 14 CFR part 91 is the requirement to maintain records of maintenance, preventive maintenance, and alterations, as well as records of the 100-hour, annual, progressive, and other required or approved inspections.
+
+While 14 CFR part 91, section 91.205 outlines the minimum equipment required for flight, the Airplane Flight Manual/Pilot's Operating Handbook (AFM/POH) lists the equipment required for the airplane to be airworthy. The equipment list found in the AFM/POH is developed during the airplane certification process. This list identifies those items that are required for airworthiness, optional equipment installed in addition to the required equipment, and any supplemental items or appliances.
+
+Figure 1- 5 shows an example of some of the required equipment, standard or supplemental (not required but commonly found in the aircraft) and optional

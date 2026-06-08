@@ -1,0 +1,5 @@
+off the surface, the result is undramatic: the tail touches, the plane pitches forward slightly onto the main wheels, and rollout proceeds normally.
+
+In every case, once the tailwheel makes contact, the elevator control should be eased fully back to press the tailwheel on the runway. Without this elevator input, the AOA of the horizontal stabilizer develops enough lift to lighten pressure on the tailwheel and render it useless as a directional control with possibly unwelcomed consequences. This after- landing elevator input is quite foreign to nosewheel pilots and needs to be stressed during transition training.
+
+Note: Before the tailwheel is on the ground, application of full back elevator during the flare lowers the tail, increases the AOA, and quite naturally puts the plane in climbing flight.

@@ -1,0 +1,5 @@
+0 plus 20 or a GS of 140 knots. On the other hand, if the
+
+mass of air is moving westward at 20 knots, the airspeed of the aircraft remains the same, but GS becomes 120 minus 20 or 100 knots.
+
+Assuming no correction is made for wind effect, if an aircraft is heading eastward at 120 knots and the air mass moving southward at 20 knots, the aircraft at the end of 1 hour is almost 120 miles east of its point of departure because of its progress through the air. It is 20 miles south because of the motion of the air. Under these circumstances, the airspeed remains 120 knots, but the GS is determined by combining the movement of the aircraft with that of the air mass. GS can be measured as the distance from the point of departure to the position of the aircraft at the end of 1 hour. The GS can be computed by the time required to fly between two points a known distance apart. It also can be determined before flight by constructing a wind triangle, which is explained later in this chapter. [Figure 16- 14]

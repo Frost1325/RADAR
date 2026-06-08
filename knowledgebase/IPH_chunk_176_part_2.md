@@ -1,0 +1,5 @@
+pm to the assigned altitude. If at any time, other than when slowing to 250 KIAS at 10,000 feet MSL, the pilot cannot descend at a rate of at least 500 fpm, advise ATC.
+
+The second type of clearance allows the pilot to descend "... at pilot's discretion." When ATC issues a clearance to descend at pilot's discretion, pilots may begin the descent whenever they choose and at any rate of their choosing. Pilots are also authorized to level off, temporarily, at any intermediate altitude during the descent. However, once the aircraft leaves an altitude, it may not return to that altitude.
+
+A descent clearance may also include a segment where the descent is at the pilots' discretion—such as "cross the Joliet VOR at or above 12,000, descend and maintain 5,000." This clearance authorizes pilots to descend from their current altitude whenever they choose, as long as they cross the Joliet VOR at or above 12,000 feet MSL. After that, they are expected to descend at a normal rate until they reach the assigned altitude of 5,000 feet MSL.

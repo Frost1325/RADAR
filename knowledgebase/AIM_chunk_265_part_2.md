@@ -1,0 +1,3 @@
+worsening braking action reports, and changes in other pertinent data. When a pilot acknowledges receipt of the AFIS broadcast, FSS Specialists may omit those items contained in the broadcast if they are current. When rapidly changing
+
+conditions exist, the latest ceiling, visibility, altimeter, wind or other conditions may be omitted from the AFIS and will be issued by the Flight Service Specialist on the appropriate radio frequency.

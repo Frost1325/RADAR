@@ -1,0 +1,1 @@
+1 or B2, but not both.</td></tr><tr><td colspan="2">Followed by one or more of the following codes of the aircraft has ADS-C capability:</td></tr><tr><td>D1</td><td>ADS-C with FANS 1/A capabilities</td></tr><tr><td>G1</td><td>ADS-C with ATN capabilities</td></tr></table>

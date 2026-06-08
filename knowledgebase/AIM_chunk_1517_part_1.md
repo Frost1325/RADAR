@@ -1,0 +1,3 @@
+## [References are to page numbers]
+
+SDF. See Simplified Directional Facility  Seaplane, Safety, 7- 5- 6  Search and Rescue, 6- 2- 1, 6- 2- 4  Security, National, 5- 6- 1  Security Identification Display Area, 2- 3- 31  See and Avoid, 5- 5- 4  Separation  IFR, Standards, 4- 4- 7  Runway, 4- 4- 9  Visual, 4- 4- 10, 5- 5- 5  Wake Turbulence, 7- 3- 7  Sequenced flashing lights (SFL), 2- 1- 11  SFL. See Sequenced flashing lights  SIDA. See Security Identifications Display Area  Side- Step Maneuver, 5- 4- 52  Signs  Airport, 2- 3- 1  Half- Way, 7- 5- 5  Simplified Directional Facility, 1- 1- 1

@@ -1,0 +1,5 @@
+### c. Class B Airspace VFR Transition Routes.
+
+1. To accommodate VFR traffic through certain Class B airspace, such as Seattle, Phoenix and Los Angeles, Class B Airspace VFR Transition Routes were developed. A Class B Airspace VFR Transition Route is defined as a specific flight course depicted on a TAC for transiting a specific Class B airspace. These routes include specific ATC-assigned altitudes, and pilots must obtain an ATC clearance prior to entering Class B airspace on the route.
+
+2. These routes, as depicted in FIG 3-5-3, are designed to show the pilot where to position the aircraft outside of, or clear of, the Class B airspace where an ATC clearance can normally be expected with minimal or no delay. Until ATC authorization is received, pilots must remain clear of Class B airspace. On initial contact, pilots should advise ATC of their position, altitude, route name desired, and direction of flight. After a clearance is received, pilots must fly the route as depicted and, most importantly, adhere to ATC instructions.

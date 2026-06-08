@@ -1,0 +1,5 @@
+## Emergency Airports
+
+Emergency AirportsATC personnel consider how much remaining fuel in relation to the distance to the airport and weather conditions when recommending an emergency airport to aircraft requiring assistance. Depending on the nature of the emergency, certain weather phenomena may deserve weighted consideration. A pilot may elect to fly further to land at an airport with VFR conditions instead of closer airfield with IFR conditions. Other considerations are airport conditions, NAVAID status, aircraft type, pilot's qualifications, and vectoring or homing capability to the emergency airport. In addition, ATC and pilots should determine which guidance can be used to fly to the emergency airport. The following options may be available:
+
+Radar DF Following another aircraft NAVADs Pilotage by landmarks Compass headings

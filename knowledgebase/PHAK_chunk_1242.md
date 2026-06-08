@@ -1,0 +1,5 @@
+00 feet of the ground, the friction between the surface and the atmosphere slows the moving air. The wind is diverted from its path because of the frictional force. Thus, the wind direction at the surface varies somewhat from the wind direction just a few thousand feet above the Earth.
+
+## Measurement of Atmosphere Pressure
+
+Atmospheric pressure historically was measured in inches of mercury ("Hg) by a mercurial barometer. [Figure 12- 6] The barometer measures the height of a column of mercury inside a glass tube. A section of the mercury is exposed to the pressure of the atmosphere, which exerts a force on the mercury. An increase in pressure forces the mercury to rise inside the tube. When the pressure drops, mercury drains out of the tube decreasing the height of the column. This type of barometer is typically used in a laboratory or weather observation station, is not easily transported, and difficult to read.

@@ -1,0 +1,7 @@
+see and avoid obstacles in the departure area.
+
+The FAA establishes takeoff minimums for every airport that has published Standard Instrument Approaches. These minimums are used by commercially operated aircraft, namely Part 121 and Part 135 operators. At airports where minimums are not established, these same carriers are required to use FAA- designated standard minimums: 1 statute mile (SM) visibility for single- and twin- engine aircraft, and 1/2 SM for helicopters and aircraft with more than two engines.
+
+Aircraft operating under 14 CFR Part 91 are not required to comply with established takeoff minimums. Legally, a zero/ zero departure may be made, but it is never advisable. If commercial pilots who fly passengers on a daily basis must comply with takeoff minimums, then good judgment and common sense would tell all instrument pilots to follow the established minimums as well.
+
+Aeronautical Information Services charts list takeoff minimums only for the runways at airports that have other than standard minimums. These takeoff minimums are listed by airport in alphabetical order in the front of the TPP booklet. If an airport has non- standard takeoff minimums, a "Preferred to by some as either the

@@ -1,0 +1,5 @@
+of obstacles near the airport, a portion of the circling area may be restricted by a procedural note; for example, "Circling NA E of RWY 17-35." Obstacle clearance is provided at the published minimums (MDA) for the pilot who makes a straight-in approach, side-steps, or circles. Once below the MDA the pilot must see and avoid obstacles. Executing the missed approach after starting to maneuver usually places the aircraft beyond the MAP. The aircraft is clear of obstacles when at or above the MDA while inside the circling area, but simply joining the missed approach ground track from the circling maneuver may not provide vertical obstacle clearance once the aircraft exits the circling area. Additional climb inside the circling area may be required before joining the missed approach track. See Paragraph 5-4-21, Missed Approach, for additional considerations when starting a missed approach at other than the MAP.
+
+NOTE- Circling approach area radii vary according to approach category and MSL circling altitude due to TAS changes - see FIG 5- 4- 27.
+
+FIG 5- 4- 27 Standard and Expanded Circling Approach Radii in the U.S. TPP

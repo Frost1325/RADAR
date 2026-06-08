@@ -1,0 +1,3 @@
+## 3. Post Intercept Phase.
+
+Visual signaling devices may be used in an attempt to communicate with the intercepted aircraft. Visual signaling devices may include, but are not limited to, LED scrolling signboards or blue flashing lights. If compliance is not attained through the use of radios or signaling devices, standard ICAO intercept signals (Table 5- 6- 1) may be employed. In order to maintain safe aircraft separation, it is incumbent upon the pilot of the intercepted aircraft not to fall into a trail position (directly behind the helicopter) if instructed to follow the helicopter. This is because the helicopter pilot may lose visual contact with the intercepted aircraft.

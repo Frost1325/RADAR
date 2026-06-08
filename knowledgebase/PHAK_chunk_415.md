@@ -1,0 +1,3 @@
+, such as high gross weight, high density altitude, and high temperature, a deficiency of airspeed during takeoff may permit the aircraft to become airborne but be incapable of sustaining flight out of ground effect. In this case, the aircraft may become airborne initially with a deficiency of speed and then settle back to the runway.
+
+A pilot should not attempt to force an aircraft to become airborne with a deficiency of speed. The manufacturer's recommended takeoff speed is necessary to provide adequate initial climb performance. It is also important that a definite climb be established before a pilot retracts the landing gear or flaps. Never retract the landing gear or flaps prior to establishing a positive rate of climb and only after achieving a safe altitude.

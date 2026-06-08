@@ -1,0 +1,3 @@
+.
+
+c. It is the pilot's prerogative to refuse intercept and escort services. Escort services will normally be provided to the nearest adequate airport. Should the pilot receiving escort services continue onto another location after reaching a safe airport, or decide not to divert to the nearest safe airport, the escort aircraft is not obligated to continue and further escort is discretionary. The decision will depend on the circumstances of the individual incident.

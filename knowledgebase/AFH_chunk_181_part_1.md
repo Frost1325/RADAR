@@ -1,0 +1,7 @@
+## Lift-Off
+
+As the nose- wheel raises off of the runway, the pilot should hold aileron pressure into the wind. This may cause the downwind wing to rise and the downwind main wheel to lift off the runway first, with the remainder of the takeoff roll being made on that one main wheel. This is acceptable and is preferable to side- skipping.
+
+If a significant crosswind exists, the pilot should hold the main wheels on the ground slightly longer than in a normal takeoff so that a smooth but very definite lift- off can be made. This allows the airplane to leave the ground under more positive control and helps it remain airborne while the pilot establishes the proper amount of wind correction. More importantly, this procedure avoids imposing excessive side- loads on the landing gear and prevents possible damage that would result from the airplane settling back to the runway while drifting.
+
+As both main wheels leave the runway, the airplane begins to drift sideways with the wind, as ground friction is no longer a factor in preventing lateral movement. To minimize this lateral movement and to keep the upwind wing from rising, the pilot should establish and maintain the proper amount of crosswind correction prior to lift- off by applying aileron pressure into the wind. The pilot should

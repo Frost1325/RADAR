@@ -1,0 +1,5 @@
+## Approach to a Specific VFR Heliport
+
+The note associated with these procedures is: "PROCEED VISUALLY FROM (NAMED MAP) OR CONDUCT THE SPECIFIED MISSED APPROACH." Due to their unique characteristics, these approaches require training. They are developed for hospitals, oil rigs, private heliports, etc. As Specials, they require Flight Standards approval by a Letter of Authorization (LOA) for Part 91 operators or by OpSpecs for Part 135 operators. For public procedures, the heliport associated with these procedures must be located within 2 SM of the MAP, the visual segment between the MAP and the heliport evaluated for obstacle hazards, and the heliport must meet the appropriate VFR heliport recommendations of AC 150/5390- 2, Heliport Design.
+
+The PinS optimum location is 0.65 NM from the heliport. This provides an adequate distance to decelerate and land from an approach speed of 70 KIAS. Certain airframes may be certified to fly at reduced \(V_{\mathrm{MINI}}\) or below \(V_{\mathrm{MINI}}\) speeds as

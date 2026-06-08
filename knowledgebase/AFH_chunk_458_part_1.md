@@ -1,0 +1,5 @@
+## Rotation and Lift-Off
+
+Rotation and lift- off in a jet airplane requires planning, precision, and a fine control touch. The objective is to initiate the rotation to takeoff pitch attitude exactly at \(\mathrm{V}_{\mathrm{R}}\) so that the airplane accelerates through \(\mathrm{V}_{\mathrm{LOF}}\) and attains \(\mathrm{V}_{2}\) speed at 35 feet AGL. Rotation to the proper takeoff attitude too soon may extend the takeoff roll or cause an early lift- off, which results in a lower rate of climb and a divergence from the predicted flightpath. A late rotation, on the other hand, results in a longer takeoff roll, exceeding \(\mathrm{V}_{2}\) speed, and a takeoff and climb path below the predicted path.
+
+Each airplane has its own specific takeoff pitch attitude that remains constant regardless of weight. The takeoff pitch attitude in a jet airplane is normally between \(10^{\circ}\) and \(15^{\circ}\) nose up. The rotation to takeoff pitch attitude should be made smoothly but deliberately and at a constant rate. Depending on the particular airplane, the pilot should plan on

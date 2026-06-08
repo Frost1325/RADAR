@@ -1,0 +1,7 @@
+The forceful movement of the elevator decreases the AOA and drives the airplane toward unstalled flight. In some cases, full forward elevator may be required for recovery. Hold the controls firmly in these positions until the spinning stops. (Note: If the airspeed is increasing, the airplane is no longer in a spin. In a spin, the airplane is stalled, and the indicated airspeed should therefore be relatively low and constant and should not be accelerating.)
+
+5. Neutralize the rudder after spin rotation stops. Failure to neutralize the rudder at this time, when airspeed is increasing, causes a yawing or sideslipping effect.
+
+6. Apply back elevator pressure to return to level flight and adjust power as appropriate. Be careful not to apply excessive back elevator pressure after the rotation stops and the rudder has been neutralized. Excessive back elevator pressure can cause a secondary stall and may result in another spin. Avoid exceeding the G-load limits and airspeed limitations during the pull out.
+
+Again, it is important to remember that the spin recovery procedures and techniques described above are recommended for use only in the absence of the manufacturer's procedures. The pilot must always be familiar with the manufacturer's procedures for spin recovery.

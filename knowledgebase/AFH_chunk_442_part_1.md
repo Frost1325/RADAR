@@ -1,0 +1,3 @@
+## Slow Acceleration of the Jet Engine
+
+Slow Acceleration of the Jet EngineAcceleration of a piston engine from idle to full power is relatively rapid. The acceleration on different jet engines can vary considerably, but it is usually much slower. In some cases, the transition to full power could take up to 10 seconds. [Figure 16- 4] Pilots should anticipate the need for adding power from low power settings.

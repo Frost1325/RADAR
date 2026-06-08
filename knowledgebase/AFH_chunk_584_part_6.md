@@ -1,0 +1,1 @@
+ers</td><td>16-10, 16-11, 16-19, 16-24</td></tr><tr><td>Thrust to thrust lever relationship</td><td>16-2</td></tr><tr><td>Timing</td><td>1-1, 7-1, 7-7, 7-10, 7-18, 9-15, 9-32, 14-6, 16-16, 18-4</td></tr><tr><td>Tires</td><td>2-10, 2-11, 2-22, 2-23, 9-18, 9-23, 9-33, 9-35, 9-37, 14-4, 16-15, 16-16, 16-24, 17-12,</td></tr><tr><td>Total mechanical energy</td><td>4-1, 4-2,

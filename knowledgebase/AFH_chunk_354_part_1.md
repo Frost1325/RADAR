@@ -1,0 +1,7 @@
+## Nose Baggage Compartment
+
+Nose baggage compartments are common on multigenie airplanes (and are even found on a few single- engine airplanes). There is nothing strange or exotic about a nose baggage compartment, and the usual guidance concerning observation of load limits applies. Pilots occasionally neglect to secure the latches properly. When improperly secured, the door may open and the contents may be drawn out, usually into the propeller arc and just after takeoff. Even when the nose baggage compartment is empty, airplanes have been lost when the pilot became distracted by the open door. Security of the nose baggage compartment latches and locks is a vital preflight item.
+
+Most airplanes continue to fly with a nose baggage door open. There may be some buffeting from the disturbed airflow, and there is an increase in noise. Pilots should never become so preoccupied with an open door (of any kind) that they fail to fly the airplane.
+
+Inspection of the compartment interior is another important preflight item. More than one pilot has been surprised to find a supposedly empty compartment packed to capacity or loaded with ballast. The tow bars, engine inlet covers, windshield sun screens, oil containers, spare chocks, and miscellaneous small hand tools that find their way into baggage

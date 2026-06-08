@@ -1,0 +1,5 @@
+ soft ground
+
+A tail wind of ten knots increases the landing distance by about 21 percent. An increase of landing speed by ten percent increases the landing distance by 20 percent. Hydroplaning makes braking ineffective until a decrease of speed that can be determined by using Figure 11- 18.
+
+For instance, a pilot is downwind for runway 18, and the tower asks if runway 27 could be accepted. There is a light rain and the winds are out of the east at ten knots. The pilot accepts because he or she is approaching the extended centerline of runway 27. The turn is tight and the pilot must descend (dive) to get to runway 27. After becoming aligned with the runway and at 50 feet AGL, the pilot is already 1,000 feet down the 3,500 feet runway. The airspeed is still high by about ten percent (should be at 70 knots and is at about 80 knots). The wind of ten knots is blowing from behind.

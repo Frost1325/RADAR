@@ -1,0 +1,3 @@
+# R
+
+<table><tr><td>Recovery from overspeed conditions</td><td>5-2</td></tr><tr><td>Rectangular course</td><td>7-5, 7-6, 7-7, 7-9</td></tr><tr><td>Rejected takeoff</td><td>13-17, 16-15, 16-16</td></tr><tr><td>Rejected takeoff/engine failure</td><td>16-14</td></tr><tr><td>Retractable landing gear</td><td>2-10, 5-17, 5-24, 8-3, 12-1, 12-12, 18-4</td></tr><tr><td>Controls and position indicator</td><td>12-12</td></tr><tr><td>Emergency gear extension systems</td><td>12-14</td></tr><tr><td>Landing gear safety devices</td><td>12-12</td></tr><tr><td

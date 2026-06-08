@@ -1,0 +1,3 @@
+# TBL4-2-3 Standard Time to Coordinated Universal Time
+
+<table><tr><td>Eastern Standard Time</td><td>Add 5 hours</td></tr><tr><td>Central Standard Time</td><td>Add 6 hours</td></tr><tr><td>Mountain Standard Time</td><td>Add 7 hours</td></tr><tr><td>Pacific Standard Time</td><td>Add 8 hours</td></tr><tr><td>Alaska Standard Time</td><td>Add 9 hours</td></tr><tr><td>Hawaii Standard Time</td><td>Add 10 hours</td></tr></table>

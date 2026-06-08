@@ -1,0 +1,3 @@
+the airplane is not equipped with speedbrakes or spoilers, this step is also skipped. Returning to the desired flightpath concludes the recovery.
+
+Similarly, a glider pilot does not have an autopilot; therefore, the first step is the reduction of AOA until the stall warning is eliminated. The pilot would then roll wings level while maintaining coordinated flight. Since there is no power to add, this step would not apply. Retracting speedbrakes or spoilers would be the next step for a glider pilot followed by returning to the desired flightpath.

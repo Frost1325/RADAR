@@ -1,0 +1,7 @@
+## Taxing
+
+On most tailwheel- type airplanes, directional control while taxiing is facilitated by the use of a steerable tailwheel, which operates along with the rudder. The tailwheel steering mechanism remains engaged when the tailwheel is operated through an arc of about \(30^{\circ}\) each side of center. Beyond that limit, the tailwheel breaks free and becomes full swiveling. In full swivel mode, the airplane can be pivoted within its own length, if desired. While taxiing, the steerable tailwheel should be used for making normal turns and the pilot's feet kept off the brake pedals to avoid unnecessary wear on the brakes.
+
+When beginning to taxi, the brakes should be tested immediately for proper operation. This is done by first applying power to start the airplane moving slowly forward, then retarding the throttle and simultaneously applying pressure smoothly to both brakes. If braking action is unsatisfactory, the engine should be shut down immediately.
+
+To turn the airplane on the ground, the pilot should apply rudder in the desired direction of turn and use whatever power or brake necessary to control the taxi speed. At very low taxi speeds, directional response is sluggish as surface friction acting on the tailwheel inhibits inputs through the

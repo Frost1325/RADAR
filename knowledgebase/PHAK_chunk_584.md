@@ -1,0 +1,3 @@
+ true velocity of 152 KTAS and a Mach number of 0.23. At FL 380, the aircraft will still stall at approximately 152 KCAS, but the true velocity is about 287 KTAS with a Mach number of 0.50.
+
+Although the stalling speed has remained the same for our purposes, both the Mach number and TAS have increased. With increasing altitude, the air density has decreased; this requires a faster true airspeed in order to have the same pressure sensed by the pitot tube for the same KCAS, or KIAS (for our purposes, KCAS and KIAS are relatively close to each other). The dynamic pressure the wing experiences at FL 380 at 287 KTAS is the same as at sea level at 152 KTAS. However, it is flying at higher Mach number.

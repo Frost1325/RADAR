@@ -1,0 +1,7 @@
+ other. [Figure 16- 18]
+
+## Pilotage
+
+Pilotage is navigation by reference to landmarks or checkpoints. It is a method of navigation that can be used on any course that has adequate checkpoints, but it is more commonly used in conjunction with dead reckoning and VFR radio navigation.
+
+The checkpoints selected should be prominent features common to the area of the flight. Choose checkpoints that can be readily identified by other features, such as roads, rivers, railroad tracks, lakes, and power lines. If possible, select features that make useful boundaries or brackets on each side of the course, such as highways, rivers, railroads, and mountains. A pilot can keep from drifting too far off course by referring to and not crossing the selected brackets. Never place complete reliance on any single checkpoint. Choose ample checkpoints. If one is missed, look for the next one while maintaining the heading. When determining position from checkpoints, remember that the scale of a sectional chart is 1 inch \(= 8\mathrm{SM}\) or \(6.86\mathrm{NM}\) . For example, if a checkpoint selected was approximately one- half inch from the course line on the chart, it is \(4\mathrm{SM}\) or \(3.43\mathrm{NM}\) from the course on the ground. In the more congested areas, some of the smaller features are not included on the chart. If confused, hold the heading. If a turn is made away from the heading, it is easy to become lost.

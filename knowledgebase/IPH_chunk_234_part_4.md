@@ -1,0 +1,5 @@
+/VNAV lateral protection. Aircraft can fly this minima line with a statement in the AFM that the installed equipment supports LPV approaches. In Figure 4- 12, notice the WAAS information shown in the top left corner of the pilot briefing information on the chart depicted. Below the term WAAS is the WAAS channel number (CH 56202), and
+
+the WAAS approach identifier (W35A), indicating Runway 35L in this case, and then a letter to designate the first in a series of procedures to that runway [Figure 4- 12].
+
+LNAV/VNAV identifies APV minimums developed to accommodate an RNAV IAP with vertical guidance, usually provided by approach certified Baro- VNAV, but with vertical and lateral integrity limits larger than a precision approach or LPV. Many RNAV systems that have RNP 0.3 or less approach capability are specifically approved in the AFM. Airplanes that are commonly approved in these types of operations include Boeing 737NG, 767, and 777, as well as the Airbus A300 series. Landing minimums are shown as DAs because the approaches are flown using

@@ -1,0 +1,5 @@
+## Takeoff Roll
+
+As the airplane is aligned with the takeoff path, the pilot should apply takeoff power smoothly and as rapidly as the powerplant can accept without faltering. As the airplane accelerates, the pilot should apply enough back- elevator pressure to establish a positive AOA and to reduce the weight supported by the nose- wheel.
+
+When the airplane is held at a nose- high attitude throughout the takeoff run, the wings increasingly relieve the wheels of the airplane's weight as speed increases and lift develops, thereby minimizing the drag caused by surface irregularities or adhesion. If this attitude is accurately maintained, the airplane virtually flies itself off the ground, becoming airborne but at an airspeed slower than a safe climb speed because of ground effect. [Figure 6- 10]

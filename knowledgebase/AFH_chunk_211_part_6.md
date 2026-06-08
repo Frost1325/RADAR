@@ -1,0 +1,5 @@
+td><td>1050</td></tr><tr><td>113</td><td>130</td><td>1130</td></tr></table>
+
+Distance from the pylon affects the angle of bank. At any altitude above that pivotal altitude, the projected reference line appears to move rearward in a circular path in relation to the pylon. Conversely, when the airplane is below the pivotal altitude, the projected reference line appears to move forward in a circular path. [Figure 7- 13] To demonstrate this, the pilot will fly at maneuvering speed and at an altitude below the pivotal altitude, and then place the airplane in a medium- banked turn. The projected visual reference line appears to move forward along the ground (pylon appears to move back) as the airplane turns. The pilot then executes a climb to an altitude well above the pivotal altitude. When the airplane is again at maneuvering speed, it is placed in a medium- banked turn. At the higher altitude, the projected visual reference line appears to move backward across the ground (pylon appears to move forward).
+
+After demonstrating the maneuver at a high altitude, the pilot should reduce power and begin a descent

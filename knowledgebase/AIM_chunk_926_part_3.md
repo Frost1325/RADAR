@@ -1,0 +1,5 @@
+required visual references below 100 feet above the TDZE. Supporting information is provided by the flight path vector (FPV), flight path angle (FPA) reference cue, onboard navigation system, and other imagery and flight symbology displayed on the EFVS. The FPV and FPA reference cue, along with the EFVS imagery of the Touchdown Zone (TDZ), provide the primary vertical path reference for the pilot when vertical guidance from a precision approach or approach with vertical guidance is not available.
+
+1. Straight-In Instrument Approach Procedures. An EFVS may be used to descend below DA or MDA from any straight-in IAP, other than Category II or Category III approaches, provided all of the requirements of 14 CFR part 91.175 (l) are met. This includes straight-in precision approaches, approaches with vertical guidance (for example, LPV or LNAV/VNAV), and non-precision approaches (for example, VOR, NDB, LOC, RNAV, GPS, LDA, SDF, etc.).
+
+2. Circling Approach Procedure. An IAP with a circle-to-land maneuver or circle-to-land minimums does not meet criteria for straight-in landing minimums. While the

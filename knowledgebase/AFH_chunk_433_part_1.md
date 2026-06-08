@@ -1,0 +1,3 @@
+## Chapter Summary
+
+Transitioning from a non- turbopopeller airplane to a turbopopeller- powered airplane is discussed in this chapter. The major differences are introduced specifically handling, powerplant, and the associated systems. Turbopopeller electrical systems and operational considerations are explained to include starting procedures and high temperature considerations. Training considerations are also discussed and a sample training syllabus is given to show the topics that a pilot should become proficient in when transitioning to a turbopopeller- powered airplane.

@@ -1,0 +1,3 @@
+apply full power and perform a safe takeoff (obstacle clearance and field length permitting) should the pilot elect to abandon the landing. Once committed to a landing, the pilot should gently lower the nose- wheel to the surface. A slight addition of power usually aids in easing the nose- wheel down.
+
+The use of brakes on a soft field is not needed and should be avoided as this may tend to impose a heavy load on the nose- gear due to premature or hard contact with the landing surface, causing the nose- wheel to dig in. The soft or rough surface itself provides sufficient reduction in the airplane's forward speed. Often upon landing on a very soft field, an increase in power may be needed to keep the airplane moving and from becoming stuck in the soft surface.

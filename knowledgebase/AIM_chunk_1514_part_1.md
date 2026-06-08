@@ -1,0 +1,3 @@
+## R
+
+Radar Air Traffic Control Radar Beacon System, 4- 5- 2 Airport Route Surveillance Radar, 4- 5- 7 Airport Surveillance Radar, 4- 5- 7 Approach Control, 5- 4- 3 Approaches, 5- 4- 34 Capabilities, 4- 5- 1 Doppler, 1- 1- 15 Limitations, 4- 5- 1 Monitoring of Instrument Approaches, 5- 4- 35 Precision Approach, 4- 5- 7 Precision Approach Radar, 4- 5- 7 Surveillance, 4- 5- 7 Vector, 5- 5- 3 Radar Assistance to VFR Aircraft, 4- 1- 11 Radar Beacon, Phraseology, 4- 1- 17 Radar Sequencing and Separation, VFR Aircraft, TRSA, 4- 1- 13 Radar Traffic Information Service, 4- 1- 8

@@ -1,0 +1,3 @@
+- Drag increases faster than lift and produces a high sink rate at low speeds. Jet airplane wings typically have a large increase in drag in the approach configuration. When a sink rate does develop, the only immediate remedy is to increase pitch attitude (AOA). Because drag increases faster than lift, that pitch change rapidly contributes to an even greater sink rate unless a significant amount of power is promptly applied.
+
+These flying characteristics of jet airplanes make a stabilized approach an absolute necessity.

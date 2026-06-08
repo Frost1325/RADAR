@@ -1,0 +1,5 @@
+HSO. These visual aids consist of a three-part system of yellow hold–short markings, red and white signage and, in certain cases, in–pavement lighting. Visual aids assist the pilot in determining where to hold short. FIG 4–3–7, FIG 4–3–8, FIG 4–3–9 depict how these markings, signage, and lighting combinations will appear once installed. Pilots are cautioned that not all airports conducting LAHSO have installed any or all of the above markings, signage, or lighting.
+
+5. Pilots should only receive a LAHSO clearance when there is a minimum ceiling of 1,000 feet and 3 statute miles visibility. The intent of having “basic” VFR weather conditions is to allow pilots to maintain visual contact with other aircraft and ground vehicle operations. Pilots should consider
+
+the effects of prevailing inflight visibility (such as landing into the sun) and how it may affect overall situational awareness. Additionally, surface vehicles and aircraft being taxied by maintenance personnel may also be participating in LAHSO, especially in those operations that involve crossing an active runway.

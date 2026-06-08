@@ -1,0 +1,3 @@
+Required Navigation Performance (RNP) 4- 30RNAV Approach Authorization 4- 30
+
+Baro- VNAV 4- 31Hot and Cold Temperature Limitations 4- 33LNAV, LANV/VNAV and Circling Minimums 4- 34Airport/Runway Information 4- 34Instrument Approach Procedure (IAP) Briefing 4- 35Navigation and Communication Radios 4- 35Flight Management System (FMS) 4- 35Autopilot Modes 4- 36Descents 4- 37Stabilized Approach 4- 37Descent Rates and Glidepaths for NonprecisionApproaches 4- 37Maximum Acceptable Descent Rates 4- 37Transition to a Visual Approach 4- 39Missed Approach 4- 39Example Approach Briefing 4- 42Instrument Approach Procedure Segments 4- 42Feeder Routes 4- 42Terminal Routes 4- 42DME Arcs 4- 43Course Reversal 4- 43Initial Approach Segment

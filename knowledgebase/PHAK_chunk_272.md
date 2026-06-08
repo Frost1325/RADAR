@@ -1,0 +1,7 @@
+ airworthiness standards, such as gliders and powered lift. The airworthiness standards used for these aircraft are a combination of requirements in 14 CFR parts 23, 25, 27, and 29 that the FAA and the designer have agreed are appropriate for the proposed aircraft.
+
+The FAA issues a Type Certificate (TC) for the product when they are satisfied it complies with the applicable airworthiness standards. When the TC is issued, a Type Certificate Data Sheet (TCDS) is generated that specifies the important design and operational characteristics of the aircraft, aircraft engine, or propeller. The TCDS defines the product and are available to the public from the FAA website at www.faa.gov.
+
+## A Note About Light Sport Aircraft
+
+Light sport aircraft are not designed according to FAA airworthiness standards. Instead, they are designed to a consensus of standards agreed upon in the aviation industry. The FAA has agreed the consensus of standards is acceptable as the design criteria for these aircraft. Light sport aircraft do not necessarily have individually type certificated engines and propellers. Instead, a TC is issued to the aircraft as a whole. It includes the airframe, engine, and propeller.

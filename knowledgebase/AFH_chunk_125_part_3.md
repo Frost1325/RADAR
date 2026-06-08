@@ -1,0 +1,5 @@
+orientation that can result from visual cues in an upset event. Training that includes recovery from bank angles exceeding 90 degrees could further add to a pilot's overall knowledge and skills for upset recognition and recovery. For such training, additional measures should be taken to ensure the suitability of the airplane or FSTD and that instructors are appropriately qualified.
+
+Upset prevention and recovery training is different from aerobatic training. [Figure 5- 2] In aerobatic training, the pilot knows and expects the maneuver, so effects of startle or surprise are missing. The main goal of aerobatic training is to teach pilots how to intentionally and precisely maneuver an aerobatic- capable airplane in three dimensions. The primary goal of UPRT is to help pilots overcome sudden onsets of stress to avoid, prevent, and recover from unplanned excursions that could lead to LOC- I.
+
+<table><tr><td colspan="3">Aerobatics vs. UPRT Flight Training Methods</td></tr><tr><td>ASPECT OF TRAINING</td><td>AEROBATICS</td><td>UPSET PREVENTION AND RECOVERY TRAINING</td></tr><tr><td>Primary Objective</td><td>Precision maneuvering

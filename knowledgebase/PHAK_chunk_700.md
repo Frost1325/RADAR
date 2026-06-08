@@ -1,0 +1,5 @@
+{C})\) a temperature drop of an absolute \(70\mathrm{F}\) degrees (38.89 Celsius degrees) results in an air temperature in the carburetor of 30 \(\mathrm{F(- 1C)}\) . [Figure 7- 12]
+
+The first indication of carburetor icing in an aircraft with a fixed- pitch propeller is a decrease in engine rpm, which may be followed by engine roughness. In an aircraft with a constant- speed propeller, carburetor icing is usually indicated by a decrease in manifold pressure, but no reduction in rpm. Propeller pitch is automatically adjusted to compensate for loss of power. Thus, a constant rpm is maintained. Although carburetor ice can occur during any phase of flight, it is particularly dangerous when using reduced power during a descent. Under certain conditions, carburetor ice could build unnoticed until power is added. To combat the effects of carburetor ice, engines with float- type carburetors employ a carburetor heat system.
+
+## Carburetor Heat

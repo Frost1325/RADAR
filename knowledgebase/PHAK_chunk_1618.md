@@ -1,0 +1,4 @@
+ private pilot certificate
+
+2. A recreational pilot certificate and all requirements contained within 14 CFR part 61, section 61.101(d), or the requirements for a student pilot seeking a recreational pilot certificate in 14 CFR part 61, section 61.94.
+3. A sport pilot certificate and all requirements contained within 14 CFR part 61, section 61.325, or the requirements for a student pilot seeking a recreational pilot certificate in 14 CFR part 61 section 61.94, or the aircraft is operated by a student pilot who has met the requirements of 14 CFR part 61, sections 61.94 and 61.95, as applicable.

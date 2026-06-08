@@ -1,0 +1,7 @@
+After frontal passage, the towering cumulus and cumulonimbus clouds begin to dissipate to cumulus clouds with a corresponding decrease in the precipitation. Good visibility eventually prevails with the winds from the westnorthwest. Temperatures remain cooler and the barometric pressure continues to rise.
+
+## Fast-Moving Cold Front
+
+Fast- Moving cold fronts are pushed by intense pressure systems far behind the actual front. The friction between the ground and the cold front retards the movement of the front and creates a steeper frontal surface. This results in a very narrow band of weather, concentrated along the leading edge of the front. If the warm air being overtaken by the cold front is relatively stable, overcast skies and rain may occur for some distance behind the front. If the warm air is unstable, scattered thunderstorms and rain showers may form. A continuous line of thunderstorms, or squall line, may form along or ahead of the front. Squall lines present a serious hazard to pilots as squall- type thunderstorms are intense and move quickly. Behind a fast- moving cold front, the skies usually clear rapidly, and the front leaves behind gusty, turbulent winds and colder temperatures.
+
+## Flight Toward an Approaching Cold Front

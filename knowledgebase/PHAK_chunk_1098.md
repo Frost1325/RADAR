@@ -1,0 +1,3 @@
+ this as a worldwide standard, and it is often referred to as International Standard Atmosphere (ISA) or ICAO Standard Atmosphere. Any temperature or pressure that differs from the standard lapse rates is considered nonstandard temperature and pressure. Adjustments for nonstandard temperatures and pressures are provided on the manufacturer's performance charts.
+
+Figure 11-2. Properties of standard atmosphere.

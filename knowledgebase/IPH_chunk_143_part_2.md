@@ -1,0 +1,5 @@
+feet through 10,000 feet MSL- 120 feet per NM 10,000 feet MSL and over- 100 feet per NM
+
+To determine the MCA seen on an en route chart, the distance from the obstacle to the fix is computed from the point where the centerline of the en route course in the direction of flight intersects the farthest displacement
+
+from the fix. [Figure 2- 63] When a change of altitude is involved with a course change, course guidance must be provided if the change of altitude is more than 1,500 feet and/or if the course change is more than \(45^{\circ}\) , although there is an exception to this rule. In some cases, course changes of up to \(90^{\circ}\) may be approved without course guidance provided that no obstacles penetrate the established MEA requirement of the previous airway or route segment. Outside United States airspace, pilots may encounter different flight procedures regarding MCA and transitioning from one MEA to a higher MEA. In this case, pilots are expected to be at the higher MEA crossing the fix, similar to an MCA. Pilots must thoroughly

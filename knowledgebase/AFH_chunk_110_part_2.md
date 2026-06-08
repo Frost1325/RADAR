@@ -1,0 +1,3 @@
+flight into IMC. Sadly, there are also LOC- I accidents resulting from intentional disregard for safety.
+
+To maintain aircraft control when faced with these or other contributing factors, the pilot needs to be aware of situations where LOC- I can occur; recognize when an airplane is approaching a stall, has stalled, or is in an upset condition; and understand and execute the correct procedures to recover the aircraft.

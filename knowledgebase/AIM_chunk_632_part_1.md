@@ -1,0 +1,5 @@
+## 5-1-7. Composite Flight Plan (VFR/IFR Flights)
+
+a. Flight plans which specify VFR operation for one portion of a flight, and IFR for another portion, will be accepted by the FSS at the point of departure. If VFR flight is conducted for the first portion of the flight, pilots should report their departure time to the FSS with whom the VFR/IFR flight plan was filed; and, subsequently, close the VFR portion and request ATC clearance from the FSS nearest the point at which change from VFR to IFR is proposed. Regardless of the type facility you are communicating with (FSS, center, or tower), it is the pilot's responsibility to request that facility to "CLOSE VFR FLIGHT PLAN." The pilot must remain in VFR weather conditions until operating in accordance with the IFR clearance.
+
+b. When a flight plan indicates IFR for the first portion of flight and VFR for the latter portion, the pilot will normally be cleared to the point at which the change is proposed. After reporting over the clearance limit and not desiring further IFR clearance, the pilot should advise ATC to cancel the IFR portion of the flight plan. Then

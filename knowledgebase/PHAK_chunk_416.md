@@ -1,0 +1,5 @@
+ speed. The manufacturer's recommended takeoff speed is necessary to provide adequate initial climb performance. It is also important that a definite climb be established before a pilot retracts the landing gear or flaps. Never retract the landing gear or flaps prior to establishing a positive rate of climb and only after achieving a safe altitude.
+
+If, during the landing phase of flight, the aircraft is brought into ground effect with a constant AOA, the aircraft experiences an increase in \(\mathrm{C_L}\) and a reduction in the thrust required, and a "floating" effect may occur. Because of the reduced drag and lack of power- off deceleration in ground effect, any excess speed at the point of flare may incur a considerable "float" distance. As the aircraft nears the point of touchdown, ground effect is most realized at altitudes less than the wingspan. During the final phases of the approach as the aircraft nears the ground, a reduction of power is necessary to offset the increase in lift caused from ground effect otherwise the aircraft will have a tendency to climb above the desired glidepath (GP).
+
+## Axes of an Aircraft

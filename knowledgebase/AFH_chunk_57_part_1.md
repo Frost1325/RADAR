@@ -1,0 +1,7 @@
+## Straight-and-Level Flight
+
+Straight- and- level flight is flight in which heading and altitude are maintained. The other fundamentals are derived as variations from straight- and- level flight, and the need to form proper and effective skills in flying straight and level should be understood. The ability to perform straight- and- level flight results from repetition and practice. A high level of skill results when the pilot perceives outside references, takes mental snap shots of the flight instruments, and makes effective, timely, and proportional corrections from unintentional slight turns, descents, and climbs.
+
+Straight- and- level flight is a matter of consciously fixing the relationship of a reference point on the airplane in relation to the natural horizon. [Figure 3- 6] The establishment of these reference points should be initiated on the ground as they depend on the pilot's seating position, height, and posture. The pilot should sit in a normal manner with the seat position adjusted, such that the pilot sees adequately over the instrument panel while being able to fully depress the rudder pedals without straining or reaching.
+
+A flight instructor may use a dry erase marker or removable tape to make reference lines on the windshield or cowling to help the beginner pilot establish visual reference points. Vertical reference lines are

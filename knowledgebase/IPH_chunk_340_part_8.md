@@ -1,0 +1,5 @@
+70 KIAS.</td></tr></table>
+
+a \(\mathrm{V}_{\mathrm{MINI}}\) of 70 KIAS may have inadequate control margins to fly an approach that is designed with the maximum allowable angle/descent gradient or minimum allowable deceleration distance from the missed approach point (MAP) to the heliport. The "Copter" Pin5 final approach segment is limited to 70 KIAS since turn containment and the deceleration distance from the MAP to the heliport may not be adequate at faster speeds. For some helicopters, engaging the autopilot may increase the \(\mathrm{V}_{\mathrm{MINI}}\) to a speed greater than 70 KIAS, or in the "go around" (G/A) mode, require a speed faster than 70 KIAS. [Figure 7- 2] It may be possible for these helicopters to be flown manually on the approach or on the missed approach in a mode other than the G/A mode.
+
+Since slower IFR approach speeds enable the helicopter to fly steeper approaches and reduces the distance from the heliport that is required to decelerate the helicopter, you may want to operate your helicopter

@@ -1,0 +1,1 @@
+the type of sensor equipment used at the station will be encoded in the remarks section of the report. The absence of "AUTO" indicates that a report was made manually by an observer or that an automated report had human augmentation/backup. The modifier "COR" indicates a corrected report that is sent out to replace an earlier report with an error.

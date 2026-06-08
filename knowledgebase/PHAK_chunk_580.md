@@ -1,0 +1,5 @@
+5- 10 percent above the critical Mach number, compressibility effects begin. Drag begins to rise sharply. Associated with the "drag rise" are buffet, trim, and stability changes and a decrease in control surface effectiveness. This is the point of "drag divergence." [Figure 5- 65]
+
+\(\mathrm{V_{MO} / M_{MO}}\) is defined as the maximum operating limit speed. \(\mathrm{V_{MO}}\) is expressed in knots calibrated airspeed (KCAS), while
+
+\(\mathrm{M_{MO}}\) is expressed in Mach number. The \(\mathrm{V_{MO}}\) limit is usually associated with operations at lower altitudes and deals with structural loads and flutter. The \(\mathrm{M_{MO}}\) limit is associated with operations at higher altitudes and is usually more concerned with compressibility effects and flutter. At lower altitudes, structural loads and flutter are of concern; at higher altitudes, compressibility effects and flutter are of concern.

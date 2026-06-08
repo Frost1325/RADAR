@@ -1,0 +1,3 @@
+## NOTE-
+
+5. The pilot is expected to promptly execute and complete descent to FL 270 upon receipt of the clearance. After reaching FL 270 the pilot is authorized to descend "at pilot's discretion" until reaching Lakeview VOR. The pilot must comply with the clearance provision to cross Lakeview VOR at or below 10,000 feet. After Lakeview VOR the pilot is expected to descend at the suggested rates until reaching 6,000 feet.

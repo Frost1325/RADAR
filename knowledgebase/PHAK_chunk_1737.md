@@ -1,0 +1,5 @@
+ correction depends upon the strength of the wind. If the wind velocity is unknown, a trial- and- error method can be used to find the correct heading. Assume, for this example, a \(10^{\circ}\) correction for a heading of \(360^{\circ}\) is maintained.
+
+While maintaining a heading of \(360^{\circ}\) , assume that the course deviation begins to move to the left. This means that the wind correction of \(10^{\circ}\) is too great and the aircraft is flying to the right of course. A slight turn to the left should be made to permit the aircraft to return to the desired radial.
+
+When the deviation needle centers, a small wind drift correction of \(5^{\circ}\) or a heading correction of \(355^{\circ}\) should be flown. If this correction is adequate, the aircraft remains on the radial. If not, small variations in heading should be made to keep the needle centered and consequently keep the aircraft on the radial.

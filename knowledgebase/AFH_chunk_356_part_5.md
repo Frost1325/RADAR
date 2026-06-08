@@ -1,0 +1,5 @@
+of the AFM/POH. Experienced multigene pilots, however, recognize the safety margin of runway lengths in excess of the bare minimum required for normal takeoff, and they insist on runway lengths of at least accelerate- stop distance as a matter of safety and good operating practice.
+
+The multigene pilot considers that under ideal circumstances, the accelerate- go distance only brings the airplane to a point a mere 50 feet above the takeoff elevation. To achieve even this meager climb, the pilot had to instantaneously recognize and react to an unanticipated engine failure, retract the landing gear, identify and feather the correct engine, all the while maintaining precise airspeed control and bank angle as the airspeed is nursed to \(\mathrm{V}_{\mathrm{YSE}}\) . Assuming flawless airmanship thus far, the airplane has now arrived at a point little more than one wingspan above the terrain, assuming it was absolutely level and without obstructions.
+
+For the purpose of illustration, with a near 150 fpm rate of climb at a 90- knot \(\mathrm{V}_{\mathrm{YSE}}\) , it takes approximately 3 minutes to climb an additional 450 feet to reach

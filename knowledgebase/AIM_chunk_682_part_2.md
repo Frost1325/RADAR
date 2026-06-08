@@ -1,0 +1,3 @@
+-route alternate aerodrome(s), if no indicator is allocated. For aerodromes not listed in the relevant Aeronautical Information Publication, indicate location in LAT/ LONG or bearing and distance from the nearest significant point, as described in DEP/ above.
+
+(v) TALT/ ICAO 4-letter indicator(s) for take-off alternate, as specified in Doc 7910, Location Indicators, or name of take-off alternate aerodrome, if no indicator is allocated. For aerodromes not listed in the relevant Aeronautical Information Publication. indicate location in LAT/LONG or bearing and distance from the nearest significant point, as described in DEP/ above.

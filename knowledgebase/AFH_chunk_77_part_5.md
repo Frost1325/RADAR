@@ -1,0 +1,3 @@
+drag as the latter varies with changes in airspeed.
+
+<table><tr><td colspan="2" rowspan="2">Energy Transaction Examples</td><td>Net Energy<br>Change<br>(T-D)</td><td>Change in Stored Energy<br>Altitude Airspeed</td><td colspan="2">Resulting Aircraft Condition</td></tr><tr><td></td><td></td><td></td></tr><tr><td>A</td><td>T<br>STORED STORED<br>Altitude Airspeed</td><td>\(>0\)</td><td>Increase</td><td>No change</td><td>Climb at constant airspeed</td></tr><tr><td>B</td><td>T<br>STORED STORED<br>Altitude Airspeed</td><td>\(>\)0</td><td>No change</td><td>Increase</td><td>Acceleration at constant altitude</td></tr><tr><td>C</td><td>T<br>STORED STORED<br>Altitude Airspeed</td><td>\(<0\)</td><td>Decrease</td><td>No change</td><td>Descent at constant

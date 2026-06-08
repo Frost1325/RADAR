@@ -1,0 +1,5 @@
+ bulk of the pitch control demand, with the elevator handling the rest. On aircraft equipped with a variable incidence horizontal stabilizer, the elevator is smaller and less effective in isolation than it is on a fixed- tail aircraft. In comparison to other flight controls, the variable incidence horizontal stabilizer is enormously powerful in its effect.
+
+Because of the size and high speeds of jet transport aircraft, the forces required to move the control surfaces can be beyond the strength of the pilot. Consequently, the control surfaces are actuated by hydraulic or electrical power units. Moving the controls in the flight deck signals the control angle required, and the power unit positions the actual control surface. In the event of complete power unit failure, movement of the control surface can be affected by manually controlling the control tabs. Moving the control tab upsets the aerodynamic balance, which causes the control surface to move.
+
+## Chapter Summary

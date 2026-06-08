@@ -1,0 +1,7 @@
+## One-Engine-Inoperative (OEl) Takeoff Obstacle Clearance Requirements
+
+Large and turbine- powered, multie engine transport category airplanes and commuter category airplanes operated under Part 121 or Part 135 have additional takeoff obstacle clearance requirements beyond the scope of the IFR departure procedure requirements addressed by TERPS.
+
+Part 25 transport category and Part 23 commuter category airplane certification rules define the one- engine- inoperative (OEl) takeoff flight path, which is normally constructed from a series of segments beginning from 35 feet above the runway surface at the end of the OEl takeoff distance and ending at a minimum height of 1,500 feet above the runway elevation. However, the OEl net takeoff flight path assessment may continue above 1,500 feet if necessary to ensure obstacle clearance.
+
+The actual, or gross, OEl flight path represents the vertical OEl climb profile that the aircraft has been demonstrated capable of achieving using takeoff procedures developed for line operations based on the aircraft's weight, configuration, and environmental conditions at the time of takeoff. The OEl net takeoff flight path represents the actual OEl takeoff flight path that has been degraded by an amount

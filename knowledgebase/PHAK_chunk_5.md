@@ -1,0 +1,5 @@
+ flight captivated the public's imagination and for a time flying enthusiasts turned their expertise to the promise of lighter- than- air flight. But for all its majesty in the air, the balloon was little more than a
+
+billowing heap of cloth capable of no more than a one- way, downwind journey.
+
+Balloons solved the problem of lift, but that was only one of the problems of human flight. The ability to control speed and direction eluded balloonists. The solution to that problem lay in a child's toy familiar to the East for 2,000 years, but not introduced to the West until the 13th century—the kite. The kites used by the Chinese for aerial observation, to test winds for sailing, as a signaling device, and as a toy, held many of the answers to lifting a heavier- than- air device into the air.

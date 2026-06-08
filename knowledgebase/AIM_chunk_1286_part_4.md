@@ -1,0 +1,1 @@
+light, moderate, severe, or extreme) of the element to the FAA facility with which they are maintaining radio contact. If time and conditions permit, elements should be reported according to the standards for other PIREPs and position reports (see GEN 3.5- , PIREPS Relating to Turbulence).

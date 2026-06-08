@@ -1,0 +1,5 @@
+ crossed over the runway hold markings. Once all parts of the aircraft have crossed the runway holding position markings, you must hold unless further instructions have been issued by ATC. Do not initiate non- essential communications or actions until the aircraft has stopped and the brakes set.
+
+## Engineered Materials Arresting Systems (EMAS)
+
+Aircraft can and do overrun the ends of runways and sometimes with devastating results. An overrun occurs when an aircraft passes beyond the end of a runway during an aborted takeoff or on landing rollout. To minimize the hazards of overruns, the FAA incorporated the concept of a runway safety area (RSA) beyond the runway end into airport design standards. At most commercial airports, the RSA is 500 feet wide and extends 1,000 feet beyond each end of the runway. The FAA implemented this requirement in the event that an aircraft overruns, undershoots, or veers off the side of the runway.

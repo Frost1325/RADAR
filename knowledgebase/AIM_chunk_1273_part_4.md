@@ -1,0 +1,7 @@
+restricted, aircraft have as much right to operate on these bodies of water as other vessels. To avoid problems, check with Federal or local officials in advance of operating on unfamiliar waters. In addition to the agencies listed in TBL 7-5-1, the nearest Flight Standards District Office can usually offer some practical suggestions as well as regulatory information. If you land on a restricted body of water because of an inflight emergency, or in ignorance of the restrictions you have violated, report as quickly as practical to the nearest local official having jurisdiction and explain your situation.
+
+d. When operating a seaplane over or into remote areas, appropriate attention should be given to survival gear. Minimum kits are recommended for summer and winter, and are required by law for flight into sparsely settled areas of Canada and Alaska. Alaska State Department of Transportation and Canadian Ministry of Transport officials can provide specific information on survival gear requirements. The kit should be assembled in one container and be easily reachable and preferably floatable.
+
+TBL7-5-1 Jurisdictions Controlling Navigable Bodies of Water
+
+<table><tr><td colspan="3">Authority to Consult For Use of a Body of Water</td></tr><tr><td>Location</td><td>Authority

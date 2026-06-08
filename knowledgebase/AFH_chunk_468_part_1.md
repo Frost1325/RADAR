@@ -1,0 +1,5 @@
+## Glidepath Control
+
+The optimum glidepath angle is about \(3^{\circ}\) . On visual approaches, pilots may have a tendency to make flat approaches. A flat approach, however, increases landing distance and should be avoided. For example, an approach angle of \(2^{\circ}\) instead of a recommended \(3^{\circ}\) adds 500 feet to landing distance.
+
+A more common error is excessive height over the threshold. This could be the result of an unstable approach or a stable but high approach. It also may occur during a nonprecision instrument approach where the missed approach point is close to or at the runway threshold. Regardless of the cause, excessive height over the threshold most likely results in a touchdown beyond the normal aiming point. An extra 50 feet of height over the threshold adds approximately 1,000 feet to the landing distance. The airplane should arrive at the approach threshold window exactly on altitude (50 feet above the runway).

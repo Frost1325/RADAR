@@ -1,0 +1,3 @@
+process known as the Aviation Weather Technology Transfer process. This process ensures that user needs and technical and operational readiness requirements are met as experimental product types mature to operational application.
+
+The development of enhanced communications capabilities, most notably the internet, has allowed pilots access to an increasing range of weather service providers and proprietary products. It is not the intent of the FAA to limit operator use of this weather information. However, pilots and operators should be aware that weather services provided by entities other than the FAA, NWS, or their contractors (such as the DUATS and flight information services data link (FISDL) providers) may not meet FAA/ NWS quality control standards.

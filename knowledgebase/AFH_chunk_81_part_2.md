@@ -1,0 +1,5 @@
+level flight while maintaining a constant airspeed at an increased load factor.
+
+On the backside of the power required curve, where the airplane flies at low speed (3 in Figure 4- 4) and high AOA with little or no excess power or excess thrust (C in Figure 4- 4), pushing forward on the yoke or stick (elevator down) will result in a brief energy exchange descent, causing the airplane to accelerate from 3 to 2 toward the center of the power curve [Figure 4- 4]. This increase in airspeed results in a reduction in total drag; hence available energy in the form of positive exces power \((P_{S} > 0)\) where thrust exceeds drag \((T - D > O)\) . With this excess power (B in Figure 4- 4) the airplane can nw climb at a constant airspeed or turn in level flight while maintaining a constant airspeed at an incrased load factor. This role of the elevator is critical to prevent unintentional, excessive deceleration or sink rate as illustrated later in the chapter (refer to Preventing Irreversible Deceleration and/or Sink Rate section).
+
+While the elevator can assist the throttle in changing

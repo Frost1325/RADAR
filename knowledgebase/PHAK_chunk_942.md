@@ -1,0 +1,7 @@
+ indication until the pitch no longer exceeds limitation or "tumble" and provide erroneous pitch and bank indications when the aircraft exceeds these limits. This may be extremely hazardous when the aircraft is operating in instrument meteorological conditions or confuse a pilot during an unusual attitude recovery. A number of modern attitude indicators do not have this problem.
+
+Every pilot should be able to interpret the banking scale illustrated in Figure 8- 24. Most banking scale indicators on the top of the instrument move in the same direction from that in which the aircraft is actually banked. Some other models move in the opposite direction from that in which the aircraft is actually banked. This may confuse the pilot if the indicator is used to determine the direction of bank. This scale should be used only to control the degree of desired bank. The relationship of the miniature aircraft to the horizon bar should be used for an indication of the direction of bank. The attitude indicator is reliable and the most realistic flight instrument on the instrument panel. Its indications are very close approximations of the actual attitude of the aircraft.
+
+## Heading Indicator
+
+The heading indicator is fundamentally a mechanical instrument designed to facilitate the use of the magnetic compass. Errors in the magnetic compass are numerous,

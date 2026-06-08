@@ -1,0 +1,5 @@
+## Types of Approaches
+
+In the NAS, there are approximately 1,105 VOR stations, 916 NDB stations, and 1,194 ILS installations, including 25 LOC- type directional aids (LDAs), 11 simplified directional facilities (SDFs), and 235 LOC only facilities. As time progresses, it is the intent of the FAA to reduce navigational dependence on VOR, NDB, and other ground- based NAVAIDs and, instead, to increase the use of satellite- based navigation.
+
+To expedite the use of RNAV procedures for all instrument pilots, the FAA has begun an aggressive schedule to develop RNAV procedures. As of 2010, the number of RNAV/ GPS approaches published in the NAS numbered 10,212 - with additional procedures published every revision cycle. While it had originally been the plan of the FAA to begin decommissioning VORs, NDBs, and other ground- based NAVAIDs, the overall strategy has been changed to incorporate a majority dependence on augmented satellite navigation while maintaining a satisfactory backup system. This backup system includes retaining all CAT II and III LS facilities and close to one

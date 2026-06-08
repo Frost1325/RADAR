@@ -1,0 +1,7 @@
+ them as familiar. Rather than comparing the pros and cons of different approaches, they quickly imagine how one or a few possible courses of action in such situations will play out. Experts take the first workable option they can find. While it may not be the best of all possible choices, it often yields remarkably good results.
+
+The terms "naturalistic" and "automatic decision- making" have been coined to describe this type of decision- making. The ability to make automatic decisions holds true for a range of experts from firefighters to chess players. It appears the expert's ability hinges on the recognition of patterns and consistencies that clarify options in complex situations. Experts appear to make provisional sense of a situation, without actually reaching a decision, by launching experience- based actions that in turn trigger creative revisions.
+
+This is a reflexive type of decision- making anchored in training and experience and is most often used in times of emergencies when there is no time to practice analytical decision- making. Naturalistic or automatic decision- making improves with training and experience, and a pilot will find himself or herself using a combination of decision- making tools that correlate with individual experience and training.
+
+## Operational Pitfalls

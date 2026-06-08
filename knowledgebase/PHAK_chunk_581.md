@@ -1,0 +1,3 @@
+ with structural loads and flutter. The \(\mathrm{M_{MO}}\) limit is associated with operations at higher altitudes and is usually more concerned with compressibility effects and flutter. At lower altitudes, structural loads and flutter are of concern; at higher altitudes, compressibility effects and flutter are of concern.
+
+Adherence to these speeds prevents structural problems due to dynamic pressure or flutter, degradation in aircraft control response due to compressibility effects (e.g., Mach Tuck, aileron reversal, or buzz), and separated airflow due to shock waves resulting in loss of lift or vibration and buffet. Any of these phenomena could prevent the pilot from being able to adequately control the aircraft.

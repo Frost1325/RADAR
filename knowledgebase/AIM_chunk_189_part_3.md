@@ -1,0 +1,3 @@
+at 14,500 feet MSL to, but not including, 18,000 feet MSL overlying: the 48 contiguous States including the waters within 12 miles from the coast of the 48 contiguous States; the District of Columbia; Alaska, including the waters within 12 miles from the coast of Alaska, and that airspace above FL 600; excluding the Alaska peninsula west of long. \(160^{\circ}00'00''\mathrm{W}\) , and the airspace below 1,500 feet above the surface of the earth unless specifically so designated.
+
+f. Separation for VFR Aircraft. No separation services are provided to VFR aircraft.

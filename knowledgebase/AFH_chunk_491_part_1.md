@@ -1,0 +1,3 @@
+## Preflight
+
+The preflight inspection of any airplane is critical to mitigating flight risks. A pilot transitioning into an LSA should allow adequate time to become familiar with the airplane prior to a first flight. First, the pilot and flight instructor should review the POH and cover the airplane's limitations, systems, performance, weight and balance, normal procedures, emergency procedures, and handling requirements. [Figure 17- 9]

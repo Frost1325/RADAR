@@ -1,0 +1,3 @@
+1-2 NDB Service Volumes
+
+<table><tr><td>Class</td><td>Distance (Radius)</td></tr><tr><td>Compass Locator</td><td>15 NM</td></tr><tr><td>MH</td><td>25 NM</td></tr><tr><td>H</td><td>50 NM*</td></tr><tr><td>HH</td><td>75 NM</td></tr><tr><td colspan="2">*Service ranges of individual facilities may be less than 50 nautical miles (NM). Restrictions to service<br>volumes are first published as a Notice to Airmen and then with the alphabetical listing of the NAVAID in<br>the A/FD.</td></tr></table>

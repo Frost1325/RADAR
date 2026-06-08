@@ -1,0 +1,5 @@
+[Figure 4- 2] The circling approach area is the obstacle clearance area for aircraft maneuvering to land on a runway that does not meet the criteria for a straight- in approach. The size of the circling area varies with the approach category of the aircraft, as shown in Figure 4- 2.
+
+<table><tr><td>Approach category</td><td>Radius (miles)</td></tr><tr><td>A</td><td>1.3</td></tr><tr><td>B</td><td>1.5</td></tr><tr><td>C</td><td>1.7</td></tr><tr><td>D</td><td>2.3</td></tr><tr><td>E</td><td>4.5</td></tr></table>
+
+A minimum of 300 feet of obstacle clearance is provided in the circling segment. Pilots should remain at or above the circling altitude until the aircraft is continuously in a position from which a descent to a landing on the intended runway can be made at a normal rate of descent and using normal maneuvers. Since an approach category can make a difference in the approach and weather minimums

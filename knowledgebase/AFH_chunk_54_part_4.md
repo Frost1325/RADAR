@@ -1,0 +1,1 @@
+flight instructor should teach the difference between perceiving and reacting to sound, vibrations, and forces versus merely noticing them. It is this increased understanding that contributes to developing a "feel" for the airplane. A pilot who develops a "feel" for the airplane early in flight training is likely to have less difficulty during more advanced training.

@@ -1,0 +1,3 @@
+is limited to \(25\mathrm{NM}\) from the airport in nonmountainous areas and \(46\mathrm{NM}\) in designated mountainous areas. Beyond this distance, the pilot is responsible for obstacle clearance if not operating on a published route, if below (having not reached) the MEA or MOCA of a published route, or an ATC assigned altitude. See FIG 5- 2- 1. (Ref 14
+
+CFR 91.177 for further information on en route altitudes.)

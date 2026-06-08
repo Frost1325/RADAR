@@ -1,0 +1,5 @@
+ noncertificated schools and individual flight instructors. It also states what knowledge- based training must be covered and how much flight experience is required for each certificate and rating. Flight schools and flight instructors who train must adhere to the statutory requirements and train pilots to the standards found in 14 CFR part 61.
+
+One advantage of flight training under 14 CFR part 61 is its flexibility. Flight lessons can be tailored to the individual student, because 14 CFR part 61 dictates the required minimum flight experience and knowledge- based training necessary to gain a specific pilot's license, but it does not stipulate how the training is to be organized. This flexibility can also be a disadvantage because a flight instructor who fails to organize the flight training can cost a student pilot time and expense through repetitious training. One way for a student pilot to avoid this problem is to ensure the flight instructor has a well- documented training syllabus.
+
+## How To Find a Reputable Flight Program

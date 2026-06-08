@@ -1,0 +1,5 @@
+EFVS operation to touchdown and rollout is an operation in which a pilot uses the enhanced vision imagery provided by an EFVS in lieu of natural vision to descend below DA or DH to touchdown and rollout [Figure 4- 10B]. These operations may be conducted on standard instrument approach procedures (SIAPs) or special instrument approach procedures (IAPs) that have a DA or DH (e.g., Precision or APV approach).
+
+An EFVS operation to 100 feet above the TDZE is an operation in which the pilot uses the EFVS in lieu of natural vision to descend below DA/DH or MDA down to 100 feet above the TDZE [Figure 4- 10C]. To descend below 100 feet above the TDZE, however, natural vision must be used. EFVS operations to 100 feet above the TDZE may be conducted on SIAPs or special IAPs that have a DA/DH or MDA.
+
+While the regulations do not prohibit EFVS from being used during any phase of flight for situational awareness, EFVS displays are not designed, installed, certified, or intended as a sufficient visual system to conduct circling maneuvers. EFVS may

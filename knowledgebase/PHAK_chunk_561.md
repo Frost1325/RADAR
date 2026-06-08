@@ -1,0 +1,7 @@
+ carried. In a certain two- place aircraft, no baggage may be carried in the compartment aft of the seats when spins are to be practiced. It is important for a pilot to be aware of the weight and balance limitations of the aircraft being flown and the reasons for these limitations.
+
+## Effect of Weight on Aircraft Structure
+
+The effect of additional weight on the wing structure of an aircraft is not readily apparent. Airworthiness requirements prescribe that the structure of an aircraft certificated in the normal category (in which acrobatics are prohibited) must be strong enough to withstand a load factor of 3.8 Gs to take care of dynamic loads caused by maneuvering and gusts. This means that the primary structure of the aircraft can withstand
+
+a load of 3.8 times the approved gross weight of the aircraft without structural failure occurring. If this is accepted as indicative of the load factors that may be imposed during operations for which the aircraft is intended, a 100- pound overload imposes a potential structural overload of 380 pounds. The same consideration is even more impressive in the case of utility and acrobatic category aircraft, which have load factor requirements of 4.4 and 6.0, respectively.

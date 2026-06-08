@@ -1,0 +1,7 @@
+## NOTE-
+
+Non-standard temperatures can result in a change to effective vertical paths and actual descent rates while using aircraft Baro-VNAV equipment for vertical guidance on final approach segments. A higher than standard temperature will result in a steeper gradient and increased actual descent rate. Indications of these differences are often not directly related to vertical speed indications. Conversely, a lower than standard temperature will result in a shallower descent gradient and reduced actual descent rate. Pilots should consider potential consequences of these effects on approach minimums, power settings, sight picture, visual cues, etc., especially for high-altitude or terrain-challenged locations and during low-visibility conditions.
+
+d. TBL 7-2-3, derived from ICAO formulas, indicates how much error can exist when operating in cold temperatures. To use the table, find the reported temperature in the left column, read across the top row to locate the height above the airport/reporting station (i.e., subtract the airport/reporting elevation from the intended flight altitude). The intersection of the column and row is how much lower the aircraft may actually be as a result of the possible cold temperature induced error.
+
+e. Pilots are responsible to compensate for cold temperature altimetry errors when operating into an

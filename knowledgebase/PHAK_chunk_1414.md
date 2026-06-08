@@ -1,0 +1,3 @@
+ also referred to as the 400 mb level and high- level significant weather from FL 250 to FL 630 (25,000 to 63,000 feet). The primary concern of this discussion is the low- level significant weather prognostic chart.
+
+The low- level chart is is a forecast of aviation weather hazards, primarily intended to be used as a guidance product for briefing the VFR pilot. The forecast domain covers the 48 contiguous states, southern Canada and the coastal waters for altitudes below 24,000 ft. Low altitude Significant Weather charts are issued four times daily and are valid at fixed times: 0000, 0600, 1200, and 1800 UTC. Each chart is divided on the left and right into 12 and 24 hour forecast intervals (based on the current NAM model available).

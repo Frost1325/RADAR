@@ -1,0 +1,5 @@
+ maintenance on small rotorcraft, non- turbine powered airplanes, gliders, or lighter- than- air aircraft operated under part 91. They are the deferral provision of 14 CFR, part 91, section 91.213(d) and an FAA- approved MEL.
+
+The deferral provision of 14 CFR, part 91, section 91.213(d) is widely used by most pilot/operators. Its popularity is due to simplicity and minimal paperwork. When inoperative equipment is found during a preflight inspection or prior to departure, the decision should be to cancel the flight, obtain maintenance prior to flight, or to defer the item or equipment.
+
+Maintenance deferrals are not used for inflight discrepancies. The manufacturer's AFM/POH procedures are to be used in those situations. The discussion that follows assumes that the pilot wishes to defer maintenance that would ordinarily be required prior to flight.

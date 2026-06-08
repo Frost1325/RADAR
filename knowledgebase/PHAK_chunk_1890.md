@@ -1,0 +1,5 @@
+ can be even more pronounced.
+
+Another important consideration is that the medical condition for which a medication is prescribed may itself be disqualifying. The FAA will consider the condition in the context of risk for medical incapacitation, and the medication as well for cognitive impairment, and either or both could be found unacceptable for medical certification.
+
+Some of the most commonly used OTC drugs, antihistamines and decongestants, have the potential to cause noticeable adverse side effects, including drowsiness and cognitive deficits. The symptoms associated with common upper respiratory infections, including the common cold, often suppress a pilot's desire to fly, and treating symptoms with a drug that causes adverse side effects only compounds the problem. Particularly, medications containing diphenhydramine (e.g., Benadryl) are known to cause drowsiness and have a prolonged half- life, meaning the drugs stay in one's system for an extended time, which lengthens the time that side effects are present.

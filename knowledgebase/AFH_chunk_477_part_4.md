@@ -1,0 +1,7 @@
+iness certification. Industry Consensus Standards are intended to be less costly and less restrictive than 14 CFR part 23 certification requirements and, as a result, LSA manufacturers have greater latitude with their designs. ASTM Industry Consensus Standards were accepted by the FAA in 2005, which established FAA- accepted industry- developed standards for the design and manufacture of aircraft for the first time.
+
+ASTM Industry Consensus Standards for LSA cover the following areas:
+
+Design and performance Required equipment Quality assurance Production acceptance tests Aircraft operating instructions Maintenance and inspection procedures Identification and recording of major repairs and major alterations Continued airworthiness Manufacturer's assembly instructions (E- LSA aircraft)
+
+Using the ASTM Industry Consensus Standards, an LSA manufacturer can design and manufacture their aircraft and assess its compliance to the consensus standards. The manufacturer then, through evaluation services offered by a designated airworthiness representative, completes the process by submitting the required paperwork to the FAA. Upon approval, an LSA manufacturer is permitted to sell ready- to- fly S- LSA aircraft.

@@ -1,0 +1,7 @@
+# Airborne Navigation Databases
+
+Introduction
+
+Area Navigation (RNAV) systems, aeronautical applications, and functions that depend on databases are widespread. [Figure 6-1] Since the 1970s, installed flight systems have relied on airborne navigation databases to support their intended functions, such as navigation data used to facilitate the presentation of flight information to the flight crew and understanding and better visualization of the governing aeronautical flight charts. With the overwhelming upgrades to navigation systems and fully integrated flight management systems (FMS) that are now installed in almost all corporate and commercial aircraft, the need for reliable and consistent airborne navigation databases is more important than ever.
+
+The capabilities of airborne navigation databases depend largely on the way they are implemented by the avionics manufacturers. They can provide data about a large variety of locations, routes, and airspace segments for use by many different types of RNAV equipment. Databases can provide pilots with information regarding airports, air traffic control (ATC) frequencies, runways, and special use airspace. Without airborne navigation databases, RNAV would be extremely limited. In order to understand the capabilities and limitations of airborne navigation databases, pilots must understand the way databases are compiled and revised by the database provider and processed by the

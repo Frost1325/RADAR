@@ -1,0 +1,5 @@
+EL. Upon
+
+confirming that daytime flight with inoperative position lights is acceptable in accordance with the provisions of the MEL, the pilot would leave the position lights switch OFF, open the circuit breaker (or whatever action is called for in the procedures document), and placard the position light switch as INOPERATIVE.
+
+There are exceptions to the use of the MEL for deferral. For example, should a component fail that is not listed in the MEL as deferrable (the tachometer, flaps, or stall warning device, for example), then repairs are required to be performed prior to departure. If maintenance or parts are not readily available at that location, a special flight permit can be obtained from the nearest FSDO. This permit allows the aircraft to be flown to another location for maintenance. This allows an aircraft that may not currently meet applicable airworthiness requirements, but is capable of safe flight, to be operated under the restrictive special terms and conditions attached to the special flight permit.

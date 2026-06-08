@@ -1,0 +1,1 @@
+trim when the thrust setting is changed. A rapid change in the thrust setting requires a quick elevator response. If the thrust levers are moved to idle too quickly during the flare, the pilot may need to make rapid changes in pitch control. If the thrust levers are moved more slowly, the elevator input can be more easily coordinated.

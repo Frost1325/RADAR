@@ -1,0 +1,5 @@
+ not reach the \(\mathrm{V_{MO}}\) limit without first reaching the \(\mathrm{M_{MO}}\) limit. For example, at FL 380, an \(\mathrm{M_{MO}}\) of 0.82 is equal to 261 KCAS.
+
+## Mach Number Versus Airspeed
+
+It is important to understand how airspeed varies with Mach number. As an example, consider how the stall speed of a jet transport aircraft varies with an increase in altitude. The increase in altitude results in a corresponding drop in air density and outside temperature. Suppose this jet transport is in the clean configuration (gear and flaps up) and weighs 550,000 pounds. The aircraft might stall at approximately 152 KCAS at sea level. This is equal to (on a standard day) a true velocity of 152 KTAS and a Mach number of 0.23. At FL 380, the aircraft will still stall at approximately 152 KCAS, but the true velocity is about 287 KTAS with a Mach number of 0.50.

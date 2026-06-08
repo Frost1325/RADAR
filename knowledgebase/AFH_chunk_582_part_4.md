@@ -1,0 +1,3 @@
+10, 16-2</td></tr></table>
+
+<table><tr><td>Power-off accuracy approaches</td><td>9-24</td></tr><tr><td>90° Power-off approach</td><td>9-25, 9-26, 9-27</td></tr><tr><td>180° Power-off approach</td><td>9-25, 9-26</td></tr><tr><td>Power required</td><td>4-5, 4-6, 4-15, 4-16, 4-18, 9-11, 13-3, 16-7, 16-11</td></tr><tr><td>Preflight</td><td>17-9</td></tr><tr><td>Preflight assessment of the aircraft</td><td>2-1</td></tr><tr><td>Preparation and preflight</td><td>11-7</td></tr><tr><td>Pre-takeoff procedures</td><td>2

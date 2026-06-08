@@ -1,0 +1,5 @@
+ its span, the reduction in induced drag is 47.6 percent. Thus, a large reduction in induced drag takes place only when the wing is very close to the ground. Because of this variation, ground effect is most usually recognized during the liftoff for takeoff or just prior to touchdown when landing.
+
+During the takeoff phase of flight, ground effect produces some important relationships. An aircraft leaving ground effect after takeoff encounters just the reverse of an aircraft entering ground effect during landing. The aircraft leaving ground effect will:
+
+Require an increase in AOA to maintain the same \(\mathrm{C_L}\) Experience an increase in induced drag and thrust required Experience a decrease in stability and a nose- up change in moment Experience a reduction in static source pressure and increase in indicated airspeed

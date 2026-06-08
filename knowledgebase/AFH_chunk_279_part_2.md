@@ -1,0 +1,3 @@
+drag to decelerate to a point where the brakes become effective.
+
+Proper braking technique is essential. The brakes are applied firmly until reaching a point just short of a skid. At the first sign of a skid, release brake pressure and allow the wheels to spin up. Directional control is maintained as far as possible with the rudder. Remember that in a crosswind, if hydroplaning occurs, the crosswind causes the airplane to simultaneously weathervane into the wind, as well as slide downwind.

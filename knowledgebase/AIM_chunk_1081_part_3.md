@@ -1,0 +1,7 @@
+. If you are planning a flight outside of U.S. controlled airspace, the briefer will advise you to check data as soon as practical after entering foreign airspace, unless you advise that you have the international cautionary advisory.
+
+d. Outlook Briefing. You should request an Outlook Briefing whenever your proposed time of departure is six or more hours from the time of the briefing. The briefer will provide available forecast data applicable to the proposed flight. This type of briefing is provided for planning purposes only. You should obtain a Standard or Abbreviated Briefing prior to departure in order to obtain such items as adverse conditions, current conditions, updated forecasts, winds aloft and NOTAMs, etc.
+
+e. When filing a flight plan only, you will be asked if you require the latest information on adverse conditions pertinent to the route of flight.
+
+f. Inflight Briefing. You are encouraged to obtain your preflight briefing by telephone or in person before departure. In those cases where you need to obtain a preflight briefing or an update to a previous briefing by radio, you should contact the nearest FSS to obtain this information. After communications have been established, advise the specialist of the type briefing you require and provide appropriate background information. You will be

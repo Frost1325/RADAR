@@ -1,0 +1,7 @@
+ how to adapt the information for flight conditions. It is important to read every chart and understand how to use it. Read the instructions provided by the manufacturer. For an explanation on how to use the charts, refer to the example provided by the manufacturer for that specific chart. [Figure 11- 20]
+
+The information manufacturers furnish is not standardized. Information may be contained in a table format and other information may be contained in a graph format. Sometimes combined graphs incorporate two or more graphs into one chart to compensate for multiple conditions of flight. Combined graphs allow the pilot to predict aircraft performance for variations in density altitude, weight, and winds all on one chart. Because of the vast amount of information that can be extracted from this type of chart, it is important to be very accurate in reading the chart. A small error in the beginning can lead to a large error at the end.
+
+The remainder of this section covers performance information for aircraft in general and discusses what information the charts contain and how to extract information from the charts by direct reading and interpolation methods. Every chart contains a wealth of information that should be used when flight planning. Examples of the table, graph, and combined graph formats for all aspects of flight are discussed.
+
+## Interpolation

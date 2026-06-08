@@ -1,0 +1,5 @@
+For a non- vertically guided straight- in RNAV (GPS) approach, the final approach course must be aligned within 15" of the extended runway centerline. The final approach segment should not exceed 10 NM, and when it exceeds 6 NM, a stepdown fix is typically incorporated. A minimum of 250 feet obstacle clearance is also incorporated into the final approach segment for straight- in approaches, and a maximum 400- ft/NM descent gradient is permitted.
+
+The approach design criteria are different for approaches that use vertical guidance provided by a Baro- VNAV system. Because the Baro- VNAV guidance is advisory and not primary, Baro- VNAV approaches are not authorized in areas of hazardous terrain, nor are they authorized when
+
+a remote altimeter setting is required. Due to the inherent problems associated with barometric readings and cold temperatures, these procedures are also temperature limited. Additional approach design criteria for RNAV Approach Construction Criteria can be found in the appropriate FAA Order 8260- series orders.

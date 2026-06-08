@@ -1,0 +1,4 @@
+
+\\* Legal limit for motor vehicle operation in most states is 0.08 or \(0.10\%\) (80-100 mg of alcohol per dL of blood).
+
+the appropriate actions during routine occurrences, as well as abnormal situations. The influence of alcohol drastically reduces the chances of completing a flight without incident. Even in small amounts, alcohol can impair judgment, decrease sense of responsibility, affect coordination, construct visual field, diminish memory, reduce reasoning ability, and lower attention span. As little as one ounce of alcohol can decrease the speed and strength of muscular reflexes, lessen the efficiency of eye movements while reading, and increase the frequency at which errors are committed. Impairments in vision and hearing can occur from consuming as little as one drink.

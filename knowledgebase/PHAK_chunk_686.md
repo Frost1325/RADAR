@@ -1,0 +1,7 @@
+ in Piston Engine Aircraft to alert operators, pilots, and aircraft manufacturers of concerns for an optimum response to a propeller overspeed in piston engine aircraft with variable pitch propellers. Although a SAIB is not regulatory in nature, the FAA recommends that the information be read and taken into consideration for the safety of flight.
+
+The document explains that a single- engine aircraft experienced a propeller overspeed during cruise flight at 7,000 feet. The pilot reported that the application of throttle resulted in a propeller overspeed with no appreciable thrust. The pilot attempted to glide to a nearby airport and established the "best glide" speed of 110 knots, as published in the Pilot's
+
+Operating Handbook (POH), but was unable to reach the airport and was forced to conduct an off- field landing.
+
+It was further explained that a determination was made that the propeller experienced a failure causing the blade pitch change mechanism to move to the low pitch stop position. This caused the propeller to operate as a fixed- pitch propeller such that it changes rpm with changes in power and airspeed. The low pitch setting allows for maximum power during takeoff but can result in a propeller overspeed at a higher airspeed.

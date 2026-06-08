@@ -1,0 +1,5 @@
+to travel through a greater pitch change when flaps are fully extended. Since the round out is usually started at approximately the same height above the ground regardless of the degree of flaps used, the pitch attitude should be increased at a faster rate when full flaps are used. However, the round out should still be executed at a rate that takes the airplane's downward motion into account.
+
+Once the actual process of rounding out is started, the pilot should not push the elevator control forward. If too much back- elevator pressure was exerted, this pressure is either slightly relaxed or held constant, depending on the degree of the error. In some cases, it may be necessary to advance the throttle slightly to prevent an excessive rate of sink or a stall, either of which results in a hard, drop- in type landing.
+
+It is recommended that a pilot form the habit of keeping one hand on the throttle throughout the approach and landing should a sudden and unexpected hazardous situation require an immediate application of power.

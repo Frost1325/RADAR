@@ -1,0 +1,5 @@
+### c. Planning Charts.
+
+1. U.S. IFR/VFR Low Altitude Planning Chart. This chart is designed for preflight and en route flight planning for IFR/VFR flights. Depiction includes low altitude airways and mileage, NAVAIDs, airports, special use airspace, cities, times zones, major drainage, a directory of airports with their airspace classification, and a mileage table showing great circle distances between major airports. Scale 1 inch \(= 47 \text{nm} / 1:3,400,000\) . Chart revised annually, and is available either folded or unfolded for wall mounting. (See FIG 9- 1- 7. )
+
+2. Gulf of Mexico and Caribbean Planning Chart. This is a VFR planning chart on the reverse side of the Puerto Rico - Virgin Islands VFR Terminal Area Chart. Information shown includes mileage between airports of entry, a selection of special use airspace and a directory of airports with their available services. Scale 1 inch = 85nm/1:6,192,178. \(60 \times 20\) inches folded to \(5 \times 10\) inches. Chart revised annually. (

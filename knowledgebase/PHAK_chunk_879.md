@@ -1,0 +1,5 @@
+, and the field elevation of Abilene is 1,791 feet, an indicated altitude of 2,600 feet should be maintained (1,791 feet + 800 feet = 2,591 feet, rounded to 2,600 feet).
+
+The importance of properly setting the altimeter cannot be overemphasized. Assume the pilot did not adjust the altimeter at Abilene to the current setting and continued using the Mineral Wells setting of 29.94 "Hg. When entering the Abilene traffic pattern at an indicated altitude of 2,600 feet, the aircraft would be approximately 250 feet below the proper traffic pattern altitude. Upon landing, the altimeter would indicate approximately 250 feet higher than the field elevation.
+
+<table><tr><td>Mineral Wells altimeter setting</td><td>29.94</td></tr><tr><td>Abilene altimeter setting</td><td>29.69</td></tr><tr><td>Difference</td><td>0.25</td></tr></table>

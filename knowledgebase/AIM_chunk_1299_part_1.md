@@ -1,0 +1,7 @@
+### a. Medical Certification.
+
+1. All pilots except those flying gliders and free air balloons must possess valid medical certificates in order to exercise the privileges of their airman certificates. The periodic medical examinations required for medical certification are conducted by designated Aviation Medical Examiners, who are physicians with a special interest in aviation safety and training in aviation medicine.
+
+2. The standards for medical certification are contained in 14 CFR Part 67. Pilots who have a history of certain medical conditions described in these standards are mandatorily disqualified from flying. These medical conditions include a personality disorder manifested by overt acts, a psychosis, alcoholism, drug dependence, epilepsy, an unexplained disturbance of consciousness, myocardial infarction, angina pectoris and diabetes requiring medication for its control. Other medical conditions may be temporarily disqualifying, such as acute infections, anemia, and peptic ulcer. Pilots who do not meet medical standards may still be qualified under special issuance provisions or the exemption process. This may require that either additional medical information be provided or practical flight tests be conducted.
+
+3. Student pilots should visit an Aviation Medical Examiner as soon as possible in their flight training in order to avoid unnecessary training expenses should they not meet the medical standards.

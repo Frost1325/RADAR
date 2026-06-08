@@ -1,0 +1,7 @@
+on 14 CFR Part 97 RNAV (GPS) and RNAV (RNP) approach charts. The charted temperature restriction for uncompensated baro- VNAV systems is applicable to the final segment LNAV/VNAV minima. The charted temperature restriction must be followed regardless of the cold temperature restricted airport temperature.
+
+Pilots are not required to calculate a cold temperature altitude correction at any airport with a runway length of 2,500 feet or greater that is not included in the airports list found at the URL above. Pilots operating into an airport with a runway length less than 2,500 feet, may make a cold temperature altitude correction in cold temperature conditions.
+
+Cold Temperature Restricted Airports: These airports are listed in the FAA Notices To Airmen Publication (NTAP) found here: https://www.faa.gov/air_traffic/publications/notices/.
+
+Airports are listed by ICAO code, Airport Name, Temperature Restriction in Celsius/Fahrenheit and affected Segment. One temperature may apply to multiple segments. Italicized airports have two affected segments, each with a different temperature restrictions. The warmest temperature will be indicated on Airport IAPs next to a snowflake symbol, \(\

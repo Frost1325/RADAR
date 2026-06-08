@@ -1,0 +1,3 @@
+## Use of Power
+
+Power can be used effectively during the approach and round out to compensate for errors in judgment. Power may be added to accelerate the airplane, to increase lift without increasing the AOA, and to slow the descent to an acceptable rate. The increased propwash over the wing behind the propeller(s) also provides an immediate boost in lift that also helps slow the descent rate. If the proper landing attitude is attained and the airplane is only slightly high, the landing attitude is held constant and sufficient power applied to help ease the airplane onto the ground. After the airplane has touched down, the pilot closes the throttle so the additional thrust and lift are removed and the airplane remains on the ground.

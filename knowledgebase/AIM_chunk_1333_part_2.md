@@ -1,0 +1,5 @@
+selection of special use airspace and a directory of airports with their available services. Scale 1 inch = 85nm/1:6,192,178. \(60 \times 20\) inches folded to \(5 \times 10\) inches. Chart revised annually. (See FIG 9-1-7. )
+
+3. U.S. VFR Wall Planning Chart. This chart is designed for VFR preflight planning and provides aeronautical and topographic information of the conterminous U.S. The aeronautical information includes airports, radio aids to navigation, Class B airspace and special use airspace. The topographic information includes city tint, populated places, principal roads, drainage patterns, and shaded relief. Scale 1 inch = \(43 \mathrm{nm} / 1:3,100,000\) . The one-sided chart is \(59 \times 36\) inches and ships unfolded for wall mounting. Chart is revised biennially. (See FIG 9-1-8. )
+
+4. Charted VFR Flyway Planning Charts. This chart is printed on the reverse side of selected TAC charts. The coverage is the same as the

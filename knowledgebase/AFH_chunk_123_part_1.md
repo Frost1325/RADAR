@@ -1,0 +1,5 @@
+## Surprise and Startle Response
+
+Surprise and Startle ResponseSurprise is an unexpected event that violates a pilot's expectations and can affect the mental processes used to respond to the event. Startle is an uncontrollable, automatic muscle reflex, raised heart rate, blood pressure, etc., elicited by exposure to a sudden, intense event that violates a pilot's expectations.
+
+This human response to unexpected events has traditionally been underestimated or even ignored during flight training. The reality is that untrained pilots often experience a state of surprise or a startle response to an airplane upset event. Startle may or may not lead to surprise. Pilots can protect themselves against a debilitating surprise reaction or startle response through scenario- based training, and in such training, instructors can incorporate realistic distractions to help provoke startle or surprise. To be effective the controlled training scenarios should have a perception of risk or threat of consequences sufficient to elevate the pilot's stress levels. Such scenarios can help prepare a pilot to mitigate psychological/physiological reactions to an actual upset.

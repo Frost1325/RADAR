@@ -1,0 +1,7 @@
+. If the aircraft descends, the static pressure increases on the pitot side showing an increase on the ASI. This assumes that the aircraft does not actually increase its speed. The increase in static pressure on the pitot side is equivalent to an increase in dynamic pressure since the pressure cannot change on the static side.
+
+If an aircraft begins to climb after a static port becomes blocked, the airspeed begins to show a decrease as the aircraft continues to climb. This is due to the decrease in static pressure on the pitot side, while the pressure on the static side is held constant.
+
+A blockage of the static system also affects the altimeter and VSI. Trapped static pressure causes the altimeter to freeze at the altitude where the blockage occurred. In the case of the VSI, a blocked static system produces a continuous zero indication. [Figure 8- 11]
+
+Some aircraft are equipped with an alternate static source in the flight deck. In the case of a blocked static source, opening the alternate static source introduces static pressure from the flight deck into the system. Flight deck static pressure is lower than outside static pressure. Check the aircraft AOM/POH for airspeed corrections when utilizing alternate static pressure.

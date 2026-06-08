@@ -1,0 +1,3 @@
+ eased some limitations on charter flights (i.e., flights offered by companies that do not actually own planes but leased them from the major airlines). The big air carriers responded by proposing their own lower fares. For example, American Airlines, the country's second largest airline, obtained CAB approval for “SuperSaver” tickets.
+
+All of these events proved to be favorable for large- scale deregulation. In November 1977, Congress formally deregulated air cargo. In late 1978, Congress passed the Airline Deregulation Act of 1978, legislation that had been principally authored by Senators Edward Kennedy and

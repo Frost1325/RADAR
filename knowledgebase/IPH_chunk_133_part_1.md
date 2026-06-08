@@ -1,0 +1,3 @@
+## RNP Levels
+
+RNP LevelsAn RNP level or type is applicable to a selected airspace, route, or procedure. As defined in the Pilot/Controller Glossary, the RNP level or type is a value typically expressed as a distance in nautical miles from the intended centerline of a procedure, route, or path. RNP applications also account for potential errors at some multiple of RNP level (e.g., twice the RNP level).

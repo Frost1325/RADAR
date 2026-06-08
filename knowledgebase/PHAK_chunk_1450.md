@@ -1,0 +1,3 @@
+. It contains information on airports, heliports, and seaplane bases that are open to the public. The Chart Supplement U.S. is published in seven books, which are organized by regions and are revised every 56 days. The Chart Supplement U.S. is also available digitally at www.faa.
+
+gov/air_traffic/flight_info/aeronav. Figure 14- 4 contains an excerpt from a directory. For a complete listing of information provided in a Chart Supplement U.S. and how the information may be decoded, refer to the "Legend Sample" located in the front of each Chart Supplement U.S.

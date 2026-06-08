@@ -1,0 +1,1 @@
+Flight Information Region in offshore Class E airspace below 10,000 feet MSL. In airspace underlying a Class B airspace area designated for an airport, pilots are expected to comply with the 200 KIAS limit specified in 14 CFR Part 91, § 91.117(c). (See 14 CFR Part 91, § 91.117(c) and 91.703. ) Approach clearances cancel any previously assigned speed adjustment.

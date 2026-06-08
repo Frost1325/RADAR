@@ -1,0 +1,3 @@
+date of type certification with the airplane's model year. The type certification basis of many multie engine airplanes dates back to the Civil Aviation Regulations (CAR) 3.
+
+- 6,000 pounds or less maximum weight and \(\mathrm{V}_{\mathrm{SO}}\) 61 knots or less: the single-engine rate of climb at 5,000 feet MSL must simply be determined. The rate of climb could be a negative number. There is no requirement for a single-engine positive rate of climb at 5,000 feet or any other altitude. For light-twins type certificated February 4, 1991, or thereafter, the single-engine climb gradient (positive or negative) is simply determined.

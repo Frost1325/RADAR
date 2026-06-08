@@ -1,0 +1,3 @@
+</td></tr><tr><td>EB</td><td>Eastbound</td></tr><tr><td>ELEV</td><td>Elevate/Elevation</td></tr><tr><td>ENG</td><td>Engine</td></tr><tr><td>EST</td><td>Estimated</td></tr><tr><td>EXC</td><td>Except</td></tr><tr><td></td><td>F</td></tr><tr><td>FAC</td><td>Facility</td></tr><tr><td>FAF</td><td>Final Approach Fix</td></tr><tr><td>FDC</td><td>Flight Data Center</td></tr><tr><td>FICON</td><td>Field Condition</td></tr><tr><td>FREQ</td><td>Frequency</td></tr></table>
+
+<table><tr><td>FSS</td><td>Flight Service Station</td></tr><tr><td>FT</td><td>Feet</td></tr><tr><td></td><td>G</td></tr><tr><td>GCA</td><td>Ground Controlled

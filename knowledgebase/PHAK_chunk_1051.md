@@ -1,0 +1,5 @@
+ total weight and CG location) of a particular aircraft. The aircraft owner or operator should make certain that up- to- date information is available for pilot use, and should ensure that appropriate entries are made in the records when repairs or modifications have been accomplished. The removal or addition of equipment results in changes to the CG.
+
+Weight changes must be accounted for and the proper notations made in weight and balance records. The equipment list must be updated, if appropriate. Without such information, the pilot has no foundation upon which to base the necessary calculations and decisions.
+
+Standard parts with negligible weight or the addition of minor items of equipment such as nuts, bolts, washers, rivets, and similar standard parts of negligible weight on fixed- wing aircraft do not require a weight and balance check. The following criteria for negligible weight change is outlined in Advisory Circular (AC) 43.13- 1 (as revised), Methods Techniques and Practices- Aircraft Inspection and Repair:

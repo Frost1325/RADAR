@@ -1,0 +1,3 @@
+0.
+
+7. When the approach chart is annotated with the !M symbol, site-specific WAAS MAY NOT BE AVBL NOTAMs or Air Traffic advisories are not provided for outages in WAAS LNAV/VNAV and LPV vertical service. Vertical outages may occur daily at these locations due to being close to the edge of WAAS system coverage. Use LNAV or circling minima for flight planning at these locations, whether as a destination or alternate. For flight operations at these locations, when the WAAS avionics indicate that LNAV/VNAV or LPV service is available, then the vertical guidance may be used to complete the approach using the displayed level of service. Should an outage occur during the procedure, reversion to LNAV minima may be required.

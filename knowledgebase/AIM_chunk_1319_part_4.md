@@ -1,0 +1,3 @@
+left to right, allow the eyes to return to the cabin along the right wing from its tip inward. Once back inside, one should automatically commence the panel scan.
+
+5. Effective scanning also helps avoid "empty-field myopia." This condition usually occurs when flying above the clouds or in a haze layer that provides nothing specific to focus on outside the aircraft. This causes the eyes to relax and seek a comfortable focal distance which may range from 10 to 30 feet. For the pilot, this means looking without seeing, which is dangerous.

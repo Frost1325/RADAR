@@ -1,0 +1,3 @@
+ by the shaft power put into the propeller rather than thrust. Thus, the fuel flow can be related directly to the power required to maintain the aircraft in steady, level flight, and on performance charts power can be substituted for fuel flow. This fact allows for the determination of range through analysis of power required versus speed.
+
+The maximum endurance condition would be obtained at the point of minimum power required since this would require the lowest fuel flow to keep the airplane in steady, level flight. Maximum range condition would occur where the ratio of speed to power required is greatest. [Figure 11- 11]

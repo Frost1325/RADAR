@@ -1,0 +1,5 @@
+ the wing into believing that it is flying slower than it really is; thus the formation of shock waves is delayed. Advantages of wing sweep include an increase in critical Mach number, force divergence Mach number, and the Mach number at which drag rise peaks. In other words, sweep delays the onset of compressibility effects.
+
+The Mach number that produces a sharp change in coefficient of drag is termed the “force divergence” Mach number and, for most airfoils, usually exceeds the critical Mach number by 5 to 10 percent. At this speed, the airflow separation induced by shock wave formation can create significant variations in the drag, lift, or pitching moment coefficients. In addition to the delay of the onset of compressibility effects, sweepback reduces the magnitude in the changes of drag, lift, or moment coefficients. In other words, the use of sweepback “softens” the force divergence.
+
+A disadvantage of swept wings is that they tend to stall at the wingtips rather than at the wing roots. [Figure 5- 69] This is

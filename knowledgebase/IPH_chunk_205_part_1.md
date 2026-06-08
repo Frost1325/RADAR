@@ -1,0 +1,5 @@
+## Weather Requirements and Part 135 Operators
+
+Unlike Part 91 operators, Part 135 operators may not depart for a destination unless the forecast weather there will allow an instrument approach and landing. According to 14 CFR Part 135, \(\S\) 135.219, flight crews and dispatchers may only designate an airport as a destination if the latest weather reports or forecasts, or any combination of them, indicate that the weather conditions will be at or above IFR landing minimums at the estimated time of arrival (ETA). This ensures that Part 135 flight crews consider weather forecasts when determining the suitability of destinations. Departures for airports can be made when the forecast weather shows the airport will be at or above IFR minimums at the ETA, even if current conditions indicate the airport to be below minimums. Conversely, 14 CFR Part 135, \(\S\) 135.219 prevents departures when the first airport of intended landing is currently above IFR landing minimums, but the forecast weather is below those minimums at the ETA.
+
+Another very important difference between Part 91 and Part 135 operations is the Part

@@ -1,0 +1,7 @@
+## 5-4-23. Visual Approach
+
+a. A visual approach is conducted on an IFR flight plan and authorizes a pilot to proceed visually and clear of clouds to the airport. The pilot must have either the airport or the preceding identified aircraft in sight. This approach must be authorized and controlled by the appropriate air traffic control facility. Reported weather at the airport must have a ceiling at or above 1,000 feet and visibility 3 miles or greater. ATC may authorize this type approach when it will be operationally beneficial. Visual approaches are an IFR procedure conducted under IFR in visual meteorological conditions. Cloud clearance requirements of 14 CFR Section 91.155 are not applicable, unless required by operation specifications.
+
+b. Operating to an Airport Without Weather Reporting Service. ATC will advise the pilot when weather is not available at the destination airport. ATC may initiate a visual approach provided there is a reasonable assurance that weather at the airport is a ceiling at or above 1,000 feet and visibility 3 miles or greater (e.g., area weather reports, PIREPs, etc.).
+
+c. Operating to an Airport With an Operating Control Tower. Aircraft may be authorized to conduct a

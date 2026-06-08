@@ -1,0 +1,1 @@
+. This can happen on the sunniest, brightest day with good contrast everywhere. However, when it happens, there can be a complete loss of visual clues. If the pilot has not prepared for this immediate loss of visibility, the results can be disastrous. Good planning does not prevent one from encountering flat light or white out conditions.

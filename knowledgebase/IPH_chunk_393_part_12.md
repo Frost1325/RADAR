@@ -1,0 +1,7 @@
+as a step toward harmonization of the United States and international terminology. At some point, DA will be published for all future instrument approach procedures with vertical guidance.
+
+Decision Height (DH). See Decision Altitude.
+
+Departure End of Runway (DER). The end of runway available for the ground run of an aircraft departure. The end of the runway that is opposite the landing threshold, sometimes referred to as the stop end of the runway. Altitude, velocity vector, and direction to all other aircraft and air traffic control facilities within a specific area. Automatic dependent surveillance- broadcast (ADS- B) information is displayed in the flight deck via a cockpit display of traffic information (CDTI) unit, providing the pilot with greater situational awareness. ADS- B transmissions also provide controllers with a more complete picture of traffic and update that information more frequently than other surveillance equipment.
+
+Descend Via. A descend via clearance instructs you to follow the altitudes published on a STAR. You are not authorized to leave your last assigned altitude unless specifically cleared to do so. If ATC amends the altitude or route to one that is different from the published procedure, the rest of the charted descent procedure is canceled. ATC will assign you any further route, altitude, or

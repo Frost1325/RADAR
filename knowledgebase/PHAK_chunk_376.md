@@ -1,0 +1,5 @@
+ the stalling AOA, known as \(\mathrm{C_{L - MAX}}\) critical AOA. Examine Figure 5- 5, noting how the \(\mathrm{C_L}\) increases until the critical AOA is reached, then decreases rapidly with any further increase in the AOA.
+
+Before proceeding further with the topic of lift and how it can be controlled, velocity must be discussed. The shape of the wing or rotor cannot be effective unless it continually keeps "attacking" new air. If an aircraft is to keep flying, the lift- producing airfoil must keep moving. In a helicopter or gyroplane, this is accomplished by the rotation of the rotor blades. For other types of aircraft, such as airplanes, weight
+
+shift control, or gliders, air must be moving across the lifting surface. This is accomplished by the forward speed of the aircraft. Lift is proportional to the square of the aircraft's velocity. For example, an airplane traveling at 200 knots has four times the lift as the same airplane traveling at 100 knots, if the AOA and other factors remain constant.

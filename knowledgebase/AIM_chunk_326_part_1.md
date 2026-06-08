@@ -1,0 +1,7 @@
+## 4-2-1. General
+
+a. Radio communications are a critical link in the ATC system. The link can be a strong bond between pilot and controller or it can be broken with surprising speed and disastrous results. Discussion herein provides basic procedures for new pilots and also highlights safe operating concepts for all pilots.
+
+b. The single, most important thought in pilot-controller communications is understanding. It is essential, therefore, that pilots acknowledge each radio communication with ATC by using the appropriate aircraft call sign. Brevity is important, and contacts should be kept as brief as possible, but controllers must know what you want to do before they can properly carry out their control duties. And you, the pilot, must know exactly what the controller wants you to do. Since concise phraseology may not always be adequate, use whatever words are necessary to get your message across. Pilots are to maintain vigilance in monitoring air traffic control radio communications frequencies for potential traffic conflicts with their aircraft especially when operating on an active runway and/or when conducting a final approach to landing.
+
+c. All pilots will find the Pilot/Controller Glossary very helpful in learning what certain words or phrases mean. Good phraseology enhances safety and is the mark of a professional pilot. Jargon

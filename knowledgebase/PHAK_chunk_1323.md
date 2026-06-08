@@ -1,0 +1,5 @@
+. The line may be too long to detour easily and too wide and severe to penetrate. It often contains steady- state thunderstorms and presents the single most intense weather hazard to aircraft. It usually forms rapidly, generally reaching maximum intensity during the late afternoon and the first few hours of darkness.
+
+## Tornadoes
+
+The most violent thunderstorms draw air into their cloud bases with great vigor. If the incoming air has any initial rotating motion, it often forms an extremely concentrated vortex from the surface well into the cloud. Meteorologists have estimated that wind in such a vortex can exceed 200 knots with pressure inside the vortex quite low. The strong winds gather dust and debris and the low pressure generates a funnel- shaped cloud extending downward from the cumulonimbus base. If the cloud does not reach the surface, it is a funnel cloud; if it touches a land surface, it is a tornado; and if it touches water, it is a "waterspout."

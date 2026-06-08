@@ -1,0 +1,7 @@
+issued with the final vector for interception of the final approach course, and the vector will be such as to enable the pilot to establish the aircraft on the final approach course prior to reaching the final approach fix.
+
+(d) In the case of aircraft already inbound on the final approach course, approach clearance will be issued prior to the aircraft reaching the final approach fix. When established inbound on the final approach course, radar separation will be maintained and the pilot will be expected to complete the approach utilizing the approach aid designated in the clearance (ILS, RNAV, GLS, VOR, radio beacons, etc.) as the primary means of navigation. Therefore, once established on the final approach course, pilots must not deviate from it unless a clearance to do so is received from ATC.
+
+(e) After passing the final approach fix on final approach, aircraft are expected to continue inbound on the final approach course and complete the approach or effect the missed approach procedure published for that airport.
+
+2. ARTCCs are approved for and may provide approach control services to specific airports. The radar systems used by these centers do not provide the same precision as an ASR/PAR used by approach control facilities and towers, and the update rate is not as fast. Therefore, pilots may

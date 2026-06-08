@@ -1,0 +1,3 @@
+# U.S. P-PROHIBITED, R-RESTRICTED, W-WARNING, A-ALERT, MOA-MILITARY OPERATIONS AREA
+
+<table><tr><td>NUMBER</td><td>ALTITUDE</td><td>TIME OF USE</td><td>CONTROLLING AGENCY/<br>CONTACT FACILITY</td><td>FREQUENCIES</td></tr><tr><td>P-50</td><td>TO BUT NOT<br>INCL 3,000</td><td>CONTINUOUS</td><td>NO A/G</td><td></td></tr><tr><td>R-2903 A</td><td>TO BUT NOT<br>INCL 23,000</td><td>INTERMITTENT<br>0700-1900 TUE-SUN<br>†24 HRS IN ADVANCE</td><td>JACKSONVILLE CNTR</td><td></td></tr><tr><td>R-2903 C</td><td>TO 7,000</td><td>INTERMITTENT<br>07

@@ -1,0 +1,5 @@
+## 4-4-1. Clearance
+
+a. A clearance issued by ATC is predicated on known traffic and known physical airport conditions. An ATC clearance means an authorization by ATC, for the purpose of preventing collision between known aircraft, for an aircraft to proceed under specified conditions within controlled airspace. IT IS NOT AUTHORIZATION FOR A PILOT TO DEVIATE FROM ANY RULE, REGULATION, OR MINIMUM ALTITUDE NOR TO CONDUCT UNSAFE OPERATION OF THE AIRCRAFT.
+
+b. 14 CFR Section 91.3(a) states: "The pilot-in-command of an aircraft is directly responsible for, and is the final authority as to, the operation of that aircraft." If ATC issues a clearance that would cause a pilot to deviate from a rule or regulation, or in the pilot's opinion, would place the aircraft in jeopardy, IT IS THE PILOT'S RESPONSIBILITY TO REQUEST AN AMENDED CLEARANCE. Similarly, if a pilot prefers to follow a different course of action, such as make a 360 degree turn for spacing to follow traffic when established in a landing or approach sequence, land on a different runway, takeoff from a different intersection, takeoff from the threshold instead of an intersection

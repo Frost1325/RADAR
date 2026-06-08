@@ -1,0 +1,5 @@
+ thrust enabling the pilot to maintain level flight. There are numerous variables in aircraft, engines, and propellers that affect aircraft performance. For some aircraft models, the published best glide speed may not be low enough to generate adequate thrust for a given propeller installation in this situation (propeller blades at low pitch stop position).
+
+The operators of aircraft with variable pitch propellers should be aware that in certain instances of propeller overspeed, the airspeed necessary to maintain level flight may be different than the speed associated with engine- out best glide speed. The appropriate emergency procedures should be followed to mitigate the emergency situation in the event of a propeller overspeed; however, pilots should be aware that some reduction in airspeed may result in the ability for continued safe flight and landing. The determination of an airspeed that is more suitable than engine- out best glide speed should only be conducted at a safe altitude when the pilot has time to determine an alternative course of action other than landing immediately.
+
+## Induction Systems

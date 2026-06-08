@@ -1,0 +1,5 @@
+ational aids (NAVAIDs). In addition, at selected locations, FSSs provide En Route Flight Advisory Service (Flight Watch), issue airport advisories, and advise Customs and Immigration of transborder flights. Selected FSSs in Alaska also provide TWEB recordings and take weather observations.
+
+## Situational Awareness
+
+Situational awareness is the accurate perception and understanding of all the factors and conditions within the five fundamental risk elements (flight, pilot, aircraft, environment, and type of operation that comprise any given aviation situation) that affect safety before, during, and after the flight. Monitoring radio communications for traffic, weather discussion, and ATC communication can enhance situational awareness by helping the pilot develop a mental picture of what is happening.

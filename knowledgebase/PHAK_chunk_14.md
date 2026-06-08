@@ -1,0 +1,5 @@
+ not considered spectacular; the pilot became lost and landed at the wrong airfield. In August of 1918, the United States Postal Service took control of the airmail routes and brought the existing Army airmail pilots and their planes into the program as postal employees.
+
+## Transcontinental Air Mail Route
+
+Transcontinental Air Mail RouteAirmail routes continued to expand until the Transcontinental Mail Route was inaugurated. [Figure 1- 5] This route spanned from San Francisco to New York for a total distance of 2,612 miles with 13 intermediate stops along the way. [Figure 1- 6] On May 20, 1926, Congress passed the Air Commerce Act, which served as the cornerstone for aviation within the United States. This legislation was supported by leaders in the aviation industry who felt that the airplane could not reach its full potential without assistance from the Federal Government in improving safety.

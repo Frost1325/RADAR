@@ -1,0 +1,7 @@
+## Turboprop Airplane Electrical Systems
+
+The typical turboprop airplane electrical system is a 28- volt direct current (DC) system, which receives power from one or more batteries and a starter/generator for each engine. The batteries are either lead- acid, nickel- cadmium (NiCad), or Lithium- ion. When battery voltage is low, its ability to turn the compressor for engine start is greatly diminished, and the possibility of engine damage due to a hot start increases. Therefore, it is essential to check the battery's condition before every engine start. The different battery types have different operating characteristics depending on the specific aircraft installation and operational environment.
+
+The DC generators used in turboprop airplanes double as starter motors and are called "starter/generators." The starter/generator uses electrical power to produce mechanical torque to start the engine and then uses the engine's mechanical torque to produce electrical power after the engine is running. Some of the DC power produced is changed to 28 volt 400 cycle alternating current (AC) power for certain avionic, lighting, and indicator synchronization functions. This is accomplished by an electrical component called an inverter.
+
+The distribution of DC and AC power throughout the system is accomplished through the

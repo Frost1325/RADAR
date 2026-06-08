@@ -1,0 +1,5 @@
+ The relationship of these values to each other varies with different aircraft depending on the airframe, engine, and propeller combinations, as well as other design features. To maintain positive control of the aircraft in all flight conditions, the pilot must apply the flight controls as necessary to compensate for these varying values.
+
+## Load Factors
+
+In aerodynamics, the maximum load factor (at given bank angle) is a proportion between lift and weight and has a trigonometric relationship. The load factor is measured in Gs (acceleration of gravity), a unit of force equal to the force exerted by gravity on a body at rest and indicates the force to which a body is subjected when it is accelerated. Any force applied to an aircraft to deflect its flight from a straight line produces a stress on its structure. The amount of this force is the load factor. While a course in aerodynamics is not a prerequisite for obtaining a pilot's license, the competent pilot should have a solid understanding of the forces that act on the aircraft, the advantageous use of these forces, and the operating limitations of the aircraft being flown.

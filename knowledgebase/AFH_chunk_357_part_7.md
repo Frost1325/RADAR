@@ -1,0 +1,7 @@
+takeoff at full maximum takeoff weight. The airplane should weigh no more than maximum takeoff weight at the beginning of the takeoff roll.
+
+A maximum landing weight is a limitation against landing at a weight in excess of the published value. This requires preflight planning of fuel burn to ensure that the airplane weight upon arrival at destination is at or below the maximum landing weight. In the event of an emergency requiring an immediate landing, the pilot should recognize that the structural margins designed into the airplane are not fully available when over landing weight. An overweight landing inspection may be advisable—the service manual or manufacturer should be consulted.
+
+Although the foregoing problems only dealt with weight, the balance portion of weight and balance is equally vital. The flight characteristics of the multigenie airplane vary significantly with shifts of the center of gravity (CG) within the approved envelope.
+
+At forward CG, the airplane is more stable, with a slightly higher stalling speed, a slightly slower cruising speed, and favorable stall characteristics. At aft CG, the airplane is less stable, with a slightly lower stalling speed, a slightly faster cruising speed, and less desirable stall characteristics. Forward CG limits are usually determined in certification by elevator/stabilator authority in the landing round out. Aft CG limits are determined

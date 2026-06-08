@@ -1,0 +1,3 @@
+system.
+
+An FMS uses multi- sensor navigation inputs to produce a composite position. Essentially, the FMS navigation function automatically blends or selects position sensors to compute aircraft position. Instrument approach charts and RNAV databases needed to change to reflect these issues. A complete discussion of airborne navigation databases is included in Chapter 6, Airborne Navigation Databases. Due to the multi- faceted nature of RNAV, new approach criteria have been developed to accommodate the design of RNAV instrument approaches. This includes criteria for terminal arrival areas (TAAs), RNAV basic approach criteria, and specific final approach criteria for different types of RNAV approaches.

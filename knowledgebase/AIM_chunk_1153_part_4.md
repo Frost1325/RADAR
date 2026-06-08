@@ -1,0 +1,5 @@
+the clarity or color of the ice, which ismost likely to be accurately assessed from the cockpit.</td></tr><tr><td>Runback Ice</td><td>Ice which forms from the freezing or refreezing of water leaving protected surfaces and running back to unprotected surfaces.</td></tr><tr><td colspan="2">Note-<br>Ice types are difficult for the pilot to discern and have uncertain effects on an airplane in flight. Ice type definitions will be included in the AIM for use in the “Remarks” section of the PIREP and for use in forecasting.</td></tr></table>
+
+TBL7-1-9 Icing Conditions
+
+<table><tr><td>Appendix C Icing Conditions</td><td>Appendix C (14 CFR, Part 25 and 29) is the certification icing condition standard for approving ice protection provisions on aircraft. The conditions are specified in terms of altitude, temperature, liquid water content (LWC), representative droplet size (mean effective drop diameter [MED]), and cloud horizontal extent.</td></tr><tr><td>Forecast Icing Conditions</td><td>Environmental conditions expected by a National Weather Service or an FAA-approved weather provider to be

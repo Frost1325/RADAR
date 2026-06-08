@@ -1,0 +1,3 @@
+## NOTE-
+
+When instructed to "comply with speed restrictions" or to "resume published speed," ATC anticipates pilots will begin adjusting speed the minimum distance necessary prior to a published speed restriction so as to cross the waypoint/fix at the published speed. Once at the published speed, ATC expects pilots will maintain the published speed until additional adjustment is required to comply with further published or ATC assigned speed restrictions or as required to ensure compliance with 14 CFR Section 91.117.

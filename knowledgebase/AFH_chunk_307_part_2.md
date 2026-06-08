@@ -1,0 +1,7 @@
+the takeoff, the pilot releases the brakes and advances the throttle smoothly to maximum allowable power. As it accelerates, the airplane should be kept moving straight ahead between and parallel to the runway edge lights.
+
+The procedure for night takeoffs is the same as for normal daytime takeoffs except that many of the runway visual cues are not available. The pilot should check the flight instruments frequently during the takeoff to ensure proper airspeed, attitude, and heading. As the airspeed reaches the normal lift- off speed, the pilot adjusts the pitch attitude to establish a normal climb by referring to both outside visual references, such as lights, and to the flight instruments. [Figure 11- 5] Without visual references ahead, inexperienced pilots may relax right rudder pressure after takeoff and veer off to the left.
+
+After becoming airborne, the darkness of night often makes it difficult to note whether the airplane is getting closer to or farther from the surface. The attitude indicator, vertical speed indicator (VSI), and altimeter should all indicate a positive climb. It is also important to ensure the airspeed is at best climb speed.
+
+The pilot makes necessary pitch and bank adjustments by referencing the attitude and heading indicators. It is recommended that turns not be made until reaching

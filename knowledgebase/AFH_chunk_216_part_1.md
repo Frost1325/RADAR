@@ -1,0 +1,7 @@
+## Airport Traffic Patterns and Operations
+
+Just as roads and streets are essential for operating automobiles, airports or airstrips are essential for operating airplanes. Since flight begins and ends at an airport or other suitable landing field, pilots need to learn the traffic rules, traffic procedures, and traffic pattern layouts in use at various airports.
+
+When an automobile is driven on congested city streets, it can be brought to a stop to give way to conflicting traffic. Airplane pilots do not have that option. Consequently, traffic patterns and traffic control procedures exist to minimize conflicts during takeoffs, departures, arrivals, and landings. The exact nature of each airport traffic pattern is dependent on the runway in use, wind conditions (which determine the runway in use), obstructions, and other factors.
+
+Airports vary in complexity from small grass or sod strips to major terminals with paved runways and taxiways. Regardless of the type of airport, a pilot should know and abide by the applicable rules and operating procedures. In addition to checking the traffic pattern and operating procedures for airports of intended use in the Chart Supplements, pilots should know how to interpret any airport visual markings and signs that may be encountered. In total, the information provided to the pilot keeps air traffic moving with maximum safety and efficiency.

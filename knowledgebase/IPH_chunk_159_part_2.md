@@ -1,0 +1,7 @@
+.
+
+The primary objective of the regulations governing communication failures is to preclude extended IFR no- radio operations within the ATC system since these operations may adversely affect other users of the airspace. If the radio fails while operating on an IFR clearance, but in VFR conditions, or if encountering VFR conditions at any time after the failure, continue the flight under VFR conditions, if possible, and land as soon as practicable. The requirement to land as soon as practicable should not be construed to mean as soon as possible. Pilots retain the prerogative of exercising their best judgment and are not required to land at an unauthorized airport, at an airport unsuitable for the type of aircraft flown, or to land only
+
+minutes short of their intended destination. However, if IFR conditions prevail, pilots must comply with procedures designated in the CFRs to ensure aircraft separation. If pilots must continue their flight under IFR after experiencing two- way radio communication failure, they should fly one of the following routes:
+
+- The route assigned by ATC in the last clearance received.- If being radar vectored, the direct route from the point of radio failure to the fix, route, or airway specified in the radar vector clearance.- In the absence of an

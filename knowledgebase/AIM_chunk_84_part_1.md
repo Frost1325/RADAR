@@ -1,0 +1,7 @@
+## c. Transponder Landing System (TLS)
+
+1. The TLS is designed to provide approach guidance utilizing existing airborne ILS localizer, glide slope, and transponder equipment.
+
+2. Ground equipment consists of a transponder interrogator, sensor arrays to detect lateral and vertical position, and ILS frequency transmitters. The TLS detects the aircraft's position by interrogating its transponder. It then broadcasts ILS frequency signals to guide the aircraft along the desired approach path.
+
+3. TLS instrument approach procedures are designated Special Instrument Approach Procedures. Special aircrew training is required. TLS ground equipment provides approach guidance for only one aircraft at a time. Even though the TLS signal is received using the ILS receiver, no fixed course or glidepath is generated. The concept of operation is very similar to an air traffic controller providing radar vectors, and just as with radar vectors, the guidance is valid only for the intended aircraft. The TLS ground equipment tracks one aircraft, based on its transponder code, and provides correction signals to course and glidepath based on the position of the tracked aircraft. Flying the TLS corrections computed for another aircraft will not provide guidance relative to the approach; therefore, aircrews must not use the TLS signal for navigation unless they have received approach clearance and

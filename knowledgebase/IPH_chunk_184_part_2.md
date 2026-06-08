@@ -1,0 +1,5 @@
+identify the BRIBE reporting point using alternate formation radials, some of which are from off- chart NAVAIDs. ATC may issue a descent clearance that includes a crossing altitude restriction. In the PENNS ONE ARRIVAL, the ATC clearance authorizes aircraft to descend at the pilots' discretion, as long as the pilot crosses the PENNS Intersection at 6,000 feet MSL. [Figure 3- 17]
+
+In the United States, Canada, and many other countries, the common altitude for changing to the standard altimeter setting of 29.92 inches of mercury ("Hg) (or 1013.2 hectopascals or millibars) when climbing to the high altitude structure is 18,000 feet. When descending from high altitude, the altimeter should be changed to the local altimeter setting when passing through FL 180, although in most countries throughout the world the change to or from the standard altimeter setting is not done at the same altitude for each instance.
+
+For example, the flight level where aircrews change their altimeter setting to the local altimeter setting is specified by ATC each time they arrive at a specific airport. This

@@ -1,0 +1,3 @@
+- 30SSE HUH- 60S SEA 50NW LKV- 60WNWOAL- 30SW OAL 040 ALG 40W HUH- 30W HUH- 30NNW SEA- 40N PDX- 20NNW DSD 080 ALG 160NW FOT- 80SW ONP- 50SSW EUG 40SSE OED- 50SSE CZQ- 60E EHF- 40WSW LAS
+
+3. Graphical AIRMETs (G-AIRMETs), found on the Aviation Weather Center webpage at http://aviationweather.gov, are graphical forecasts of en-route weather hazards valid at discrete times no more than 3 hours apart for a period of up to 12 hours into the future (for example, 00, 03, 06, 09, and 12 hours). Additional forecasts may be inserted during the first 6 hours (for example, 01, 02, 04, and 0

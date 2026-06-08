@@ -1,0 +1,5 @@
+thunderstorm rather than turning around. A straight course most likely gets the pilot out of the hazard in the least amount of time, and turning maneuvers only increase structural stress on the aircraft.
+
+Reduce power to a setting that maintains a recommended turbulence penetration speed as described in the appropriate aircraft operator's manual, and try to minimize additional power adjustments. Concentrate on keeping the aircraft in a level attitude while allowing airspeed and altitude to fluctuate. Similarly, if using autopilot, disengage altitude and speed hold modes because they only increase the aircraft's maneuvering, which increases structural stress.
+
+During a thunderstorm encounter, the potential for icing also exists. As soon as possible, if the aircraft is so equipped, turn on anti- icing/deicing equipment. Icing can be rapid at any altitude, and may lead to power failure and/or loss of airspeed indication. Lightning is also present in a thunderstorm and can temporarily blind the pilot. To reduce risk, turn up flight deck lights to the highest intensity, concentrate on flight instruments, and resist the urge to look outside.

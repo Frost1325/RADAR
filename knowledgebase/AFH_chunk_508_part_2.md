@@ -1,0 +1,1 @@
+to develop into immediate forced landings, when the pilot uses wishful thinking instead of reason, especially when dealing with a self- inflicted predicament. The non- instrument- rated pilot trapped by weather, or the pilot facing imminent fuel exhaustion who does not give any thought to the feasibility of a precautionary landing, accepts an extremely hazardous alternative.

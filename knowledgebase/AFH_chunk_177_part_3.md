@@ -1,0 +1,7 @@
+attitude momentarily, and then glance at the airspeed indicator to verify if the new attitude is correct. Due to inertia, the airplane will not accelerate or decelerate immediately as the pitch is changed. It takes a little time for the airspeed to change. If the pitch attitude has been over or under corrected, the airspeed indicator will show a speed that is higher or lower than that desired. When this occurs, the crosschecking and appropriate pitch- changing process needs to be repeated until the desired climbing attitude is established. Pilots should remember the climb pitch will be lower when the airplane is heavily loaded, or power is limited by density altitude.
+
+When the correct pitch attitude has been attained, the pilot should hold it constant while cross- checking it against the horizon and other outside visual references. The airspeed indicator should be used only as a check to determine if the attitude is correct.
+
+After the recommended climb airspeed has been established and a safe maneuvering altitude has been reached, the pilot should adjust the power to the recommended climb setting and trim the airplane to relieve the control pressures. This makes it easier to hold a constant attitude and airspeed.
+
+During initial climb, it is important that the takeoff path remain aligned with the runway to avoid drifting into obstructions

@@ -1,0 +1,7 @@
+## Preparation and Preflight
+
+Night flying requires that pilots are aware of, and operate within, their abilities and limitations. Although careful planning of any flight is essential, night flying demands more attention to the details of preflight preparation and planning.
+
+Preparation for a night flight includes a thorough review of the available weather reports and forecasts with particular attention given to temperature/dew point spread. A narrow temperature/dew point spread may indicate the possibility of fog. Emphasis should also be placed on wind direction and speed, since its effect on the airplane cannot be as easily detected at night as during the day.
+
+On night cross- country flights, pilots should select and use appropriate aeronautical charts to include the appropriate adjacent charts. Course lines should be drawn in black to be more distinguishable in low- light conditions. Rotating beacons at airports, lighted obstructions, lights of cities or towns, and lights from major highway traffic all provide excellent visual checkpoints. If using a global positioning system (GPS) for navigation, the pilot should ensure that it works properly. All necessary waypoints should be loaded before the flight, and the database should be checked for accuracy prior to taking off and again once in flight. The use of radio navigation aids and communication facilities add significantly to the

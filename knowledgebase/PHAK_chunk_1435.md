@@ -1,0 +1,5 @@
+ provided through the Automatic Dependent Surveillance- Broadcast (ADS- B) Services network over the 978 MHz UAT data link. The FAA FIS- B system provides pilots and flight crews of properly- equipped aircraft with a flightdeck display of certain aviation weather and aeronautical information which are listed below.
+
+Aviation Routine Weather Reports (METARs) Special Aviation Reports (SPECIs) Terminal Area Forecasts (TAFs) and their amendments NEXRAD (regional and CONUS) precipitation maps Notice to Airmen (NOTAM) Distant and Flight Data Center Airmen's Meteorological Conditions (AIRMET)
+
+Significant Meteorological Conditions (SIGMET) and Convective SIGMET Status of Special Use Airspace (SUA) Temporary Flight Restrictions (TFRs) Winds and Temperatures Aloft. Pilot Reports (PIREPS) TIS- B service status

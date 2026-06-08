@@ -1,0 +1,1 @@
+. At night, especially when fatigued, these effects may occur as low as 5,000 feet. Therefore, for optimum protection, pilots are encouraged to use supplemental oxygen above 10,000 feet cabin altitude during the day and above 5,000 feet at night.

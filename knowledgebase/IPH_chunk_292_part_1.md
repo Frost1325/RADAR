@@ -1,0 +1,5 @@
+## Airport Surveillance Radar (ASR)
+
+ASR approaches are typically only approved when necessitated for an ATC operational requirement or in an unusual or emergency situation. This type of radar only provides heading and range information, although the controller can advise the pilot of the altitude where the aircraft should be based on the distance from the runway. An ASR approach procedure can be established at any radar facility that has an antenna within 20 NM of the airport and meets the equipment requirements outlined in FAA Order 8200.1, U.S. Standard Flight Inspection Manual. ASR approaches are not authorized for use when Center Radar ARTS processing (CENRAP) procedures are in use due to diminished radar capability.
+
+The final approach course for an ASR approach is aligned with the runway centerline for straight- in approaches and aligned with the center of the airport for circling approaches. Within the final approach area, the pilot is also guaranteed a minimum of 250 feet obstacle clearance. ASR descent gradients are designed to be relatively flat, with an optimal gradient of 150 feet per mile and never exceeding 300 feet per mile.

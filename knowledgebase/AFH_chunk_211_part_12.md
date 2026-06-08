@@ -1,0 +1,7 @@
+beginning of the maneuver.
+
+At this point, the pilot should begin a turn in the opposite direction by lowering the upwind wing to the point where the visual reference line aligns with the pylon.The pilot should then continue the turn the same way the corresponding turn was performed around the first pylon but in the opposite direction.
+
+With prompt correction, and a very fine control pressures, it is possible to hold the visual reference line directly on the pylon even in strong winds. The pilot may make corrections for temporary variations, such as those caused by gusts or inattention, by reducing the bank angle slightly to fly relatively straight to bring forward a lagging visual reference line or by increasing the bank angle temporarily to turn back a visual reference line that has moved ahead. With practice, these corrections may become slight enough to be barely noticeable. It is important to understand that variations in pylon position are according to the apparent movement of the visual reference line. Attempting to correct pivotal altitude by the using the altimeter is ineffective.
+
+Eights on pylons are performed at bank angles ranging from shallow to steep. [Figure 7- 14] The pilot should understand that the bank chosen does not alter the pivotal altitude. As proficiency is gained, the instructor should increase

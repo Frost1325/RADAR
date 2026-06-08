@@ -1,0 +1,7 @@
+conditions, non- MNPS aircraft can operate in MNPS airspace, however, standard oceanic separation minima is provided between the non- MNPS aircraft and other traffic.
+
+Minimum Obstruction Clearance Altitude (MOCA). The MOCA is the lowest published altitude in effect between radio fixes on VOR airways, off- airway routes, or route segments that meets obstacle clearance requirements for the entire route segment. This altitude also assures acceptable navigational signal coverage only within 22 NM of a VOR.
+
+Minimum Reception Altitude (MRA). An MRA is determined by FAA flight inspection traversing an entire route of flight to establish the minimum altitude the navigation signal can be received for the route and for off- course NAVAID facilities that determine a fix. When the MRA at the fix is higher than the MEA, an MRA is established for the fix, and is the lowest altitude at which an intersection can be determined.
+
+Minimum Safe Altitude (MSA). MSAs are published for emergency use on IAP charts. For conventional navigation systems, the MSA is normally based on the primary omnidirectional facility on which the IAP is predicated. For RNAV approaches, the MSA is based on the runway waypoint (

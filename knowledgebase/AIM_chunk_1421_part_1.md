@@ -1,0 +1,3 @@
+# Appendix 1. Bird/Other Wildlife Strike Report
+
+<table><tr><td colspan="5">BIRD/OTHER WILDLIFE STRIKE REPORT</td></tr><tr><td>1. Name of Operator</td><td colspan="2">2. Aircraft Make/Model</td><td colspan="2">3. Engine Make/Model</td></tr><tr><td>4. Aircraft Registration</td><td colspan="2">5. Date of Incident <br>/Month Day Year</td><td colspan="2">6. Local Time of Incident <br>□ Dawn □ Dusk — HR — MIN <br>□ Day □ Night □ AM □ PM</td></tr><tr><td>7. Airport Name</td><td colspan="2">8. Runway Used</td><td colspan="2">9. Location If En Route (Marrast Town/Reference &amp;amp; State)</td></tr><tr><td>10. Height (AGL)</td><td colspan="2">11. Speed (IAS)</td><td colspan="2"></td></tr><tr><td>12. Phase of Flight</td><

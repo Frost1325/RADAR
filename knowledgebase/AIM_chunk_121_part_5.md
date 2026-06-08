@@ -1,0 +1,5 @@
+taxiway lights may be either controlled with the runway edge lights or controlled independently of the runway edge lights.
+
+b. The control system consists of a 3-step control responsive to 7, 5, and/or 3 microphone clicks. This 3-step control will turn on lighting facilities capable of either 3-step, 2-step or 1-step operation. The 3-step and 2-step lighting facilities can be altered in intensity, while the 1-step cannot. All lighting is illuminated for a period of 15 minutes from the most recent time of activation and may not be extinguished prior to end of the 15 minute period (except for 1-step and 2-step REILs which may be turned off when desired by keying the mike 5 or 3 times respectively).
+
+c. Suggested use is to always initially key the mike 7 times; this assures that all controlled lights are turned on to the maximum available intensity. If desired, adjustment can then be made, where the capability is provided, to a lower intensity (or the REIL turned off) by keying 5 and/or 3 times. Due to the close proximity of airports using the same frequency, radio controlled lighting receivers may be set at

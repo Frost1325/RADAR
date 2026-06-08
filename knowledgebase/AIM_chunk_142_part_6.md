@@ -1,0 +1,1 @@
+a pink circle in the middle. When installed on asphalt or other dark-colored pavements, the white ring and the black ring are reversed, i.e., the white ring becomes the outer ring and the black ring becomes the inner ring. It is designated with either a number or a number and letter. The number corresponds to the consecutive position of the marking on the route.

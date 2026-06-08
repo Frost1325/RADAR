@@ -1,0 +1,5 @@
+turn coordinator, and by using appropriate control pressures.
+
+At the \(90^{\circ}\) point, the pilot should begin to smoothly roll out of the bank at a constant rate while maintaining the pitch attitude attained at the end of the first \(90^{\circ}\) . While the angle of bank is fixed during the first \(90^{\circ}\) , recall that as airspeed decreases, the overbanking tendency increases. [Figure 10- 3C] As a result, proper use of the ailerons allows the bank to remain at a fixed angle until rollout is begun at the start of the final \(90^{\circ}\) . As the rollout continues, the vertical component of lift increases. However, as speed continues to decrease, a slight increase of elevator back pressure is required to keep the pitch attitude from decreasing.
+
+When the airspeed is slowest, near the completion of the chandelle, right rudder pressure is significant, especially when rolling out from a left chandelle due to left adverse yaw and left- turning tendencies, such as P- factor. [Figure 10- 3D] When rolling out from a right chandelle, the yawing moment is to

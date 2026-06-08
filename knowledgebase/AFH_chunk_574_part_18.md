@@ -1,0 +1,3 @@
+tr><tr><td>Descents and descending turns</td><td>3-20, 3-24, 5-10</td></tr><tr><td>Descent at minimum safe airspeed</td><td>3-21</td></tr><tr><td>Emergency descent</td><td>3-21, 10-3, 15-15, 18-8, 18-9, 18-10, 18-22</td></tr><tr><td>Partial power descent</td><td>3-21</td></tr><tr><td>Detonation</td><td>2-7, 2-8, 12-8, 12-11</td></tr></table>
+
+<table><tr><td>Directional control</td><td>2-19, 3-9, 5-11, 5-17, 5-22, 6-1, 6-14, 9-9, 9-18, 9-23, 9-

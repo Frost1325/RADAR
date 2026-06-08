@@ -1,0 +1,5 @@
+ occasional severe clear air turbulence between FL280 and FL350 due to the location of the jet stream. These conditions will begin after 0200Z and continue beyond the forecast scope of this SIGMET of 0530Z.
+
+## Convective Significant Meteorological Information (WST)
+
+A Convective SIGMET (WST) is an inflight weather advisory issued for hazardous convective weather that affects the safety of every flight. Convective SIGMETs are issued for severe thunderstorms with surface winds greater than 50 knots, hail at the surface greater than or equal to \(3 / 4\) inch in diameter, or tornadoes. They are also issued to advise pilots of embedded thunderstorms, lines of thunderstorms, or thunderstorms with heavy or greater precipitation that affect 40 percent or more of a 3,000 square mile or greater region.

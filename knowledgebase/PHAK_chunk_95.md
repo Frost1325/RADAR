@@ -1,0 +1,1 @@
+ or who have physical disabilities which might limit, but not prevent, their acting as pilots, should contact the nearest FAA office. Anyone requesting an FAA Medical Clearance, Medical Certificate, or Student Pilot Medical Certificate can electronically complete an application through the FAA's MedXPress system available at https://medxpress.faa.gov/.

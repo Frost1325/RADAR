@@ -1,0 +1,7 @@
+ low angles of attack the CP moves aft. In the design of wing structures, this CP travel is very important, since it affects the position of the air loads imposed on the wing structure in both low and high AOA conditions. An airplane's aerodynamic balance and controllability are governed by changes in the CP.
+
+## Airfoil Behavior
+
+Although specific examples can be cited in which each of the principles predict and contribute to the formation of lift,
+
+lift is a complex subject. The production of lift is much more complex than a simple differential pressure between upper and lower airfoil surfaces. In fact, many lifting airfoils do not have an upper surface longer than the bottom, as in the case of symmetrical airfoils. These are seen in high- speed aircraft having symmetrical wings, or on symmetrical rotor blades for many helicopters whose upper and lower surfaces are identical. In both examples, the only difference is the relationship of the airfoil with the oncoming airstream (angle). A paper airplane, which is simply a flat plate, has a bottom and top exactly the same shape and length. Yet, these airfoils do produce lift, and "flow turning" is partly (or fully) responsible for creating lift.

@@ -1,0 +1,7 @@
+loose objects and hurl them backwards. This damages the propeller and may damage the tail of the airplane. Small chips in the leading edge of the propeller form stress risers or high stress concentrations. These are highly undesirable and may lead to cracks and possible propeller blade failure. The airplane should also be positioned clear of other aircraft and the taxiway. There should not be anything behind the airplane that might be damaged by the propeller airflow blasting rearward.
+
+Before beginning the before- takeoff check, after the airplane is properly positioned for the run- up, it should be allowed to roll forward slightly to ensure that the nosewheel or tailwheel is in alignment with the longitudinal axis of the airplane.
+
+While performing the before- takeoff check in accordance with the airplane's AFM/POH, the pilot divides attention between the inside and outside of the airplane. If the parking brake slips, or if application of the toe brakes is inadequate for the amount of power applied, the airplane could rapidly move forward and go unnoticed if pilot attention is fixed only inside the airplane. A good operational practice is to split attention from one item inside to a look outside.
+
+Air- cooled engines generally are tightly cowled and equipped with baffles that direct the flow of air to the

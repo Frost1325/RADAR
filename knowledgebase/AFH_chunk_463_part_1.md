@@ -1,0 +1,5 @@
+## Jet Engine Landing
+
+14 CFR part 25, section 25.125 defines the horizontal distance needed in order to land a jet airplane. The regulation describes the landing profile as the horizontal distance required to land and come to a complete stop from a point 50 feet above the landing surface. Manufacturers determine the landing distance on a dry, level runway at standard temperatures without using thrust reversers, auto brakes, or auto- land systems as a baseline. The pilot uses the landing weight and environmental conditions to determine the actual expected landing requirement based on the FAA- approved data in the AFM. As an accepted safety practice, pilots normally add a \(40\%\) cushion for landing on a dry runway. Dividing the usable runway length by 1.67 should give a number equal to or greater than the landing distance calculated from AFM data. For a wet runway, the distance should be increased by an additional \(15\%\) . [Figure 16- 16]
+
+Simply put, the pilot divides the length of an intended runway by 1.67 or 1.92, as appropriate, to determine the minimum distance that should be available for landing. With this safety margin,

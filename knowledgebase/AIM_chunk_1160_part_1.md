@@ -1,0 +1,7 @@
+## 7-1-26. Microbursts
+
+a. Relatively recent meteorological studies have confirmed the existence of microburst phenomenon. Microbursts are small scale intense downdrafts which, on reaching the surface, spread outward in all directions from the downdraft center. This causes the presence of both vertical and horizontal wind shears that can be extremely hazardous to all types and categories of aircraft, especially at low altitudes. Due to their small size, short life span, and the fact that they can occur over areas without surface precipitation, microbursts are not easily detectable using conventional weather radar or wind shear alert systems.
+
+b. Parent clouds producing microburst activity can be any of the low or middle layer convective cloud types. Note, however, that microbursts commonly occur within the heavy rain portion of thunderstorms, and in much weaker, benign appearing convective cells that have little or no precipitation reaching the ground.
+
+c. The life cycle of a microburst as it descends in a convective rain shaft is seen in FIG 7-1-14. An important consideration for pilots is the fact that the microburst intensifies for about 5 minutes after it strikes the ground.

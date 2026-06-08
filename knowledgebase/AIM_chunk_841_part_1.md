@@ -1,0 +1,3 @@
+## 5-4-3. Approach Control
+
+a. Approach control is responsible for controlling all instrument flight operating within its area of responsibility. Approach control may serve one or more airfields, and control is exercised primarily by direct pilot and controller communications. Prior to arriving at the destination radio facility, instructions will be received from ARTCC to contact approach control on a specified frequency.

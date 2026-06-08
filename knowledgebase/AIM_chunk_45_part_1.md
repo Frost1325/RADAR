@@ -1,0 +1,7 @@
+### (e) VFR Waypoints
+
+(1) VFR waypoints provide VFR pilots with a supplementary tool to assist with position awareness while navigating visually in aircraft equipped with area navigation receivers. VFR waypoints should be used as a tool to supplement
+
+current navigation procedures. The uses of VFR waypoints include providing navigational aids for pilots unfamiliar with an area, waypoint definition of existing reporting points, enhanced navigation in and around Class B and Class C airspace, and enhanced navigation around Special Use Airspace. VFR pilots should rely on appropriate and current aeronautical charts published specifically for visual navigation. If operating in a terminal area, pilots should take advantage of the Terminal Area Chart available for that area, if published. The use of VFR waypoints does not relieve the pilot of any responsibility to comply with the operational requirements of 14 CFR Part 91.
+
+(2) VFR waypoint names (for computer-entry and flight plans) consist of five letters beginning with the letters "VP" and are retrievable from navigation databases. The VFR waypoint names are not intended to be pronounceable, and they are not for use in ATC communications. On VFR charts, stand-alone VFR waypoints will be portrayed using the same four-point star symbol used for

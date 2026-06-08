@@ -1,0 +1,7 @@
+control surfaces on the tail of an aircraft arranged in the form of a V. These surfaces, when moved together by the control wheel, serve as elevators, and when moved differentially by the rudder pedals, serve as a rudder.
+
+Runway centerline lights. Runway centerline lights are installed on some precision approach runways to facilitate landing under adverse visibility conditions. They are located along the runway centerline and are spaced at 50- foot intervals. When viewed from the landing threshold, the runway centerline lights are white until the last 3,000 feet of the runway. The white lights begin to alternate with red for the next 2,000 feet, and for the last 1,000 feet of the runway, all centerline lights are red.
+
+Runway centerline markings. The runway centerline identifies the center of the runway and provides alignment guidance during takeoff and landings. The centerline consists of a line of uniformly spaced stripes and gaps.
+
+Runway edge lights. Runway edge lights are used to outline the edges of runways during periods of darkness or restricted visibility conditions. These light systems are classified according to the intensity or brightness they are capable of producing: they are the High Int

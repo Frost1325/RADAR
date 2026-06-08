@@ -1,0 +1,5 @@
+# Straight-In Procedures
+
+When two or more straight-in approaches with the same type of guidance exist for a runway, a letter suffix is added to the title of the approach so that it can be more easily identified. These approach charts start with the letter Z and continue in reverse alphabetical order. For example,consider the (RNAV) (GPS) Z RWY 13C and RNAV (RNP) Y RWY 13C approaches at Chicago Midway International Airport. [Figure 4-5] Although these two approaches can be flown with a global positioning system (GPS) to the same runway, they are significantly different (e.g., one is a Required Navigation Performance (RNP) Authorization Required (AR) formally known as SPECIAL AIRCRAFT & AIRCREW AUTHORIZATION REQUIRED (SAAAR);" one has circling minimums and the other does not; the minimums are different; and the missed approaches are not the same). The approach procedure labeled Z has lower landing minimums than Y (some older charts may not reflect this).
+
+In this example, the LNAV MDA for the RNAV (GPS) Z RWY 13C has the lowest minimums of either approach due to the differences in the final

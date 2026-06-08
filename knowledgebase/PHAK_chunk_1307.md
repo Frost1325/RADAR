@@ -1,0 +1,5 @@
+ rapidly ascending air causes the temperature to decrease suddenly, forcing the creation of clouds. The type of clouds that form depends on the stability of the warmer air mass. A cold front in the Northern Hemisphere is normally oriented in a northeast to southwest manner and can be several hundred miles long, encompassing a large area of land.
+
+Prior to the passage of a typical cold front, cirriform or towering cumulus clouds are present, and cumulonimbus clouds may develop. Rain showers may also develop due to the rapid development of clouds. A high dew point and falling barometric pressure are indicative of imminent cold front passage.
+
+As the cold front passes, towering cumulus or cumulonimbus clouds continue to dominate the sky. Depending on the intensity of the cold front, heavy rain showers form and may be accompanied by lightning, thunder, and/or hail. More severe cold fronts can also produce tornadoes. During cold front passage, the visibility is poor with winds variable and gusty, and the temperature and dew point drop rapidly. A quickly falling barometric pressure bottoms out during frontal passage, then begins a gradual increase.

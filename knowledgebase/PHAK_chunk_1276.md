@@ -1,0 +1,5 @@
+ point, given in degrees, is the temperature at which the air can hold no more moisture. When the temperature of the air is reduced to the dew point, the air is completely saturated and moisture begins to condense out of the air in the form of fog, dew, frost, clouds, rain, or snow.
+
+As moist, unstable air rises, clouds often form at the altitude where temperature and dew point reach the same value. When lifted, unsaturated air cools at a rate of \(5.4^{\circ}\mathrm{F}\) per 1,000 feet and the dew point temperature decreases at a rate of \(1^{\circ}\mathrm{F}\) per 1,000 feet. This results in a convergence of temperature and dew point at a rate of \(4.4^{\circ}\mathrm{F}\) . Apply the convergence rate to the reported temperature and dew point to determine the height of the cloud base.
+
+## Given:

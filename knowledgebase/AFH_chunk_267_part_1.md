@@ -1,0 +1,7 @@
+## Floating During Round Out
+
+If the airspeed on final approach is excessive, it usually results in the airplane floating. [Figure 9- 33] Before touchdown can be made, the airplane may be well past the desired landing point and the available runway may be insufficient. When diving the airplane on final approach to land at the proper point, there is an appreciable increase in airspeed. The proper touchdown attitude cannot be established without producing an excessive AOA and lift. This causes the airplane to gain altitude or balloon.
+
+Any time the airplane floats, judgment of speed, height, and rate of sink needs to be especially acute. The pilot should smoothly and gradually adjust the pitch attitude as the airplane decelerates to touchdown speed and starts to settle, so the proper landing attitude is attained at the moment of touchdown. The slightest error in judgment and timing results in either ballooning or bouncing.
+
+The recovery from floating is dependent upon the amount of floating and the effect of any crosswind, as well as the amount of runway remaining. Since prolonged floating utilizes considerable runway length, it should be avoided especially on short runways or in strong crosswinds. If a landing cannot be made on the first third of the runway, or the airplane drifts sideways,

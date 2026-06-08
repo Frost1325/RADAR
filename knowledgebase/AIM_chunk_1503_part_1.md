@@ -1,0 +1,3 @@
+## H
+
+Half- Way Signs, 7- 5- 5Hand Signals, 4- 3- 25HazardAntenna Tower, 7- 5- 1Bird, 7- 4- 1FlightObstructions to Flight, 7- 5- 1Potential, 7- 5- 1VFR in Congested Areas, 7- 5- 1Ground Icing Conditions, 7- 5- 12Mountain Flying, 7- 5- 3Overhead Wires, 7- 5- 2Thermal Plumes, 7- 5- 13Unmanned Balloons, 7- 5- 2Volcanic Ash, 7- 5- 7Hazardous Area Reporting Service, 4- 1- 18HDTA. See High Density Traffic AirportsHelicopterIFR Operations, 10- 1- 1Landing Area Markings, 2- 3- 19VFR Operations at Controlled Airports, 4- 3- 18Special Operations, 10- 2-

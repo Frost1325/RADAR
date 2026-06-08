@@ -1,0 +1,3 @@
+## b. Transponder Code Designation
+
+1. For ATC to utilize one or a combination of the 4096 discrete codes FOUR DIGIT CODE DESIGNATION will be used, e.g., code 2100 will be expressed as TWO ONE ZERO ZERO. Due to the operational characteristics of the rapidly expanding automated ATC system, THE LAST TWO DIGITS OF THE SELECTED TRANSPONDER CODE SHOULD ALWAYS READ "00" UNLESS SPECIFICALLY REQUESTED BY ATC TO BE OTHERWISE.

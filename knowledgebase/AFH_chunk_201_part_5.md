@@ -1,0 +1,5 @@
+although in reference to the air, the airplane flew a perfect continuous radius.
+
+In order to compensate for the effects of wind drift, the pilot adjusts the bank angle as the groundspeed changes throughout the turn. Where groundspeed is the fastest, such as when the airplane is headed downwind, the bank angle should be steepest. Where groundspeed is the slowest, such as when the airplane is headed upwind, the bank angle should be shallow. It is necessary to increase or decrease the angle of bank, which increases or decreases the rate of turn, to achieve the desired constant radius track over the ground.
+
+Ground reference maneuvers should always be entered from a downwind position. This allows the pilot to establish the steepest bank angle required to maintain a constant radius ground track. If the bank is too steep, the pilot should immediately exit the maneuver and re- establish a lateral position that is further from the ground reference. The pilot should avoid bank angles in excess of \(45^{\circ}\) due to the increased stalling speed.

@@ -1,0 +1,3 @@
+# 4-1-24. Weather System Processor
+
+The Weather System Processor (WSP) was devel-oped for use in the National Airspace System to provide weather processor enhancements to selected Airport Surveillance Radar (ASR)-9 facilities. The WSP provides Air Traffic with warnings of hazardous wind shear and microbursts. The WSP also provides users with terminal area 6-level weather,storm cell locations and movement, as well as the location and predicted future position and intensity of wind shifts that may affect airport operations.

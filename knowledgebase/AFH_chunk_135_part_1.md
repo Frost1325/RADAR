@@ -1,0 +1,3 @@
+## FSTD-based UPRT
+
+UPRT can be effective in high fidelity devices (i.e., Level C and D FFS); however, instructors and pilots should be mindful of the technical and physiological boundaries when using a particular FSTD for upset training. This training is a current requirement for pilots seeking a multiegnine airplane ATP certificate in accordance with 14 CFR part 61, section 61.156, and the training course must be FAA approved.

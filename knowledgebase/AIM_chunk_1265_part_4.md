@@ -1,0 +1,3 @@
+and/or float equipped aircraft when landing on, or departing from, unfamiliar lakes or rivers.
+
+d. Other Objects/Structures. There are other objects or structures that could adversely affect your flight such as construction cranes near an airport, newly constructed buildings, new towers, etc. Many of these structures do not meet charting requirements or may not yet be charted because of the charting cycle. Some structures do not require obstruction marking and/or lighting and some may not be marked and lighted even though the FAA recommended it.

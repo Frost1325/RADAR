@@ -1,0 +1,3 @@
+## False Horizon
+
+Flying at night under clear skies with ground lights below can result in situations where it is difficult to distinguish the ground lights from the stars. A dark scene spread with ground lights and stars, and certain geometric patterns of ground lights can provide inaccurate visual information, making it difficult to align the aircraft correctly with the actual horizon. An aurora borealis display at night or a visible sloping cloud formation can also affect a pilot's sense of the horizon. A similar problem is encountered during certain daylight operations over large bodies of water. Various atmospheric and water conditions can create a visual scene without a discernible horizon.

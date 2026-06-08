@@ -1,0 +1,3 @@
+## Thrust to Thrust Lever Relationship
+
+In a jet engine, thrust output changes much more per increment of throttle movement at high engine speeds. If the power setting is already high, it normally takes a small amount of movement to change the power output. This is a significant difference for the pilot transitioning to jet- powered airplanes. In a situation where significantly more thrust is needed and the jet engine is at low rpm, inching the thrust lever forward will have little effect. It this situation, the pilot needs to make a smooth and significant thrust lever position change to increase the power.

@@ -1,0 +1,3 @@
+## 4-4-7. Pilot Responsibility upon Clearance Issuance
+
+a. Record ATC clearance. When conducting an IFR operation, make a written record of your clearance. The specified conditions which are a part of your air traffic clearance may be somewhat different from those included in your flight plan. Additionally, ATC may find it necessary to ADD conditions, such as particular departure route. The very fact that ATC specifies different or additional conditions means that other aircraft are involved in the traffic situation.

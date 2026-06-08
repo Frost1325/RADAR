@@ -1,0 +1,5 @@
+td>3%-4% (Scattered)</td><td>SCT</td></tr><tr><td>5%-7% (Broken)</td><td>BKN</td></tr><tr><td>8% or (Overcast)</td><td>OVC</td></tr></table>
+
+12. Remarks—the remarks section always begins with the letters “RMK.” Comments may or may not appear in this section of the METAR. The information contained in this section may include wind data, variable visibility, beginning and ending times of particular phenomenon, pressure information, and various other information deemed necessary. An example of a remark regarding weather phenomenon that does not fit in any other category would be: OCNL LTGICCG. This translates as occasional lightning in the clouds and from cloud to ground. Automated stations also use the remarks section to indicate the equipment needs maintenance.
+
+Example: METAR KGGG 161753Z AUTO 14021G26KT 3/4SM +TSRA BR BKN008 OVC012CB 18/17 A2970 RMK PRESFR

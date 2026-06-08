@@ -1,0 +1,5 @@
+ discussing variation, the appropriate variation for the geographical location of the flight must be considered and added or subtracted as appropriate. If flying across an area where the variation changes, then the values must be applied along the route of flight appropriately. Once applied, this new course is called the magnetic course.
+
+## Magnetic Deviation
+
+Because each aircraft has its own internal effect upon the onboard compass systems from its own localized magnetic influencers, the pilot must add or subtract these influencers based upon the direction he or she is flying. The application of deviation (taken from a compass deviation card) compensates the magnetic course unique to that aircraft's compass system (as affected by localized magnetic influencers) and it now becomes the compass course. Therefore, the compass course, when followed (in a no wind condition), takes the aircraft from point A to point B even though the aircraft heading may not match the original course line drawn on the chart.

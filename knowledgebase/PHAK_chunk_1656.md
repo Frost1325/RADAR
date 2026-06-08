@@ -1,0 +1,5 @@
+ heading of MN. On easterly or westerly headings, however, the compass indications would be in error, as shown in Figure 16- 11. Magnetic attraction can come from many other parts of the aircraft; the assumption of attraction in the engine is merely used for the purpose of illustration.
+
+Some adjustment of the compass, referred to as compensation, can be made to reduce this error, but the remaining correction must be applied by the pilot.
+
+Proper compensation of the compass is best performed by a competent technician. Since the magnetic forces within the aircraft change because of landing shocks, vibration, mechanical work, or changes in equipment, the pilot should occasionally have the deviation of the compass checked. The procedure used to check the deviation is called "swinging the compass" and is briefly outlined as follows.

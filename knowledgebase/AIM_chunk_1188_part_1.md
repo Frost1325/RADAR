@@ -1,0 +1,7 @@
+## 7-1-28. Thunderstorms
+
+a. Turbulence, hail, rain, snow, lightning, sustained updrafts and downdrafts, icing conditions—all are present in thunderstorms. While there is some evidence that maximum turbulence exists at the middle level of a thunderstorm, recent studies show little variation of turbulence intensity with altitude.
+
+b. There is no useful correlation between the external visual appearance of thunderstorms and the severity or amount of turbulence or hail within them. The visible thunderstorm cloud is only a portion of a turbulent system whose updrafts and downdrafts often extend far beyond the visible storm cloud. Severe turbulence can be expected up to 20 miles from severe thunderstorms. This distance decreases to about 10 miles in less severe storms.
+
+c. Weather radar, airborne or ground based, will normally reflect the areas of moderate to heavy precipitation (radar does not detect turbulence). The frequency and severity of turbulence generally increases with the radar reflectivity which is closely associated with the areas of highest liquid water content of the storm. NO FLIGHT PATH THROUGH AN AREA OF STRONG OR VERY STRONG RADAR ECHOES SEPARATED BY 20-30 MILES OR LESS MAY

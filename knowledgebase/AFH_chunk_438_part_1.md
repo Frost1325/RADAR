@@ -1,0 +1,7 @@
+## Operating the Jet Engine
+
+In a jet engine, the amount of fuel injected into the combustion chamber controls thrust. Because most engine control functions are automatic, the power controls on most turbojet- powered and turbofan- powered airplanes consist of just one thrust lever for each engine. The thrust lever links to a fuel control and/or electronic engine computer that meters fuel flow based on revolutions per minute (rpm), internal temperatures, ambient conditions, and other factors.
+
+Typically in jet airplanes, there are flight deck indications for the rotation speed of each major engine section. Each engine section rotates at many thousands of rpm. For ease of interpretation, the indications read as percent of rpm rather than actual rpm. Depending on the make and model, there are usually indications for fuel flow, as well as for gas temperatures and pressures. The associated engine indications have different names according to their location.
+
+As in any gas turbine engine, exceeding temperature or rpm limits, even for a few seconds, may result in serious damage to turbine blades and other components. The pilot should monitor the temperature of turbine gases and rotation speeds as needed. Modern aircraft are designed to prevent exceedances and alert the pilot of an impending or actual exceedance. Older designs rely more on the pilot to prevent any exceedances.

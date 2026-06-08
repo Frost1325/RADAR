@@ -1,0 +1,7 @@
+## Weather and the Departure Environment Takeoff Minimums
+
+While mechanical failure is potentially hazardous during any phase of flight, a failure during takeoff under instrument conditions is extremely critical. In the event of an emergency, a decision must be made to either return to the departure airport or fly directly to a takeoff alternate. If the departure weather were below the landing minimums for the departure airport, the flight would be unable to return for landing, leaving few options and little time to reach a takeoff alternate.
+
+In the early years of air transportation, landing minimums for commercial operators were usually lower than takeoff minimums. Therefore, it was possible that minimums allowed pilots to land at an airport but not depart from that airport. Additionally, all takeoff minimums once included ceiling, as well as visibility requirements. Today, takeoff minimums are typically lower than published landing minimums, and ceiling requirements are only included if it is necessary to see and avoid obstacles in the departure area.
+
+The FAA establishes takeoff minimums for every airport that has published Standard Instrument Approaches. These minimums are used by commercially operated aircraft, namely Part 121 and Part 135 operators. At airports where minimums are not established, these same carriers are

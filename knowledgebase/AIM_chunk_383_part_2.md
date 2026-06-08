@@ -1,0 +1,5 @@
+which is a requirement for surface based controlled airspace, previously known as a control zone. The controlled airspace over these airports will normally begin at 700 feet or 1,200 feet above ground level and can be determined from the visual aeronautical charts. Pilots are expected to use good operating practices and communicate with the control tower as described in this section.
+
+b. When necessary, the tower controller will issue clearances or other information for aircraft to generally follow the desired flight path (traffic patterns) when flying in Class B, Class C, and Class D surface areas and the proper taxi routes when operating on the ground. If not otherwise authorized
+
+or directed by the tower, pilots of fixed-wing aircraft approaching to land must circle the airport to the left. Pilots approaching to land in a helicopter must avoid the flow of fixed-wing traffic. However, in all instances, an appropriate clearance must be received from the tower before landing.

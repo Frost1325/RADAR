@@ -1,0 +1,7 @@
+source, two sets of minimums are published to account for the stepdown fix and a note addresses minimums for the second altimeter source.
+
+f. Circling Minimums. In some busy terminal areas, ATC may not allow circling and circling minimums will not be published. Published circling minimums provide obstacle clearance when pilots remain within the appropriate area of protection. Pilots should remain at or above the circling altitude until the aircraft is continuously in a position from which a descent to a landing on the intended runway can be made at a normal rate of descent using normal maneuvers. Circling may require maneuvers at low altitude, at low airspeed, and in marginal weather conditions. Pilots must use sound judgment, have an indepth knowledge of their capabilities, and fully understand the aircraft performance to determine the exact circling maneuver since weather, unique airport design, and the aircraft position, altitude, and airspeed must all be considered. The following basic rules apply:
+
+1. Maneuver the shortest path to the base or downwind leg, as appropriate, considering existing weather conditions. There is no restriction from passing over the airport or other runways.
+
+2. It should be recognized that circling maneuvers may be made while VFR or other flying

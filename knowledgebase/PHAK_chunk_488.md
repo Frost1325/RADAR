@@ -1,0 +1,7 @@
+ installed AOA indicator. Ground and flight instructors should make every attempt to receive training from an instructor knowledgeable about AOA indicators prior to giving instruction pertaining to or in airplanes equipped with AOA indicators. Pilot schools should incorporate training on AOA indicators in their syllabi, whether their training aircraft are equipped with them or not.
+
+Installation of AOA indicators not required by type certification in general aviation airplanes has recently been streamlined by the FAA. The FAA established policy in February 2014 pertaining to non- required AOA systems and how they may be installed as a minor alteration, depending upon their installation requirements and operational utilization, and the procedures to take for certification of these installations. For updated information, reference the FAA website at www.faa.gov.
+
+While AOA indicators provide a simple visual representation of the current AOA and its proximity to the critical AOA, they are not without their limitations. These limitations should be understood by operators of general aviation airplanes
+
+equipped with these devices. Like advanced automation, such as autopilots and moving maps, the misunderstanding or misuse of the equipment can have disastrous results. Some items which may limit the effectiveness of an AOA indicator are listed below:

@@ -1,0 +1,5 @@
+ engine housed inside the fuselage, and Otto Lilienthal, who proved human flight in aircraft heavier than air was practical, worked toward the dream of powered flight. A dream turned into reality by Wilbur and Orville Wright at Kitty Hawk, North Carolina, on December 17, 1903.
+
+The bicycle- building Wright brothers of Dayton, Ohio, had experimented for 4 years with kites, their own homemade wind tunnel, and different engines to power their biplane. One of their great achievements in flight was proving the value of the scientific, rather than a build- it- and- see approach. Their biplane, The Flyer, combined inspired design and engineering with superior craftsmanship. [Figure 1- 3] By the afternoon of December 17th, the Wright brothers had flown a total of 98 seconds on four flights. The age of flight had arrived.
+
+## History of the Federal Aviation Administration (FAA)

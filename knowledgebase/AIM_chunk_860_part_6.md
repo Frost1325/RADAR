@@ -1,0 +1,5 @@
+The entire set of textual missed approach instructions are provided at the top of the approach chart in the pilot briefing. (See FIG 5-4-5).
+
+(d) Waypoints. All RNAV or GPS stand-alone IAPs are flown using data pertaining to the particular IAP obtained from an onboard database, including the sequence of all WPs used for the approach and missed approach, except that step down waypoints may not be included in some TSO-C129 receiver databases. Included in the database, in most receivers, is coding that informs the navigation system of which WPs are fly-over (FO) or fly-by (FB). The navigation system may provide guidance appropriately – including leading the turn prior to a fly-by WP; or causing overflight of a fly-over WP. Where the navigation system does not provide such guidance, the pilot must accomplish the turn lead or waypoint overflight manually. Chart symbology for the FB WP provides pilot awareness of expected actions. Refer to the legend of the U.S. Terminal Procedures books.
+
+(e) TAAs are described in paragraph 5-4-5d, Terminal Arrival Area (TAA). When published, the RNAV chart depicts the TAA areas through the use of "icons" representing each T

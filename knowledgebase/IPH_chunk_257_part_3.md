@@ -1,0 +1,5 @@
+high performance aircraft.
+
+The pilot may elect to use the procedure turn or hold- in- lieu- of PT when it is not required by the procedure, but must first receive an amended clearance from ATC. When ATC is radar vectoring to the final approach course, or to the intermediate fix as may occur with RNAV standard instrument approach procedures, ATC may specify in the approach clearance "CLEARED STRAIGHT- IN (type) APPROACH" to ensure that the pilot understands that the procedure turn or hold- in- lieu- of PT is not to be flown. If the pilot is uncertain whether ATC intends for a procedure turn or a straight- in approach to be flown, the pilot will immediately request clarification from ATC.
+
+On U.S. Government charts, a barbed arrow indicates the maneuvering side of the outbound course on which the procedure turn is made. Headings are provided for course reversal using the \(45^{\circ}\) type procedure turn. However, the point at which the turn may be commenced and the type and rate of turn is left to the discretion of the pilot (limited by the charted remain within XX NM distance). Some of the options are the \(45^{\circ}\) procedure turn

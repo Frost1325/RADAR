@@ -1,0 +1,5 @@
+MS). The pilots were evaluated in maintaining aircraft parameters, such as heading, altitude, airspeed, glideslope, and localizer deviations, as well as pilot control inputs. These were recorded during a variety of normal, abnormal, and emergency maneuvers during 4 hours of simulator sessions.
+
+## Results of the Study
+
+When pilots who had flown EFIS for several years were required to fly various maneuvers manually, the aircraft parameters and flight control inputs clearly showed some erosion of flying skills. During normal maneuvers, such as turns to headings without a flight director, the EFIS group exhibited somewhat greater deviations than the analog group. Most of the time, the deviations were within the practical test standards (PTS), but the pilots definitely did not keep on the localizer and glideslope as smoothly as the analog group.

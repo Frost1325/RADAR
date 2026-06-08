@@ -1,0 +1,1 @@
+are in the tower. At many airports the airport beacon is turned on by a photoelectric cell or time clocks and ATC personnel cannot control them. There is no regulatory requirement for daylight operation and it is the pilot's responsibility to comply with proper preflight planning as required by 14 CFR Section 91.103.

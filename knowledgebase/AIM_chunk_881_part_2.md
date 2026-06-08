@@ -1,0 +1,7 @@
+the established minimums rests with the pilot.
+
+c. PAR and ASR minimums are published on separate pages in the FAA Terminal Procedures Publication (TPP).
+
+1. A PRECISION APPROACH (PAR) is one in which a controller provides highly accurate navigational guidance in azimuth and elevation to a pilot. Pilots are given headings to fly, to direct them to, and keep their aircraft aligned with the extended centerline of the landing runway. They are told to anticipate glidepath interception approximately 10 to 30 seconds before it occurs and when to start descent. The published Decision Height will be given only if the pilot requests it. If the aircraft is observed to deviate above or below the glidepath, the pilot is given the relative amount of deviation by use of terms "slightly" or "well" and is expected to adjust the aircraft's rate of descent/ascent to return to the glidepath. Trend information is also issued with respect to the elevation of the aircraft and may be modified by the terms "rapidly" and "slowly"; e.g., "well above glidepath, coming down rapidly."
+
+Range from touchdown is given at least once each mile. If an aircraft is observed by the controller to proceed outside of specified safety zone

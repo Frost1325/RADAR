@@ -1,0 +1,3 @@
+14 CFR SECTION 91.155. WHENEVER COMPLIANCE WITH AN ASSIGNED ROUTE, HEADING AND/OR ALTITUDE IS LIKELY TO COMPROMISE PILOT RESPONSIBILITY RESPECTING TERRAIN AND OBSTRUCTION CLEARANCE, VORTEX EXPOSURE, AND WEATHER MINIMUMS, APPROACH CONTROL SHOULD BE SO ADVISED AND A REVISED CLEARANCE OR INSTRUCTION OBTAINED.
+
+f. ATC services for VFR aircraft participating in terminal radar services are dependent on ATC radar. Services for VFR aircraft are not available during periods of a radar outage and are limited during CENRAP operations. The pilot will be advised when VFR services are limited or not available.

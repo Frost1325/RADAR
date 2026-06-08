@@ -1,0 +1,1 @@
+9-37, 14-4, 16-15, 16-16, 16-24, 17-12,</td></tr><tr><td>Total mechanical energy</td><td>4-1, 4-2, 4-3, 4-4, 4-16, 4-18, 4-19</td></tr><tr><td>Touchdown</td><td>9-9, 9-17, 9-33, 9-37, 9-38, 14-4, 16-24</td></tr><tr><td>Crosswinds</td><td>9-15, 9-16, 9-17, 9-18, 9-19, 9-20, 9-33, 13-22, 14-2, 14-4, 14-6, 17-6, 18-7</td></tr><tr><td>Three-point landing</td

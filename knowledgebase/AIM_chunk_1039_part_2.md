@@ -1,0 +1,7 @@
+in use. Urgency communications have priority over all other communications except distress, and the word PAN-PAN warns other stations not to interfere with urgency transmissions.
+
+e. Normally, the station addressed will be the air traffic facility or other agency providing air traffic services, on the frequency in use at the time. If the pilot is not communicating and receiving services, the station to be called will normally be the air traffic facility or other agency in whose area of responsibility the aircraft is operating, on the appropriate assigned frequency. If the station addressed does not respond, or if time or the situation dictates, the distress or urgency message may be broadcast, or a collect call may be used, addressing "Any Station (Tower)(Radio)(Radar)."
+
+f. The station addressed should immediately acknowledge a distress or urgency message, provide assistance, coordinate and direct the activities of assisting facilities, and alert the appropriate search and rescue coordinator if warranted. Responsibility will be transferred to another station only if better handling will result.
+
+g. All other stations, aircraft and ground, will continue to listen until it is evident that assistance is being provided. If any station becomes aware that the station being called either has not received a distress or urgency message, or cannot communicate with the aircraft in difficulty, it will

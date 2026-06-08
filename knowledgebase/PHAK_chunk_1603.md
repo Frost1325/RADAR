@@ -1,0 +1,5 @@
+ period, area defined in statute miles, and altitudes affected. The NOTAM also contains the FAA coordination facility and telephone number, the reason for the restriction, and any other information deemed appropriate. The pilot should check the NOTAMs as part of flight planning.
+
+Some of the purposes for establishing a TFR are:
+
+Protect persons and property in the air or on the surface from an existing or imminent hazard. Provide a safe environment for the operation of disaster relief aircraft. Prevent an unsafe congestion of sightseeing aircraft above an incident or event, that may generate a high degree of public interest. Protect declared national disasters for humanitarian reasons in the State of Hawaii. Protect the President, Vice President, or other public figures. Provide a safe environment for space agency operations.

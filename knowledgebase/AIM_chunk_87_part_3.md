@@ -1,0 +1,1 @@
+PBN) Manual (Fourth Edition, 2013) and the FAA Advisory Circular (AC) 90-105A, Approval Guidance for RNP Operations and Barometric Vertical Navigation in the U.S. National Airspace System and in Remote and Oceanic Airspace (expected publication date in late 2014) further develops this story.

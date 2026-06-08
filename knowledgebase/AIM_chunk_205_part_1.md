@@ -1,0 +1,3 @@
+## 3-4-8. National Security Areas
+
+National Security Areas consist of airspace of defined vertical and lateral dimensions established at locations where there is a requirement for increased security and safety of ground facilities. Pilots are requested to voluntarily avoid flying through the depicted NSA. When it is necessary to provide a greater level of security and safety, flight in NSAs may be temporarily prohibited by regulation under the provisions of 14 CFR Section 99.7. Regulatory prohibitions will be issued by System Operations, System Operations Airspace and AIM Office, Airspace and Rules, and disseminated via NOTAM. Inquiries about NSAs should be directed to Airspace and Rules.

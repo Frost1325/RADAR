@@ -1,0 +1,7 @@
+### a. Airport Operations Without Operating Control Tower
+
+1. There is no substitute for alertness while in the vicinity of an airport. It is essential that pilots be alert and look for other traffic and exchange traffic information when approaching or departing an airport without an operating control tower. This is of particular importance since other aircraft may not have communication capability or, in some cases, pilots may not communicate their presence or intentions when operating into or out of such airports. To achieve the greatest degree of safety, it is essential that all radio-equipped aircraft transmit/receive on a common frequency identified for the purpose of airport advisories.
+
+2. An airport may have a full or part-time tower or FSS located on the airport, a full or part-time UNICOM station or no aeronautical station at all. There are three ways for pilots to communicate their intention and obtain airport/traffic information when operating at an airport that does not have an operating tower: by communicating with an FSS, a UNICOM operator, or by making a self-announce broadcast.
+
+3. Many airports are now providing completely automated weather, radio check capability and airport advisory information on an automated UNICOM system. These systems offer a variety of features, typically selectable by microphone clicks, on the

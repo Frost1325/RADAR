@@ -1,0 +1,5 @@
+## Simultaneous Offset Instrument Approaches (SOIAs)
+
+SOIAs allow simultaneous approaches to two parallel runways spaced at least 750 feet apart, but less than 3,000 feet. Traditionally, the SOIA procedure has used an ILS/ PRM approach to one runway and an offset localizer- type directional aid (LDA)/PRM approach with glideslope to the adjacent runway. Now, RNAV (GPS) and RNAV (RNP) approaches may also be used for SOIA." Approach charts will include procedural notes, such as "Simultaneous Close Parallel approach authorized with LDA PRM RWY 28R and RNAV (GPS) PRM X RWY 28R." or "Simultaneous approach authorized". San Francisco had the first published SOIA approach. [Figure 4- 49]
+
+The training, procedures, and system requirements for SOIA ILS/PRM and LDA/PRM approaches are identical with those used for simultaneous close parallel ILS/PRM approaches until near the LDA/PRM approach MAP, where visual acquisition of the ILS aircraft by the LDA aircraft must be accomplished. If visual acquisition is not

@@ -1,0 +1,1 @@
+### b. Fighter intercept phases (See FIG 5-6-1).

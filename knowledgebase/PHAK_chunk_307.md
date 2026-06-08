@@ -1,0 +1,5 @@
+ be repaired. A high energy impact, such as a bird strike or hail while in flight, results in a puncture and a severely damaged structure. In
+
+ medium and high energy impacts, the damage is visible to the eye, but low energy impact is difficult to detect. [Figure 3- 16]
+
+If an impact results in delaminations, crushing of the surface, or a puncture, then a repair is mandatory. While waiting for the repair, the damaged area should be covered and protected from rain. Many composite parts are composed of thin skins over a honeycomb core, creating a "sandwich" structure. While excellent for structural stiffness reasons, such a structure is an easy target for water ingress (entering), leading to further problems later. A piece of "speed tape" over the puncture is a good way to protect it from water, but it is not a structural repair. The use of a paste filler to cover up the damage, while acceptable for cosmetic purposes, is not a structural repair, either.

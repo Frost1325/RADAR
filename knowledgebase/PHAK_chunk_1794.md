@@ -1,0 +1,5 @@
+ driver's license. Regardless of whether a medical certificate or drivers license is required, 14 CFR 61.53 requires every pilot not to act as a crewmember if they know, or have reason to know, of any medical condition that would make them unable to operate the aircraft in a safe manner.
+
+Acquisition of a medical certificate requires an examination by an aviation medical examiner (AME), a physician with training in aviation medicine designated by the Civil Aerospace Medical Institute (CAMI). There are three classes of medical certificates. The class of certificate needed depends on the type of flying the pilot plans to perform.
+
+A third- class medical certificate is required for a private or recreational pilot certificate. It is valid for 5 years for those individuals who have not reached the age of 40; otherwise it is valid for 2 years. A commercial pilot certificate requires at least a second- class medical certificate, which is valid for 1 year. First- class medical certificates are required for airline transport pilots and are valid for one year if the airman is 40 or younger; 40 and older it is valid for 6 months.

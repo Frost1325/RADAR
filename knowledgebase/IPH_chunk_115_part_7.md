@@ -1,0 +1,3 @@
+>Note 1</td></tr><tr><td>Canada, excluding Canadian MNPS airspace and the areas of magnetic unreliability, as established in the Canadian AIP</td><td>Note 3</td></tr><tr><td>SPECIAL REQUIREMENTS:<br>Note 1 - B-737 Class II navigation operations with a single long-range system is authorized only within this area of en route operation.<br>Note 3 - Only B-747 and DC-10 operations authorized in these areas.</td><td></td></tr></table>
+
+Figure 2-46. Excerpt of authorized areas of en route operation.

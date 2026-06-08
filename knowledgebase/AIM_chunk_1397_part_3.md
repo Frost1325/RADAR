@@ -1,0 +1,7 @@
+celestial illumination, such as that provided by a surface covered by snow or a desert surface.
+
+2. Low lighting conditions are those that do not meet the high lighting conditions requirements.
+
+3. Some areas may be considered a high lighting environment only in specific circumstances. For example, some surfaces, such as a forest with limited cultural lighting, normally have little reflectivity, requiring dependence on significant moonlight to achieve a high lighting condition. However, when that same forest is covered with snow, its reflectivity may support a high lighting condition based only on starlight. Similarly, a desolate area, with little cultural lighting, such as a desert, may have such inherent natural reflectivity that it may be considered a high lighting conditions area regardless of season, provided the cloud cover does not prevent starlight from being reflected from the surface. Other surfaces, such as areas of open water, may never have enough reflectivity or cultural lighting to ever be characterized as a high lighting area.
+
+4. Through the accumulation of night flying experience in a particular area, the operator will develop the ability to determine, prior to departure, which areas can be considered supporting high or low lighting conditions. Without that operational experience, low lighting considerations should be applied by operators for both pre-flight planning and operations until

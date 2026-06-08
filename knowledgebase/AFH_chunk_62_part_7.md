@@ -1,0 +1,3 @@
+hazardous when operating at low altitudes, such as when operating in the airport traffic pattern.
+
+During uncoordinated flight, the pilot may feel that they are being pushed sideways toward the outside or inside of the turn. [Figure 3- 13] The pilot feels pressed toward the outside of a turn during a skid and feels pressed toward the inside of a turn during a slip. The ability to sense a skid or slip is developed over time and as the "feel" of flying develops, a pilot should become highly sensitive to a slip or skid without undue reliance on the flight instruments.

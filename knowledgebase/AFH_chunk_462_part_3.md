@@ -1,0 +1,7 @@
+\) increase in the descent rate. Therefore, when at a higher altitude than desired in a descent, lowering the nose to increase speed will increase the descent angle and get the aircraft back to the desired path. Conversely, if lower than planned in descent, raising the nose to decrease speed will reduce descent angle until back on the desired path. Often, just a 10- knot change in speed allows for a smooth and gradual correction.
+
+If speed adjustment is not an option, power can be added to correct a low- energy state, or the speed brakes used to correct a high- energy state. Numerous power fluctuations or repeated deployment and stowing of speed brakes is an indication of either pilot failure to adequately plan and/or manage the descent, or a poorly designed arrival procedure.
+
+If a different descent speed from that planned is used during a descent, an adjustment should be made to the top of descent point. If ahead of schedule, leaving cruise altitude sooner, setting flight idle, and descending at a slower speed will burn less fuel. Conversely, if running late and willing to burn some extra fuel, the pilot can leave cruise later and descend at a higher speed. In all cases, the pilot should check progress during the descent and continue to adjust as necessary.
+
+Planned descent

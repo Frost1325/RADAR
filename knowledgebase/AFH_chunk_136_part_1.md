@@ -1,0 +1,3 @@
+## Coordinated Flight
+
+Coordinated flight occurs whenever the pilot is proactively correcting for yaw effects associated with power (engine/ propeller effects), aileron inputs, how an airplane reacts when turning, and airplane rigging. The airplane is in coordinated flight when the airplane's nose is yawed directly into the relative wind and the ball is centered in the slip/skid indicator (except for certain multiegnine airplane operation with an engine failure). [Figure 5- 5]

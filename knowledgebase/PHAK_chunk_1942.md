@@ -1,0 +1,7 @@
+ visibility conditions. This is particularly useful during critical phases of flight, such as takeoff, approach, and landing, where important features, such as terrain, obstacles, runways, and landmarks, may be depicted on the SVS display. [Figure 17- 25] During approach operations, the
+
+obvious advantages of SVS are that the digital terrain image remains on the pilot's display regardless of how poor the visibility is outside.
+
+An SVS image can be displayed on either a head- down display or head- up display (HUD); however, to date, SVS has only been certified on head- down displays. Development efforts to display a synthetic image on a HUD are currently underway as are efforts that would combine SVS with a real- time sensor image produced by an EFVS. These systems are known as Combined Vision Systems. While SVS is currently certified as an aid to situation awareness only, the FAA and aviation industry are working on defining operational concepts and airworthiness criteria that would enable SVS to be used for operational credit in certain low visibility conditions. Other future enhancements to SVS displays could include integrating ADS- B to display traffic information.
+
+## Enhanced Flight Vision System

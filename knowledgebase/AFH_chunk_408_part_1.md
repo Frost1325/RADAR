@@ -1,0 +1,7 @@
+## Soft-Field Takeoff
+
+Wing flaps may be lowered prior to starting the takeoff (if recommended by the manufacturer) to provide additional lift and transfer the airplane's weight from the wheels to the wings as early as possible. The airplane should be taxied onto the takeoff surface without stopping on a soft surface since mud or snow might bog the airplane down. The airplane should be kept in continuous motion with sufficient power while lining up for the takeoff roll. Due to the high power settings, it is usually best to have the elevator full up while taxiing onto the runway in soft conditions. There is not only the danger of the airplane bogging down, but also a danger of it tipping up onto its nose.
+
+As the airplane is aligned with the proposed takeoff path, takeoff power is applied smoothly and as rapidly as the powerplant will accept without faltering. The tail should be kept very low to maintain the inherent positive AOA and to avoid any tendency of the airplane to nose over as a result of soft spots, tall grass, or deep snow.
+
+When the airplane is held at a nose- high attitude throughout the takeoff run, the wings progressively relieve the wheels of more and more of the airplane's weight, thereby minimizing the drag

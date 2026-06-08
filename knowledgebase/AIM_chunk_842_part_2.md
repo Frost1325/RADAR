@@ -1,0 +1,7 @@
+will be completed prior to the time the aircraft reaches the fix. When radar handoffs are utilized, successive arriving flights may be handed off to approach control with radar separation in lieu of vertical separation.
+
+(b) After release to approach control, aircraft are vectored to the final approach course (ILS, RNAV, GLS, VOR, ADF, etc.). Radar vectors and altitude or flight levels will be issued as required for spacing and separating aircraft. Therefore, pilots must not deviate from the headings issued by approach control. Aircraft will normally be informed when it is necessary to vector across the final approach course for spacing or other reasons. If approach course crossing is imminent and the pilot has not been informed that the aircraft will be vectored across the final approach course, the pilot should query the controller.
+
+(c) The pilot is not expected to turn inbound on the final approach course unless an approach clearance has been issued. This clearance will normally be issued with the final vector for interception of the final approach course, and the vector will be such as to enable the pilot to establish the aircraft on the final approach course prior to reaching the final approach fix.
+
+(d) In the case of aircraft already inbound on the final approach course, approach clearance will be issued prior to the

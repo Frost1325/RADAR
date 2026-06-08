@@ -1,0 +1,3 @@
+## 4-1-6. Pilot Visits to Air Traffic Facilities
+
+Pilots are encouraged to visit air traffic facilities (Towers, Centers and FSSs) and familiarize themselves with the ATC system. On rare occasions, facilities may not be able to approve a visit because of ATC workload or other reasons. It is, therefore, requested that pilots contact the facility prior to the visit and advise of the number of persons in the group, the time and date of the proposed visit and the primary interest of the group. With this information available, the facility can prepare an itinerary and have someone available to guide the group through the facility.

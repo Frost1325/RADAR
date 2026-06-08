@@ -1,0 +1,3 @@
+ front. When this occurs, the cold air replaces the cool air and forces the warm front aloft into the atmosphere. Typically, the cold front occlusion creates a mixture of weather found in both warm and cold fronts, providing the air is relatively stable. A warm front occlusion occurs when the air ahead of the
+
+ warm front is colder than the air of the cold front. When this is the case, the cold front rides up and over the warm front. If the air forced aloft by the warm front occlusion is unstable, the weather is more severe than the weather found in a cold front occlusion. Embedded thunderstorms, rain, and fog are likely to occur.

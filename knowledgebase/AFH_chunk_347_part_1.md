@@ -1,0 +1,7 @@
+## Feathering Propellers
+
+Although the propellers of a multie engine airplane may appear identical to a constant- speed propeller used in many single- engine airplanes, this is usually not the case. The pilot of a typical multie engine airplane can feather the propeller of an inoperative engine. Since it stops engine rotation with the propeller blade streamlined with the airplane's relative wind, feathering the propeller of an inoperative engine minimizes propeller drag. [Figure 13- 2] Depending upon single- engine performance, this feature often permits continued flight to a suitable airport following an engine failure.
+
+Feathering is important because of the change in parasite drag with propeller blade angle. [Figure 13- 3] When the propeller blade angle is in the feathered position, parasite drag from the propeller is at a minimum. In a typical multie engine airplane, the parasite drag from a single, feathered propeller is a small part the airplane's total drag.
+
+At the smaller blade angles near the flat pitch position, the drag added by the propeller is large. At these small blade angles, the propeller windmilling at high revolutions per minute (rpm) can create enough drag to make the airplane

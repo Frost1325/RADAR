@@ -1,0 +1,3 @@
+## Turbocharger Failure
+
+Because of the high temperatures and pressures produced in the turbine exhaust system, any malfunction of the turbocharger should be treated with extreme caution. In all cases of turbocharger operation, the manufacturer's recommended procedures should be followed. This is especially so in the case of turbocharger malfunction. However, in those instances where the manufacturer's procedures do not adequately describe the actions to be taken in the event of a turbocharger failure, the following procedures should be used.

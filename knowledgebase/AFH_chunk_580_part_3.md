@@ -1,0 +1,1 @@
+tr><td>Initial climb</td><td>6-5</td></tr><tr><td>Lift-off</td><td>6-4</td></tr><tr><td>Takeoff roll</td><td>6-3</td></tr><tr><td>Nose baggage compartment</td><td>13-9</td></tr></table>

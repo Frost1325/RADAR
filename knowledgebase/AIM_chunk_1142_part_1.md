@@ -1,0 +1,1 @@
+## 7-1-18. Estimating Intensity of Rain and Ice Pellets

@@ -1,0 +1,7 @@
+## 4-3-19. Taxi During Low Visibility
+
+**a.** Pilots and aircraft operators should be constant-ly aware that during certain low visibility conditions the movement of aircraft and vehicles on airports may not be visible to the tower controller. This may prevent visual confirmation of an aircraft's adherence to taxi instructions.
+
+b. Of vital importance is the need for pilots to notify the controller when difficulties are encountered or at the first indication of becoming disoriented. Pilots should proceed with extreme caution when taxiing toward the sun. When vision difficulties are encountered pilots should immediately inform the controller.
+
+c. Advisory Circular 120-57, Surface Movement Guidance and Control System, commonly known as SMGCS (pronounced "SMIGS") requires a low visibility taxi plan for any airport which has takeoff or landing operations in less than 1,200 feet runway visual range (RVR) visibility conditions. These plans, which affect aircrew and vehicle operators, may incorporate additional lighting, markings, and procedures to control airport surface traffic. They will be addressed at two levels; operations less than 1,200 feet RVR to 600 feet RVR and operations less than 600 feet RVR

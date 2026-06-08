@@ -1,0 +1,5 @@
+ to shut off the fuel in the case of malfunction. In the unlikely event that the heater fuel solenoid, located at the heater, remains open or the control switches fail, the remote fuel solenoid and/or fuel pump is shut off by the mechanical overheat switch, stopping all fuel flow to the system.
+
+As opposed to the fuel fired cabin heaters that are used on most single- engine aircraft, it is unlikely for carbon monoxide poisoning to occur in combustion heaters. Combustion heaters have low pressure in the combustion tube that is vented through its exhaust into the air stream. The ventilation air on the outside of the combustion chamber is of higher pressure than on the inside, and ram air increases the pressure on the outside of the combustion tube. In the event a leak would develop in the combustion chamber, the higher- pressure air outside the chamber would travel into the chamber and out the exhaust.
+
+## Bleed Air Heating Systems

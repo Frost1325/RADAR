@@ -1,0 +1,7 @@
+## 4. Weather System Processor (WSP).
+
+(a) The WSP provides the controller, supervisor, traffic management specialist, and ultimately the pilot, with the same products as the terminal doppler weather radar (TDWR) at a fraction of the cost of a TDWR. This is accomplished by utilizing new technologies to access the weather channel capabilities of the existing ASR-9 radar located on or near the airport, thus eliminating the requirements for a separate radar location, land acquisition, support facilities and the associated communication landlines and expenses.
+
+(b) The WSP utilizes the same RBDT display as the TDWR and LLWAS, and, just like TDWR, also has a GSD for planning purposes by supervisors, traffic management specialists and controllers. The WSP GSD emulates the TDWR display, i.e., it also depicts 6 levels of precipitation, gust fronts and predicted storm movement, and like the TDWR GSD, is used to plan for runway changes and arrival/departure route changes in order to reduce aircraft delays and to increase airport capacity.
+
+(c) This system is currently under development and is operating in a developmental test status at the Albuquerque, New Mexico, airport. When fielded, the WSP is expected to

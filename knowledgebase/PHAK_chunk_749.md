@@ -1,0 +1,7 @@
+ Full Authority Digital Engine Control (FADEC)
+
+FADEC is a system consisting of a digital computer and ancillary components that control an aircraft's engine and propeller. First used in turbine- powered aircraft, and referred to as full authority digital electronic control, these sophisticated control systems are increasingly being used in piston powered aircraft.
+
+In a spark- ignition reciprocating engine, the FADEC uses speed, temperature, and pressure sensors to monitor the status of each cylinder. A digital computer calculates the ideal pulse for each injector and adjusts ignition timing as necessary to achieve optimal performance. In a compression- ignition engine, the FADEC operates similarly and performs all of the same functions, excluding those specifically related to the spark ignition process.
+
+FADEC systems eliminate the need for magnetos, carburetor heat, mixture controls, and engine priming. A single throttle lever is characteristic of an aircraft equipped with a FADEC system. The pilot simply positions the throttle lever to a desired detent, such as start, idle, cruise power, or max power, and the FADEC system adjusts the engine and propeller automatically for the mode selected. There is no need for the pilot to monitor or control the fuel- air mixture.

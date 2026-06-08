@@ -1,0 +1,5 @@
+ airfoil's tips, there is a spanwise movement of air from the bottom of the airfoil outward from the fuselage around the tips. This flow of air results in "spillage" over the tips, thereby setting up a whirlpool of air called a vortex. [Figure 5- 12]
+
+At the same time, the air on the upper surface has a tendency to flow in toward the fuselage and off the trailing edge. This air current forms a similar vortex at the inboard portion of the trailing edge of the airfoil, but because the fuselage limits the inward flow, the vortex is insignificant. Consequently, the deviation in flow direction is greatest at the outer tips where the unrestricted lateral flow is the strongest.
+
+As the air curls upward around the tip, it combines with the downwash to form a fast- spinning trailing vortex. These vortices increase drag because of energy spent in producing the turbulence. Whenever an airfoil is producing lift, induced drag occurs and wingtip vortices are created.

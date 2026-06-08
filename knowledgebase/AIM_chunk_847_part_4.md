@@ -1,0 +1,5 @@
+minima using GPS are charted as RNAV (GPS) RWY (Number) (e.g., RNAV (GPS) RWY 21). VOR/DME RNAV approaches will continue to be identified as VOR/DME RNAV RWY (Number) (e.g., VOR/DME RNAV RWY 21). VOR/DME RNAV procedures which can be flown by GPS will be annotated with “or GPS” (e.g., VOR/DME RNAV or GPS RWY 31).
+
+4. Approach minimums are based on the local altimeter setting for that airport, unless annotated otherwise; e.g., Oklahoma City/Will Rogers World approaches are based on having a Will Rogers World altimeter setting. When a different altimeter source is required, or more than one source is authorized, it will be annotated on the approach chart; e.g., use Sidney
+
+altimeter setting, if not received, use Scottsbluff altimeter setting. Approach minimums may be raised when a nonlocal altimeter source is authorized. When more than one altimeter source is authorized, and the minima are different, they will be shown by separate lines in the approach minima box or a note;

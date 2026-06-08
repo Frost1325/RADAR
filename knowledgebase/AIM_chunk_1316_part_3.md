@@ -1,0 +1,3 @@
+abruptly.
+
+(f) Ground lighting illusions. Lights along a straight path, such as a road, and even lights on moving trains can be mistaken for runway and approach lights. Bright runway and approach lighting systems, especially where few lights illuminate the surrounding terrain, may create the illusion of less distance to the runway. The pilot, who does not recognize this illusion will fly a higher approach. Conversely, the pilot overflying terrain which has few lights to provide height cues may make a lower than normal approach.

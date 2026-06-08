@@ -1,0 +1,7 @@
+ in space, the points on the card hold the same position in space relative to the vertical plane of the gyro. The aircraft actually rotates around the rotating gyro, not the other way around. As the instrument case and the aircraft revolve around the vertical axis of the gyro, the card provides clear and accurate heading information.
+
+Because of precession caused by friction, the heading indicator creeps or drifts from its set position. Among other factors, the amount of drift depends largely upon the condition of the instrument. If the bearings are worn, dirty, or improperly lubricated, the drift may be excessive. Another error in the heading indicator is caused by the fact that the gyro is oriented in space, and the Earth rotates in space at a rate of \(15^{\circ}\) in 1 hour. Thus, discounting precession caused by friction, the heading indicator may indicate as much as \(15^{\circ}\) error per every hour of operation.
+
+Some heading indicators referred to as horizontal situation indicators (HSI) receive a magnetic north reference from a magnetic slaving transmitter and generally need no adjustment. The magnetic slaving transmitter is called a magnetometer.
+
+## Attitude and Heading Reference System (AHRS)

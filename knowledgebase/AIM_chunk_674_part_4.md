@@ -1,0 +1,1 @@
+1 DME/DME/IRU</td></tr><tr><td>S1</td><td>RNP APCH</td></tr><tr><td>S2</td><td>RNP APCH with BARO-VNAV</td></tr><tr><td>T1</td><td>RNP AR APCH with RF<br>(special authorization required)</td></tr><tr><td>T2</td><td>RNP AR APCH without RF<br>(special authorization required)</td></tr></table>

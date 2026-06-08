@@ -1,0 +1,3 @@
+stop. 14 CFR part 61, sections 61.57(b)(1)(i) and (ii) require the pilot to have made the required takeoffs and landings acting as the sole manipulator of the controls, and to have performed the takeoffs and landings in an aircraft of the same category, class, and type (if a type rating is required). Other conditions apply if using a full flight simulator to meet the requirement as described in 14 CFR part 61 (section 61.57(b)(2)) or if seeking to use another alternative provided in the regulation.
+
+Night flying operations should not be encouraged or attempted except by certificated pilots with knowledge of and experience in the topics discussed in this chapter.

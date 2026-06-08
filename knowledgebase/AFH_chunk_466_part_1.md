@@ -1,0 +1,7 @@
+## Stabilized Approach
+
+The performance charts and the limitations contained in the FAA- approved AFM are predicated on momentum values that result from programmed speeds and weights. Runway length limitations assume an exact 50- foot threshold height at an exact speed of 1.3 times \(\mathrm{V_{SO}}\) . That "window" is critical and is a prime reason for the stabilized approach. Performance figures also assume that once through the target threshold window, the airplane touches down in a target touchdown zone approximately 1,000 feet down the runway, after which maximum stopping capability is used.
+
+The basic elements to the stabilized approach are listed below as follows:
+
+- The airplane should be in the landing configuration by 1,000 feet AGL in the approach. The landing gear should be down, landing flaps selected, trim set, and fuel balanced. Ensuring that these tasks are completed helps keep the number of variables to a minimum during the final approach.- The airplane should be on profile before descending below 1,000 feet. Configuration, trim, speed, and glidepath should be at or near the optimum parameters early in the approach to avoid distractions and conflicts as the airplane nears the threshold window. An

@@ -1,0 +1,7 @@
+## Stalls
+
+The stalling characteristics of the swept wing jet airplane can vary considerably from those of the normal straight wing airplane. The greatest difference noticeable to the pilot is the lift developed vs. angle of attack. An increase in angle of attack of the straight wing produces a substantial and constantly increasing lift vector up to its maximum coefficient of lift, and soon thereafter flow separation (stall) occurs with a rapid deterioration of lift.
+
+By contrast, the swept wing produces a much more gradual buildup of lift with a less well- defined maximum coefficient. This less- defined peak also means that a swept wing may not have as dramatic a loss of lift at angles of attack beyond its maximum lift coefficient. However, these high- lift conditions are accompanied by high drag, which may result in a high rate of descent. [Figure 16- 8]
+
+If a simple, straight- wing airplane's airfoil is swept, a natural tendency arises that it will stall at the wing tips first. This is because the boundary layer tends to flow spanwise toward the tips. [Figure 16- 9] The tendency for tip stall allowing the center of lift to move forward is greatest when wing sweep and taper are combined. To discourage a swept wing from stalling

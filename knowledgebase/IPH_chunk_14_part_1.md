@@ -1,0 +1,3 @@
+## Chapter 5
+
+Chapter 5- Updated paragraph "Next Generation Air Transportation (NextGen) System" information about automatic dependent surveillance- broadcast (ADS- B).- Updated paragraph "NextGen Existing Improvements" information about ADS- B.- Updated description of ADS- B.- Added a new paragraph, "Synthetic Vision Guidance System (SVGS)."- Updated references in paragraph, "Enhanced Flight Vision System (EFVS)" to include AC 90 106, Enhanced Flight Vision Systems.- Changed paragraph "Developing Combined Technology" to "Combined Vision System Technology" and discusses the concept of equivalent visual operations (EVO) where flight operations continue irrespective of the actual weather conditions.

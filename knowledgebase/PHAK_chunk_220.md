@@ -1,0 +1,5 @@
+ unrealistic assessment of piloting skills. All experienced pilots have fallen prey to, or have been tempted by, one or more of these tendencies in their flying careers. These dangerous tendencies or behavior patterns, which must be identified and eliminated, include the operational pitfalls shown in Figure 2- 15.
+
+## Stress Management
+
+Everyone is stressed to some degree almost all of the time. A certain amount of stress is good since it keeps a person alert and prevents complacency. Effects of stress are cumulative and, if the pilot does not cope with them in an appropriate way, they can eventually add up to an intolerable burden. Performance generally increases with the onset of stress, peaks, and then begins to fall off rapidly as stress levels exceed a person's ability to cope. The ability to make effective decisions during flight can be impaired by stress. There are two categories of stress—acute and chronic. These are both explained in Chapter 17, "Aeromedical Factors."

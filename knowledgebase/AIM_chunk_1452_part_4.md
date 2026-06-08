@@ -1,0 +1,5 @@
+(See LANDING MINIMUMS.)
+
+IFR MILITARY TRAINING ROUTES (IR)- Routes used by the Department of Defense and associated Reserve and Air Guard units for the purpose of conducting low-altitude navigation and tactical training in both IFR and VFR weather conditions below 10,000 feet MSL at airspeeds in excess of 250 knots IAS.
+
+IFR TAKEOFF MINIMUMS AND DEPARTURE PROCEDURES- Title 14 Code of Federal Regulations Part 91, prescribes standard takeoff rules for certain civil users. At some airports, obstructions or other factors require the establishment of nonstandard takeoff minimums, departure procedures, or both to assist pilots in avoiding obstacles during climb to the minimum en route altitude. Those airports are listed in FAA/DOD Instrument Approach Procedures (IAPs) Charts under a section entitled "IFR Takeoff Minimums and Departure Procedures." The FAA/DOD IAP chart legend illustrates the symbol used to alert the pilot to nonstandard takeoff minimums and departure procedures. When departing IFR from such airports or from any airports where there are no departure procedures, DPs, or ATC facilities available, pilots should advise ATC of any

@@ -1,0 +1,7 @@
+. Pilots should also realize that their eyes may require several seconds to refocus when switching views between items on the instrument panel and distant objects.
+
+Proper scanning requires the constant sharing of attention with other piloting tasks, thus it is easily degraded by psychological and physiological conditions such as fatigue, boredom, illness, anxiety, or preoccupation.
+
+Effective scanning is accomplished with a series of short, regularly- spaced eye movements that bring successive areas of the sky into the central visual field. Each movement should not exceed 10 degrees, and each area should be observed for at least 1 second to enable detection. Although horizontal back- and- forth eye movements seem preferred by most pilots, each pilot should develop a scanning pattern that is comfortable and adhere to it to assure optimum scanning.
+
+Peripheral vision can be most useful in spotting collision threats from other aircraft. Each time a scan is stopped and the eyes are refocused, the peripheral vision takes on more importance because it is through this element that movement is detected. Apparent movement is usually the first perception of a collision threat and probably the most important because it is the discovery of a threat that triggers the events leading to proper evasive action. It is essential to remember that if another aircraft appears to have no relative motion, it

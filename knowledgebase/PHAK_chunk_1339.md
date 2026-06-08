@@ -1,0 +1,3 @@
+0 feet per minute (fpm). As it ascends, the instrumentation gathers various pieces of data, such as air temperature, moisture, and pressure, as well as wind speed and direction. Once the information is gathered, it is relayed to ground stations via a 300 milliwatt radio transmitter.
+
+The balloon flight can last as long as 2 hours or more and can ascend to altitudes as high as 115,000 feet and drift as far as 125 miles. The temperatures and pressures experienced during the flight can be as low as - 130 °F and pressures as low as a few thousandths of what is experienced at sea level.

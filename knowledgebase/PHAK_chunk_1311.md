@@ -1,0 +1,5 @@
+
+
+Like warm fronts, not all cold fronts are the same. Examining a flight toward an approaching cold front, pilots can get a better understanding of the type of conditions that can be encountered in flight. Figure 12- 26 depicts a flight from Pittsburgh, Pennsylvania, toward St. Louis, Missouri.
+
+At the time of departure from Pittsburgh, the weather is VFR with three miles visibility in smoke and a scattered layer of clouds at 3,500 feet. As the flight progresses westward to Columbus and closer to the oncoming cold front, the clouds show signs of vertical development with a broken layer at 2,500 feet. The visibility is six miles in haze with a falling barometric pressure. Approaching Indianapolis, the weather has deteriorated to overcast clouds at 1,000 feet and three miles visibility with thunderstorms and heavy rain showers. At St. Louis, the weather gets better with scattered clouds at 1,000 feet and a ten mile visibility.

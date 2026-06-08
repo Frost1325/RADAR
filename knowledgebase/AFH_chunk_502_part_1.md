@@ -1,0 +1,3 @@
+## Post-Flight
+
+Post- FlightAfter the airplane has been shutdown, tied- down, and secured, the pilot should conduct a complete post- flight inspection. Any squawks or discrepancies should be noted and reported to maintenance. Transitioning pilots should insist on a training debriefing where critique and planning for the next lesson takes place. Documentation of the pilot's progress should be noted in the student's records.

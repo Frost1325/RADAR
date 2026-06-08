@@ -1,0 +1,3 @@
+## 4-1-8. Approach Control Service for VFR Arriving Aircraft
+
+a. Numerous approach control facilities have established programs for arriving VFR aircraft to contact approach control for landing information. This information includes: wind, runway, and altimeter setting at the airport of intended landing. This information may be omitted if contained in the Automatic Terminal Information Service (ATIS) broadcast and the pilot states the appropriate ATIS code.

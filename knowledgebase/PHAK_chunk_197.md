@@ -1,0 +1,5 @@
+ that limited experience can create additional risks is a key part of sound risk management and mitigation.- External Factors: Like many pilots, Gayle must contend with the emotional pressure associated with acknowledging that her skill and experience levels may be lower than she would like them to be. Pride can be a powerful external factor!
+
+## Environment
+
+- Consequences: For a pilot whose experience consists mostly of local flights in good VMC, launching a long cross-country flight over mountainous terrain in hazy conditions could lead to pilot disorientation and increase the risk of an accident.- Alternatives: Options include postponing the trip until the visibility improves, or modifying the route to avoid extended periods of time over the mountains.- Reality: Hazy conditions and mountainous terrain clearly create risks for an inexperienced VFR-only pilot.- External Factors: Few pilots are immune to the pressure of "get-there-itis," which can sometimes induce a decision to launch or continue in less than ideal weather conditions.

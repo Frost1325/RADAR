@@ -1,0 +1,7 @@
+Whitecaps fall forward with the wind but are overrun by the waves thus producing the illusion that the foam is sliding backward. Knowing this, and by observing the direction of the streaks, the wind direction is easily determined. Wind velocity can be estimated by noting the appearance of the whitecaps, foam and wind streaks.
+
+1. The behavior of the aircraft on making contact with the water will vary within wide limits according to the state of the sea. If landed parallel to a single swell system, the behavior of the aircraft may approximate that to be expected on a smooth sea. If landed into a heavy swell or into a confused sea, the deceleration forces may be extremely great-resulting in breaking up of the aircraft. Within certain limits, the pilot is able to minimize these forces by proper sea evaluation and selection of ditching heading.
+
+2. When on final approach the pilot should look ahead and observe the surface of the sea. There may be shadows and whitecaps-signs of large seas. Shadows and whitecaps close together indicate short and rough seas. Touchdown in these areas is to be avoided. Select and touchdown in any area (only about 500 feet is needed) where the shadows and whitecaps are not so numerous.
+
+3. Touchdown

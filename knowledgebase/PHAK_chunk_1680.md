@@ -1,0 +1,5 @@
+}\) or \(3.43\mathrm{NM}\) from the course on the ground. In the more congested areas, some of the smaller features are not included on the chart. If confused, hold the heading. If a turn is made away from the heading, it is easy to become lost.
+
+Roads shown on the chart are primarily the well- traveled roads or those most apparent when viewed from the air. New roads and structures are constantly being built and may not be shown on the chart until the next chart is issued. Some structures, such as antennas, may be difficult to see. Sometimes TV antennas are grouped together in an area near a town. They are supported by almost invisible guy wires. Never approach an area of antennas less than 500 feet above the tallest one. Most of the taller structures are marked with strobe lights to make them more visible to pilots. However, some weather conditions or background lighting may make them difficult to see. Aeronautical charts display the best information available at the time of printing, but a pilot should be cautious for new structures or changes that have occurred since the chart was printed.
+
+## Dead Reckoning

@@ -1,0 +1,3 @@
+## VHF Airways
+
+VHF AirwaysVICtor airways are a system of established routes that run along specified VOR radials, from one VOR station to another. The purpose is to make flight planning easier and they help ATC to organize and regulate the air traffic flow. Almost all commercial flights are routed along these airways but they are available for use by any pilot provided that the proper altitudes are employed.

@@ -1,0 +1,5 @@
+course alignment of the VOR is excellent, being generally plus or minus 1 degree.
+
+2. Roughness. On some VORs, minor course roughness may be observed, evidenced by course needle or brief flag alarm activity (some receivers are more susceptible to these irregularities than others). At a few stations, usually in mountainous terrain, the pilot may occasionally observe a brief course needle oscillation, similar to the indication of "approaching station." Pilots flying over unfamiliar routes are cautioned to be on the alert for these vagaries, and in particular, to use the "to/from" indicator to determine positive station passage.
+
+(a) Certain propeller revolutions per minute (RPM) settings or helicopter rotor speeds can cause the VOR Course Deviation Indicator to fluctuate as much as plus or minus six degrees. Slight changes to the RPM setting will normally smooth out this roughness. Pilots are urged to check for this modulation phenomenon prior to reporting a VOR station or aircraft equipment for unsatisfactory operation.

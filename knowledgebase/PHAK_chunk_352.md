@@ -1,0 +1,7 @@
+ chord line to the upper and lower surfaces of the wing denotes the magnitude of the upper and lower camber at any point. Another reference line, drawn
+
+from the leading edge to the trailing edge, is the mean camber line. This mean line is equidistant at all points from the upper and lower surfaces.
+
+An airfoil is constructed in such a way that its shape takes advantage of the air's response to certain physical laws. This develops two actions from the air mass: a positive pressure lifting action from the air mass below the wing, and a negative pressure lifting action from lowered pressure above the wing.
+
+As the air stream strikes the relatively flat lower surface of a wing or rotor blade when inclined at a small angle to its direction of motion, the air is forced to rebound downward, causing an upward reaction in positive lift. At the same time, the air stream striking the upper curved section of the leading edge is deflected upward. An airfoil is shaped to cause an action on the air, and forces air downward, which provides an equal reaction from the air, forcing the airfoil upward. If a wing is constructed in such form that it causes a lift force greater than the weight of the aircraft, the aircraft will fly.

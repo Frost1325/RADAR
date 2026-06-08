@@ -1,0 +1,5 @@
+ a condition of accelerated and decelerated motion. For instance, during takeoff an aircraft starts at zero speed and accelerates to the takeoff speed to become airborne. During landing, the aircraft touches down at the landing speed and decelerates to zero speed. The important factors of takeoff or landing performance are:
+
+- The takeoff or landing speed is generally a function of the stall speed or minimum flying speed.- The rate of acceleration/deceleration during the takeoff or landing roll. The speed (acceleration and deceleration) experienced by any object varies directly with the imbalance of force and inversely with the mass of the object. An airplane on the runway moving at 75 knots has four times the energy it has traveling at 37 knots. Thus, an airplane requires four times as much distance to stop as required at half the speed.- The takeoff or landing roll distance is a function of both acceleration/deceleration and speed.
+
+## Runway Surface and Gradient

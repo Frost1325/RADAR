@@ -1,0 +1,7 @@
+en route environment, secondary-radar-only (no primary radar) gap filler radar systems are used to give lower altitude radar coverage between two larger radar systems, each of which provides both primary and secondary radar coverage. In those geographical areas served by secondary-radar only, aircraft without transponders cannot be provided with radar service. Additionally, transponder equipped aircraft cannot be provided with radar advisories concerning primary targets and weather.
+
+REFERENCE- Pilot/Controller Glossary Term- Radar
+
+(g) The controller's ability to advise a pilot flying on instruments or in visual conditions of the aircraft's proximity to another aircraft will be limited if the unknown aircraft is not observed on radar, if no flight plan information is available, or if the volume of traffic and workload prevent issuing traffic information. The controller's first priority is given to establishing vertical, lateral, or longitudinal separation between aircraft flying IFR under the control of ATC.
+
+c. FAA radar units operate continuously at the locations shown in the Airport/Facility Directory, and their services are available to all pilots, both civil and military. Contact the associated FAA control tower or ARTCC on any frequency guarded for initial instructions, or in an emergency, any FAA facility for information on the nearest radar service.

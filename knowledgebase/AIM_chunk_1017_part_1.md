@@ -1,0 +1,5 @@
+## 6-1-2. Emergency Condition-Request Assistance Immediately
+
+a. An emergency can be either a distress or urgency condition as defined in the Pilot/Controller Glossary. Pilots do not hesitate to declare an emergency when they are faced with distress conditions such as fire, mechanical failure, or structural damage. However, some are reluctant to report an urgency condition when they encounter situations which may not be immediately perilous, but are potentially catastrophic. An aircraft is in at least an urgency condition the moment the pilot becomes doubtful about position, fuel endurance, weather, or any other condition that could adversely affect flight safety. This is the time to ask for help, not after the situation has developed into a distress condition.
+
+b. Pilots who become apprehensive for their safety for any reason should request assistance immediately. Ready and willing help is available in the form of radio, radar, direction finding stations and other aircraft. Delay has caused accidents and cost lives. Safety is not a luxury! Take action!

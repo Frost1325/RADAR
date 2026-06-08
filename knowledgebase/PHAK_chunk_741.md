@@ -1,0 +1,7 @@
+ the muffler. The muffler is heated by the exiting exhaust gases and, in turn, heats the air around the muffler. This heated air is then ducted to the cabin for heat and defrost applications. The heat and defrost are controlled in the flight deck and can be adjusted to the desired level.
+
+Exhaust gases contain large amounts of carbon monoxide, which is odorless and colorless. Carbon monoxide is deadly, and its presence is virtually impossible to detect. To ensure that exhaust gases are properly expelled, the exhaust system must be in good condition and free of cracks.
+
+Some exhaust systems have an EGT probe. This probe transmits the EGT to an instrument in the flight deck. The EGT gauge measures the temperature of the gases at the exhaust manifold. This temperature varies with the ratio of fuel to air entering the cylinders and can be used as a basis for regulating the fuel- air mixture. The EGT gauge is highly accurate in indicating the correct fuel- air mixture setting. When using the EGT to aid in leaning the fuel- air mixture, fuel consumption can be reduced. For specific procedures, refer to the manufacturer's recommendations for leaning the fuel- air mixture.
+
+## Starting System

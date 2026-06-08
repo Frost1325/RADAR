@@ -1,0 +1,3 @@
+under certain conditions when a facility is utilizing CENRAP because radar target information updates at a slower rate than the normal ASR radar. Radar services for VFR aircraft are also limited during CENRAP operations because of the additional workload required to provide services to IFR aircraft.
+
+b. Surveillance radars scan through 360 degrees of azimuth and present target information on a radar display located in a tower or center. This information is used independently or in conjunction with other navigational aids in the control of air traffic.

@@ -1,0 +1,5 @@
+speed—increases, decreases, or remains the same.
+
+When thrust exceeds drag (T-D > 0), the airplane's total mechanical energy increases. The pilot can store the surplus energy as increased altitude or airspeed. For example, if the pilot decides to put all the surplus energy into altitude, the airplane can climb at a constant airspeed. [Figure 4-1A] If the pilot opts to place all the surplus energy into airspeed, the airplane can accelerate while maintaining altitude. [Figure 4-1B]
+
+When drag exceeds thrust, (T-D < 0), the airplane's total mechanical energy decreases. The pilot has two sources of stored energy to tap into. For example, the pilot may choose to let the airplane descend at a constant airspeed [Figure 4-1C)] or slow down while maintaining altitude [Figure 4-1D] as stored energy is withdrawn to deal with the energy deficit. When energy gained equals that lost (T-D = 0), all thrust is spent on drag. In this case, the total amount of mechanical energy and its distribution over altitude and airspeed does not change. Both remain constant as the airplane maintains a constant altitude and airspeed. [Figure 4-1

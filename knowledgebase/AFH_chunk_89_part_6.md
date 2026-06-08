@@ -1,0 +1,5 @@
+a deviation in altitude and/or airspeed.
+
+Lower- and- slower (B) is fundamentally different from lower- and- faster (D). The former requires advancing the throttle forward to regain total energy (3 in Figure 4- 12), while the latter requires pulling back on the yoke/stick to null the energy distribution error (9 in Figure 4- 12).
+
+<table><tr><td colspan="5">Airspeed</td></tr><tr><td></td><td>Cautions when Very Slow</td><td>Slower</td><td>Desired speed</td><td>Faster</td></tr><tr><td>Higher</td><td>Relatively safe. Surplus altitude is available to gain speed by pushing the elevator forward.</td><td>(1)<br>Exchange energy by pushing the elevator forward to accelerate and descent simultaneously. Maintain the throttle setting.</td><td>(4)<br>Reduce throttle setting to reduce total energy. Use elevator to maintain correct airspeed and allow the airplane to descend.</td><td>(7)<br>Reduce throttle setting significantly to decrease total energy. Pull back on elevator gradually to decelerate to correct airspeed and then descend.</

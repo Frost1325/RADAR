@@ -1,0 +1,5 @@
+speed adjustment is no longer needed, ATC advises the pilot to "... resume normal speed."
+
+Keep in mind that the maximum speeds specified in 14 CFR Part 91, § 91.117 still apply during speed adjustments. It is the pilot's responsibility to advise ATC if an assigned speed adjustment would cause an exceedence of these limits. For operations in Class C or D airspace at or below 2,500 feet above ground level (AGL), within 4 NM of the primary airport, ATC has the authority to approve a faster speed than those prescribed in 14 CFR Part 91, § 91.117.
+
+Pilots operating at or above 10,000 feet MSL on an assigned speed adjustment that is greater than 250 KIAS are expected to reduce speed to 250 KIAS to comply with 14 CFR Part 91, § 91.117(a) when cleared below 10,000 feet MSL, within domestic airspace. This speed adjustment is made without notifying ATC. Pilots are expected to comply with the other provisions of 14 CFR Part 91,

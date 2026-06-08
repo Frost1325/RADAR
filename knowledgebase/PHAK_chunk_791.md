@@ -1,0 +1,3 @@
+ may not be drained during normal servicing, depending on the rate at which it is converted to free water. In general, it is not likely that all entrained water can ever be separated from fuel under field conditions. The settling rate depends on a series of factors including temperature, quiescence, and droplet size.
+
+The droplet size varies depending upon the mechanics of formation. Usually, the particles are so small as to be invisible to the naked eye, but in extreme cases, can cause slight haziness in the fuel. Water in solution cannot be removed except by dehydration or by converting it through temperature reduction to entrained, then to free water.

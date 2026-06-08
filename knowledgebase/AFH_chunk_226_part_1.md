@@ -1,0 +1,7 @@
+## Final Approach
+
+After the base- to- final approach turn is completed, the pilot aligns the longitudinal axis of the airplane with the centerline of the runway or landing surface. On a final approach, with no crosswind, the longitudinal axis is kept aligned with the runway centerline throughout the final approach and landing. (Methods to correct for a crosswind are explained in the "Crosswind Approach and Landing" section of this chapter. For now, only approaches and landings where the wind is straight down the runway are discussed.)
+
+After aligning the airplane with the runway centerline, the final flap setting is completed and the pitch attitude adjusted as required. Some adjustment of pitch and power may be necessary to maintain the desired rate of descent and approach airspeed. The pilot should use the manufacturer's recommended airspeed or \(1.3 \mathrm{V}_{\mathrm{SO}}\) if there is no manufacturer's recommendation. As the pitch attitude and airspeed stabilize, the airplane is re- trimmed to relieve any control pressure.
+
+The descent angle is controlled throughout the approach so that the airplane lands in the center of the first third of the runway. The descent angle is affected by all four fundamental forces that act on an airplane (lift, drag, thrust

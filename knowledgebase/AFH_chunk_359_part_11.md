@@ -1,0 +1,3 @@
+. En route climb speed gives better visibility, increased engine cooling, and a higher groundspeed. Takeoff power can be reduced, if desired, as the transition to en route climb speed is made.
+
+Some airplanes have a climb power setting published in the AFM/POH as a recommendation (or sometimes as a limitation), which should then be set for en route climb. If there is no climb power setting published, it is customary, but not a requirement, to reduce manifold pressure and rpm somewhat for en route climb. The propellers are usually synchronized after the first power reduction and the yaw damper, if installed, engaged. The AFM/POH may also recommend leaning the mixtures during climb. The climb checklist should be accomplished as traffic and work load allow. [Figure 13- 7]

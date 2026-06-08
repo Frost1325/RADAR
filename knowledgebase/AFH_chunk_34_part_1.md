@@ -1,0 +1,7 @@
+## Human Resource Management
+
+Human resource management requires an effective use of all available resources: human, equipment, and information.
+
+Human resources include the essential personnel routinely working with the pilot to ensure safety of flight. These people include, but are not limited to: weather briefers, flight line personnel, maintenance personnel, crew members, pilots, and air traffic personnel. Pilots need to communicate effectively with these people. This is accomplished by using the key components of the communication process: inquiry, advocacy, and assertion. Pilots should recognize the need to seek enough information from these resources to make a valid decision. After the necessary information has been gathered, the pilot's decision should be passed on to those concerned, such as air traffic controllers, crewmembers, and passengers. The pilot may have to request assistance from others and be assertive to resolve some situations safely.
+
+Equipment in many of today's aircraft includes automated flight and navigation systems. These automatic systems, while providing relief from many routine tasks, present a different set of problems for pilots. The automation intended to reduce pilot workload essentially removes the pilot from the process of managing the aircraft, thereby reducing situational awareness and leading to complacency. Information from these systems needs to be continually monitored to ensure proper situational awareness. Pil

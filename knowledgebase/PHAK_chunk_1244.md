@@ -1,0 +1,5 @@
+ to a pressure indicator with a mechanical linkage to provide pressure readings. The pressure sensing part of an aircraft altimeter is essentially an aneroid barometer. It is important to note that due to
+
+the linkage mechanism of an aneroid barometer, it is not as accurate as a mercurial barometer.
+
+To provide a common reference, the International Standard Atmosphere (ISA) has been established. These standard conditions are the basis for certain flight instruments and most aircraft performance data. Standard sea level pressure is defined as \(29.92" \mathrm{Hg}\) and a standard temperature of \(59^{\circ} \mathrm{F}\) ( \(15^{\circ} \mathrm{C}\) ). Atmospheric pressure is also reported in millibars (mb), with \(1" \mathrm{Hg}\) equal to approximately \(34 \mathrm{mb}\) . Standard sea level pressure is \(1,013.2 \mathrm{mb}\) . Typical mb pressure readings range from \(950.0\) to \(1,040.0 \mathrm{mb}\) . Surface charts, high and low pressure centers, and hurricane data are reported using mb.

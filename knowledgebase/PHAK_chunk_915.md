@@ -1,0 +1,5 @@
+ panel layouts in order to accommodate all necessary flight instruments. Instead, multi- panel digital flight displays combine all flight instruments onto a single screen that is called a primary flight display (PFD). The traditional "six pack" of instruments is now displayed on one liquid crystal display (LCD) screen.
+
+## Airspeed Tape
+
+Configured similarly to traditional panel layouts, the ASI is located on the left side of the screen and is displayed as a vertical speed tape. As the aircraft increases in speed, the larger numbers descend from the top of the tape. The TAS is displayed at the bottom of the tape through the input to the air data computer (ADC) from the outside air temperature probe. Airspeed markings for \(\mathrm{V}_{\mathrm{X}}\) , \(\mathrm{V}_{\mathrm{Y}}\) , and rotation speed \((\mathrm{V}_{\mathrm{R}})\) are displayed for pilot reference. An additional pilot- controlled airspeed bug is available to set at any desired reference speed. As on traditional analogue ASIs, the electronic airspeed tape displays the color- coded ranges for the flap operating range,

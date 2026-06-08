@@ -1,0 +1,5 @@
+ in front of the engine, which is located at the rear of a vehicle. The airframe is attached to the parachute via two attachment points and lines. Control is accomplished by both power and the changing of the airfoil via the control lines. [Figure 5- 20]
+
+## Moment and Moment Arm
+
+A study of physics shows that a body that is free to rotate will always turn about its CG. In aerodynamic terms, the mathematical measure of an aircraft's tendency to rotate about its CG is called a "moment." A moment is said to be equal to the product of the force applied and the distance at which the force is applied. (A moment arm is the distance from a datum [reference point or line] to the applied force.) For aircraft weight and balance computations, "moments" are expressed in terms of the distance of the arm times the aircraft's weight, or simply, inch- pounds.

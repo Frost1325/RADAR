@@ -1,0 +1,3 @@
+## Airport Signs, Lighting, and Markings
+
+Flight crews use airport lighting, markings, and signs to help maintain situational awareness. These visual aids provide information concerning the aircraft's location on the airport, the taxiway in use, and the runway entrance being used. Overlooking this information can lead to ground accidents that are entirely preventable. If you encounter unfamiliar markings or lighting, contact ATC for clarification and, if necessary, request progressive taxi instructions. Pilots are encouraged to notify the appropriate authorities of erroneous, misleading, or decaying signs or lighting that would contribute to the failure of safe ground operations.

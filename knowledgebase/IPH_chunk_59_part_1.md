@@ -1,0 +1,7 @@
+## Digital Automatic Terminal Information Service (D-ATIS)
+
+The digital ATIS (D- ATIS) is an alternative method of receiving ATIS reports. The service provides text messages to aircraft, airlines, and other users outside the standard reception range of conventional ATIS via landline and data link communications to the flight deck. Aircraft equipped with data link services are capable of receiving ATIS information over their Aircraft Communications Addressing and Reporting System (ACARS) unit. This allows the pilots to read and print out the ATIS report inside the aircraft, thereby increasing report accuracy and decreasing pilot workload.
+
+Also, the service provides a computer- synthesized voice message that can be transmitted to all aircraft within range of existing transmitters. The Terminal Data Link System (TDLS) D- ATIS application uses weather inputs from local automated weather sources or manually entered meteorological data together with preprogrammed menus to provide standard information to users. Airports with D- ATIS capability are listed in the CS.
+
+It is important to remember that ATIS information is updated hourly and anytime a significant change in the weather occurs. As a result, the information is not the most current report available. Prior to departing the airport, you need to get the latest weather information from the tower.

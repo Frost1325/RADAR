@@ -1,0 +1,5 @@
+ hold sign has white characters, outlined in black, on a red background and is installed adjacent to the ILS holding position markings. [Figure 14- 24] The holding position markings for the ILS critical area appear on the pavement as a horizontal yellow ladder extending across the width of the taxiway.
+
+When instructed to "hold short of Runway (XX) ILS critical area," you must ensure no portion of the aircraft extends beyond these markings. [Figure 14- 25] If ATC does not instruct you to hold at this point, then you may bypass the ILS critical area hold position markings and continue with your taxi. Figure 14- 24 shows that the ILS hold sign is located on Taxiway Golf and the ILS ladder hold position marking is adjacent to the hold sign.
+
+## Holding Position Markings for Taxiway/Taxiway Intersections

@@ -1,0 +1,5 @@
+affected areas. If an aircraft has the capability of setting the current altimeter setting and operating into airports with the capability of measuring the current altimeter setting, no additional restrictions apply. At or above 18,000 feet MSL, altimeters should be set to 29.92 " Hg (standard setting). Additional procedures exist beyond the en route phase of flight.
+
+The lowest usable flight level is determined by the atmospheric pressure in the area of operation. As local altimeter settings fall below 29.92 " Hg, pilots operating in Class A airspace must cruise at progressively higher indicated altitudes to ensure separation from aircraft operating in the low altitude structure as follows:
+
+<table><tr><td>Current Altimeter Setting</td><td>Lowest Usable Flight Level</td></tr><tr><td>29.92 or higher</td><td>180</td></tr><tr><td>29.91 to 29.42</td><td>185</td></tr><tr><td>29.41 to 28.92</td><td>190</td></tr><tr><td

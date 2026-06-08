@@ -1,0 +1,7 @@
+performance capability to do so. [Figure 13- 6]
+
+Takeoff planning factors include weight and balance, airplane performance (both single and multigenie), runway length, slope and contamination, terrain and obstacles in the area, weather conditions, and pilot proficiency. Most multigenie airplanes have AFM/POH performance charts and the pilot should be proficient in their use. Prior to takeoff, the multigenie pilot should ensure that the weight and balance limitations have been observed, the runway length is adequate, and the normal flightpath clears obstacles and terrain. The pilot should also consider the appropriate actions expected in the event of an engine failure at any point during the takeoff.
+
+The regulations do not specifically require that the runway length be equal to or greater than the accelerate- stop distance. Most AFM/POHs publish accelerate- stop distances only as an advisory. It becomes a limitation only when published in the limitations section of the AFM/POH. Experienced multigene pilots, however, recognize the safety margin of runway lengths in excess of the bare minimum required for normal takeoff, and they insist on runway lengths of at least accelerate- stop distance as a matter of safety and good operating practice.
+
+The multigene pilot considers

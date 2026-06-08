@@ -1,0 +1,3 @@
+### f. Drilling Rig Perforating Operations: Helideck/Heliport Operational Hazard Warning(s)/Procedure(s)
+
+1. Background. A critical step in the oil well completion process is perforation, which involves the use of explosive charges in the drill pipe to open the pipe to oil or gas deposits. Explosive charges used in conjunction with perforation operations offshore can potentially be prematurely detonated by radio transmissions, including those from helicopters. The following practices are recommended.

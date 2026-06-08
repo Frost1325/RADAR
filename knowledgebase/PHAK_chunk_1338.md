@@ -1,0 +1,5 @@
+er radar displays show weather as three shades of blue. Controllers can select the level of weather to be displayed. Weather displays of higher levels of intensity make it difficult for controllers to see aircraft data blocks, so pilots should not expect air traffic control (ATC) to keep weather displayed continuously.
+
+## Upper Air Observations
+
+Observations of upper air weather are more challenging than surface observations. There are several methods by which upper air weather phenomena can be observed: radiosonde observations, pilot weather reports (PIREPs), Aircraft Meteorological Data Relay (AMDAR) and the Meteorological Data Collection and Reporting System (MDCRS). A radiosonde is a small cubic instrumentation package that is suspended below a six foot hydrogen- or helium- filled balloon. Once released, the balloon rises at a rate of approximately 1,000 feet per minute (fpm). As it ascends, the instrumentation gathers various pieces of data, such as air temperature, moisture, and pressure, as well as wind speed and direction. Once the information is gathered, it is relayed to ground stations via a 300 milliwatt radio transmitter.

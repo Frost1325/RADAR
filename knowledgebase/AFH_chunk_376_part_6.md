@@ -1,0 +1,5 @@
+sea level. In order to avoid accidents, test pilots conduct \(\mathrm{V_{MC}}\) tests at a variety of altitudes, and the results of those tests are then extrapolated to a single, sea level value.
+
+- All propeller controls in the recommended takeoff position throughout \(\mathrm{V_{MC}}\) determination (section 23.149(b)(5)). \(\mathrm{V_{MC}}\) increases with increased drag on the inoperative engine. \(\mathrm{V_{MC}}\) is highest, therefore, when the critical engine propeller is windmilling at the low pitch, high rpm blade angle. \(\mathrm{V_{MC}}\) is normally determined with the critical engine propeller windmilling in the takeoff position, unless the engine is equipped with an autofeather system.
+
+- Most unfavorable weight and center-of-gravity position (section 23.149(b)). \(\mathrm{V_{MC}}\) increases as the center-of-gravity (CG) is moved aft. The moment arm of the rudder is reduced, and therefore its effectivity is reduced, as the CG is moved aft. For a typical light twin, the aft-most CG limit

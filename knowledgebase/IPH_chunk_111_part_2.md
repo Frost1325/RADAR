@@ -1,0 +1,7 @@
+the airport and the restricted areas are precisely plotted, there is an assurance that you will stay north of the restricted areas. From a practical standpoint, it might be better to fly direct to the Wizer NDB. This route goes even further north of the restricted areas and places you over the final approach fix to Runway 25 at Fort Smith.
+
+The azimuth feature of VOR aids and the azimuth and distance (DME) features of VORTAC and TACAN aids are assigned certain frequency protected areas of airspace that are intended for application to established airway and route use and to provide guidance for planning flights outside of established airways or routes. These areas of airspace are expressed in terms of cylindrical service volumes of specified dimensions called class limits or categories.
+
+An operational service volume has been established for each class in which adequate signal coverage and frequency protection can be assured. To facilitate use of VOR, VORTAC, or TACAN aids, consistent with their operational service volume limits, pilot use of such aids for defining a direct route of flight in controlled airspace should not exceed the following:
+
+1. Operations above FL 450—use NAVAIDs not more than 200 NM apart. These aids are depicted on en route high altitude

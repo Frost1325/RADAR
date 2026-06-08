@@ -1,0 +1,3 @@
+restricted area is not active and has been released to the controlling agency (FAA), the ATC facility will allow the aircraft to operate in the restricted airspace without issuing specific clearance for it to do so.
+
+2. If the restricted area is active and has not been released to the controlling agency (FAA), the ATC facility will issue a clearance which will ensure the aircraft avoids the restricted airspace unless it is on an approved altitude reservation mission or has obtained its own permission to operate in the airspace and so informs the controlling facility.

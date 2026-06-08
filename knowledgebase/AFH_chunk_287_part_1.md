@@ -1,0 +1,3 @@
+## Chapter Summary
+
+Performance maneuvers are used to develop a pilot's skills in coordinating the flight control's use and effect while enhancing the pilot's ability to divide attention across the various demands of flight. Performance maneuvers are also designed to further develop a pilot's application and correlation of the fundamentals of flight and integrate developing skills into advanced maneuvers. Developing highly- honed skills in performance maneuvers allows the pilot to effectively progress toward the mastery of flight. Mastery is developed as the mechanics of flight become a subconscious, rather than a conscious, application of the flight controls to maneuver the airplane in attitude, orientation, and position.

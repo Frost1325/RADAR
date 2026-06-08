@@ -1,0 +1,5 @@
+### d. Acknowledgement of Frequency Changes.
+
+1. When advised by ATC to change frequencies, acknowledge the instruction. If you select the new frequency without an acknowledgement, the controller's workload is increased because there is no way of knowing whether you received the instruction or have had radio communications failure.
+
+2. At times, a controller/specialist may be working a sector with multiple frequency assignments. In order to eliminate unnecessary verbiage and to free the controller/specialist for higher priority transmissions, the controller/specialist may request the pilot "(Identification), change to my frequency 123.4." This phrase should alert the pilot that the controller/specialist is only changing frequencies, not controller/specialist, and that initial callup phraseology may be abbreviated.

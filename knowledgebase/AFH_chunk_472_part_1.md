@@ -1,0 +1,7 @@
+## Minimum Equipment List
+
+The MEL serves as a reference guide for dispatchers and pilots to determine whether takeoff of an aircraft with inoperative instruments or equipment is authorized under the provisions of applicable regulatory requirements.
+
+The operator models the MEL after the FAA's Master MEL (MMEL) for each type of aircraft and the Administrator approves the MEL before its implementation. The MEL includes a "General" section, comprised of definitions, general policies, as well as operational procedures for flight crews and maintenance personnel. Each aircraft component addressed in the MEL is listed in an alphabetical index for quick reference. A table of contents further divides the manual in different chapters, each numbered for its corresponding aircraft system designation (i.e., the electrical system, also designated as system number 24, would be found in chapter 24 of the MEL).
+
+Pilots may defer repair of items on those aircraft systems and components allowed by the approved MEL. Per 14 CFR part 91, section 91.213(a)(3)(ii), an MEL must provide for the operation of the aircraft with the instruments and equipment in an inoperable condition. If particular items do not allow for safe operation, they do not appear

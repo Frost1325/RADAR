@@ -1,0 +1,5 @@
+known as an "extended squitter" message and referred to as 1090ES. ADS-B equipment operating on 978 MHz is known as the Universal Access Transceiver (UAT).
+
+3. ADS B avionics can have the ability to both transmit and receive information. The transmission of ADS-B information from an aircraft is known as ADS-B Out. The receipt of ADS-B information by an aircraft is known as ADS-B In. On January 1, 2020, all aircraft operating within the airspace defined in 14 CFR part 91, § 91.225 will be required to transmit the information defined in § 91.227 using ADS-B Out avionics.
+
+4. In general, operators flying at 18,000 feet and above will require equipment which uses 1090 ES. Those that do not fly above 18,000 may use either UAT or 1090ES equipment. (Refer to 14 CFR 91.225 and 91.227.) While the regulation will not require it, operators equipped with ADS-B In will realize additional benefits from ADS-B

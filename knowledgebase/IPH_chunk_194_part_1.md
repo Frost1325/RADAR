@@ -1,0 +1,7 @@
+## Approach Planning
+
+Depending on speed of the aircraft, availability of weather information, and the complexity of the approach procedure or special terrain avoidance procedures for the airport of intended landing, the in- flight planning phase of an instrument approach can begin as far as 100- 200 NM from the destination. Some of the approach planning should be accomplished during preflight. In general, there are five steps that most operators incorporate into their flight standards manuals for the in- flight planning phase of an instrument approach:
+
+Gathering weather information, field conditions, and Notices to Airmen (NOTAMs) for the airport of intended landing. Calculation of performance data, approach speeds, and thrust/power settings. Flight deck navigation/communication and automation setup. Instrument approach procedure (IAP) review and, for flight crews, IAP briefing. Operational review and, for flight crews, operational briefing.
+
+Although often modified to suit each individual operator, these five steps form the basic framework for the in- flight planning phase of an instrument approach. The extent of detail that a given operator includes in their SOPs varies from one operator to another; some may designate which pilot performs each of the above actions, the sequence, and the manner in which each action is performed.
