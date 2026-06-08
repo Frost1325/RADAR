@@ -1,7 +1,0 @@
-be clearly described in the vendor's user guidance.
-
-4. Operational Use of FIS. Regardless of the type of FIS system being used, several factors must be considered when using FIS:
-
-(a) Before using FIS for inflight operations, pilots and other flight crewmembers should become familiar with the operation of the FIS system to be used, the airborne equipment to be used, including its system architecture, airborne system components, coverage service volume and other limitations of the particular system, modes of operation and indications of various system failures. Users should also be familiar with the specific content and format of the services available from the FIS provider(s). Sources of information that may provide this specific guidance include manufacturer's manuals, training programs, and reference guides.
-
-(b) FIS should not serve as the sole source of aviation weather and other operational information. ATC, FSSs, and, if applicable, AOCC VHF/HF voice remain as a redundant method of communicating aviation weather, NOTAMs, and other operational information to aircraft in flight. FIS augments these traditional ATC/FSS/AOCC services and, for some products, offers the advantage of being displayed as graphical information. By using FIS for orientation, the usefulness of information received

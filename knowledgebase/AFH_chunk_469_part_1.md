@@ -1,5 +1,0 @@
-## The Flare
-
-The flare reduces the approach rate of descent to a more acceptable rate for touchdown. Unlike light airplanes, a jet airplane should be flown onto the runway rather than "held off" the surface as speed dissipates. A jet airplane is aerodynamically clean even in the landing configuration, and its engines still produce residual thrust at idle rpm. Holding it off during the flare in an attempt to make a smooth landing greatly increases landing distance. A firm landing is normal and desirable. A firm landing does not mean a hard landing, but rather a deliberate or positive landing.
-
-For most airports, the airplane passes over the end of the runway with the landing gear 30- 45 feet above the surface, depending on the landing flap setting and the location of the touchdown zone. It takes 5- 7 seconds from the time the airplane passes the end of the runway until touchdown. The flare is initiated by increasing the pitch attitude just enough to reduce the sink rate to 100- 200 fpm when the landing gear is approximately 15 feet above the runway surface. In most jet airplanes, this requires a pitch attitude increase of only \(1^{\circ}\) to \(3^{\circ}\) .

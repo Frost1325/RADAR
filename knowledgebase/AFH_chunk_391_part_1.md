@@ -1,7 +1,0 @@
-## Engine Inoperative Approach and Landing
-
-The approach and landing with OEI is essentially the same as a two- engine approach and landing. The traffic pattern should be flown at similar altitudes, airspeeds, and key positions as a two- engine approach. The differences are the reduced power available and the fact that the remaining thrust is asymmetrical. A higher- than- normal power setting is necessary on the operative engine.
-
-With adequate airspeed and performance, the landing gear can still be extended on the downwind leg. In which case it should be confirmed DOWN no later than abeam the intended point of landing. Performance permitting, initial extension of wing flaps (typically \(10^{\circ}\) ) and a descent from pattern altitude can also be initiated on the downwind leg. The airspeed should be no slower than \(\mathrm{V}_{\mathrm{YSE}}\) . The direction of the traffic pattern, and therefore the turns, is of no consequence as far as airplane controllability and performance are concerned. It is perfectly acceptable to make turns toward the failed engine.
-
-On the base leg, if performance is adequate, the flaps may be extended to an intermediate setting (typically \(25^{\circ}\) ).

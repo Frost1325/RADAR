@@ -1,5 +1,0 @@
-0.
-
-(3) Civilian pilots may obtain GPS RAIM availability information for non–precision approach procedures by: using a manufacturer-supplied RAIM prediction tool; or using the generic tool at www.raimprediction.net. The FAA is developing a replacement prediction tool at www.sapt.faa.gov scheduled for transition in 2014. Pilots can also request GPS RAIM aeronautical information from a flight service station during preflight briefings. GPS RAIM aeronautical information can be obtained for a period of 3 hours (for example, if you are scheduled to arrive at 1215 hours, then the GPS RAIM information is available from 1100 to 1400 hours) or a 24–hour timeframe at a particular airport. FAA briefers will provide RAIM information for a period of 1 hour before to 1 hour after the ETA hour, unless a specific timeframe is requested by the pilot. If flying a published GPS departure, a RAIM prediction should also be requested for the departure airport.
-
-(4) The military provides airfield specific GPS RAIM NOTAMs for non–precision approach procedures at military airfields. The RAIM outages are issued as M

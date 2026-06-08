@@ -1,7 +1,0 @@
-## Cross-Control Stall
-
-The objective of the cross- control stall demonstration is to show the effects of uncoordinated flight on stall behavior and to emphasize the importance of maintaining coordinated flight while making turns. This is a demonstration- only maneuver; only flight instructor applicants may be required to perform it on a practical test. However, all pilots should be familiar with the situations that can lead to a cross- control stall, how to recognize and avoid this stall, and how to recover should one occur.
-
-The aerodynamic effects of the uncoordinated, cross- control stall can surprise the unwary pilot because this stall can occur with very little warning and can be deadly if it occurs close to the ground. The nose may pitch down, the bank angle may suddenly change, and the airplane may continue to roll to an inverted orientation, which is usually the beginning of a spin. It is therefore essential for the pilot to follow the stall recovery procedure by reducing the AOA until the stall warning has been eliminated, then roll wings level using ailerons, and coordinate with rudder inputs before the airplane enters a spiral or spin.
-
-A cross- control stall occurs when the critical AOA is exceeded with aileron pressure applied in one direction and rudder pressure in the opposite direction

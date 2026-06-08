@@ -1,3 +1,0 @@
-4- 15Primary NAVAID 4- 17Equipment Requirements 4- 17Courses 4- 17Traditional Courses 4- 17Area Navigation Courses 4- 18Altitudes 4- 19Minimum Safe/Sector Altitude 4- 19Final Approach Fix Altitude 4- 19Minimum Descent Altitude (MDA), Decision Altitude (DA), And Decision Height (DH) 4- 19Enhanced Flight Vision Systems (EFVS) and Instrument Approaches 4- 20Vertical Navigation 4- 23Wide Area Augmentation System 4- 25Benefits Of WAAS In The Airport Environment 4- 25Advantages Of WAAS Enabled LPV Approaches 4- 25Ground- Based Augmentation System (GBAS) 4- 26Required Navigation Performance (RNP) 4- 30RNAV Approach Authorization 4- 30
-
-Baro- VNAV 4- 31Hot and Cold Temperature Limitations 4- 33LNAV, LANV/VNAV and Circling Minimums 4- 3

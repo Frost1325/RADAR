@@ -1,3 +1,0 @@
-><td colspan="2">NEW MEXICO</td></tr><tr><td>Albuquerque</td><td>International Sunport</td></tr><tr><td colspan="2">NEW YORK</td></tr><tr><td>Albany</td><td>International</td></tr><tr><td>Buffalo</td><td>Niagara International</td></tr><tr><td>Islip</td><td>Long Island MacArthur</td></tr><tr><td>Rochester</td><td>Greater Rochester International</td></tr><tr><td>Syracuse</td><td>Hancock International</td></tr></table>
-
-<table><tr><td>State/City</td><td>Airport</td></tr><tr><td colspan="2">NORTH CAROLINA</td></tr><tr><td>Asheville</td><td>Regional</td></tr><tr><td>Fayetteville</td><td>Regional/Grannis Field</td></tr><tr><td>Greensboro</td><td>Piedmont Triad International</td></tr><tr><td>Pope</td><td>

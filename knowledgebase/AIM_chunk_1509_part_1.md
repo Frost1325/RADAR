@@ -1,3 +1,0 @@
-## [References are to page numbers]
-
-Meteorology, 7- 1- 1ATC InFlight Weather Avoidance, 7- 1- 38Automated Surface Observing System, 7- 1- 29Categorical Outlooks, 7- 1- 18Clear Air Turbulence, 7- 1- 48Cloud Heights, Reporting, 7- 1- 42Direct User Access Terminal System, 7- 1- 3Drizzle, Intensity, 7- 1- 43En Route Flight Advisory Service, 7- 1- 7FAA Weather Services, 7- 1- 1ICAO, Weather Formats, 7- 1- 63Icing, Airframe, 7- 1- 44Inflight Aviation Weather Advisories, 7- 1- 8Inflight Weather Broadcasts, 7- 1- 19Microbursts, 7- 1- 48National Weather Service, Aviation Products, 7- 1- 1Pilot Weather Reports, 7- 1- 43Prec

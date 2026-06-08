@@ -1,7 +1,0 @@
-# 4-1-23. Requests for Waivers and Authorizations from Title 14, Code of Federal Regulations (14 CFR)
-
-**a.** Requests for a Certificate of Waiver or Authorization (FAA Form 7711-2), or requests for renewal of a waiver or authorization, may be accepted by any FAA facility and will be forwarded, if necessary, to the appropriate office having waiver authority.
-
-**b.** The grant of a Certificate of Waiver or Authorization from 14 CFR constitutes relief from specific regulations, to the degree and for the period of time specified in the certificate, and does not waive any state law or local ordinance. Should the proposed operations conflict with any state law or local ordinance, or require permission of local authorities or property owners, it is the applicant's responsibility to resolve the matter. The holder of a waiver is responsible for compliance with the terms of the waiver and its provisions.
-
-**c.** A waiver may be canceled at any time by the Administrator, the person authorized to grant the waiver, or the representative designated to monitor a specific operation. In such case either written notice of cancellation, or written confirmation of a verbal cancellation will be provided to the holder.

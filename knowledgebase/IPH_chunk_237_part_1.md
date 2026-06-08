@@ -1,5 +1,0 @@
-## RNAV Approach Authorization
-
-Like any other authorization given to air carriers and Part 91 operators, the authorization to use VNAV on a conventional non- precision approach, RNAV approaches, or LNAV/VNAV approaches is found in that operator's OpSpecs, AFM, or other FAA- approved documents. There are many different levels of authorizations when it comes to the use of RNAV approach systems. The type of equipment installed in the aircraft, the redundancy of that equipment, its operational status, the level of flight crew training, and the level of the operator's FAA authorization are all factors that can affect a pilot's ability to use VNAV information on an approach.
-
-Because most Part 121, 125, 135, and 91 flight departments include RNAV approach information in their pilot training programs, a flight crew considering an approach to North Platte, Nebraska, using the RNAV (GPS) RWY 30 approach shown in Figure 4- 16, would already know which minimums they were authorized to use. The company's OpSpecs, FOM, and the AFM for the pilot's aircraft would dictate the specific operational conditions and procedures by which this type of

@@ -1,3 +1,0 @@
-td>Uses experience and brainstorming to identify hazards, assess risks, and develop controls for planning operations, review of standard operating or training procedures, etc.</td><td>“On the fly” mental or verbal review using the basic risk management process during the execution phase of an activity.</td></tr></table>
-
-Figure 2- 10. Risk management processing can take place in any of three timeframes.

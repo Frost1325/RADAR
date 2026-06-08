@@ -1,7 +1,0 @@
-There is no reason for a steep angle of descent unless obstacles are present in the approach path.
-
-Touchdown on a soft or rough field is made at the lowest possible airspeed with the airplane in a nose- high pitch attitude. In nose- wheel type airplanes, after the main wheels touch the surface, the pilot should hold sufficient back- elevator pressure to keep the nose- wheel off the surface. Using back- elevator pressure and engine power, the pilot can control the rate at which the weight of the airplane is transferred from the wings to the wheels.
-
-Field conditions may warrant that the pilot maintain a flight condition in which the main wheels are just touching the surface but the weight of the airplane is still being supported by the wings until a suitable taxi surface is reached. At any time during this transition phase, before the weight of the airplane is being supported by the wheels, and before the nose- wheel is on the surface, the ability is retained to apply full power and perform a safe takeoff (obstacle clearance and field length permitting) should the pilot elect to abandon the landing. Once committed to a landing, the pilot should gently lower the nose- wheel to the surface. A slight addition of power usually aids in easing the nose- wheel down.
-
-The use of

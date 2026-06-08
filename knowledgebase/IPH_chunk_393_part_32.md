@@ -1,5 +1,0 @@
-0.3, a living document that is updated frequently. Departure design criteria assumes an initial climb of 200 Ft/NM after crossing the departure end of the runway (DER) at a height of at least 35 feet above the ground. Assuming a 200 Ft/NM climb, the departure is structured to provide at least 48 Ft/ NM of clearance above objects that do not penetrate the obstacle slope. The slope, known as the OIS, is based on a 40 to 1 ratio, which is the equivalent of a 152 Ft/NM slope.
-
-Off- Airway Routes. The FAA prescribes altitudes governing the operation of aircraft under IFR for fairway routes in a similar manner to those on federal airways, jet routes, area navigation low or high altitude routes, and other direct routes for which an MEA is designated.
-
-Off- Route Obstruction Clearance Altitude (OROCA). An off- route altitude that provides obstruction clearance with a 1,000- foot buffer in nonmountainous terrain areas and a 2,000- foot buffer in designated mountainous areas within the U.S. This altitude may not provide signal coverage from ground

@@ -1,7 +1,0 @@
- damage may occur.
-
-This 1.5 load limit factor is called the "factor of safety" and provides, to some extent, for loads higher than those expected under normal and reasonable operation. This strength reserve is not something that pilots should willfully abuse; rather, it is there for protection when encountering unexpected conditions.
-
-The above considerations apply to all loading conditions, whether they be due to gusts, maneuvers, or landings. The gust load factor requirements now in effect are substantially the same as those that have been in existence for years. Hundreds of thousands of operational hours have proven them adequate for safety. Since the pilot has little control over gust load factors (except to reduce the aircraft's speed when rough air is encountered), the gust loading requirements are substantially the same for most general aviation type aircraft regardless of their operational use. Generally, the gust load factors control the design of aircraft which are intended for strictly nonacrobatic usage.
-
-An entirely different situation exists in aircraft design with maneuvering load factors. It is necessary to discuss this matter separately with respect to: (1) aircraft designed in accordance with the category system (i.e., normal, utility, acrobatic); and (2) older designs built according to requirements that did not provide for operational categories.

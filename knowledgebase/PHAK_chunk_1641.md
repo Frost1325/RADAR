@@ -1,3 +1,0 @@
-{\circ}\) . Since the day is divided into 24 hours, the Earth revolves at the rate of \(15^{\circ}\) an hour. Noon is the time when the sun is directly above a meridian; to the west of that meridian is morning, to the east is afternoon.
-
-The standard practice is to establish a time zone for each \(15^{\circ}\) of longitude. This makes a difference of exactly 1 hour between each zone. In the conterminous United States, there are four time zones. The time zones are Eastern \((75^{\circ})\) , Central \((90^{\circ})\) , Mountain \((105^{\circ})\) , and Pacific \((120^{\circ})\) . The dividing lines are somewhat irregular because communities near the boundaries often find it more convenient to use time designations of neighboring communities or trade centers.

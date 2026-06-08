@@ -1,1 +1,0 @@
-An arriving aircraft is cleared to the destination airport via V45 Delta VOR direct; the aircraft is cleared to cross Delta VOR at 10,000 feet, and then to maintain 6,000 feet. Prior to Delta VOR, the controller issues an amended clearance as follows: "turn right heading one eight zero for vector to runway three six I-L-S approach, maintain six thousand."

@@ -1,5 +1,0 @@
-Baro- VNAV—Barometric Vertical Navigation  B- RNAV—European Basic RNAV
-
-C  CAT—Category  CDI—Course Deviation Indicator  CDL—Configuration Deviation List  CENRAP—Center Radar ARTS Processing  CFA—Controlled Firing Areas  CFIT—Controlled Flight Into Terrain  CFR—Code of Federal Regulations  CNF—Computer Navigation Fix  COP—Changeover Point  COTS—Commercial Off- The- Shelf  CRC—Cyclic Redundancy Check  CS—Chart Supplement  CTAF—Common Traffic Advisory Frequency  CVFP—Charted Visual Flight Procedure  CWAS—Center Weather Advisories
-
-D  DA—Density Altitude; Decision Altitude  D- ATIS—Digital Automatic Terminal Information Service  D- CS—Digital Chart Supplement  DDA—Derived Decision Altitude  DEM—Digital Elevation Model  DER—Departure End of the Runway  DF—Direction Finding  DH—Decision Height  DME—Distance Measuring Equipment  DOD—Department of Defense  DOT—Department of Transportation  DPs—Departure Procedures  DRVSM—Domestic Reduced Vertical Separation Minimums  DUATS—Direct User Access Terminal System

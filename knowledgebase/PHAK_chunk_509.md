@@ -1,3 +1,0 @@
- when a deflecting force is applied to its rim. As can be seen in Figure 5- 49, when a force is applied, the resulting force takes effect \(90^{\circ}\) ahead of and in the direction of rotation. The rotating propeller of an airplane makes a very good
-
-gyroscope and thus has similar properties. Any time a force is applied to deflect the propeller out of its plane of rotation, the resulting force is \(90^{\circ}\) ahead of and in the direction of rotation and in the direction of application, causing a pitching moment, a yawing moment, or a combination of the two depending upon the point at which the force was applied.

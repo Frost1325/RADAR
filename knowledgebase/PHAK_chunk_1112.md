@@ -1,5 +1,0 @@
- the power and thrust requirements at various conditions of flight, while powerplant characteristics generally define the power and thrust available at various conditions of flight. The matching of the aerodynamic configuration with the powerplant is accomplished by the manufacturer to provide maximum performance at the specific design condition (e.g., range, endurance, and climb).
-
-## Straight-and-Level Flight
-
-All of the principal components of flight performance involve steady- state flight conditions and equilibrium of the aircraft. For the aircraft to remain in steady, level flight, equilibrium must be obtained by a lift equal to the aircraft weight and a powerplant thrust equal to the aircraft drag. Thus, the aircraft drag defines the thrust required to maintain steady, level flight. As presented in Chapter 4, Aerodynamics of Flight, all parts of an aircraft contribute to the drag, either induced (from lifting surfaces) or parasite drag.

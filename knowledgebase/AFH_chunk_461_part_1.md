@@ -1,5 +1,0 @@
-## Descent Planning
-
-For a typical idle power descent, the top of descent (TOD), point A in figure 16- 14, is determined by altitude, adjusted for wind. Jet descent profiles normally approximate a 3 degree path, with some time/distance required for deceleration in level flight. While exact distances will vary, having a descent plan will put the pilot well ahead of the jet and in a better position to monitor the automation.
-
-For a straight- in VFR approach to an airport without factoring wind, an estimate for TOD may be calculated by multiplying the planned descent (in thousands of feet) by 3 and adding any distance needed for speed reductions in level flight (losing about 10 KIAS per mile when level). If flying at 35,000 feet above airport elevation, a cruise descent would start approximately 120 miles from the airport (35 times 3, plus about 15 miles for speed reduction, in stages, from cruise speed in this example). [Figure 16- 14] Normally, cruise Mach is maintained until increasing air density causes indicated airspeed to increase to the desired descent speed, which usually occurs just below 30,0

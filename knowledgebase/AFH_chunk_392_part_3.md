@@ -1,7 +1,0 @@
-action items (such as a response to an engine failure in a critical phase of flight) are best committed to memory. After they are accomplished, and as work load permits, the pilot can compare the action taken with a checklist.
-
-Simulated engine failures during the takeoff ground roll may be accomplished with the mixture control. The simulated failure should be introduced at a speed no greater than 50 percent of \(\mathrm{V}_{\mathrm{MC}}\) . If a learner does not react promptly by retarding both throttles, the instructor can always pull the other mixture.
-
-The FAA recommends that all in- flight simulated engine failures below 3,000 feet AGL, be introduced with a smooth reduction of the throttle. Thus, the engine is kept running and is available for instant use, if necessary. Smooth throttle reduction avoids abusing the engine and possibly causing damage. Simulation of inflight engine failures below \(\mathrm{V}_{\mathrm{SSE}}\) introduces a very high and unnecessary training risk.
-
-If the engines are equipped with dynamic crankshaft counterweights, it is essential to make throttle reductions for simulated failures smoothly. Other areas leading to dynamic counterweight damage include high rpm and low manifold pressure combinations, overboosting, and prop

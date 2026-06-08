@@ -1,7 +1,0 @@
-pilot should consider maneuvering to the side to keep the conflicting traffic in sight. This may involve a slight turn to offset from the runway/landing area.
-
-If the airplane was in trim for the landing approach when the go- around was commenced, it soon requires a great deal of forward elevator/stabilator pressure as the airplane accelerates away in a climb. The pilot should apply appropriate forward pressure to maintain the desired pitch attitude. Trim should be commenced immediately. The balked landing checklist should be reviewed as work load permits.
-
-Flaps should be retracted before the landing gear for two reasons. First, on most airplanes, full flaps produce more drag than the extended landing gear. Secondly, the airplane tends to settle somewhat with flap retraction, and the landing gear should be down in the event of an inadvertent, momentary touchdown.
-
-Many multiegnine airplanes have a landing gear retraction speed significantly less than the extension speed. Care should be exercised during the go- around not to exceed the retraction speed. If the pilot desires to return for a landing, it is essential to re- accomplish the entire before- landing checklist. An interruption to a pilot's habit patterns, such as a go- around, is a classic scenario for a subsequent gear

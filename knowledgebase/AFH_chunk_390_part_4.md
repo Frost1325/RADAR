@@ -1,3 +1,0 @@
-performance variations caused by engine and propeller wear, turbulence, and pilot technique, the airplane may not maintain altitude even at its published single- engine ceiling. Any further rate of sink, however, would likely be modest.
-
-An engine failure in a descent or other low power setting can be deceiving. The dramatic yaw and performance loss is absent. At very low power settings, the pilot may not even be aware of a failure. If a failure is suspected, the pilot should advance both engine mixtures, propellers, and throttles significantly, to the takeoff settings if necessary, to correctly identify the failed engine. The power on the operative engine can always be reduced later.

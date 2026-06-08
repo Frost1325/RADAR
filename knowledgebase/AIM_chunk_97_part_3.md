@@ -1,6 +1,0 @@
-planning to use GPS equipment as a substitute means of navigation for an out-of-service VOR that supports an ILS missed approach procedure at an alternate airport. In this case, some other approach not reliant upon the use of GPS must be available. This restriction does not apply to RNAV systems using TSO-C145/-C146 WAAS equipment. For further WAAS guidance, see paragraph 1-1-19.
-
-1. For flight planning purposes, TSO-C129() and TSO-C196() equipped users (GPS users) whose navigation systems have fault detection and exclusion (FDE) capability, who perform a preflight RAIM prediction at the airport where the RNAV (GPS) approach will be flown, and have proper knowledge and any required training and/or approval to conduct a GPS- based IAP, may file based on a GPS- based IAP at either the destination or the alternate airport, but not at both locations. At the alternate airport, pilots may plan for applicable alternate airport weather minimums using:
-
-(a) Lateral navigation (LNAV) or circling minimum descent altitude (MDA);
-(b) LNAV/vertical navigation (LNAV/VNAV) DA, if equipped with

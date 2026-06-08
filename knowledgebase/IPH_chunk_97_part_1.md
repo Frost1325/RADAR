@@ -1,3 +1,0 @@
-## Substitute Airway or Route Structures
-
-Substitute Airway or Route StructuresARTCCs are responsible for specifying essential substitute airway or route segments (sub- routes) and fixes for use during scheduled or unscheduled VOR/VORTAC shutdowns. Scheduled shutdowns of navigational facilities require planning and coordination to ensure an uninterrupted flow of air traffic. Aeronautical Information Services, in coordination with the ARTCCs, determine when the length of outages or other factors require publication of subroutes and Flight Program Operations (AJW- 3) provides flight inspection services, obstacle clearance verification, certification, and final approval of substitute routes.

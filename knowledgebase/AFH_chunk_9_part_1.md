@@ -1,3 +1,0 @@
-## Safety Considerations
-
-Safety ConsiderationsIn the interest of safety and good habit pattern formation, there are certain basic flight safety practices and procedures that should be emphasized by the flight instructor, and adhered to by both instructor and learner, beginning with the very first dual instruction flight. These include, but are not limited to, collision avoidance procedures including proper scanning techniques and clearing procedures, runway incursion avoidance, stall awareness, positive transfer of controls, and flight deck workload management.

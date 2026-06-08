@@ -1,5 +1,0 @@
- to reduce the output of the engine and to increase the operating temperature, carburetor heat should not be used when full power is required (as during takeoff) or during normal engine operation, except to check for the presence of, or to remove, carburetor ice.
-
-## Carburetor Air Temperature Gauge
-
-Some aircraft are equipped with a carburetor air temperature gauge, which is useful in detecting potential icing conditions. Usually, the face of the gauge is calibrated in degrees Celsius with a yellow arc indicating the carburetor air temperatures where icing may occur. This yellow arc typically ranges between \(- 15^{\circ}\mathrm{C}\) and \(+5^{\circ}\mathrm{C}\) (5°F and \(41^{\circ}\mathrm{F}\) ). If the air temperature and moisture content of the air are such that carburetor icing is improbable, the engine can be operated with the indicator in the yellow range with no adverse effects. If the atmospheric conditions are conducive to carburetor icing, the indicator must be kept outside the yellow arc by application of carburetor heat.

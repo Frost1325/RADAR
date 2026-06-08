@@ -1,3 +1,0 @@
-BKN008 OVC020CB 28/23 A3000 RMK TSRA B24 TS W MOV E
-
-SPECI . . . . . . . (nonroutine) aviation special weather report KCVG . . . . . . . Cincinnati, OH 152228Z . . . . . . . date \(15^{\mathrm{th}}\) , time 2228 UTC (no modifier) . . . This is a manually generated report due to the absence of "AUTO" and "AO1 or AO2" in remarks 28024G36KT . . . wind two eight zero at two four gusts three six 3/4SM . . . . . . . visibility three fourths +TSRA . . . . . . . thunderstorms, heavy rain BKN008 ceiling eight hundred broken OVC020CB . . . . . . . two thousand overcast cumulonimbus clouds 28/23 . . . . . . . temperature two eight, dew point two three A3000 . . . . . . . altimeter three zero zero zero

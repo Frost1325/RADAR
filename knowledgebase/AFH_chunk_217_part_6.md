@@ -1,7 +1,0 @@
-a go- around or avoidance maneuver is in order. A pilot trying to overtake another aircraft might be tempted to make an overly steep turn to final. If rushing the turn to increase the distance from another aircraft, there is good reason to abandon the approach and go around.
-
-The final approach leg is a descending flightpath starting from the completion of the base- to- final turn and extending to the point of touchdown. This is probably the most important leg of the entire pattern, because of the sound judgment and precision needed to accurately control the airspeed and descent angle while approaching the intended touchdown point.
-
-The pilot on final approach focuses on making a safe approach. If there is traffic on the runway, there should be sufficient time for that traffic to clear. If it appears that there may be a conflict, an early go- around may be in order. A pilot may go around and inform the controller. This is also a good time to verify the correct landing surface and avoid lining up with the wrong runway, an airport road, or a taxiway.
-
-The upwind leg is a course flown parallel to the landing runway in the same direction as landing traffic. The upwind leg is flown at controlled airports and after go- arounds. When necessary, the upwind

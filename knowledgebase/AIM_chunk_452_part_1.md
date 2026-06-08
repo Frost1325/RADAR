@@ -1,1 +1,0 @@
-## Section 4. ATC Clearances and Aircraft Separation

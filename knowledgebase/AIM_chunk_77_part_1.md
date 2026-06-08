@@ -1,7 +1,0 @@
-## NOTE-
-
-Receivers do not “fail down” to lower levels of service once the approach has been activated. If only the vertical off flag appears, the pilot may elect to use the LNAV minima if the rules under which the flight is operating allow changing the type of approach being flown after commencing the procedure. If the lateral integrity limit is exceeded on an LP approach, a missed approach will be necessary since there is no way to reset the lateral alarm limit while the approach is active.
-
-3. Another additional feature of WAAS receivers is the ability to exclude a bad GPS signal and continue operating normally. This is normally accomplished by the WAAS correction information. Outside WAAS coverage or when WAAS is not available, it is accomplished through a receiver algorithm called FDE. In most cases this operation will be invisible to the pilot since the receiver will continue to operate with other available satellites after excluding the "bad" signal. This capability increases the reliability of navigation.
-
-4. Both lateral and vertical scaling for the LNAV/VNAV and LPV approach procedures are different than the linear scaling of basic GPS. When the complete published procedure is flown, \(\pm 1 \mathrm{NM}\) linear scaling is provided until two (2) NM prior

@@ -1,7 +1,0 @@
-http://www.faa.gov/about/office_org/headquarters_offices/ato/service_units/enroute/rvsm/. The "RVSM Documentation" and "Domestic RVSM" webpages are linked to the RVSM Homepage. "RVSM Documentation" contains guidance and direction for an operator to obtain aircraft and operator approval to conduct RVSM operations. It provides information for DRVSM and oceanic and international RVSM airspace. It is recommended that operators planning to operate in Domestic U.S. RVSM airspace first review the following documents to orient themselves to the approval process.
-
-1. Under "Area of Operations Specific Information," the document, "Basic Operator Information on DRVSM Programs," provides an overview of the DRVSM program and the related aircraft and operator approval programs.
-
-2. In the "Getting Started" section, review the "RVSM Approval Checklist - U.S. Operators" or "RVSM Approval Checklist - Non-U.S. Operators" (as applicable). These are job aids or checklists that show aircraft/operator approval process events with references to related RVSM documents published on the website.
-
-3. Under "Documents Applicable to All RVSM Approvals," review "RVSM Area New to the Operator." This document provides a guide for operators that are conducting

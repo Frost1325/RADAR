@@ -1,5 +1,0 @@
- slows down, the top of the cloud spreads out and takes on an anvil- like shape. At this point, the storm enters the dissipating stage. This is when the downdrafts spread out and replace the updrafts needed to sustain the storm. [Figure 12- 28]
-
-It is impossible to fly over thunderstorms in light aircraft. Severe thunderstorms can punch through the tropopause and reach staggering heights of 50,000 to 60,000 feet depending on latitude. Flying under thunderstorms can subject aircraft to rain, hail, damaging lightning, and violent turbulence. A good rule of thumb is to circumnavigate thunderstorms identified as severe or giving an extreme radar echo by at
-
-least 20 nautical miles (NM) since hail may fall for miles outside of the clouds. If flying around a thunderstorm is not an option, stay on the ground until it passes.

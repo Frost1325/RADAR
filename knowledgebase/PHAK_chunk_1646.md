@@ -1,3 +1,0 @@
- a meridian near the midpoint of the course rather than at the point of departure. The course measured on the chart is known as the true course (TC). This is the direction measured by reference to a meridian or true north (TN). It is the direction of intended flight as measured in degrees clockwise from TN.
-
-As shown in Figure 16- 7, the direction from A to B would be a TC of \(065^{\circ}\) , whereas the return trip (called the reciprocal) would be a TC of \(245^{\circ}\) .

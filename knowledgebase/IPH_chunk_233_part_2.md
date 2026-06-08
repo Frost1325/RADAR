@@ -1,1 +1,0 @@
-approach minimums as low as 200 feet at qualifying airports. Actual minimums are based on an airport's current infrastructure, as well as an evaluation of any existing obstructions. The FAA plans to publish 300 WAAS approach procedures per year to provide service to all qualifying instrument runways within the NAS.

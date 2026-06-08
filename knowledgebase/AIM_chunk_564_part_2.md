@@ -1,7 +1,0 @@
-CC VHF/HF voice, which can transmit aviation weather, NOTAMS, and other operational aeronautical information to aircraft in flight. FIS-B augments the traditional ATC/FSS/AOCC services by providing additional information and, for some products, offers the advantage of being displayed graphically. By using FIS-B for orientation and information, the usefulness of information received from official sources may be enhanced, but the user should be alert and understand any limitations associated with individual products. FIS-B provides the initial basic products listed below at no-charge to the user. Additional products are envisioned, but may incur subscription charges to the user. FIS-B reception is line-of-sight within the service volume of the ground infrastructure.
-
-1. Airmen's Meteorological Conditions (AIRMET) - Text/graphical report - A concise description of expected occurrence of specified en route weather phenomena.
-
-REFERENCE- Advisory Circular AC- 00- 45, "Aviation Weather Services."
-
-2. Convective Significant Meteorological Conditions (SIGMET) - Text report/graphical -Convective SIGMETs (also known internationally as SIGMET for Convection) are issued for the contiguous U.S. Each bulletin includes one or more Convective SIGMET

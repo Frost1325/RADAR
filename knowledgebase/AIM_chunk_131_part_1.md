@@ -1,1 +1,0 @@
-## Section 2. Air Navigation and Obstruction Lighting

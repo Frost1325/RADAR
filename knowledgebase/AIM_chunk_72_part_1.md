@@ -1,5 +1,0 @@
-## EXAMPLE-
-
-!FDC 4/3406 (PAZA A0173/14) ZAN NAV WAAS SIGNAL MAY NOT BE AVBL NORTH OF LINE FROM 7000N150000W TO 6400N16400W. RMK WAAS USERS SHOULD CONFIRM RAIM AVAILABILITY FOR IFR OPERATIONS IN THIS AREA. T-ROUTES IN THIS SECTOR NOT AVBL. ANY REQUIRED ALTERNATE AIRPORT IN THIS AREA MUST HAVE AN APPROVED INSTRUMENT APPROACH PROCEDURE OTHER THAN GPS THAT IS ANTICIPATED TO BE OPERATIONAL AND AVAILABLE AT THE ESTIMATED TIME OF ARRIVAL AND WHICH THE AIRCRAFT IS EQUIPPED TO FLY. 1406030812-1406050812EST.
-
-6. When GPS-testing NOTAMS are published and testing is actually occurring, Air Traffic Control will advise pilots requesting or cleared for a GPS or RNAV (GPS) approach that GPS may not be available and request intentions. If pilots have reported GPS anomalies, Air Traffic Control will request the pilot's intentions and/or clear the pilot for an alternate approach

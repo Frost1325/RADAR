@@ -1,5 +1,0 @@
-, and the aircraft slows down. As long as the thrust is less than the drag, the aircraft continues to decelerate. To a point, as the aircraft slows down, the drag force will also decrease. The aircraft will continue to slow down until thrust again equals drag at which point the airspeed will stabilize.
-
-Likewise, if the engine power is increased, thrust becomes greater than drag and the airspeed increases. As long as the thrust continues to be greater than the drag, the aircraft continues to accelerate. When drag equals thrust, the aircraft flies at a constant airspeed.
-
-Straight- and- level flight may be sustained at a wide range of speeds. The pilot coordinates AOA and thrust in all speed regimes if the aircraft is to be held in level flight. An important fact related to the principal of lift (for a given airfoil shape) is that lift varies with the AOA and airspeed. Therefore, a large AOA at low airspeeds produces an equal amount of lift at high airspeeds with a low AOA. The speed regimes of flight can be grouped in three categories: low- speed flight, cruising flight, and high- speed flight.

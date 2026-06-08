@@ -1,5 +1,0 @@
-, dynamic \(\mathrm{V_{MC}}\) has been determined under the following conditions outlined in historical 14 CFR part 23, section 23.149:
-
-- Maximum available takeoff power initially on each engine (section 23.149(b)(1)). \(\mathrm{V_{MC}}\) increases as power is increased on the operating engine. With normally aspirated engines, \(\mathrm{V_{MC}}\) is highest at takeoff power and sea level, and decreases with altitude. With turbocharged engines, takeoff power, and therefore \(\mathrm{V_{MC}}\) remains constant with increases in altitude up to the engine's critical altitude (the altitude where the engine can no longer maintain 100 percent power). Above the critical altitude, \(\mathrm{V_{MC}}\) decreases just as it would with a normally aspirated engine whose critical altitude is sea level. In order to avoid accidents, test pilots conduct \(\mathrm{V_{MC}}\) tests at a variety of altitudes, and the results of those tests are then extrapolated to a single, sea level value.
-
-- All propeller controls in the recommended takeoff position throughout \(\mathrm{V

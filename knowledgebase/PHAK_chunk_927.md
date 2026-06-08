@@ -1,5 +1,0 @@
-90^{\circ}\) later in the direction of rotation. This principle allows the gyro to determine a rate of turn by sensing the amount of pressure created by a change in direction. The rate at which the gyro precesses is inversely proportional to the speed of the rotor and proportional to the defective force.
-
-Using the example of the bicycle, precession acts on the wheels in order to allow the bicycle to turn. While riding at normal speed, it is not necessary to turn the handle bars in the direction of the desired turn. A rider simply leans in the direction that he or she wishes to go. Since the wheels are rotating in a clockwise direction when viewed from the right side of the bicycle, if a rider leans to the left, a force is applied to the top of the wheel to the left. The force actually acts \(90^{\circ}\) in the direction of rotation, which has the effect of applying a force to the front of the tire, causing the bicycle
-
-to move to the left. There is a need to turn the handlebars at low speeds because of the instability of the slowly turning gyros and also to increase the rate of turn.

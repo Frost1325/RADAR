@@ -1,3 +1,0 @@
-td><td rowspan="2">Approximate Pivotal Altitude</td></tr><tr><td>Knots</td><td>MPH</td></tr><tr><td>87</td><td>100</td><td>670</td></tr><tr><td>91</td><td>105</td><td>735</td></tr><tr><td>96</td><td>110</td><td>810</td></tr><tr><td>100</td><td>115</td><td>885</td></tr><tr><td>104</td><td>120</td><td>960</td></tr><tr><td>109</td><td>125</td><td>1050</td></tr><tr><td>113</td><td>130</td><td>1130</td></tr></table>
-
-Distance from the pylon affects the angle of bank. At any altitude above that pivotal altitude, the

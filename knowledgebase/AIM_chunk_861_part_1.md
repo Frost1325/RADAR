@@ -1,3 +1,0 @@
-## NOTE-
-
-Many systems which apply Baro-VNAV temperature compensation only correct for cold temperature. In this case, the high temperature limitation still applies. Also, temperature compensation may require activation by maintenance personnel during installation in order to be functional, even though the system has the feature. Some systems may have a temperature correction capability, but correct the Baro-altimeter all the time, rather than just on the final, which would create conflicts with other aircraft if the feature were activated. Pilots should be aware of compensation capabilities of the system prior to disregarding the temperature limitations.

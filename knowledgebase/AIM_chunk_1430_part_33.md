@@ -1,5 +1,0 @@
-aircraft during approach to landing by radiating a directional pattern of high intensity red and white focused light beams which indicate to the pilot that he/she is "on path" if he/she sees red/white, "above path" if white/white, and "below path" if red/red. Some airports serving large aircraft have three-bar VASIs which provide two visual glide paths to the same runway.
-
-h. Precision Approach Path Indicator (PAPI)-An airport lighting facility, similar to VASI, providing vertical approach slope guidance to aircraft during approach to landing. PAPIs consist of a single row of either two or four lights, normally installed on the left side of the runway, and have an effective visual range of about 5 miles during the day and up to 20 miles at night. PAPIs radiate a directional pattern of high intensity red and white focused light beams which indicate that the pilot is "on path" if the pilot sees an equal number of white lights and red lights, with white to the left of the red; "above path" if the pilot sees more white than red lights; and "below path" if the pilot sees more red than white lights.
-
-i. Boundary Lights-Lights defining the perimeter of an airport or

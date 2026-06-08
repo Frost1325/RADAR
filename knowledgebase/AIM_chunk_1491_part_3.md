@@ -1,3 +1,0 @@
-Reservations, 4- 1- 21Approach Control Service, Arriving VFR Aircraft, 4- 1- 2Automatic Terminal Information Service, 4- 1- 7Communications, Release of IFR Aircraft, Airports without Operating Control Tower, 4- 1- 1Control Towers, 4- 1- 1Flight Service Stations, 4- 1- 1Ground Vehicle Operations, 4- 1- 6Hazardous Area Reporting Service, 4- 1- 18IFR Approaches, 4- 1- 6
-
-Operation Raincheck, 4- 1- 2Operation Take- off, 4- 1- 2Radar Assistance to VFR Aircraft, 4- 1- 11Radar Traffic Information Service, 4- 1- 8Recording and Monitoring, 4- 1- 1Safety Alert, 4- 1- 10Terminal Radar Services for VFR Aircraft, 4- 1- 12Tower En Route Control, 4- 1- 14Traffic Advisory Practices, Airports Without Operating Control Towers

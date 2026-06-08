@@ -1,1 +1,0 @@
-### (b) WIND SHEAR ALERTS

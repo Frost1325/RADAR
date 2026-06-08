@@ -1,5 +1,0 @@
-.
-
-passengers can easily don and wear inflatable life vests (when not inflated) provides maximum effectiveness and allow for unrestricted movement. It is imperative that passengers are briefed on the location and proper use of availlable PFDs prior to leaving the dock.
-
-f. The FAA recommends that seaplane owners and operators obtain Advisory Circular (AC) 91-69, Seaplane Safety for 14 CFR Part 91 Operations, free from the U.S. Department of Transportation, Subsequent Distribution Office, SVC-121.23, Ardmore East Business Center, 3341 Q 75th Avenue, Landover, MD 20785; fax: (301) 386-5394. The USCG Navigation Rules International-Inland (COMDTINSTM 16672.2B) is available for a fee from the Government Printing Office by facsimile request to (202) 512-2250, and can be ordered using Mastercard or Visa.

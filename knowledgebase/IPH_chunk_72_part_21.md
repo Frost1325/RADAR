@@ -1,5 +1,0 @@
-a standard note: "RNP 1."
-
-If unable to comply with the requirements of an RNAV or RNP procedure, pilots need to advise ATC as soon as possible. For example, "N1234, failure of GPS system, unable RNAV, request amended clearance." Pilots are not authorized to fly a published RNAV or RNP procedure unless it is retrievable by the procedure name from the navigation database and conforms to the charted procedure. No other modification of database waypoints or creation of user- defined waypoints on published RNAV or RNP procedures is permitted, except to change altitude and/or airspeed waypoint constraints to comply with an ATC clearance/ instruction, or to insert a waypoint along the published route to assist in complying with an ATC instruction. For example, "Climb via the WILIT departure except cross 30 north of CHUCK at/ or above FL 210." This is limited only to systems that allow along track waypoint construction.
-
-Pilots of aircraft utilizing DME/DME for primary navigation updating should ensure any required DME stations are in service as determined by NOTAM, ATIS, or ATC advisory. DME/DME navigation system updating may require specific DME

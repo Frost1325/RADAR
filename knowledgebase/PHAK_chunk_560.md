@@ -1,5 +1,0 @@
- within the maximum weight limitations, it is imperative that weight distribution be within the limits of CG location. The preceding brief study of aerodynamics and load factors points out the reasons for this precaution. The following discussion is background information into some of the reasons why weight and balance conditions are important to the safe flight of an aircraft.
-
-In some aircraft, it is not possible to fill all seats, baggage compartments, and fuel tanks, and still remain within approved weight or balance limits. For example, in several popular four- place aircraft, the fuel tanks may not be filled to capacity when four occupants and their baggage are carried. In a certain two- place aircraft, no baggage may be carried in the compartment aft of the seats when spins are to be practiced. It is important for a pilot to be aware of the weight and balance limitations of the aircraft being flown and the reasons for these limitations.
-
-## Effect of Weight on Aircraft Structure

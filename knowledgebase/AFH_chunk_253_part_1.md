@@ -1,7 +1,0 @@
-## Soft-Field Approach and Landing
-
-Landing on fields that are rough or have soft surfaces, such as snow, sand, mud, or tall grass, requires unique procedures. When landing on such surfaces, the objective is to touch down as smoothly as possible and at the slowest possible landing speed. A pilot needs to control the airplane in a manner that the wings support the weight of the airplane as long as practical to minimize stresses imposed on the landing gear by a rough surface or to prevent sinking into a soft surface.
-
-The approach for the soft- field landing is similar to the normal approach used for operating into long, firm landing areas. The major difference between the two is that a degree of power is used throughout the level- off and touchdown for the soft- field landing. This allows the airspeed to slowly dissipate while the airplane is flown 1 to 2 feet off the surface in ground effect. When the wheels first touch the ground, the wings continue to support much of the weight of the airplane. [Figure 9- 24] This technique minimizes the nose- over forces that suddenly affect the airplane at the moment of touchdown.
-
-The use of flaps during soft- field landings aids in touching down at minimum speed and is

@@ -1,7 +1,0 @@
- datum, and another 50- pound weight is placed at a point (station) 50 inches from the datum, the sum of the product of the two weights and their distances total a moment of 5,000 in- lb, which will balance the board.
-
-## Weight and Balance Restrictions
-
-An aircraft's weight and balance restrictions should be closely followed. The loading conditions and empty weight of a particular aircraft may differ from that found in the AFM/POH because modifications or equipment changes may have been made. Sample loading problems in the AFM/POH are intended for guidance only; therefore, each aircraft must be treated separately. Although an aircraft is certified for a specified maximum gross takeoff weight, it may not safely take off at this weight under all conditions. Conditions that affect takeoff and climb performance, such as high elevations, high temperatures, and high humidity (high density altitudes), may require a reduction in weight before flight is attempted. Other factors to consider when computing
-
-weight and balance distribution prior to takeoff are runway length, runway surface, runway slope, surface wind, and the presence of obstacles. These factors may require a reduction in or redistribution of weight prior to flight.

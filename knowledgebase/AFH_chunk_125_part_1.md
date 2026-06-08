@@ -1,7 +1,0 @@
-## UPRT Training Core Concepts
-
-Airplane upsets are by nature time- critical events; they can also place pilots in unusual and unfamiliar attitudes that sometimes require counterintuitive control movements. Upsets have the potential to put a pilot into a life- threatening situation compounded by panic, diminished mental capacity, and potentially incapacitating spatial disorientation. Real- world upset situations often provide very little time to react, but exposure to such events during training can reduce surprise and mitigate confusion during an actual unexpected upset. The goal is to equip the pilot to promptly recognize an escalating threat pattern or sensory overload and quickly identify and correct an impending upset.
-
-UPRT stresses that the first step is recognizing any time the airplane begins to diverge from the intended flightpath or airspeed. Pilots need to identify and determine what, if any, action should be taken. As a general rule, any time visual cues or instrument indications differ from basic flight maneuver expectations, the pilot should assume an upset and cross- check to confirm the attitude, instrument error or instrument malfunction.
-
-To achieve maximum effect, it is crucial for UPRT concepts to be conveyed accurately and in a non- threatening manner. Reinforcing concepts through positive experiences significantly improves a pilot's depth of understanding, retention of skills, and

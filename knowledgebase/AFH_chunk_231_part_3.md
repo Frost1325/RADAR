@@ -1,3 +1,0 @@
-settle onto the runway. This permits steering if the airplane has a steerable nose- wheel. At the same time, it decreases the AOA and reduces lift on the wings to prevent floating or skipping and allows the full weight of the airplane to rest on the wheels for better mechanical braking action. As the airplane slows, the mechanical braking becomes more effective.
-
-It is extremely important that the touchdown occur with the airplane's longitudinal axis exactly parallel to the direction in which the airplane is moving along the runway. Failure to accomplish this imposes severe side loads on the landing gear. To avoid these side stresses, the pilot should not allow the airplane to touch down while turned into the wind or drifting.

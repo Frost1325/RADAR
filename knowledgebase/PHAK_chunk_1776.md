@@ -1,5 +1,0 @@
- navigation must be integrated with other forms of electronic navigation, as well as pilotage and dead reckoning. Only through the integration of these techniques can the VFR pilot ensure accuracy in navigation. Some critical concerns in VFR use of GPS include RAIM capability, database currency, and antenna location.
-
-## RAIM Capability
-
-Many VFR GPS receivers and all hand- held units are not equipped with RAIM alerting capability. Loss of the required number of satellites in view, or the detection of a position error, cannot be displayed to the pilot by such receivers. In receivers with no RAIM capability, no alert would be provided to the pilot that the navigation solution had deteriorated and an undetected navigation error could occur. A systematic cross- check with other navigation techniques would identify this failure and prevent a serious deviation.

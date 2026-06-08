@@ -1,7 +1,0 @@
-. To fly a SID, you must receive approval to do so in a clearance. In order to accept a clearance that includes a SID, you must have the charted SID procedure in your possession at the time of departure. It is your responsibility as pilot in command to accept or reject the issuance of a SID by ATC. You must accept or reject the clearance based on:
-
-The ability to comply with the required performance. The ability to navigate to the degree of accuracy required for the procedure. Possession of the charted SID procedure. Personal understanding of the SID in its entirety.
-
-When you accept a clearance to depart using a SID or radar vectors, ATC is responsible for traffic separation. When departing with a SID, ATC expects you to fly the procedure as charted because the procedure design considers obstacle clearance. It is also expected that you will remain vigilant in scanning for traffic when departing in visual conditions. Furthermore, it is your responsibility to notify ATC if your clearance would endanger your safety or the safety of others. DPs are also categorized by equipment requirements as follows:
-
-Non- RNAV DP- established for aircraft equipped with conventional avionics using ground- based NAVAIDs. These DPs may also be designed using dead reckoning navigation. Some

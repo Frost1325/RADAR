@@ -1,7 +1,0 @@
-## NOTE-
-
-6. The pilot is expected to commence descent upon receipt of the clearance and to descend at the suggested states until reaching FL 280. At that point, the pilot is authorized to continue descent to FL 240 within the context of the term "at pilot's discretion" as described above.
-
-f. In case emergency authority is used to deviate from provisions of an ATC clearance, the pilot-in command must notify ATC as soon as possible and obtain an amended clearance. In an emergency situation which does not result in a deviation from the rules prescribed in 14 CFR Part 91 but which requires ATC to give priority to an aircraft, the pilot of such aircraft must, when requested by ATC, make a report within 48 hours of such emergency situation to the manager of that ATC facility.
-
-g. The guiding principle is that the last ATC clearance has precedence over the previous ATC clearance. When the route or altitude in a previously issued clearance is amended, the controller will restate applicable altitude restrictions. If altitude to maintain is changed or restated, whether prior to departure or while airborne, and previously issued altitude restrictions are omitted, those altitude restrictions are canceled, including departure procedures and STAR altitude restrictions

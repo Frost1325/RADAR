@@ -1,1 +1,0 @@
-13-19, 18-18, 18-20, 18-21</td></tr><tr><td>Level flight</td><td>3-8</td></tr><tr><td>Straight flight</td><td>3-6</td></tr><tr><td>S-turns across a road</td><td>7-8, 7-9, 7-10</td></tr><tr><td>System malfunctions</td><td>9-29, 18-10, 18-13</td></tr><tr><td>Electrical system</td><td>18-13, 18-14</td></tr><tr><td>Pitot-static system</td><td>18-14</td></tr></table>

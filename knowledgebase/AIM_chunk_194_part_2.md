@@ -1,1 +1,0 @@
-td>\(0^{\circ }\)to \(179^{\circ }\)</td><td>Odd thousands MSL, (3,000; 5,000; 7,000, etc.)</td></tr><tr><td>\(180^{\circ }\)to \(359^{\circ }\)</td><td>Even thousands MSL, (2,000; 4,000; 6,000, etc.)</td></tr></table>

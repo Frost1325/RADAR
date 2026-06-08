@@ -1,7 +1,0 @@
-## Aircraft Speed and Altitude
-
-During the en route descent phase of flight, an additional benefit a FMS is that it provides fuel saving idle thrust descent to your destination airport. This allows an uninterrupted profile descent from level cruising altitude to an appropriate MIA, except where level flight is required for speed adjustment. Controllers anticipate and plan that
-
-the pilot may level off at 10,000 feet MSL on descent to comply with the 14 CFR Part 91 indicated airspeed limit of 250 knots. Leveling off at any other time on descent may seriously affect air traffic handling by ATC. It is imperative that pilots make every effort to fulfill ATC expected actions on descent to aid in safely handling and expediting air traffic.
-
-ATC issues speed adjustments if the flight is being radar controlled to achieve or maintain required or desired spacing. They express speed adjustments in terms of knots based on indicated airspeed in 10 knot increments except that at or above FL 240 speeds may be expressed in terms of Mach numbers in 0.01 increments. The use of Mach numbers by ATC is restricted to turbojets. If complying with speed adjustments, pilots are expected to maintain that speed within plus or minus

@@ -1,5 +1,0 @@
- case, as AOA increases, induced drag increases proportionally. To state this another way—the lower the airspeed, the greater the AOA required to produce lift equal to the aircraft's weight and, therefore, the greater induced drag. The amount of induced drag varies inversely with the square of the airspeed.
-
-Conversely, parasite drag increases as the square of the airspeed. Thus, in steady state, as airspeed decreases to near the stalling speed, the total drag becomes greater, due mainly to the sharp rise in induced drag. Similarly, as the aircraft reaches its never- exceed speed \(\left(\mathrm{V}_{\mathrm{NE}}\right)\) , the total drag increases rapidly due to the sharp increase of parasite drag. As seen in Figure 5- 6, at some given airspeed, total drag is at its minimum amount. In figuring the maximum range of aircraft, the thrust required to overcome drag is at a minimum if drag is at a minimum. The minimum power and maximum endurance occur at a different point.
-
-## Weight

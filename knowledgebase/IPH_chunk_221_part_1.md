@@ -1,7 +1,0 @@
-## Primary NAVAID
-
-Most conventional approach procedures are built around a primary final approach NAVAID; others, such as RNAV (GPS) approaches, are not. If a primary NAVAID exists for an approach, it should be included in the IAP briefing, set into the appropriate backup or active navigation radio, and positively identified at some point prior to being used for course guidance. Adequate thought should be given to the appropriate transition point for changing from FMS or other en route navigation over to the conventional navigation to be used on the approach. Specific company standards and procedures normally dictate when this changeover occurs; some carriers are authorized to use FMS course guidance throughout the approach, provided that an indication of the conventional navigation guidance is available and displayed. Many carriers, or specific carrier fleets, are required to change over from RNAV to conventional navigation prior to the FAF of an instrument approach.
-
-Depending on the complexity of the approach procedure, pilots may have to brief the transition from an initial NAVAID to the primary and missed approach NAVAIDs. Figure 4- 8 shows the Cheyenne, Wyoming, ILS Runway 27 approach procedure, which requires additional consideration during an IAP briefing.
-
-If the 15

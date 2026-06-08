@@ -1,7 +1,0 @@
-## Navigation in the Arrival Environment
-
-The most significant and demanding navigational requirement is the need to safely separate aircraft. In a non- radar environment, ATC does not have an independent means to separate air traffic and must depend entirely on information relayed from flight crews to determine the actual geographic position and altitude. In this situation, precise navigation is critical to ATC's ability to provide separation.
-
-Even in a radar environment, precise navigation and position reports, when required, are still a primary means of providing separation. In most situations, ATC does not have the capability or the responsibility for navigating an aircraft. Because they rely on precise navigation by the flight crew, flight safety in all IFR operations depends directly on the pilot's ability to achieve and maintain certain levels of navigational performance. ATC uses radar to monitor navigational performance, detect possible navigational errors, and expedite traffic flow. In a nonradar environment, ATC has no independent knowledge of the actual position of the aircraft or its relationship to other aircraft in adjacent airspace. Therefore, ATC's ability to detect a navigational error and resolve collision hazards is seriously degraded when a deviation from a clearance occurs.
-
-The concept of navigation performance, previously discussed in this book, involves the precision that must

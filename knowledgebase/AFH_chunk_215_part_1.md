@@ -1,3 +1,0 @@
-## Introduction
-
-Airport traffic patterns ensure that air traffic moves into and out of an airport safely. The direction and placement of the pattern, the altitude at which it is to be flown, and the procedures for entering and exiting the pattern may depend on local conditions. Information regarding the procedures for a specific airport can be found in the Chart Supplements. General information on airport operations and traffic patterns can also be found in the Aeronautical Information Manual (AIM).

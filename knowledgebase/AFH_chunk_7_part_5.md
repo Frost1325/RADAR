@@ -1,7 +1,0 @@
-action to recover from power-on and power-off stalls.</td></tr><tr><td colspan="4">This is a typical lesson plan for flight training which emphasizes stall recognition and recovery procedures.</td></tr></table>
-
-The flying habits of the flight instructor, both during flight instruction and as observed by learners when conducting other pilot operations, have a vital effect on safety. Learners consider their flight instructor to be a paragon of flying proficiency whose flying habits they, consciously or unconsciously, attempt to imitate. For this reason, a good flight instructor meticulously observes the safety practices taught to the learners. Additionally, a good flight instructor carefully observes all regulations and recognized safety practices during all flight operations.
-
-A prospective pilot should know that there are other differences among flight instructors. Certain instructors who have performed at a high level have earned a Gold Seal Flight Instructor Certificate. This is not a requirement when looking for an instructor, but it is indication of an active and successful instructor. Top notch instructors also participate in the Pilot Proficiency Awards Wings Program (Wings program) to improve their proficiency and to serve as an example to learners who also benefit from program participation.
-
-Generally, an individual who enrolls in a pilot training program is prepared to commit considerable time, effort, and

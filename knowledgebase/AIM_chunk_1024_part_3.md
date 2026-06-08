@@ -1,5 +1,0 @@
-information and provide that data to the appropriate search and rescue (SAR) center. In the United States, NOAA provides the alert data to the appropriate U.S. Air Force Rescue Coordination Center (RCC) or U.S. Coast Guard Rescue Coordination Center. That RCC can then telephone or contact the owner to verify the status of the aircraft. If the aircraft is safely secured in a hangar, a costly ground or airborne search is
-
-avoided. In the case of an inadvertent 406 MHz ELT activation, the owner can deactivate the 406 MHz ELT. If the 406 MHz ELT equipped aircraft is being flown, the RCC can quickly activate a search. 406 MHz ELTs permit the Cospas-Sarsat satellite system to narrow the search area to a more confined area compared to that of a 121.5 MHz or 243.0 MHz ELT. 406 MHz ELTs also include a low- power 121.5 MHz homing transmitter to aid searchers in finding the aircraft in the terminal search phase.
-
-(c) Each analog ELT emits a distinctive downward swept audio tone on 121.5 MHz and

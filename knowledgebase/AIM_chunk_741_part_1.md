@@ -1,5 +1,0 @@
-## NOTE-
-
-ODPs are normally designed to terminate within these distance limitations, however, some ODPs will contain routes that may exceed \(25 / 46\mathrm{NM}\) ; these routes will ensure obstacle protection until reaching the end of the ODP.
-
-4. Obstacles that are located within \(1\mathrm{NM}\) of the DER and penetrate the 40:1 OCS are referred to as "low, close-in obstacles." The standard required obstacle clearance (ROC) of 48 feet per NM to clear these obstacles would require a climb gradient greater than 200 feet per NM for a very short distance, only until the aircraft was 200 feet above the DER. To eliminate publishing an excessive climb gradient, the obstacle AGL/MSL height and location relative to the DER is noted in the "Take-off Minimums and (OBSTACLE) Departure Procedures" section of a given Terminal Procedures Publication (TPP) booklet. The purpose of this note is to identify the obstacle(s) and alert the pilot to the height and location of the obstacle(s) so they can be avoided. This can be accomplished in a variety of ways, e.g., the pilot may be able to

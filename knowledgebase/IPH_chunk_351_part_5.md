@@ -1,5 +1,0 @@
-determining visibilities are: decision altitude (DA)/MDA height above touchdown (HAT), height above airport (HAA), distance of the facility to the MAP (or the runway threshold for non- precision approaches), and approach lighting configurations.
-
-The standard visibility requirement, without any credit for lights, is 1 SM for non- precision approaches and 3/4 SM for precision approaches. This is based on a Category A airplane 250- 320 feet HAT/HAA; for non- precision approaches a distance of 10,000 feet or less from the facility to the MAP (or runway threshold). For precision approaches, credit for any approach light configuration; for non- precision approaches (with a 250 HAT) configured with a Medium Intensity Approach Lighting System (MALSR), Simplified Short Approach Lighting System (SSALR), or Approach Lighting System With Sequenced Flashing Lights (ALSF)- 1 normally results in a published visibility of 1/2 SM.
-
-Consequently, if an ILS is configured with approach lights or a non- precision approach is configured with MALSR, SSALR, or ALSF- 1 lighting configurations and the procedure has a published visibility of

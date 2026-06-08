@@ -1,7 +1,0 @@
-running. Some of the DC power produced is changed to 28 volt 400 cycle alternating current (AC) power for certain avionic, lighting, and indicator synchronization functions. This is accomplished by an electrical component called an inverter.
-
-The distribution of DC and AC power throughout the system is accomplished through the use of power distribution buses. These "buses" as they are called are actually common terminals from which individual electrical circuits get their power. [Figure 15- 9]
-
-Buses are usually named for what they power (avionics bus, for example) or for where they get their power (right generator bus, battery bus). The distribution of DC and AC power is often divided into functional groups (buses) that give priority to certain equipment during normal and emergency operations. Main buses serve most of the airplane's electrical equipment. Essential buses feed power to equipment having top priority. [Figure 15- 10]
-
-Multigenge turboprop airplanes normally have several power sources—at least one generator per engine and at least one battery for the airplane. The electrical systems are usually designed so that any bus can be energized by any of the power sources. For example, a typical system has a left and right engine

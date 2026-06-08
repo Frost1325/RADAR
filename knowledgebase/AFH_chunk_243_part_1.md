@@ -1,7 +1,0 @@
-## Crosswind Approach and Landing
-
-Crosswind Approach and LandingMost runways or landing areas are such that landings need to be made while the wind is blowing at an angle to the runway rather than parallel to the landing direction. All pilots should be prepared to manage a crosswind situation when it arises. Many of the same basic principles and factors involved in a normal approach and landing apply to a crosswind approach and landing; therefore, only the additional procedures required for correcting for wind drift are discussed here.
-
-Crosswind landings are a little more difficult to perform than crosswind takeoffs, mainly due to different inputs involved in maintainin accurate control of the airplane while its speed is decreasing rather than increasing as on takeoff.
-
-There are two usual methods of accomplishing a crosswind approach and landing- the crab method and the wing- low (sideslip) method. Although the crab method may be easier for the pilot to maintain during final approach, it requires judgment and precise timing when removing the crab immediately prior to touchdown. The wing- low method is recommended in most cases, although a combination of both methods may be used. While current testing standards allow for either method, pilots should learn to do both.

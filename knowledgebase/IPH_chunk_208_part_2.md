@@ -1,5 +1,0 @@
-to determine that the aircraft will be capable of performing the following actions, considering the landing weight and other pertinent environmental factor:
-
-Land within the distance required by the regulations. Climb from the missed approach point (MAP) and maintain a specified climb gradient with one engine inoperative. Perform a go-around from the final stage of landing and maintain a specified climb gradient with all engines operating and the aircraft in the landing configuration.
-
-Many airplanes have more than one allowable flap configuration for normal landing. Often, a reduced flap setting for landing allows the airplane to operate at a higher landing weight into a field that has restrictive obstacles in the missed approach or rejected landing climb path. On these occasions, the full- flap landing speed may not allow the airplane enough energy to successfully complete a go- around and avoid any high terrain and/or obstacles that might exist on the climb out. Therefore, all- engine and engine- out missed approaches, as well as rejected landings, must be taken into consideration in compliance with the regulations.

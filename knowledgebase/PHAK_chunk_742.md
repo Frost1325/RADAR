@@ -1,5 +1,0 @@
-- air mixture. The EGT gauge is highly accurate in indicating the correct fuel- air mixture setting. When using the EGT to aid in leaning the fuel- air mixture, fuel consumption can be reduced. For specific procedures, refer to the manufacturer's recommendations for leaning the fuel- air mixture.
-
-## Starting System
-
-Most small aircraft use a direct- cranking electric starter system. This system consists of a source of electricity, wiring, switches, and solenoids to operate the starter and a starter motor. Most aircraft have starters that automatically engage and disengage when operated, but some older aircraft have starters that are mechanically engaged by a lever actuated by the pilot. The starter engages the aircraft flywheel, rotating the engine at a speed that allows the engine to start and maintain operation.

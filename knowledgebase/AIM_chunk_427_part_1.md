@@ -1,1 +1,0 @@
-## 4-3-17. VFR Helicopter Operations at Controlled Airports

@@ -1,5 +1,0 @@
-## \(180^{\circ}\) Power-Off Approach
-
-The \(180^{\circ}\) power- off approach is executed by gliding with idle power from a given point on a downwind leg to a preselected landing spot. [Figure 9- 27] It is an extension of the principles involved in the \(90^{\circ}\) power- off approach just described. The objective is to further develop judgment in estimating distances and glide ratios, in that the airplane is flown without power from a higher altitude and through a \(90^{\circ}\) turn to reach the base- leg position at a proper altitude for executing the \(90^{\circ}\) approach.
-
-The \(180^{\circ}\) power- off approach requires more planning and judgment than the \(90^{\circ}\) power- off approach. In the execution of \(180^{\circ}\) power- off approaches, the airplane is flown on a downwind heading parallel to the landing runway. The altitude from which this type of approach is started varies with the type of airplane, but should usually not exceed 1,000 feet above the ground, except with large airplanes.

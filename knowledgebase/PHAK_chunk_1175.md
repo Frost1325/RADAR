@@ -1,7 +1,0 @@
-ipated. Also, the additional speed causes increased drag and lift in the normal ground attitude, and the increased lift reduces the normal force on the braking surfaces. The deceleration during this range of speed immediately after touchdown may suffer, and it is more probable for a tire to be blown out from braking at this point.
-
-The most critical conditions of landing performance are combinations of high gross weight, high density altitude, and unfavorable wind. These conditions produce the greatest required landing distances and critical levels of energy dissipation on the brakes. In all cases, it is necessary to make an accurate prediction of minimum landing distance to compare with the available runway. A polished, professional landing procedure is necessary because the landing phase of flight accounts for more pilot- caused aircraft accidents than any other single phase of flight.
-
-In the prediction of minimum landing distance from the AFM/POH data, the following considerations must be given:
-
-Pressure altitude and temperature- to define the effect of density altitude Gross weight- which defines the CAS for landing Wind- a large effect due to wind or wind component along the runway Runway slope and condition- relatively small correction for ordinary values of runway slope, but a significant effect of snow, ice, or soft ground

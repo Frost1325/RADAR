@@ -1,5 +1,0 @@
- Similar forces create circulation cells that encircle the Earth between \(30^{\circ}\) and \(60^{\circ}\) latitude and between \(60^{\circ}\) and the poles. This circulation pattern results in the prevailing upper level westerly winds in the conterminous United States.
-
-Circulation patterns are further complicated by seasonal changes, differences between the surfaces of continents and oceans, and other factors such as frictional forces caused by the topography of the Earth's surface that modify the movement of the air in the atmosphere. For example, within 2,000 feet of the ground, the friction between the surface and the atmosphere slows the moving air. The wind is diverted from its path because of the frictional force. Thus, the wind direction at the surface varies somewhat from the wind direction just a few thousand feet above the Earth.
-
-## Measurement of Atmosphere Pressure

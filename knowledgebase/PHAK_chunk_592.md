@@ -1,5 +1,0 @@
- without a change in direction, such as when the airstream is accelerated to sonic speed over the cambered portion of a wing, and then decelerated to subsonic speed as the area of maximum camber is passed. A shock wave forms as a boundary between the supersonic and subsonic ranges.
-
-Whenever a shock wave forms perpendicular to the airflow, it is termed a "normal" shock wave, and the flow immediately behind the wave is subsonic. A supersonic airstream passing through a normal shock wave experiences these changes:
-
-The airstream is slowed to subsonic. The airflow immediately behind the shock wave does not change direction. The static pressure and density of the airstream behind the wave is greatly increased. The energy of the airstream (indicated by total pressure- dynamic plus static) is greatly reduced.

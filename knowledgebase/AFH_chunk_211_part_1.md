@@ -1,5 +1,0 @@
-## Eights on Pylons
-
-The eights on pylons is the most advanced and difficult of the ground- reference maneuvers. Because of the techniques involved, the eights on pylons are unmatched for developing intuitive control of the airplane. Similar to eights around pylons except altitude is varied to maintain a specific visual reference to the pivot points.
-
-When performing eights on pylons, the pilot imagines there is a line parallel to the airplane's lateral axis that extends from the pilot's eyes to the pylon. Along this line, the airplane appears to pivot as it turns around the pylon. In other words, if a taut string extended from the pilot's eyes to the pylon, the string would remain parallel to lateral axis as the airplane makes a turn around the pylon. The goal of eights on pylons is to keep the line from the pilot's eyes to the pylon parallel to the lateral axis. The string should not be at an angle to the lateral axis while the airplane flies around the pylon. [Figure 7- 10] When explaining eights on pylons, instructors sometimes use the term "wingtip" to represent the proper visual reference line to the pylon. This interpretation is not correct

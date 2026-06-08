@@ -1,7 +1,0 @@
-radio fixes that assures acceptable navigational signal coverage and meets obstacle clearance requirements between those fixes. The MEA prescribed for a Federal Airway or segment, RNAV low or high route, or other direct route applies to the entire width of the airway, segment, or route between the radio fixes defining the airway, segment, or route.
-
-Minimum IFR Altitude (MIA). Minimum altitudes for IFR operations are prescribed in 14 CFR Part 91. These MIAs are published on IFR charts and prescribed in 14 CFR Part 95 for airways and routes, and in 14 CFR Part 97 for standard instrument approach procedures.
-
-Minimum Navigation Performance Specifications (MNPS). A set of standards that require aircraft to have a minimum navigation performance capability in order to operate in MNPS designated airspace. In addition, aircraft must be certified by their State of Registry for MNPS operation. Under certain conditions, non- MNPS aircraft can operate in MNPS airspace, however, standard oceanic separation minima is provided between the non- MNPS aircraft and other traffic.
-
-Minimum Obstruction Clearance Altitude (MOCA). The MOCA is the lowest published altitude in effect between radio fixes on VOR airways,

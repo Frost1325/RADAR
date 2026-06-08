@@ -1,5 +1,0 @@
-condition so that an adequate preflight inspection may occur.
-
-On metal airplanes, wingtips, fairings, and non- structural covers may be fabricated out of thin fiberglass or plastic. These items are frequently affected by cracks radiating from screw holes or concentrated radii. Often, if any of these items are cracked, it is practice to "stop- drill" the crack to prevent crack progression. [Figure 2- 8] Extra care should be exercised to ensure that these devices are in good condition without cracks that may render them unairworthy. Cracks that have continued beyond a stop- drilled location or any new adjacent cracks that have formed may lead to in- flight failure.
-
-Inspecting composite airplanes can be more challenging as the airplanes generally have no rivets or screws to aid the pilot in identifying spar lines and wing attach points. However, delamination of spar to skin or other structural problems may be identified by bubbles, fine hair- line cracks, or changes in sound when gently tapping on the structure with a fingertip. Anything out of place should be addressed by discussing the issue with a properly rated aircraft mechanic.

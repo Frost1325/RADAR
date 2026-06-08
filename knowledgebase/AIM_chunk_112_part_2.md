@@ -1,1 +1,0 @@
-(AGL), the contact height, the pilot must look for and acquire the traffic on the runway. At 300 feet AGL, the pilot must contact ATC for resolution if the FAROS indication is in conflict with the clearance. If the PAPI continues to flash, the pilot must execute an immediate "go around" and contact ATC at the earliest possible opportunity.

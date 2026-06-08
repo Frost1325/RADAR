@@ -1,1 +1,0 @@
-should be contacted for the current status of any airspace associated with the space shuttle operations. This airspace encompasses R2933, R2932, R2931, R2934, R2935, W497A and W158A. Additional warning and restricted areas will be active in conjunction with the operations. Pilots must consult all NOTAMs regarding this operation.

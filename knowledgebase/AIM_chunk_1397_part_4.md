@@ -1,3 +1,0 @@
-high lighting area.
-
-4. Through the accumulation of night flying experience in a particular area, the operator will develop the ability to determine, prior to departure, which areas can be considered supporting high or low lighting conditions. Without that operational experience, low lighting considerations should be applied by operators for both pre-flight planning and operations until high lighting conditions are observed or determined to be regularly available.

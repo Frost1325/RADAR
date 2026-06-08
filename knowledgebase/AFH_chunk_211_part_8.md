@@ -1,7 +1,0 @@
-line moves neither backward nor forward but actually pivots on the pylon. In this way, the pilot can determine the pivotal altitude of the airplane.
-
-The pivotal altitude changes with variations in groundspeed. Since the headings throughout turns continuously vary from downwind to upwind, the groundspeed constantly changes. This results in the proper pivotal altitude varying slightly throughout the turn. The pilot should adjust for this by climbing or descending, as necessary, to hold the visual reference line on the pylons.
-
-Selecting proper pylons is an important factor of successfully performing eights on pylons. They should be sufficiently prominent so the pilot can view them when completing the turn around one pylon and heading for the next. They should also be adequately spaced to provide time for planning the turns but not spaced so far apart that they cause unnecessary straight- and- level flight between the pylons. The distance between the pylons should allow for the straight- and- level flight segment to last from 3 to 5 seconds. The selected pylons should also be at the same elevation, since differences of over a few feet necessitate climbing or descending between each turn. The pilot should select two pylons along a line that lies perpendicular to the direction of the wind.
-
-The pilot should estimate

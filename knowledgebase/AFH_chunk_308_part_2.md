@@ -1,5 +1,0 @@
-prepared and filed an IFR flight plan that can be activated, if needed.
-
-Crossing large bodies of water at night in single- engine airplanes could be potentially hazardous, because in the event of an engine failure, the pilot may be forced to land (ditch) the airplane in the water. Another hazard faced by pilots of all aircraft, due to limited or no lighting, is that the horizon blends with the water. During poor visibility conditions over water, the horizon becomes obscure and may result in a loss of orientation. Even on clear nights, the stars may be reflected on the water surface, which could appear as a continuous array of lights, thus making the horizon difficult to identify.
-
-Lighted runways, buildings, or other objects may cause illusions when seen from different altitudes. At an altitude of 2,000 feet, a group of lights on an object may be seen individually, while at 5,000 feet or higher, the same lights could appear to be one solid light mass. These illusions may become quite acute with altitude changes and, if not overcome, could present problems when making approaches to lighted runways.

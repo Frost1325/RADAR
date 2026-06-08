@@ -1,5 +1,0 @@
-## Base Leg
-
-The placement of the base leg is one of the important judgments made by the pilot to set up for a good landing. [Figure 9- 3] The pilot accurately judges the height, distance from the approach end of the runway, and rate of descent to allow a stabilized approach, round out, and touchdown at the desired spot. The distance depends on the altitude of the base leg, the current winds, and the amount of wing flaps used. When there is a strong wind on final approach or the flaps are used to produce a steep angle of descent, the base leg should be positioned closer to the approach end of the runway than would be required with normal winds or flap settings. Normally, the landing gear is extended and the before- landing check completed prior to reaching the base leg.
-
-After turning onto the base leg, the pilot starts or continues the descent with reduced power and a target airspeed of approximately 1.4 \(\mathrm{V_{SO}}\) the stalling speed in the landing configuration. For example, if \(\mathrm{V_{SO}}\) is 60 knots, 1.4 \(\mathrm{V_{SO}}\) is 84 knots \((84 =

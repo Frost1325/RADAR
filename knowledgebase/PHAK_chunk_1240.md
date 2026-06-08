@@ -1,3 +1,0 @@
- has traveled one- third of the distance from the equator to the North Pole, it is no longer moving northward, but eastward. This air cools and sinks in a belt- like area at about \(30^{\circ}\) latitude, creating an area of high pressure as it sinks toward
-
-the surface. Then, it flows southward along the surface back toward the equator. Coriolis force bends the flow to the right, thus creating the northeasterly trade winds that prevail from \(30^{\circ}\) latitude to the equator. Similar forces create circulation cells that encircle the Earth between \(30^{\circ}\) and \(60^{\circ}\) latitude and between \(60^{\circ}\) and the poles. This circulation pattern results in the prevailing upper level westerly winds in the conterminous United States.

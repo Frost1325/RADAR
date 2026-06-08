@@ -1,3 +1,0 @@
- see that when you have less downwash, your lift vector is more vertical, opposing gravity. And when you have more downwash, your lift vector points back more, causing induced drag. On top of that, it takes energy for your wings to create downwash and vortices, and that energy creates drag.
-
-The greater the size and strength of the vortices and consequent downwash component on the net airflow over the airfoil, the greater the induced drag effect becomes. This downwash over the top of the airfoil at the tip has the same effect as bending the lift vector rearward; therefore, the lift is slightly aft of perpendicular to the relative wind, creating a rearward lift component. This is induced drag.

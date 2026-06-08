@@ -1,3 +1,0 @@
-MS.
-
-[d] To satisfy the requirement for two independent navigation systems, if the primary navigation system is GPS- based, the second system must be independent of GPS (for example, VOR or DME/DME/IRU). This allows continued navigation in case of failure of the GPS or WAAS services. Recognizing that GPS interference and test events resulting in the loss of GPS services have become more common, the FAA requires operators conducting IFR operations under 14 CFR 121.349, 125.203, 129.17 and 135.65 to retain a non- GPS navigation capability consisting of either DME/DME, IRU, or VOR for en route and terminal operations, and VOR and ILS for final approach. Since this system is to be used as a reversionary capability, single equipage is sufficient.

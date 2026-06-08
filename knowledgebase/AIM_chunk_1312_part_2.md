@@ -1,3 +1,0 @@
-held over the nose and mouth.
-
-c. Early symptoms of hyperventilation and hypoxia are similar. Moreover, hyperventilation and hypoxia can occur at the same time. Therefore, if a pilot is using an oxygen system when symptoms are experienced, the oxygen regulator should immediately be set to deliver 100 percent oxygen, and then the system checked to assure that it has been functioning effectively before giving attention to rate and depth of breathing.

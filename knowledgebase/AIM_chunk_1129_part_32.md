@@ -1,3 +1,0 @@
-usetur</td><td>Meusetur</td><td>Meusetur</td><td>Meusetur</td><td>Meusetur</td><td>Meuseur</td><td>Meusetur</td><td>Meusetur</td><td>Meusetur</td><td>Meuseur</td><td>Meusetur</td><td>Meusetur</td><td>Meusetur</td><td>Metteur</td><td>Mettesur</td><td>Metteur</td><td>Metteursur</td><td>Metteur</td><td>Metteursur</td><td>Metteursur</td><td>Metteursur</td><td>Metteursur&lt;f�</td><td>Metteursur</td><td>Metteursur</td><td>Metteursur</td></tr></table>
-
-<table><tr><td>REMARKS IDENTIFIER: RMC<br/>TORNADO ACTIVITY: AUGMENTED, REPOINTED, TORNADO, FUNNEL, CLOUD, OR WATERSHED LEVEL<br/>LOCATION:

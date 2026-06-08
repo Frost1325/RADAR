@@ -1,3 +1,0 @@
-## Mitigating Risks from Mismanagement of Energy
-
-Besides learning the proper use of the controls for normal energy management tasks, pilots should be equipped with the ability to identify, assess, and mitigate two major risks associated with mismanagement of energy: 1) unwanted deviations from the desired energy state; and 2) unintentional, irreversible deceleration and/or sink rate causing depletion of mechanical energy. The first risk involves unintended altitude- airspeed deviations (refer to Managing Energy Errors section). The second risk entails unforeseen, continuous airspeed and/or altitude loss coupled with little or no available excess power in a given flight condition (refer to Preventing Irreversible Deceleration and/or Sink Rate section).

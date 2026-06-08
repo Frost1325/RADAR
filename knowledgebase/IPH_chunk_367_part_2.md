@@ -1,5 +1,0 @@
-on the wings, fuselage, landing gear, and horizontal stabilizer. At the first indication of ice accumulation, the pilot must act to circumvent icing conditions. Options for action once ice has begun to accumulate on the aircraft are the following:
-
-- Move to an altitude with significantly colder temperatures.- Move to an altitude with temperatures above freezing.- Fly to an area clear of visible moisture.- Change the heading, and fly to an area of known non-icing conditions.
-
-If these options are not available, consider an immediate landing at the nearest suitable airport. Anti- icing/de- icing equipment does not allow aircraft to operate in icing conditions indefinitely; it only provides more time to evade icing conditions. If icing is encountered, an aircraft controllability check should be considered in the landing configuration. Give careful consideration to configuration changes that might produce unanticipated aircraft flight dynamics.

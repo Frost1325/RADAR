@@ -1,3 +1,0 @@
-## 7-3-3. Vortex Strength
-
-a. The strength of the vortex is governed by the weight, speed, and shape of the wing of the generating aircraft. The vortex characteristics of any given aircraft can also be changed by extension of flaps or other wing configuring devices as well as by change in speed. However, as the basic factor is weight, the vortex strength increases proportionately. Peak vortex tangential speeds exceeding 300 feet per second have been recorded. The greatest vortex strength occurs when the generating aircraft is HEAVY, CLEAN, and SLOW.

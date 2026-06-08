@@ -1,1 +1,0 @@
-## Airplane Flying Handbook (FAA-H-8083-3C) Chapter 18: Emergency Procedures

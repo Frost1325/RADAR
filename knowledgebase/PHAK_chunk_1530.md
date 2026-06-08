@@ -1,5 +1,0 @@
- additional ADS- B information. This additional information is known as an "extended squitter" message and referred to as 1090ES. ADS- B equipment operating on \(978\mathrm{MHz}\) is known as the Universal Access Transceiver (UAT).
-
-## Radar Traffic Advisories
-
-Radar equipped ATC facilities provide radar assistance to aircraft on instrument flight plans and VFR aircraft provided the aircraft can communicate with the facility and are within radar coverage. This basic service includes safety alerts, traffic advisories, limited vectoring when requested, and sequencing at locations where this procedure has been established. ATC issues traffic advisories based on observed radar targets. The traffic is referenced by azimuth from the aircraft in terms of the 12- hour clock. Also, distance in nautical miles, direction in which the target is moving, and type and altitude of the aircraft, if known, are given.

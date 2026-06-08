@@ -1,3 +1,0 @@
-runway separation criteria. Intersecting runways also require minimums of at least 700 foot ceilings and 2 miles visibility. Straight in approaches and landings must be made.
-
-d. Whenever simultaneous converging approaches are in progress, aircraft will be informed by the controller as soon as feasible after initial contact or via ATIS. Additionally, the radar controller will have direct communications capability with the tower controller where separation responsibility has not been delegated to the tower.

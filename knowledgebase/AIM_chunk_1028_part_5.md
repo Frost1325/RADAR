@@ -1,3 +1,0 @@
->TUS</td><td>Tucson, Arizona</td></tr><tr><td>TUL</td><td>Tulsa, Oklahoma</td></tr></table>
-
-c. If due to weather or other considerations an aircraft with a suspected hidden explosive problem were to land or intended to land at an airport other than those listed in b above, it is recommended that they call the FAA's Washington Operations Center (telephone 202-267-3333, if appropriate) or have an air traffic facility with which you can communicate contact the above center requesting assistance.

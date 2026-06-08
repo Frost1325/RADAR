@@ -1,7 +1,0 @@
-for securing in the cockpit for use during all phases of flight. The hardware device, whether it's an installed avionics display or portable commercial- off- the- shelf (COTS) device, commonly referred to as a portable electronic device (PED), is not considered to be an EFB unless the
-
-hardware device hosts and actively displays either Type A or B software application(s). A non- inclusive list of Type A and B software application examples can be found in appendix 1 and 2 of FAA Advisory Circular (AC) 120- 76.
-
-The purpose, technology, and functions for EFB use are rapidly evolving. New and advanced software applications and databases beyond traditional flight bag uses continue to be developed. The FAA has published and continues to update EFB policy and guidance to educate and assist aircraft operators interested in using or obtaining an EFB authorization as appropriate. The most current editions of the following FAA guidance and policy can be accessed from the FAA's website (http://www.faa.gov) or FAA's Flight Standards Information Management System (FSIMS http://fsims.faa.gov).
-
-- AC 120-76, Guidelines for the Certification, Airworthiness, and Operational Use of Electronic Flight Bags;- AC

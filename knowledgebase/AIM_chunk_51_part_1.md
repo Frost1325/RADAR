@@ -1,5 +1,0 @@
-## 3. Oceanic, Domestic, En Route, and Terminal Area Operations
-
-(a) Conduct GPS IFR operations in oceanic areas only when approved avionics systems are installed. TSO- C196() users and TSO- C129() GPS users authorized for Class A1, A2, B1, B2, C1, or C2 operations may use GPS in place of another approved means of long- range navigation, such as dual INS. (See TBL 1- 1- 5 and TBL 1- 1- 6. ) Aircraft with a single installation GPS, meeting the above specifications, are authorized to operate on short oceanic routes requiring one means of long- range navigation (reference AC 20- 138(), Appendix 1).
-
-(b) Conduct GPS domestic, en route, and terminal IFR operations only when approved avionics systems are installed. Pilots may use GPS via TSO- C129() authorized for Class A1, B1, B3, C1, or C3 operations GPS via TSO- C196(); or GPS/WAAS with either TSO- C145() or T

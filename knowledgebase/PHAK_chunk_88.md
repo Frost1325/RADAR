@@ -1,7 +1,0 @@
- on the practical application of these skills in specific teaching situations. The flight instructor is crucial to the scenario- based training program endorsed by the FAA. He or she is trained to function in the learning environment as an advisor and guide for the learner. The duties, responsibilities, and authority of the CFI include the following:
-
-Orient the student to the scenario- based training system Help the student become a confident planner and inflight manager of each flight and a critical evaluator of their own performance Help the student understand the knowledge requirements present in real world applications Diagnose learning difficulties and help the student overcome them Evaluate student progress and maintain appropriate records Provide continuous review of student learning
-
-Should a student pilot find the selected CFI is not training in a manner conducive for learning, or the student and CFI do not have compatible schedules, the student pilot should find another CFI. Choosing the right CFI is important because the quality of instruction and the knowledge and skills acquired from their flight instructor affect a student pilot's entire flying career.
-
-## The Student Pilot

@@ -1,3 +1,0 @@
-# 4-3-14. Communications
-
-**a.** Pilots of departing aircraft should communicate with the control tower on the appropriate ground control/clearance delivery frequency prior to starting engines to receive engine start time, taxi and/or clearance information. Unless otherwise advised by the tower, remain on that frequency during taxiing and runup, then change to local control frequency when ready to request takeoff clearance.

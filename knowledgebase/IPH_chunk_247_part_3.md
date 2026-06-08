@@ -1,3 +1,0 @@
-1,000 feet above the airport or TDZE.
-
-- For visual approaches and straight-in instrument approaches in VFR weather conditions, the approach must be stabilized before descending below 500 feet above the airport elevation.- For the final segment of a circling approach maneuver, the approach must be stabilized 500 feet above the airport elevation or at the MDA, whichever is lower. These conditions must be maintained throughout the approach until touchdown for the approach to be considered a stabilized approach. This also helps you to recognize a wind shear situation should abnormal indications exist during the approach.

@@ -1,7 +1,0 @@
-## Wheel Landing
-
-In some wind conditions, the need to retain control authority may make it desirable to make contact with the runway at a higher airspeed than that associated with the three- point attitude. This necessitates landing in a flatter pitch attitude on the main wheels only, with the tailwheel still off the surface. [Figure 14- 3] As noted, if the tail is off the ground, it tends to drop and put the plane airborne, so a soft touchdown and a slight relaxation of back elevator just after the wheels touch are key ingredients to a successful wheel landing.
-
-Once the main wheels are on the surface, the tail should be permitted to drop on its own accord until it too makes ground contact. At this point, the elevator should be brought to the full aft position and deceleration should be allowed to proceed as in a three- point landing.
-
-If the touchdown is made at too high a rate of descent, the tail is forced down by its own weight, resulting in a sudden increase in lift. If the pilot now pushes forward in an attempt to again make contact with the surface, a potentially dangerous pilot- induced oscillation may develop. It is far better to respond to a bounced wheel landing attempt by initiating a go-

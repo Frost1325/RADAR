@@ -1,3 +1,0 @@
-Alone Airborne Navigation Equipment Using the Global Positioning System (GPS) Augmented by the Satellite Based Augmentation System (SBAs), and installed in accordance with AC 20- 138C, Airworthiness Approval of Positioning and Navigation Systems.
-
-Precision approach capability will become available as more GBAS (LAAS) approach types become operational. GBAS (LAAS) further increases the accuracy of GPS and improves signal integrity warnings. Precision approach capability requires obstruction planes and approach lighting systems to meet Part 77 standards for ILS approaches. This delays the implementation of RNAV (GPS) precision approach capability due to the cost of certifying each runway.

@@ -1,1 +1,0 @@
-><td>TODA</td><td>ASDA</td><td>LDA</td></tr><tr><td>9</td><td rowspan="2">8000</td><td>8000</td><td>8000</td><td>7400</td><td>7100</td></tr><tr><td>27</td><td>8000</td><td>8000</td><td>8000</td><td>7800</td></tr></table>

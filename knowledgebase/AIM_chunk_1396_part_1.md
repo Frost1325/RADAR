@@ -1,1 +1,0 @@
-### a. Effect of Lighting on Seeing Conditions in Night VFR Helicopter Operations

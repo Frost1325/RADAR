@@ -1,7 +1,0 @@
-## Airplane-Based UPRT
-
-Ultimately, the more realistic the training scenario, the more indelible the learning experience. Although creating a visual scene of a \(110^{\circ}\) banked attitude with the nose \(30^{\circ}\) below the horizon may not be technically difficult in a modern simulator, the learning achieved while viewing that scene from the security of the simulator is not as complete as when viewing the same scene in an airplane. Maximum learning is achieved when the pilot is placed in the controlled, yet adrenaline- enhanced, environment of upsets experienced while in flight. For these reasons, airplane- based UPRT improves a pilot's ability to overcome fear in an airplane upset event.
-
-However, airplane- based UPRT does have limitations. The level of upset training possible may be limited by the maneuvers approved for the particular airplane, as well as by the flight instructor's own UPRT capabilities. For instance, UPRT conducted in the normal category by a typical flight instructor will necessarily be different from UPRT conducted in the aerobatic category by a flight instructor with expertise in aerobatics.
-
-When considering upset training conducted in an aerobatic- capable airplane in particular, the importance of employing instructors with specialized UPRT experience in

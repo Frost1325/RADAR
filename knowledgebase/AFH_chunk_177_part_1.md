@@ -1,7 +1,0 @@
-## Initial Climb
-
-Upon liftoff, the airplane should be flying at approximately the pitch attitude that allows it to accelerate to \(\mathrm{V}_{\mathrm{Y}}\) . This is the speed at which the airplane gains the most altitude in the shortest period of time.
-
-If the airplane has been properly trimmed for takeoff, some back- elevator pressure may be required to hold this attitude until the proper climb speed is established. Relaxation of any back- elevator pressure before this time may result in the airplane settling, even to the extent that it contacts the runway.
-
-The airplane's speed will increase rapidly after it becomes airborne. Once a positive rate of climb is established, the pilot should retract the flaps and landing gear (if equipped). It is recommended that takeoff power be maintained until reaching an altitude of at least 500 feet above the surrounding terrain or obstacles. The combination of \(\mathrm{V}_{\mathrm{Y}}\) and takeoff power assures the maximum altitude gained in a minimum amount of time. This gives the pilot more altitude from which the airplane can be safely maneuvered in case of an engine failure or other emergency. The pilot should also consider flying at a lower pitch for cruise climb since flying at \(\

@@ -1,7 +1,0 @@
-## NOTE-
-
-As is always the case, when used by the controller during departure, the term “radar contact” should not be interpreted as relieving pilots of their responsibility to maintain appropriate terrain and obstruction clearance which may include flying the obstacle DP.
-
-3. Pilots must preplan to determine if the aircraft can meet the climb gradient (expressed in feet per nautical mile) required by the departure procedure, and be aware that flying at a higher than anticipated ground speed increases the climb rate requirement in feet per minute. Higher than standard climb gradients are specified by a note on the departure procedure chart for graphic DPs, or in the Take–Off Minimums and (Obstacle) Departure Procedures section of the U.S. Terminal Procedures booklet for textual ODPs. The required climb gradient, or higher, must be maintained to the specified altitude or fix, then the standard climb gradient of 200 ft/NM can be resumed. A table for the conversion of climb gradient (feet per nautical mile) to climb rate (feet per minute), at a given ground speed, is included on the inside of the back cover of the U.S. Terminal Procedures booklets.
-
-d. Where are DPs located? DPs will be listed

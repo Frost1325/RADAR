@@ -1,5 +1,0 @@
-iway, helipad, runway number, etc.), MAKE RIGHT/LEFT TURN FOR (direction, heading, NAVAID radial) DEPARTURE/DEPARTURE ROUTE (number, name, etc.)." Unless requested by the pilot, downwind takeoffs will not be issued if the tailwind exceeds 5 knots.
-
-2. Pilots should be alert to wind information as well as to wind indications in the vicinity of the helicopter. ATC should be advised of the intended method of departing. A pilot request to takeoff in a given direction indicates that the pilot is willing to accept the wind condition and controllers will honor the request if traffic permits. Departure points could be a significant distance from the control tower and it may be difficult or impossible for the controller to determine the helicopter's relative position to the wind.
-
-3. If takeoff is requested from nonmovement areas, an area not authorized for helicopter use, an area not visible from the tower, an unlighted area at night, or an area off the airport, the phraseology "DEPARTURE FROM (requested location) WILL BE AT YOUR OWN RISK (additional instructions, as necessary). USE CAUTION (if applicable)." The pilot is responsible for operating in a safe manner and

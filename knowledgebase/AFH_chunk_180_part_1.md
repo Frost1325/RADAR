@@ -1,7 +1,0 @@
-## Takeoff Roll
-
-The technique used during the initial takeoff roll in a crosswind is generally the same as the technique used in a normal takeoff roll, except that the pilot needs to apply aileron pressure into the crosswind. This raises the aileron on the upwind wing, imposes a downward force on that wing to counteract the lifting force of the crosswind, and thus prevents the wing from rising. The pilot should remember that since the ailerons and rudder are deflected, drag will increase; therefore, less initial takeoff performance should be expected until the airplane is wings- level in coordinated flight in the climb.
-
-While taxiing into takeoff position, it is essential that the pilot check the windsock and other wind direction indicators for the presence of a crosswind. If a crosswind is present, the pilot should apply full aileron pressure into the wind while beginning the takeoff roll. The pilot should maintain this control position, as the airplane accelerates, and until the ailerons become effective in maneuvering the airplane about its longitudinal axis. As the ailerons become effective, the pilot will feel an increase in pressure on the aileron control.
-
-While holding aileron pressure into the wind,

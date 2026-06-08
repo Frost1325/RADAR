@@ -1,3 +1,0 @@
-## T
-
-TACAN. See Tactical Air Navigation  Tactical Air Navigation, 1- 1- 3  TAF. See Aerodrome Forecast  Takeoff Hold Lights (THL), 2- 1- 8  Takeoffs, Intersection, 4- 3- 13  Taxi  Clearance, 5- 2- 1  During Low Visibility, 4- 3- 21  Taxiway  Centerline Markings, 2- 3- 7  Closed  Lighting, 2- 3- 18  Marking, 2- 3- 18  Edge Markings, 2- 3- 7  Geographic Position Markings, 2- 3- 10  Holding Position Markings, 2- 3- 12  Markings, 2- 3- 1, 2- 3- 7  Shoulder Markings, 2- 3- 7  Surface Painted Direction Signs, 2- 3- 10  Surface Painted Location Signs, 2- 3- 10  Taxiway Centerline Lead- Off Lights

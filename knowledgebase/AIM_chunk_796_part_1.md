@@ -1,5 +1,0 @@
-## NOTE-
-
-A pilot who intends to make an airway flight, using VOR facilities, will simply specify the appropriate "victor" airway(s) in the flight plan. For example, if a flight is to be made from Chicago to New Orleans at 8,000 feet, using omniranges only, the route may be indicated as "departing from Chicago-Midway, cruising 8,000 feet via Victor 9 to Moisant International." If flight is to be conducted in part by means of L/MF navigation aids and in part on omniranges, specifications of the appropriate airways in the flight plan will indicate which types of facilities will be used along the described routes, and, for IFR flight, permit ATC to issue a traffic clearance accordingly. A route may also be described by specifying the station over which the flight will pass, but in this case since many VORs and L/MF aids have the same name, the pilot must be careful to indicate which aid will be used at a particular location.
-
-This will be indicated in the route of flight portion of the flight plan by specifying the type of facility to be used after the location name in the following manner: Newark L/M

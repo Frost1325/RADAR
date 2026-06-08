@@ -1,7 +1,0 @@
-installations provide one visual glide path which is normally set at 3 degrees. Three-bar VASI installations provide two visual glide paths. The lower glide path is provided by the near and middle bars and is normally set at 3 degrees
-
-while the upper glide path, provided by the middle and far bars, is normally \(1 / 4\) degree higher. This higher glide path is intended for use only by high cockpit aircraft to provide a sufficient threshold crossing height. Although normal glide path angles are three degrees, angles at some locations may be as high as 4.5 degrees to give proper obstacle clearance. Pilots of high performance aircraft are cautioned that use of VASI angles in excess of 3.5 degrees may cause an increase in runway length required for landing and rollout.
-
-3. The basic principle of the VASI is that of color differentiation between red and white. Each light unit projects a beam of light having a white segment in the upper part of the beam and red segment in the lower part of the beam. The light units are arranged so that the pilot using the VASIs during an approach will see the combination of lights shown below.
-
-4. The VASI is a system of lights so arranged to provide visual descent guidance information during the approach to

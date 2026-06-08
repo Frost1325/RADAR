@@ -1,3 +1,0 @@
-## 3-4-7. Controlled Firing Areas
-
-CFAs contain activities which, if not conducted in a controlled environment, could be hazardous to nonparticipating aircraft. The distinguishing feature of the CFA, as compared to other special use airspace, is that its activities are suspended immediately when spotter aircraft, radar, or ground lookout positions indicate an aircraft might be approaching the area. There is no need to chart CFAs since they do not cause a nonparticipating aircraft to change its flight path.

@@ -1,5 +1,0 @@
- dissemination via the National Notice to Airmen (NOTAM) System. NOTAMs contain current notices to airmen that are considered essential to the safety of flight, as well as supplemental data affecting other operational publications. There are many different reasons that NOTAMs are issued. Following are some of those reasons:
-
-Hazards, such as air shows, parachute jumps, kite flying, and rocket launches Flights by important people such as heads of state Closed runways Inoperable radio navigational aids Military exercises with resulting airspace restrictions Inoperable lights on tall obstructions Temporary erection of obstacles near airfields Passage of flocks of birds through airspace (a NOTAM in this category is known as a BIRD TAM) Notifications of runway/taxiway/aprron status with respect to snow, ice, and standing water (a SNOWTAM)
-
-Notification of an operationally significant change in volcanic ash or other dust contamination (an ASHTAM) Software code risk announcements with associated patches to reduce specific vulnerabilities

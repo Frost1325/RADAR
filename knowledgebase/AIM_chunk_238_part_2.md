@@ -1,3 +1,0 @@
-by communicating with an FSS, a UNICOM operator, or by making a self-announce broadcast.
-
-3. Many airports are now providing completely automated weather, radio check capability and airport advisory information on an automated UNICOM system. These systems offer a variety of features, typically selectable by microphone clicks, on the UNICOM frequency. Availability of the automated UNICOM will be published in the Airport/Facility Directory and approach charts.

@@ -1,7 +1,0 @@
-## Noise Abatement
-
-Aircraft noise problems are a major concern at many airports throughout the country. Many local communities have pressured airports into developing specific operational procedures that help limit aircraft noise while operating over nearby areas. As a result, noise abatement procedures have been developed for many of these airports that include standardized profiles and procedures to achieve these lower noise goals.
-
-Airports that have noise abatement procedures provide information to pilots, operators, air carriers, air traffic facilities, and other special groups that are applicable to their airport. These procedures are available to the aviation community by various means. Most of this information comes from the Chart Supplements, local and regional publications, printed handouts, operator bulletin boards, safety briefings, and local air traffic facilities.
-
-At airports that use noise abatement procedures, reminder signs may be installed at the taxiway hold positions for applicable runways to remind pilots to use and comply with noise abatement procedures on departure. Pilots who are unfamiliar with these procedures should ask the tower or air traffic facility for the recommended procedures. In any case, pilots should be considerate of the surrounding community while operating their airplane to and from such an airport. This includes operating as quietly, and safely as possible.

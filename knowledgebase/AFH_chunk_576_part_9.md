@@ -1,3 +1,0 @@
->5-3</td></tr><tr><td>Startle response</td><td>5-3</td></tr><tr><td>Surprise response</td><td>5-3</td></tr><tr><td>Task saturation</td><td>5-3</td></tr><tr><td>VMC to IMC</td><td>5-2</td></tr><tr><td>Hydraulic pump</td><td>12-12, 12-14, 13-30, 18-9</td></tr><tr><td>Hydroplaning</td><td>9-37, 9-38</td></tr><tr><td>Dynamic hydroplaning</td><td>9-37</td></tr><tr><td>Reverted rubber hydroplaning</td><td>9-37</td></tr><tr><td>Viscous hydroplaning</td><td>9-37</td></tr></table>
-
-<table><tr><td>Impossible turn</td><td>18-7</td></tr><

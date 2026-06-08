@@ -1,3 +1,0 @@
-## Surface Movement Safety
-
-One of the biggest safety concerns in aviation is the surface movement accident. As a direct result, the FAA has rapidly expanded the information available to pilots, including the addition of taxiway and runway information in FAA publications, particularly the IFR U.S. Terminal Procedures Publication (TPP) booklets and the Chart Supplement (CS) volumes. The FAA has also implemented new procedures and created educational and awareness programs for pilots, ATC, and ground operators. By focusing resources to attack this problem head on, the FAA hopes to reduce and eventually eliminate surface movement accidents.

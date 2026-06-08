@@ -1,7 +1,0 @@
-the engine should be shut down immediately.
-
-To turn the airplane on the ground, the pilot should apply rudder in the desired direction of turn and use whatever power or brake necessary to control the taxi speed. At very low taxi speeds, directional response is sluggish as surface friction acting on the tailwheel inhibits inputs through the steering springs. At normal taxi speeds, rudder inputs alone should be sufficient to start and stop most turns. During taxi, the AOA built in to the structure gives control placement added importance when compared to nose- wheel models.
-
-When taxiing in a quartering headwind, the upwind wing can easily be lifted by gusting or strong winds unless ailerons are positioned to "kill" lift on that side (stick held into the wind). This is standard control positioning for both nose- wheel and tailwheel airplanes, so the difference lies only in the added tailwheel vulnerability created by the fuselage pitch attitude. At the same time, elevator should usually be held full back to add downward pressure to the tailwheel assembly and improve tailwheel steering response. However, in a strong quartering headwind a wing could lift, and the elevator may be held closer to neutral.
-
-When taxiing with a quartering tailwind, this fuselage

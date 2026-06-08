@@ -1,3 +1,0 @@
- the aircraft. While wind shear can occur at any altitude, low- level wind shear is especially hazardous due to the proximity of an aircraft to the ground. Low- level wind shear is commonly associated with passing frontal systems, thunderstorms, temperature inversions, and strong upper level winds (greater than 25 knots).
-
-Wind shear is dangerous to an aircraft. It can rapidly change the performance of the aircraft and disrupt the normal flight attitude. For example, a tailwind quickly changing to a headwind causes an increase in airspeed and performance. Conversely, a headwind changing to a tailwind causes a decrease in airspeed and performance. In either case, a pilot must be prepared to react immediately to these changes to maintain control of the aircraft.

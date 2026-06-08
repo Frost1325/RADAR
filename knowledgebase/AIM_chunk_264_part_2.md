@@ -1,1 +1,0 @@
-use of the ATIS broadcast where it is available, some pilots use the phrase "have numbers" in communications with the control tower. Use of this phrase means that the pilot has received wind, runway, and altimeter information ONLY and the tower does not have to repeat this information. It does not indicate receipt of the ATIS broadcast and should never be used for this purpose.

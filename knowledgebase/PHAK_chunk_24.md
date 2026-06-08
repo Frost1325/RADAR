@@ -1,5 +1,0 @@
- and 1970s, the FAA began to regulate high altitude (over 500 feet) kite and balloon flying. In 1970, more duties were assumed by the FAA in the addition of a new federal airport aid program and increased responsibility for airport safety.
-
-## ATC Automation
-
-By the mid- 1970s, the FAA had achieved a semi- automated ATC system based on a marriage of radar and computer technology. By automating certain routine tasks, the system allowed controllers to concentrate more efficiently on the vital task of providing aircraft separation. Data appearing directly on the controllers' scopes provided the identity, altitude, and grounded speed of aircraft carrying radar beacons. Despite its effectiveness, this system required enhancement to keep pace with the increased air traffic of the late 1970s. The increase was due in part to the competitive environment created by the Airline Deregulation Act of 1978. This law phased out CAB's economic regulation of the airlines, and CAB ceased to exist at the end of 1984.

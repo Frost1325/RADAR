@@ -1,5 +1,0 @@
- or equal to \(3 / 4\) inch in diameter, or tornadoes. They are also issued to advise pilots of embedded thunderstorms, lines of thunderstorms, or thunderstorms with heavy or greater precipitation that affect 40 percent or more of a 3,000 square mile or greater region.
-
-Convective SIGMETs are issued for each area of the contiguous 48 states but not Alaska or Hawaii. Convective SIGMETs are issued for the eastern (E), western (W), and central (C) United States. Each report is issued at 55 minutes past the hour, but special Convective SIGMETs can be issued during the interim for any reason. Each forecast is valid for 2 hours. They are numbered sequentially each day from 1- 99, beginning at 00Z time. If no hazardous weather exists, the convective SIGMET is still issued; however, it states "CONVECTIVE SIGMET...NONE."
-
-## Example:

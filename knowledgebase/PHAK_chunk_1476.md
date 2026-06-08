@@ -1,6 +1,0 @@
-
-## Holding Position Signs and Markings for an Instrument Landing System (ILS) Critical Area
-
-The instrument landing system (ILS) broadcasts signals to arriving instrument aircraft to guide them to the runway. Each of these ILSs have critical areas that must be kept clear of all obstacles in order to ensure quality of the broadcast signal. At many airports, taxiways extend into the ILS critical area. Most of the time, this is of no concern; however, during times of poor weather, an aircraft on approach may depend on a good signal quality. When necessary, ATC will protect the ILS critical area for arrival instrument traffic by instructing taxiing aircraft to "hold short" of Runway (XX) ILS critical area.
-
-The ILS critical area hold sign has white characters, outlined in black, on a red background and is installed adjacent to the ILS holding position markings. [Figure 14- 24] The holding position markings for the ILS critical area appear on the pavement as a horizontal yellow ladder extending across the width of the taxiway.

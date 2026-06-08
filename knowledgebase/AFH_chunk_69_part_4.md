@@ -1,7 +1,0 @@
-ratio occurs at maximum L/D, certain considerations should be given for drag- producing components of the airplane, such as flaps, landing gear, and cowl flaps. When drag increases, a corresponding decrease in pitch attitude is required to maintain airspeed. As the pitch is lowered, the glide path steepens and reduces the distance traveled. To maximize the distance traveled during a glide, all drag- producing components need to be eliminated if possible.
-
-Wind affects the gliding distance. With a tailwind, the airplane glides farther because of the higher groundspeed. Conversely, with a headwind, the airplane does not glide as far because of the slower groundspeed. This is important for a pilot to understand and manage when dealing with engine- related emergencies and any subsequent forced landing.
-
-During powered operations, the airplane design compensates for the effects of p- factor and propeller slipstream. While these effects disappear during a glide, the design compensation remains. During glides, it is likely that slight left rudder pressure will be required to maintain coordinated flight. In addition, the pilot needs to use greater deflection of the flight controls due to the relatively slow airflow over the control surfaces.
-
-Minimum sink speed is used to maximize the time that the airplane remains in

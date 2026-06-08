@@ -23,6 +23,12 @@ radar-release/
 │   ├── evaluate.py                 # Retrieval + generation evaluation
 │   └── vllm_client.py              # vLLM API client (optional, for high throughput)
 │
+├── dataset.tar.gz                  # AeroQA + AeroQA Unanswerable (compressed)
+└── knowledgebase.tar.gz            # FAA knowledge base (compressed, 7,612 chunks)
+```
+
+After extraction:
+```
 ├── dataset/                        # Evaluation datasets
 │   ├── AeroQA.jsonl                # AeroQA (2,588 questions)
 │   └── AeroQA_unanswerable.jsonl   # Unanswerable subset (150 questions)
@@ -47,7 +53,14 @@ Python 3.10+ is recommended.
 pip install -r requirements.txt
 ```
 
-### 2. Build the Index
+### 2. Extract Data
+
+```bash
+tar xzf dataset.tar.gz
+tar xzf knowledgebase.tar.gz
+```
+
+### 3. Build the Index
 
 ```bash
 python -m radar.index \
@@ -56,7 +69,7 @@ python -m radar.index \
     --embed_model all-MiniLM-L6-v2
 ```
 
-### 3. Run Retrieval
+### 4. Run Retrieval
 
 ```bash
 python -m radar.retrieve \
@@ -73,7 +86,7 @@ python -m radar.retrieve \
 > separately.  For experimentation, you can use any CrossEncoder-compatible
 > model such as `BAAI/bge-reranker-v2-m3`.
 
-### 4. Generate Answers
+### 5. Generate Answers
 
 **Local Transformers:**
 ```bash
@@ -96,7 +109,7 @@ python -m radar.generate \
     --use_vllm --vllm_api_url http://localhost:8000/v1 --num_threads 4
 ```
 
-### 5. Evaluate
+### 6. Evaluate
 
 ```bash
 python -m radar.evaluate \

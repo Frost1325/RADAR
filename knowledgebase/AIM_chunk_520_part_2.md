@@ -1,7 +1,0 @@
-detection range if the wave is bent upward. It is difficult to solve the effects of anomalous propagation, but using beacon radar and electronically eliminating stationary and slow moving targets by a method called moving target indicator (MTI) usually negate the problem.
-
-(c) Radar energy that strikes dense objects will be reflected and displayed on the operator's scope thereby blocking out aircraft at the same range and greatly weakening or completely eliminating the display of targets at a greater range. Again, radar beacon and MTI are very effectively used to combat ground clutter and weather phenomena, and a method of circularly polarizing the radar beam will eliminate some weather returns. A negative characteristic of MTI is that an aircraft flying a speed that coincides with the canceling signal of the MTI (tangential or "blind" speed) may not be displayed to the radar controller.
-
-(d) Relatively low altitude aircraft will not be seen if they are screened by mountains or are below the radar beam due to earth curvature. The only solution to screening is the installation of strategically placed multiple radars which has been done in some areas.
-
-(e) There are several other factors which affect radar control. The amount of reflective surface of an aircraft will determine the size of the radar return. Therefore, a small light

@@ -1,5 +1,0 @@
-## Normal Takeoff
-
-A normal takeoff is one in which the airplane is headed into the wind; there are times that a takeoff with a tail wind is necessary. However, the pilot should consult the POH/AFM to ensure the aircraft is approved for a takeoff with a tail wind and that there is sufficient performance and runway length for the takeoff. The pilot should also ensure that the takeoff surfaces are firm and of sufficient length to permit the airplane to gradually accelerate to normal lift- off and climb- out speed, and there are no obstructions along the takeoff path.
-
-There are two reasons for making a takeoff as nearly into the wind as possible. First, since the airplane depends on airspeed, a headwind provides some of that airspeed even before the airplane begins to accelerate into the wind. Second, a headwind decreases the ground speed necessary to achieve flying speed. Slower ground speeds yield shorter ground roll distances and allow use of shorter runways while reducing wear and stress on the landing gear.

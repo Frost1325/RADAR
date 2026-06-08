@@ -1,5 +1,0 @@
-missed approach results in flying below the protected obstacle clearance surface (OCS) and can result in a collision with an obstacle.
-
-The missed approach segment U.S. Standard for Terminal Instrument Procedures (TERPS) criteria for all Copter approaches take advantage of the helicopter's climb capabilities at slow airspeeds, resulting in high climb gradients. [Figure 7- 12] The OCS used to evaluate the missed approach is a 20:1 inclined plane. This surface is twice as steep for the helicopter as the OCS used to evaluate the airplane missed approach segment. The helicopter climb gradient is, therefore, required to be double that of the airplane's required missed approach climb gradient.
-
-A minimum climb gradient of at least 400 ft/NM is required unless a higher gradient is published on the approach chart (e.g., a helicopter with a ground speed of 70 knots is required to climb at a rate of 467 fpm (467 fpm = 70 KIAS \(\times 400\) feet per NM/60 seconds)). The advantage of using the 20:1 OCS for the helicopter missed approach segment instead of the 40:1 OCS used for

@@ -1,5 +1,0 @@
- shown with an R, then the runway number followed by a slant, then the visual range in feet. For example, when the RVR is reported as R17L/1400FT, it translates to a visual range of 1,400 feet on runway 17 left.
-
-7. Weather—can be broken down into two different categories: qualifiers and weather phenomenon (+TSRA BR). First, the qualifiers of intensity, proximity, and the descriptor of the weather are given. The intensity may be light (-), moderate (.), or heavy (+). Proximity only depicts weather phenomena that are in the airport vicinity. The notation "VC" indicates a specific weather phenomenon is in the vicinity of five to ten miles from the airport. Descriptors are used to describe certain types of precipitation and obscurations. Weather phenomena may be reported as being precipitation, obscurations, and other phenomena, such as squalls or funnel clouds.
-
-Descriptions of weather phenomena as they begin or end and hailstone size are also listed in the “Remarks” sections of the report. [Figure 13- 5]

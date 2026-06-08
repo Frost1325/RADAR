@@ -1,5 +1,0 @@
- modern aircraft are being designed to operate at high altitudes, taking advantage of that environment. In order to fly at higher altitudes, the aircraft must be pressurized or suitable supplemental oxygen must be provided for each occupant. It is important for pilots who fly these aircraft to be familiar with the basic operating principles.
-
-In a typical pressurization system, the cabin, flight compartment, and baggage compartments are incorporated into a sealed unit capable of containing air under a pressure higher than outside atmospheric pressure. On aircraft powered by turbine engines, bleed air from the engine compressor section is used to pressurize the cabin. Superchargers may be used on older model turbine- powered aircraft to pump air into the sealed fuselage. Piston- powered aircraft may use air supplied from each engine turbocharger through a sonic venturi (flow limiter). Air is released from the fuselage by
-
-a device called an outflow valve. By regulating the air exit, the outflow valve allows for a constant inflow of air to the pressurized area. [Figure 7- 40]

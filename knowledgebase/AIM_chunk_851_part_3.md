@@ -1,5 +1,0 @@
-a normal descent from the IF/IAF to the FAF. In FIG 5-4-4, pilots within the left or right-base areas are expected to maintain a minimum altitude of 6,000 feet until within 17 NM of the associated IAF. After crossing the 17 NM arc, descent is authorized to the lower charted altitudes. Pilots approaching from the northwest are expected to maintain a minimum altitude of 6,000 feet, and when within 22 NM of the IF/IAF, descend to a minimum altitude of 2,000 feet MSL until crossing the IF/IAF.
-
-6. U.S. Government charts depict TAAs using icons located in the plan view outside the depiction of the actual approach procedure. (See FIG 5-4-5). Use of icons is necessary to avoid obscuring any portion of the “T” procedure (altitudes, courses, minimum altitudes, etc.). The icon for each TAA area will be located and oriented on the plan view with respect to the direction of arrival to the approach procedure, and
-
-will show all TAA minimum altitudes and sector/radius subdivisions. The IAF for each area of the

@@ -1,7 +1,0 @@
-be exercised to ensure that the receiver is sequenced to the appropriate waypoint for the segment of the procedure being flown, especially if one or more fly- overs are skipped (for example, FAWP rather than IAWP if the procedure turn is not flown). The pilot may have to sequence past one or more fly- overs of the same waypoint in order to start GPS automatic sequencing at the proper place in the sequence of waypoints.
-
-(10) Incorrect inputs into the GPS receiver are especially critical during approaches. In some cases, an incorrect entry can cause the receiver to leave the approach mode.
-
-(11) A fix on an overlay approach identified by a DME fix will not be in the waypoint sequence on the GPS receiver unless there is a published name assigned to it. When a name is assigned, the along track distance (ATD) to the waypoint may be zero rather than the DME stated on the approach chart. The pilot should be alert for this on any overlay procedure where the original approach used DME.
-
-(12) If a visual descent point (VDP) is published, it will not be included in the sequence of waypoints. Pilots are expected to use normal piloting techniques for beginning the visual descent, such as ATD

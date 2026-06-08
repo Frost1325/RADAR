@@ -1,5 +1,0 @@
-inside of the rectangular course.
-
-The next leg is where the airplane turns from a base leg position to the upwind leg. Ideally, on the upwind, the wind is directly on the nose of the airplane resulting in a direct headwind and decreased groundspeed; however, some drift correction may be necessary. The pilot should roll the airplane into a medium- banked turn with coordinated aileron and rudder pressures. As the airplane turns onto the upwind leg, the crosswind lessens and becomes a headwind, and the bank angle is gradually reduced with coordinated aileron and rudder pressures. Because the pilot was angled into the wind on the base leg, the turn to the upwind leg is less than \(90^{\circ}\) .
-
-The next leg is where the airplane turns from an upwind leg position to the crosswind leg. The pilot should slowly roll the airplane into a shallow- banked turn, as the developing crosswind drifts the airplane into the inside of the rectangular course with coordinated aileron and rudder pressures. As the airplane turns onto the crosswind leg, the headwind lessens and becomes a crosswind. As the turn nears completion, the bank angle is reduced with coordinated aileron

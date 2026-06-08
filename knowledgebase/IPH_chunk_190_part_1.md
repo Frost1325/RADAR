@@ -1,5 +1,0 @@
-## Special Airport Qualification
-
-It is important to note an example of additional resources that are helpful for arrivals, especially into unfamiliar airports requiring special pilot or navigation qualifications. The operating rules governing domestic and flag air carriers require pilots in command to be qualified over the routes and into airports where scheduled operations are conducted, including areas, routes, and airports in which special pilot qualifications or special navigation qualifications are needed. For Part 119 certificate holders
-
-<table><tr><td>Special Airports</td><td>Comments</td></tr><tr><td>Kodiak, AK</td><td>Airport is surrounded by mountainous terrain. Any go-around beyond ILS or GCA MAP will not provide obstruction clearance.</td></tr><tr><td>Petersburg, AK</td><td>Mountainous terrain in immediate vicinity of airport, all quadrants.</td></tr><tr><td>Cape Newenham AFS, AK</td><td>Runway located on mountain slope with high gradient factor; nonstandard instrument approach.</td></tr><tr><td>Washington, DC (National)</td><td>Special arrival/departure procedures.</td></tr><tr><td>Shenandoah Valley, VA

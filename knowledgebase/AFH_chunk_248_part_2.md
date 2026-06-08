@@ -1,3 +1,0 @@
-off and in landing configuration. The demonstrated crosswind velocity is included on a placard in airplanes certificated after May 3, 1962.
-
-The headwind component and the crosswind component for a given situation is determined by reference to a crosswind component chart. [Figure 9- 19] It is imperative that pilots determine the maximum crosswind component of each airplane they fly and avoid operations in wind conditions that exceed the capability of the airplane.

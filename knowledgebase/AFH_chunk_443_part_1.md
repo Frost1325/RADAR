@@ -1,3 +1,0 @@
-## Jet Engine Efficiency
-
-The efficiency of the jet engine increases in the cold temperatures found at high altitudes. The fuel consumption of jet engines decreases as the outside air temperature decreases for constant engine rpm and true airspeed (TAS). Thus, by flying at a high altitude, the airplane operates with improved fuel economy and speed. At high altitudes, engines may be operating close to rpm or temperature limits, and excess thrust may not be available. Therefore, pilots should accomplish all maneuvering within the limits of available thrust, stability, and controllability.

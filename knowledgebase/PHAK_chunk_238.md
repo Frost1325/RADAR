@@ -1,5 +1,0 @@
- discomfort F Fire extinguisher (location and operation) E Exit doors (how to secure; how to open) Emergency evacuation plan Emergency/survival kit (location and contents) T Traffic (scanning, spotting, notifying pilot) Talking, ("sterile flight deck" expectations) Y Your questions? (Speak up!)
-
-In addition to the SAFETY list, discuss with passengers whether or not smoking is permitted, flight route altitudes, time en route, destination, weather during flight, expected weather at the destination, controls and what they do, and the general capabilities and limitations of the aircraft. Use a sterile flight deck (one that is completely silent with no pilot communication with passengers or by passengers) from the time of departure to the first intermediate altitude and clearance from the local airspace. Use a sterile flight deck during arrival from the first radar vector for approach or descent for the approach. Keep the passengers informed during times when the workload is low. Consider using the passenger in the right seat for simple tasks, such as holding the chart. This relieves the pilot of a task.
-
-## Automation

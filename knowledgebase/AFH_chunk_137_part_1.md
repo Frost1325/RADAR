@@ -1,5 +1,0 @@
-## Angle of Attack
-
-The angle of attack (AOA) is the angle at which the chord of the wing meets the relative wind. The chord is a straight line from the leading edge to the trailing edge. At low angles of attack, the airflow over the top of the wing flows smoothly and produces lift with a relatively small amount of drag. As the AOA increases, lift as well as drag increases; however, above a wing's critical AOA, the flow of air separates from the upper surface and backfalls, burbles, and eddies, which reduces lift and increases drag. This condition is a stall, which can lead to loss of control if the AOA is not reduced.
-
-It is important for the pilot to understand that a stall is the result of exceeding the critical AOA, not of insufficient airspeed. The term "stalling speed" can be misleading, as this speed is often discussed when assuming 1G flight at a particular weight and configuration. Increased load factor directly affects stall speed (as well as do other factors such as gross weight, center of gravity, and flap setting). Therefore, it is possible to stall the wing at any airspeed, at any flight attitude, and at any power setting. For example,

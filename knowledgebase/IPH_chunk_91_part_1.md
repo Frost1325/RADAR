@@ -1,7 +1,0 @@
-## Air Route Traffic Control Centers
-
-The FAA defines an Air Route Traffic Control Center (ARTCC) as a facility established to provide air traffic control (ATC) service to aircraft operating on IFR flight plans within controlled airspace, principally during the en route phase of flight. When equipment capabilities and controller workload permit, certain advisory/assistance services may be provided to VFR aircraft.
-
-ARTCCs, usually referred to as Centers, are established primarily to provide air traffic service to aircraft operating on IFR flight plans within the controlled airspace, and principally during the en route phase of flight. There are 21 ARTCC's in the United States. [Figure 2- 5] Any aircraft operating under IFR within the confines of an ARTCC's airspace is controlled by air traffic controllers at the Center. This includes all sorts of different types of aircraft: privately owned single engine aircraft, commuter airlines, military jets, and commercial airlines.
-
-The largest component of the NAS is the ARTCC. Each ARTCC covers thousands of square miles encompassing all or part of several states. ARTCCs are built to ensure safe and expeditious air travel. All Centers operate 7- days a week, 24- hours a day, and employ a

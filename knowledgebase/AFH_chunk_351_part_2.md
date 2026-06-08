@@ -1,7 +1,0 @@
-Is, the command bars are biased out of view when the FD is off. The pilot maneuvers the airplane as though the system were not installed.
-
-To maneuver the airplane using the FD, the pilot enters the desired modes of operation (heading, altitude, navigation (NAV) intercept, and tracking) on the FD/AP mode controller. The computed flight commands are then displayed to the pilot through either a single- cue or dual- cue system in the FCI. On a single- cue system, the commands are indicated by "V" bars. On a dual- cue system, the commands are displayed on two separate command bars, one for pitch and one for roll. To maneuver the airplane using computed commands, the pilot "flies" the symbolic airplane of the FCI to match the steering cues presented.
-
-On most systems, the FD needs to be operating to engage the autopilot. At any time thereafter, the pilot may engage the autopilot through the mode controller. The autopilot then maneuvers the airplane to satisfy the computed commands of the FD.
-
-Like any computer, the FD/AP system only does what it is told. The pilot should ensure that it has been programmed properly for the particular phase of flight desired. The armed and/or engaged modes are usually displayed on the

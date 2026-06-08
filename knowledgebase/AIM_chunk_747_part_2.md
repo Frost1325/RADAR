@@ -1,5 +1,0 @@
-. A table for the conversion of climb gradient (feet per nautical mile) to climb rate (feet per minute), at a given ground speed, is included on the inside of the back cover of the U.S. Terminal Procedures booklets.
-
-d. Where are DPs located? DPs will be listed by airport in the IFR Takeoff Minimums and (Obstacle) Departure Procedures Section, Section L, of the Terminal Procedures Publications (TPPs). If the DP is textual, it will be described in TPP Section L. SIDs and complex ODPs will be published graphically and named. The name will be listed by airport name and runway in Section L. Graphic ODPs will also have the term “(OBSTACLE)” printed in the charted procedure title, differentiating them from SIDs.
-
-1. An ODP that has been developed solely for obstacle avoidance will be indicated with the symbol “T” on appropriate Instrument Approach Procedure (IAP) charts and DP charts for that airport. The “T” symbol will continue to refer users to TPP Section C. In the case of a graphic ODP, the TPP Section C will only contain the name of the ODP. Since there may be both a textual

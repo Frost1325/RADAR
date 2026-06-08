@@ -1,1 +1,0 @@
-4-2, 14-3, 14-5, 14-6, 14-7, 16-11, 16-14, 16-16, 16-24, 18-12, 18-13</td></tr><tr><td>Door opening in-flight</td><td>18-17</td></tr><tr><td>Drag devices</td><td>4-4, 16-9, 16-11</td></tr><tr><td>Drift and ground track control</td><td>7-2</td></tr></table>

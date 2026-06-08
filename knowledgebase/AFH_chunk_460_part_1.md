@@ -1,3 +1,0 @@
-## Jet Airplane Descent and Approach
-
-The smoothest and most fuel- efficient descent would be to reduce power to flight idle and slow to \(\mathrm{L / D_{MAX}}\) . In this scenario, the pilot would descend, level off to decelerate, configure for landing, intercept the final approach, and continue a gradual deceleration until setting power for a stabilized descent on final. Traffic and time considerations almost always require deviation from this example, and the typical descent profile has three descent segments with two speed reductions in between.

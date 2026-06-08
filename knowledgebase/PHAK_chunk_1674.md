@@ -1,5 +1,0 @@
- quantities, using a volume measurement such as gallons presents a problem because the volume of fuel varies greatly in relation to temperature. In contrast, density (weight) is less affected by temperature and therefore, provides a more uniform and repeatable measurement. For this reason, jet fuel is generally quantified by its density and volume.
-
-This standard industry convention yields a pounds- of- fuel- per- hour value which, when divided into the nautical miles (NM) per hour of travel (TAS \(\pm\) winds) value, results in a specific range value. The typical label for specific range is NM per pound of fuel, or often NM per 1,000 pounds of fuel. Preflight planning should be supported by proper monitoring of past fuel consumption as well as use of specified fuel management and mixture adjustment procedures in flight.
-
-For simple aircraft with reciprocating engines, the Aircraft Flight Manual/Pilot's Operating Handbook (AFM/POH) supplied by the aircraft manufacturer provides gallons-per-hour values to assist with preflight planning.

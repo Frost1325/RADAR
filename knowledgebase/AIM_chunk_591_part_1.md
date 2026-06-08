@@ -1,5 +1,0 @@
-## 4-7-1. Introduction and Background
-
-a. Introduction. On 20 October 2011 at 0900 UTC, the Federal Aviation Administration (FAA), Servicios a la Navegacion en el Espacio Aereo Mexicano (SENEAM) and the Direccion General de Aeronautica Civil (DGAC) Mexico implemented 50 Nautical Mile (NM) lateral separation between aircraft authorized Required Navigation Performance 10 (RNP 10) or RNP 4 operating in the Gulf of Mexico (GoMex) Oceanic Control Areas (CTA). Existing Air Traffic Services (ATS) routes and route operating policies did not change for this implementation.
-
-b. RNP 10 Versus RNAV 10 Terminology. "RNP 10" has the same meaning and application as "RNAV 10". The ICAO Performance-based Navigation (PBN) Manual (ICAO Doc 9613), Volume II, Part B, Chapter 1 (Implementing RNAV 10, Designated and Authorized as RNP 10) explains that the term "RNP 10" was in use before

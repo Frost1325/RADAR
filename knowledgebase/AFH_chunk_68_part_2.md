@@ -1,5 +1,0 @@
-be 500 fpm. The desired airspeed, pitch attitude, and power combination should be preselected and kept constant.
-
-- Descent at minimum safe airspeed—a nose-high, power-assisted descent condition principally used for clearing obstacles during a landing approach to a short runway. The airspeed used for this descent condition is recommended by the AFM/POH and is normally no greater than 1.3 VSO. Some characteristics of the minimum safe airspeed descent are a steeper-than-normal descent angle, and the excessive power that may be required to produce acceleration at low airspeed should "mushing" and/or an excessive rate of descent be allowed to develop.
-
-- Emergency descent—some airplanes have a specific procedure for rapidly losing altitude. The AFM/POH specifies the procedure. In general, emergency descent procedures are high drag, high airspeed procedures requiring a specific airplane configuration (such as power to idle, propellers forward, landing gear extended, and flaps retracted), and a specific emergency descent airspeed. Emergency descent maneuvers often include turns.

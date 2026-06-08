@@ -1,5 +1,0 @@
- may be temporarily prohibited by regulation under the provisions of Title 14 of the Code of Federal Regulations (14 CFR) part 99, and prohibitions are disseminated via NOTAM. Pilots are requested to voluntarily avoid flying through these depicted areas.
-
-## Air Traffic Control and the National Airspace System
-
-The primary purpose of the ATC system is to prevent a collision between aircraft operating in the system and to organize and expedite the flow of traffic. In addition to its primary function, the ATC system has the capability to provide (with certain limitations) additional services. The ability to provide additional services is limited by many factors, such as the volume of traffic, frequency congestion, quality of radar, controller workload, higher priority duties, and the pure physical inability to scan and detect those situations that fall in this category. It is recognized that these services cannot be provided in cases in which the provision of services is precluded by the above factors.

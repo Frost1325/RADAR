@@ -1,5 +1,0 @@
-## Derivation of \(\mathbf{V_{MC}}\)
-
-\(\mathrm{V_{MC}}\) is a speed established by the manufacturer, published in the AFM/POH, and marked on most airspeed indicators with a red radial line. A knowledgeable and competent multiegnine pilot understands that \(\mathrm{V_{MC}}\) is not a fixed airspeed under all conditions. \(\mathrm{V_{MC}}\) is a fixed airspeed only for the very specific set of circumstances under which it was determined during aircraft certification. In reality, \(\mathrm{V_{MC}}\) varies with a variety of factors as outlined below. The \(\mathrm{V_{MC}}\) noted in practice and demonstration, or in actual OEI operation, could be less or even greater than the published value, depending on conditions and pilot technique.
-
-Historically, in aircraft certification, \(\mathrm{V_{MC}}\) is the sea level calibrated airspeed at which, when the critical engine is suddenly made inoperative, it is possible to maintain control of the airplane with that engine still inoperative and then maintain straight flight at the same speed with an angle of bank not more than \(5^{\circ}\) .

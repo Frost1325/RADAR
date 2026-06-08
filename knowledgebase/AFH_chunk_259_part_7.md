@@ -1,3 +1,0 @@
-.
-
-Instruction in emergency procedures is not limited to simulated emergency landings caused by power failures. Other emergencies associated with the operation of the airplane should be explained, demonstrated, and practiced if practicable. Among these emergencies are fire in flight, electrical or hydraulic system malfunctions, unexpected severe weather conditions, engine overheating, imminent fuel exhaustion, and the emergency operation of airplane systems and equipment.

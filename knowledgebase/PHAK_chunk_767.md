@@ -1,7 +1,0 @@
- rpm and an increase in exhaust gas temperature. Most transient stalls are not harmful to the engine and often correct themselves after one or two pulsations. The possibility of severe engine damage from a steady state stall is immediate. Recovery must be accomplished by quickly reducing power, decreasing the aircraft's AOA, and increasing airspeed.
-
-Although all gas turbine engines are subject to compressor stalls, most models have systems that inhibit them. One system uses a variable inlet guide vane (VIGV) and variable stator vanes that direct the incoming air into the rotor blades at an appropriate angle. To prevent air pressure stalls, operate the aircraft within the parameters established by the manufacturer. If a compressor stall does develop, follow the procedures recommended in the AFM/POH.
-
-## Flameout
-
-A flameout occurs in the operation of a gas turbine engine in which the fire in the engine unintentionally goes out. If the rich limit of the fuel- air ratio is exceeded in the combustion chamber, the flame will blow out. This condition is often referred to as a rich flameout. It generally results from very fast engine acceleration where an overly rich mixture causes the fuel temperature to drop below the combustion temperature. It may also be caused by insufficient airflow to support combustion.

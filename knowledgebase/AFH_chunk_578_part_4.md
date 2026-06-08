@@ -1,1 +1,0 @@
-(LSA) background</td><td>17-1</td></tr><tr><td>Loss of control in-flight (LOC-I)</td><td>4-1, 4-19, 5-1, 5-2, 5-3, 5-4, 5-5, 5-6, 5-27</td></tr><tr><td>Low final approach</td><td>9-30</td></tr><tr><td>Low speed flight</td><td>12-1, 16-6</td></tr><tr><td>LSA maintenance</td><td>17-4, 17-5</td></tr><tr><td>LSA synopsis</td><td>17-3</td></tr></table>

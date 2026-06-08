@@ -1,5 +1,0 @@
-Y}}\) as obstacles are cleared. [Figure 13- 8]
-
-When partial flaps are recommended for short- field takeoffs, many light- twins have a strong tendency to become airborne prior to \(\mathrm{V}_{\mathrm{MC}}\) plus 5 knots. Attempting to prevent premature lift- off with forward elevator pressure results in wheel barrowing. To prevent this, allow the airplane to become airborne, but only a few inches above the runway. The pilot should be prepared to promptly abort the takeoff and land in the event of engine failure on takeoff with landing gear and flaps extended at airspeeds below \(\mathrm{V}_{\mathrm{X}}\) .
-
-Engine failure on takeoff, particularly with obstructions, is compounded by the low airspeeds and steep climb attitudes utilized in short- field takeoffs. \(\mathrm{V}_{\mathrm{X}}\) and \(\mathrm{V}_{\mathrm{XSE}}\) are often perilously close to \(\mathrm{V}_{\mathrm{MC}}\) , leaving scant margin for error in the event of engine failure as \(\mathrm{V}_{\mathrm{XSE}}\) is assumed. If flaps were used

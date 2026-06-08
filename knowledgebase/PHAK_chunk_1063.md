@@ -1,5 +1,0 @@
- as the station. If the weight of any object or component is multiplied by the distance from the datum (arm), the product is the moment. The moment is the measurement of the gravitational force that causes a tendency of the weight to rotate about a point or axis and is expressed in inch- pounds (in- lb).
-
-To illustrate, assume a weight of 50 pounds is placed on the board at a station or point 100 inches from the datum. The downward force of the weight can be determined by multiplying 50 pounds by 100 inches, which produces a moment of 5,000 in- lb. [Figure 10- 3]
-
-To establish a balance, a total of 5,000 in- lb must be applied to the other end of the board. Any combination of weight and distance which, when multiplied, produces a 5,000 in- lb moment will balance the board. For example (illustrated

@@ -1,3 +1,0 @@
-IFR Altitude (MIA) in a radar environment at the request of Air Traffic. This type of DP meets the TERPS criteria for diverse departures, obstacles, and terrain avoidance in which random radar vectors below the MVA/MIA may be issued to departing aircraft. The DVA has been assessed for departures which do not follow a specific ground track, but will remain within the specified area.
-
-(a) The existence of a DVA will be noted in the Takeoff Minimums and Obstacle Departure Procedure section of the U.S. Terminal Procedures Publication (TPP). The Takeoff Departure procedure will be listed first, followed by any applicable DVA.

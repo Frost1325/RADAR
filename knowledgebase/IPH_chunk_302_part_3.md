@@ -1,5 +1,0 @@
-and the first satellite-based system has been approved for this category of precision approach which enables instrument-based operations down to 200 feet above the surface even during reduced visibility. [Figure 5-10] GBAS was installed at Houston, Texas and Newark, New Jersey airport in 2009.
-
-5. Multilateration, a ground-based surveillance technology, is being implemented to help improve runway access. The FAA installed and is now using wide area multilateration (WAM) systems to control air traffic in Juneau, Alaska, and at four airports in Colorado. This allows air traffic to be safely separated by five miles whereas before each aircraft had to clear the airspace around the airport before the next could enter.
-
-6. New runways at Chicago O'Hare, Washington Dulles, and Seattle-Tacoma Airports opened in November of 2008, which are now beginning to have a reduction in delays.

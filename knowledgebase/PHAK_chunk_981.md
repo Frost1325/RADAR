@@ -1,5 +1,0 @@
-; Emergency Procedures; Normal Procedures; Performance; Weight and Balance/Equipment List; Systems Description; Handling, Service, and Maintenance; and Supplements. Manufacturers also have the option of including additional sections, such as one on Safety and Operational Tips or an alphabetical index at the end of the POH.
-
-## Preliminary Pages
-
-While the AFM/POH may appear similar for the same make and model of aircraft, each manual is unique and contains specific information about a particular aircraft, such as the equipment installed and weight and balance information. Manufacturers are required to include the serial number and registration on the title page to identify the aircraft to which the manual belongs. If a manual does not indicate a specific aircraft registration and serial number, it is limited to general study purposes only.

@@ -1,3 +1,0 @@
-## NOTE-
-
-The TCH for a runway is established based on several factors including the largest aircraft category that normally uses the runway, how airport layout effects the glide slope antenna placement, and terrain. A higher than optimum TCH, with the same glide path angle, may cause the aircraft to touch down further from the threshold if the trajectory of the approach is maintained until the flare. Pilots should consider the effect of a high TCH on the runway available for stopping the aircraft.

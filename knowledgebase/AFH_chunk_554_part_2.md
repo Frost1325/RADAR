@@ -1,7 +1,0 @@
-This causes the velocity of the airflow immediately above the wing to be much higher than that below the wing.
-
-Carburetor ice. Ice that forms inside the carburetor due to the temperature drop caused by the vaporization of the fuel. Induction system icing is an operational hazard because it can cut off the flow of the fuel/air charge or vary the fuel/air ratio.
-
-Carburetor. 1. Pressure: A hydromechanical device employing a closed feed system from the fuel pump to the discharge nozzle. It meters fuel through fixed jets according to the mass airflow through the throttle body and discharges it under a positive pressure. Pressure carburetors are distinctly different from float- type carburetors, as they do not incorporate a vented float chamber or suction pickup from a discharge nozzle located in the venturi tube. 2. Float- type: Consists essentially of a main air passage through which the engine draws its supply of air, a mechanism to control the quantity of fuel discharged in relation to the flow of air, and a means of regulating the quantity of fuel/air mixture delivered to the engine cylinders.
-
-Cascade reverser. A thrust reverser normally found on turbofan engines in which a blocker door and a series

@@ -1,7 +1,0 @@
-## Hand Propping
-
-The procedures for hand propping should always be in accordance with the AFM/POH and performed only by persons who are competent with hand propping procedures. The consequences of the hazards associated with hand propping are serious to fatal.
-
-Historically, when aircraft lacked electrical systems, it was necessary for pilots and ground personnel to "hand prop" an aircraft for starting. Today, most airplanes are equipped with electric starters, and the starter should be working if the airplane is airworthy. If not, a certificated Aviation Maintenance Technician should be called to make a repair. However, vintage airplanes may be encountered, and an airplane manufactured without an electric starter needs to be hand propped. Since a number of these airplanes have been produced, the procedures for hand propping are described in this section.
-
-A few simple precautions help to avoid accidents when hand propping the engine. While touching a propeller, always assume that the ignition is on. The switches that control the magnetos operate on the principle of short- circuiting the current to turn the ignition off. If the switch is faulty, it can be in the "off" position and still permit current to flow in the magneto primary circuit. This condition could allow the engine to start

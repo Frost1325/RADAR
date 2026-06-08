@@ -1,5 +1,0 @@
- reason to think there may have been an impact, even a minor one, it is best to get an inspector familiar with composites to examine the structure to determine underlying damage. The appearance of "whitish" areas in a fiberglass structure is a good tip- off that delaminations of fiber fracture has occurred.
-
-A medium energy impact (perhaps the car backing into the structure) results in local crushing of the surface, which should be visible to the eye. The damaged area is larger than the visible crushed area and will need to be repaired. A high energy impact, such as a bird strike or hail while in flight, results in a puncture and a severely damaged structure. In
-
- medium and high energy impacts, the damage is visible to the eye, but low energy impact is difficult to detect. [Figure 3- 16]

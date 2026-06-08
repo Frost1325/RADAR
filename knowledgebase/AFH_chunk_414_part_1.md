@@ -1,7 +1,0 @@
-## After-Landing Roll
-
-The landing process should never be considered complete until the airplane decelerates to the normal taxi speed during the landing roll or has been brought to a complete stop when clear of the landing area. The pilot should be alert for directional control difficulties immediately upon and after touchdown, and the elevator control should be held back as far as possible and as firmly as possible until the airplane stops. This provides more positive control with tailwheel steering, tends to shorten the after- landing roll, and prevents bouncing and skipping.
-
-Any difference between the direction the airplane is traveling and the direction it is headed (drift or crab) produces a moment about the pivot point of the wheels, and the airplane tends to swerve. Loss of directional control may lead to an aggravated, uncontrolled, tight turn on the ground, or a ground loop. The combination of inertia acting on the CG and ground friction of the main wheels during the ground loop may cause the airplane to tip enough for the outside wingtip to contact the ground and may even impose a sideward force that could collapse one landing gear leg. [Figure 14- 4] In general, this combination of events is eliminated by landing straight and avoiding turns at higher than normal running speed.
-
-To use

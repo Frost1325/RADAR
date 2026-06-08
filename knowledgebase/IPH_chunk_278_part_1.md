@@ -1,7 +1,0 @@
-## ILS Approaches
-
-Notwithstanding emerging RNAV technology, the ILS is the most precise and accurate approach NAVAID currently in use throughout the NAS. An ILS CAT I precision approach allows approaches to be made to 200 feet above the TDZE and with visibilities as low as 1,800 RVR; with CAT II and CAT III approaches allowing descents and visibility minimums that are even lower. Non- precision approach alternatives cannot begin to offer the precision or flexibility offered by an ILS. In order to further increase the approach capacity of busy airports and exploit the maximum potential of ILS technology, many different applications are in use.
-
-An ILS system can accommodate up to 29 arrivals per hour on a single runway. Two or three parallel runways operating independently can double or triple the capacity of the airport. For air commerce, this means greater flexibility in scheduling passenger and cargo service. Capacity is increased through the use of simultaneous or converging ILS approaches, which are explained further in the corresponding paragraphs below.
-
-In order to successfully accomplish simultaneous or converging ILS approaches, flight crews and ATC have additional responsibilities. When simultaneous instrument approaches are in use, ATC advises flight crews either directly or through AT

@@ -1,5 +1,0 @@
-to the maximum available intensity. If desired, adjustment can then be made, where the capability is provided, to a lower intensity (or the REIL turned off) by keying 5 and/or 3 times. Due to the close proximity of airports using the same frequency, radio controlled lighting receivers may be set at a low sensitivity requiring the aircraft to be relatively close to activate the system. Consequently, even when lights are on, always key mike as directed when overflying an airport of intended landing or just prior to entering the final segment of an approach. This will assure the aircraft is close enough to activate the system and a full 15 minutes lighting duration is available. Approved lighting systems may be activated by keying the mike (within 5 seconds) as indicated in TBL 2-1-3.
-
-TBL2-1-3 Radio Control System
-
-<table><tr><td>Key Mike</td><td>Function</td></tr><tr><td>7 times within 5 seconds</td><td>Highest intensity available</td></tr><tr><td>5 times within 5 seconds</td><td>Medium or lower intensity (Lower REIL or REIL-off)</td></tr><tr><td

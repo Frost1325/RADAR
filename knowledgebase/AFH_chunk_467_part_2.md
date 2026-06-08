@@ -1,3 +1,0 @@
-runway increases the minimum stopping distance required by 20- 30 feet per knot for a dry runway and 40- 50 feet for a wet runway. Worse yet, the excess speed increases the chances of an extended flare, which increases the distance to touchdown by approximately 250 feet for each excess knot in speed.
-
-Proper speed control on final approach is of primary importance. The pilot should anticipate the need for speed adjustment so that only small adjustments are required, and the airplane arrives at the approach threshold window exactly on speed.

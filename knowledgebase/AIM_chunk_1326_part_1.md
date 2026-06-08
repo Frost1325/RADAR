@@ -1,1 +1,0 @@
-## Section 1. Types of Charts Available

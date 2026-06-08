@@ -1,7 +1,0 @@
-pitch behavior from flap extension depends on the design of the particular airplane.
-
-Flap deflection of up to \(15^{\circ}\) primarily produces lift with minimal drag. The airplane has a tendency to balloon up with initial flap deflection because of the lift increase. The nose- down pitching moment, however, tends to offset the balloon. Flap deflection beyond \(15^{\circ}\) produces a large increase in drag. Deflection beyond \(15^{\circ}\) also produces a significant nose- up pitching moment in certain high- wing airplanes because the resulting downwash changes the airflow over the horizontal tail.
-
-The time of flap extension and the degree of deflection are related. Large changes in flap deflection at one single point in the landing pattern can produce large lift changes that require significant pitch and power changes in order to maintain airspeed and descent angle. Consequently, there is an advantage to extending flaps in increments while in the landing pattern. Incremental deflection of flaps on downwind, base leg, and final approach allow smaller adjustments of pitch and power and support a stabilized approach.
-
-Whenever the flap setting is changed, the pilot should be prepared to re- trim the airplane as needed to compensate for the change in aer

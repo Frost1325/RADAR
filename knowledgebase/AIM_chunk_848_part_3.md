@@ -1,7 +1,0 @@
-, VOR, NDB and LNAV. As noted in subparagraph k, Vertical Descent Angle (VDA) on Nonprecision Approaches, some approach procedures may provide a Vertical Descent Angle as an aid in flying a stabilized approach, without requiring its use in order to fly the procedure. This does not make the approach an APV procedure, since it must still be flown to an MDA and has not been evaluated with a glidepath.
-
-b. The method used to depict prescribed altitudes on instrument approach charts differs according to techniques employed by different chart publishers. Prescribed altitudes may be depicted in four different configurations: minimum, maximum, mandatory, and recommended. The U.S. Government distributes charts produced by National Geospatial-Intelligence Agency (NGA) and FAA. Altitudes are depicted on these charts in the profile view with underscore, overscore, both or none to identify them as minimum, maximum, mandatory or recommended.
-
-1. Minimum altitude will be depicted with the altitude value underscored. Aircraft are required to maintain altitude at or above the depicted value, e.g., 3000.
-
-2. Maximum altitude will be depicted with the altitude value overscored. Aircraft are required to maintain altitude at or below the depicted

@@ -1,5 +1,0 @@
-## TBL 4-6-2 Contingency Actions: Weather Encounters and Aircraft System Failures that Occur After Entry into RSVM Airspace
-
-<table><tr><td>Initial Pilot Actions in Contingency Situations</td></tr><tr><td>Initial pilot actions when unable to maintain flight level (FL) or unsure of aircraft altitude-keeping capability:<br>•Notify ATC and request assistance as detailed below.<br>•Maintain cleared flight level, to the extent possible, while evaluating the situation.<br>•Watch for conflicting traffic both visually and by reference to TCAS, if equipped.<br>•Alert nearby aircraft by illuminating exterior lights (commensurate with aircraft limitations).</td></tr></table>
-
-<table><tr><td colspan="2">Severe Turbulence and/or Mountain Wave Activity (MWA) Induced Altitude Deviations of Approximately 200 feet</td></tr><tr><td>Pilot will:<br>•When experiencing severe turbulence and/or MWA induced altitude deviations of approximately 200 feet or greater, pilot will contact ATC and state “Unable RVSM Due (state reason)” (e.g., turbulence, mountain wave)<br>•

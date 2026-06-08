@@ -1,5 +1,0 @@
- fine hairs. Acceleration of the inner
-
-ear in any direction causes the tiny hairs to deflect, which in turn stimulates nerve impulses, sending messages to the brain. The vestibular nerve transmits the impulses from the utricle, saccule, and semicircular canals to the brain to interpret motion.
-
-The somatosensory system sends signals from the skin, joints, and muscles to the brain that are interpreted in relation to the Earth's gravitational pull. These signals determine posture. Inputs from each movement update the body's position to the brain on a constant basis. "Seat of the pants" flying is largely dependent upon these signals. Used in conjunction with visual and vestibular clues, these sensations can be fairly reliable. However, the body cannot distinguish between acceleration forces due to gravity and those resulting from maneuvering the aircraft, which can lead to sensory illusions and false impressions of an aircraft's orientation and movement.

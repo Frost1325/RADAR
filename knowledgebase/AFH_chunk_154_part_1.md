@@ -1,7 +1,0 @@
-## Elevator Trim Stall
-
-The elevator trim stall demonstration shows what can happen when the pilot applies full power for a go- around without maintaining positive control of the airplane. [Figure 5- 14] This is a demonstration- only maneuver; only flight instructor applicants may be required to perform it on the practical test. However, all pilots should be familiar with the situations that can cause an elevator trim stall, recognize its development, and take appropriate action to prevent it.
-
-This situation may occur during a go- around procedure from a normal landing approach or a simulated, forced- landing approach, or immediately after a takeoff, with the trim set for a normal landing approach glide at idle power. The demonstration shows the importance of making smooth power applications, overcoming strong trim forces, maintaining positive control of the airplane to hold safe flight attitudes, and using proper and timely trim techniques. It also develops the pilot's ability to avoid actions that could result in this stall, to recognize when an elevator trim stall is approaching, and to take prompt and correct action to prevent a full stall condition. It is imperative to avoid the occurrence of an elevator trim stall during an actual go- around from an approach to landing.
-
-At a safe altitude and after ensuring that the area is clear

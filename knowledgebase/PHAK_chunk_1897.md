@@ -1,6 +1,0 @@
-
-Some drugs that are classified as neither stimulants nor depressants have adverse effects on flying. For example, some antibiotics can produce dangerous side effects, such as balance disorders, hearing loss, nausea, and vomiting. While many antibiotics are safe for use while flying, the infection requiring the antibiotic may prohibit flying. In addition, unless specifically prescribed by a physician, do not take more than one drug at a time, and never mix drugs with alcohol because the effects are often unpredictable.
-
-The dangers of illegal drugs also are well documented. Certain illegal drugs can have hallucinatory effects that occur days or weeks after the drug is taken. Obviously, these drugs have no place in the aviation community.
-
-14 CFR prohibits pilots from performing crewmember duties while using any medication that affects the body in any way contrary to safety. The safest rule is not to fly as a crewmember while taking any medication, unless approved to do so by the FAA. If there is any doubt regarding the effects of any medication, consult an AME before flying.

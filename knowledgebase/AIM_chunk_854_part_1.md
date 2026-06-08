@@ -1,5 +1,0 @@
-## 1. The minima lines are:
-
-(a) GLS. "GLS" is the acronym for GBAS Landing System. The U.S. version of GBAS has traditionally been referred to as LAAS. The worldwide community has adopted GBAS as the official term for this type of navigation system. To coincide with international terminology, the FAA is also adopting the term GBAS to be consistent with the international community. This line was originally published as a placeholder for both WAAS and LAAS minima and marked as N/A since no minima was published. As the concepts for GBAS and WAAS procedure publication have evolved, GLS will now be used only for GBAS minima, which will be on a separate approach chart. Most RNAV(GPS) approach charts have had the GLS minima line replaced by a WAAS LPV line of minima.
-
-(b) LPV. "LPV" is the acronym for localizer performance with vertical guidance. RNAV (GPS) approaches to LPV lines of minima take advantage of the improved accuracy of WAAS lateral and vertical guidance to provide an approach that is very similar to a Category I Instrument Landing System (ILS). The approach to LPV line of minima is

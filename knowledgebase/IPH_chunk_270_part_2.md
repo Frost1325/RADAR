@@ -1,3 +1,0 @@
-approach and a contact approach are: a pilot must request a contact approach, while a visual approach may be assigned by ATC or requested by the pilot; and a contact approach may be
-
-approved with one mile visibility if the flight can remain clear of clouds, while a visual approach requires the pilot to have the airport in sight, or a preceding aircraft to be followed, and the ceiling must be at least 1,000 feet AGL with at least 3 SM visibility.

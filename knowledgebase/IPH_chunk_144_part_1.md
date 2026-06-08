@@ -1,3 +1,0 @@
-## Minimum IFR Altitude (MIA)
-
-The MIA for operations is prescribed in 14 CFR Part 91. These MIAs are published on aeronautical charts and prescribed in 14 CFR Part 95 for airways and routes, and in 14 CFR Part 97 for standard instrument approach procedures. If no applicable minimum altitude is prescribed in 14 CFR Parts 95 or 97, the following MIA applies: In designated mountainous areas, 2,000 feet above the highest obstacle within a horizontal distance of 4 NM from the course to be flown; or other than mountainous areas, 1,000 feet above the highest obstacle within a horizontal distance of 4 NM from the course tobe flown; or as otherwise authorized by the Administrator or assigned by ATC. MIAs are not flight checked for communication.

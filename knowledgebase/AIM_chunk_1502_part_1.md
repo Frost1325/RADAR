@@ -1,3 +1,0 @@
-## G
-
-Gate Holding, 4- 3- 18GBAS. See Ground Based Augmentation SystemGlideslope, Visual Indicators, 2- 1- 1Global Navigation Satellite System, 1- 1- 14, 1- 1- 32, 5- 1- 12Global Positioning System, 1- 1- 15GNSS. See Global Navigation Satellite SystemGPS. See Global Positioning SystemGround Based Augmentation System (GBAS), 1- 1- 34Ground Based Augmentation System (GBAS) Landing System (GLS), 1- 1- 32Ground Station, Call Signs, 4- 2- 4Ground Vehicle Operations, 4- 1- 6Gulf of Mexico Grid System, 10- 1- 6

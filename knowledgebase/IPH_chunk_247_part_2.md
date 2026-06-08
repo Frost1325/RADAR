@@ -1,7 +1,0 @@
-process is simplified by maintaining a constant approach speed, descent rate, vertical flight path, and configuration during the final stages of an approach. This is referred to as the stabilized approach concept.
-
-A stabilized approach is essential for safe turbojet operations and commercial turbojet operators must establish and use procedures that result in stabilized approaches. A stabilized approach is also strongly recommended for propeller- driven airplanes and helicopters. You should limit configuration changes at low altitudes to those changes that can be easily accommodated without adversely affecting your workload. For turbojets, the aircraft must be in an approved configuration for landing or circling, if appropriate, with the engines spooled up, and on the correct speed and flight path with a descent rate of less than 1,000 fpm before descending below the following minimum stabilized approach heights:
-
-For all straight- in instrument approaches, to include contact approaches in IFR weather conditions, the approach must be stabilized before descending below 1,000 feet above the airport or TDZE.
-
-- For visual approaches and straight-in instrument approaches in VFR weather conditions, the approach must be stabilized before descending below 500 feet above the airport elevation.- For the final segment of a circling approach maneuver, the approach must be stabilized

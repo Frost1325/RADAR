@@ -1,3 +1,0 @@
-## GPS Overlay of Nonprecision Approach
-
-The original GPS approach procedures provided authorization to fly non- precision approaches based on conventional, ground- based NAVAIDs. Many of these approaches have been converted to stand- alone approaches, and the few that remain are identified by the name of the procedure and "or GPS." These GPS non- precision approaches are predicated upon the design criteria of the ground- based NAVAID used as the basis of the approach. As such, they do not adhere to the RNAV design criteria for stand- alone GPS approaches, and are not considered part of the RNAV (GPS) approach classification for determining design criteria. [Figure 4- 38]

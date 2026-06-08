@@ -1,4 +1,0 @@
-
-Affected Location (the identifier of the affected facility or location) KEYWORD (one of the following: RWY, TWY, RAMP, APRON, AD, COM, NAV, SVC, OBST, AIRSPACE, (U) and (O)) Surface Identification (optional- this shall be the runway identification for runway related NOTAMs, the taxiway identification for taxiway- related NOTAMs, or the ramp/apron identification for ramp/ apron- related NOTAMs) Condition (the condition being reported) Time (identifies the effective time(s) of the NOTAM condition)
-
-Altitude and height are in feet mean sea level (MSL) up to 17,999; e.g., 275, 1225 (feet and MSL is not written), and in flight levels (FL) for 18,000 and above; e.g., FL180, FL550. When MSL is not known, above ground level (AGL) will be written (304 AGL).

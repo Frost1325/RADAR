@@ -1,3 +1,0 @@
-. A stall can occur at any pitch attitude or airspeed. Stalls are one of the most misunderstood areas of aerodynamics because pilots often believe an airfoil stops producing lift when it stalls. In a stall, the wing does not totally stop producing lift. Rather, it cannot generate adequate lift to sustain level flight.
-
-Since the \(\mathrm{C_L}\) increases with an increase in AOA, at some point the \(\mathrm{C_L}\) peaks and then begins to drop off. This peak is called the \(\mathrm{C_{L - MAX}}\) . The amount of lift the wing produces drops dramatically after exceeding the \(\mathrm{C_{L - MAX}}\) or critical AOA, but as stated above, it does not completely stop producing lift.

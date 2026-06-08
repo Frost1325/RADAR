@@ -1,5 +1,0 @@
-### b. ATC Clearance/Instruction Readback.
-
-Pilots of airborne aircraft should read back those parts of ATC clearances and instructions containing altitude assignments, vectors, or runway assignments as a means of mutual verification. The read back of the "numbers" serves as a double check between pilots and controllers and reduces the kinds of communications errors that occur when a number is either "misheard" or is incorrect.
-
-1. Include the aircraft identification in all readbacks and acknowledgments. This aids controllers in determining that the correct aircraft received the clearance or instruction. The requirement to include aircraft identification in all readbacks and acknowledgements becomes more important as frequency congestion increases and when aircraft with similar call signs are on the same frequency.

@@ -1,7 +1,0 @@
- working with oxygen. Oxygen under pressure creates spontaneous results when brought in contact with petroleum products. Service people should be certain to wash dirt, oil, and grease (including lip salves and hair oil) from their hands before working around oxygen equipment. It is also essential that clothing and tools are free of oil, grease,
-
-and dirt. Aircraft with permanently installed oxygen tanks usually require two persons to accomplish servicing of the system. One should be stationed at the service equipment control valves, and the other stationed where he or she can observe the aircraft system pressure gauges. Oxygen system servicing is not recommended during aircraft fueling operations or while other work is performed that could provide a source of ignition. Oxygen system servicing while passengers are on board the aircraft is not recommended.
-
-## Anti-ice and Deice Systems
-
-Anti- icing equipment is designed to prevent the formation of ice, while deicing equipment is designed to remove ice once it has formed. These systems protect the leading edge of wing and tail surfaces, pitot and static port openings, fuel tank vents, stall warning devices, windshields, and propeller blades. Ice detection lighting may also be installed on some aircraft to determine the extent of structural icing during night flights.

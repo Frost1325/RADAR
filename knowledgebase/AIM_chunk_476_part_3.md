@@ -1,3 +1,0 @@
-500 fpm until the assigned altitude is reached. If at anytime the pilot is unable to climb or descend at a rate of at least 500 feet a minute, advise ATC. If it is necessary to level off at an intermediate altitude during climb or descent, advise ATC, except when leveling off at 10,000 feet MSL on descent, or 2,500 feet above airport elevation (prior to entering a Class C or Class D surface area), when required for speed reduction.
-
-REFERENCE- 14 CFR Section 91.117.

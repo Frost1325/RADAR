@@ -1,3 +1,0 @@
-handoff is completed prior to the time the aircraft reaches the fix. When radar handoffs are used, successive arriving flights may be handed off to approach control with radar separation in lieu of vertical separation.
-
-After release to approach control, aircraft are vectored to the final approach course. ATC occasionally vectors the aircraft across the final approach course for spacing requirements. The pilot is not expected to turn inbound on the final approach course unless an approach clearance has been issued. This clearance is normally issued with the final vector for interception of the final approach course, and the vector enables the pilot to establish the aircraft on the final approach course prior to reaching the FAF.

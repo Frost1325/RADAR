@@ -1,5 +1,0 @@
- wing area, provided there is no change in the wing’s planform. If the wings have the same proportion and airfoil sections, a wing with a planform area of 200 square feet lifts twice as much at the same AOA as a wing with an area of 100 square feet.
-
-Two major aerodynamic factors from the pilot’s viewpoint are lift and airspeed because they can be controlled readily and accurately. Of course, the pilot can also control density by adjusting the altitude and can control wing area if the aircraft happens to have flaps of the type that enlarge wing area. However, for most situations, the pilot controls lift and airspeed to maneuver an aircraft. For instance, in straight- and- level flight, cruising along at a constant altitude, altitude is maintained by adjusting lift to match the aircraft’s velocity or cruise airspeed, while maintaining a state of equilibrium in which lift equals weight. In an approach to landing, when the pilot wishes to land as slowly as practical, it is necessary to increase AOA near maximum to maintain lift equal to the weight of the aircraft.
-
-## Lift/Drag Ratio

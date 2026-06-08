@@ -1,3 +1,0 @@
-# Instrument Approach Charts
-
-Beginning in February 2000, the FAA began issuing the current format for instrument approach charts. This chart was developed by the Department of Transportation (DOT), Volpe National Transportation Systems Center and is commonly referred to as the Pilot Briefing Information format. The FAA chart format is presented in a logical order,facilitating pilot briefing of the procedures. [Figure 4-3]

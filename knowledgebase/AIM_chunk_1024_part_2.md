@@ -1,5 +1,0 @@
-stronger signal when activated than the older 121.5 MHz ELTs.
-
-(a) The Federal Communications Commission (FCC) requires 406 MHz ELTs be registered with the National Oceanic and Atmospheric Administration (NOAA) as outlined in the ELTs documentation. The FAA's 406 MHz ELT Technical Standard Order (TSO) TSO-C126 also requires that each 406 MHz ELT be registered with NOAA. The reason is NOAA maintains the owner registration database for U.S. registered 406 MHz alerting devices, which includes ELTs. NOAA also operates the United States' portion of the Cospas-Sarsat satellite distress alerting system designed to detect activated ELTs and other distress alerting devices.
-
-(b) In the event that a properly registered 406 MHz ELT activates, the Cospas-Sarsat satellite system can decode the owner's information and provide that data to the appropriate search and rescue (SAR) center. In the United States, NOAA provides the alert data to the appropriate U.S. Air Force Rescue Coordination Center (RCC) or U.S. Coast Guard Rescue Coordination Center. That RCC can then telephone or contact the owner to

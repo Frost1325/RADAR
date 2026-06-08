@@ -1,7 +1,0 @@
- stages of the flight.
-
-While poor decision- making in everyday life does not always lead to tragedy, the margin for error in aviation is thin. Since ADM enhances management of an aeronautical environment, all pilots should become familiar with and employ ADM.
-
-## Crew Resource Management (CRM) and Single-Pilot Resource Management
-
-While CRM focuses on pilots operating in crew environments, many of the concepts apply to single- pilot operations. Many CRM principles have been successfully applied to single- pilot aircraft and led to the development of Single- Pilot Resource Management (SRM). SRM is defined as the art and science of managing all the resources (both on- board the aircraft and from outside sources) available to a single pilot (prior to and during flight) to ensure the successful outcome of the flight. SRM includes the concepts of ADM, risk management (RM), task management (TM), automation management (AM), controlled flight into terrain (CFIT) awareness, and situational awareness (SA). SRM training helps the pilot maintain situational awareness by managing the automation and associated aircraft control and navigation tasks. This enables the pilot to accurately assess and manage risk and make accurate and timely decisions.

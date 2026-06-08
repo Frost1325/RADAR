@@ -1,7 +1,0 @@
-### a. General
-
-1. The FAA developed the WAAS to improve the accuracy, integrity and availability of GPS signals. WAAS will allow GPS to be used, as the aviation navigation system, from takeoff through approach when it is complete. WAAS is a critical component of the FAA's strategic objective for a seamless satellite navigation system for civil aviation, improving capacity and safety.
-
-2. The International Civil Aviation Organization (ICAO) has defined Standards and Recommended Practices (SARPs) for satellite-based augmentation systems (SBAS) such as WAAS. Japan, India, and Europe are building similar systems: EGNOS, the European Geostationary Navigation Overlay System; India's GPS and Geo-Augmented Navigation (GAGAN) system; and Japan's Multi-functional Transport Satellite (MT-SAT)-based Satellite Augmentation System (MSAS). The merging of these systems will create an expansive navigation capability similar to GPS, but with greater accuracy, availability, and integrity.
-
-3. Unlike traditional ground-based navigation aids, WAAS will cover a more extensive service area. Precisely surveyed wide-area reference stations (WRS) are linked to form the U.S. WAAS network. Signals from the GPS satellites are monitored by these WRSs

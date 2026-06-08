@@ -1,5 +1,0 @@
-### 4-3-24. Flight Inspection/Flight Check Aircraft in Terminal Areas
-
-a. Flight check is a call sign used to alert pilots and air traffic controllers when a FAA aircraft is engaged in flight inspection/certification of NAVAIDs and flight procedures. Flight check aircraft fly preplanned high/low altitude flight patterns such as grids, orbits, DME arcs, and tracks, including low passes along the full length of the runway to verify NAVAID performance.
-
-b. Pilots should be especially watchful and avoid the flight paths of any aircraft using the call sign "Flight Check." These flights will normally receive special handling from ATC. Pilot patience and cooperation in allowing uninterrupted recordings can significantly help expedite flight inspections, minimize costly, repetitive runs, and reduce the burden on the U.S. taxpayer.

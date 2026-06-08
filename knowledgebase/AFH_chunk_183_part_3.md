@@ -1,5 +1,0 @@
-a reduction in static source pressure and a corresponding increase in indicated airspeed.
-
-\(\mathrm{V}_{\mathrm{X}}\) is the speed at which the airplane achieves the greatest gain in altitude for a given distance over the ground. It is usually slightly less than \(\mathrm{V}_{\mathrm{Y}}\) , which is the greatest gain in altitude per unit of time. The specific speeds to be used for a given airplane are stated in the FAA- approved AFM/POH. The pilot should be aware that, in some airplanes, a deviation of 5 knots from the recommended speed may result in a significant reduction in climb performance; therefore, the pilot should maintain precise control of the airspeed to ensure the maneuver is executed safely and successfully.
-
-Due to the reduced drag in ground effect, the airplane may seem to be able to take off below the recommended airspeed. However, as the airplane climbs out of ground effect below the recommended climb speed, initial climb performance will be much less than at \(\mathrm{V}_{\mathrm{Y}}\) or even \(\mathrm{V}_{\mathrm{X}}\) . Under conditions of high density altitude, high temperature, and/or maximum gross weight, the airplane may be able to

@@ -1,5 +1,0 @@
-.Most of the things perceived while flying are visual or heavily supplemented by vision. As remarkable and vital as it is,vision is subject to limitations, such as illusions and blind spots. The more a pilot understands about the eyes and how they function, the easier it is to use vision effectively and compensate for potential problems.
-
-The eye functions much like a camera. Its structure includes an aperture, a lens, a mechanism for focusing, and a surface for registering images. Light enters through the cornea at the front of the eyeball, travels through the lens, and falls on the retina. The retina contains light sensitive cells that convert
-
-light energy into electrical impulses that travel through nerves to the brain. The brain interprets the electrical signals to form images. There are two kinds of light- sensitive cells in the eyes: rods and cones. [Figure 17- 12]

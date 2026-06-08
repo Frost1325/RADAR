@@ -1,7 +1,0 @@
-## 7-6-3. Near Midair Collision Reporting
-
-a. Purpose and Data Uses. The primary purpose of the Near Midair Collision (NMAC) Reporting Program is to provide information for use in enhancing the safety and efficiency of the National Airspace System. Data obtained from NMAC reports are used by the FAA to improve the quality of FAA services to users and to develop programs, policies, and procedures aimed at the reduction of NMAC occurrences. All NMAC reports are thoroughly investigated by Flight Standards Facilities in coordination with Air Traffic Facilities. Data from these investigations are transmitted to FAA Headquarters in Washington, DC, where they are compiled and analyzed, and where safety programs and recommendations are developed.
-
-b. Definition. A near midair collision is defined as an incident associated with the operation of an aircraft in which a possibility of collision occurs as a result of proximity of less than 500 feet to another aircraft, or a report is received from a pilot or a flight crew member stating that a collision hazard existed between two or more aircraft.
-
-c. Reporting Responsibility. It is the responsibility of the pilot and/or flight crew to determine whether a near midair collision did actually occur and, if so, to initiate a NMAC report. Be specific, as

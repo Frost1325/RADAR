@@ -1,5 +1,0 @@
-types of procedures based on the final approach course guidance:
-
-- Precision approach (PA)—an instrument approach based on a navigation system that provides course and glidepath deviation information meeting precision standards of ICAO Annex 10. For example, PAR, ILS, and GLS are precision approaches.- Approach with vertical guidance (APV) —an instrument approach based on a navigation system that is not required to meet the precision approach standards of ICAO Annex 10, but provides course and glidepath deviation information. For example, Baro-VNAV, LDA with glidepath, LNAV/VNAV and LPV are APV approaches.- Non-precision approach (NPA)—an instrument approach based on a navigation system that provides course and glidepath deviation information. For example, Baro-VNAV, LDA, with glidepath, LNAV/VNAV and LPV are APV approaches.
-
-approach based on a navigation system that provides course deviation information but no glidepath deviation information. For example, VOR, TACAN, LNAV, NDB, LOC, and ASR approaches are examples of NPA procedures.

@@ -1,7 +1,0 @@
-however, to land on the top or back side of the swell, if possible. After determining which heading (and its reciprocal) will parallel the swell, select the heading with the most into the wind component.
-
-2. If only one swell system exists, the problem is relatively simple-even with a high, fast system. Unfortunately, most cases involve two or more swell systems running in different directions. With more than one system present, the sea presents a confused appearance. One of the most difficult situations occurs when two swell systems are at right angles. For example, if one system is eight feet high, and the other three feet, plan to land parallel to the primary system, and on the down swell of the secondary system. If both systems are of equal height, a compromise may be advisable-select an intermediate heading at 45 degrees down swell to both systems. When landing down a secondary swell, attempt to touch down on the back side, not on the face of the swell.
-
-3. If the swell system is formidable, it is considered advisable, in landplanes, to accept more crosswind in order to avoid landing directly into the swell.
-
-4. The secondary swell system is often from the same direction as the wind. Here, the landing may be made parallel

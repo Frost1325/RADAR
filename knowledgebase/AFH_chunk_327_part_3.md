@@ -1,5 +1,0 @@
-ratio. The mixture, therefore, controls temperature.
-
-Exceeding temperature limits in an after- takeoff climb is usually not a problem since a full rich mixture cools with excess fuel. At cruise, power is normally reduced and mixture adjusted accordingly. Under cruise conditions, monitor temperature limits closely because that is when the temperatures are most likely to reach the maximum, even though the engine is producing less power. Overheating in an en route climb, however, may require fully open cowl flaps and a higher airspeed.
-
-Since turbocharged engines operate hotter at altitude than normally aspirated engines, they are more prone to damage from cooling stress. Gradual reductions in power and careful monitoring of temperatures are essential in the descent phase. Extending the landing gear during the descent may help control the airspeed while maintaining a higher engine power setting. This allows the pilot to reduce power in small increments which allows the engine to cool slowly. It may also be necessary to lean the mixture slightly to eliminate roughness at the lower power settings.

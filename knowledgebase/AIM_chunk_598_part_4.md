@@ -1,5 +1,0 @@
-allowing aircraft equipage with a S-LRNS for operations in specified oceanic and off-shore areas are contained in the following sections of 14 Code of Federal Regulations (CFR): 91.511, 121.351, 125.203 and 135.165.
-
-2. ICAO PBN Manual Reference. In reference to RNP 10 authorization, the ICAO PBN Manual, Volume II, Part B, Chapter 1, paragraph 1.3.6.2 states that: "A State authority may approve the use of a single LRNS in specific circumstances (e.g., North Atlantic MNPS and 14 CFR 121.351 (c) refer). An RNP 10 approval is still required."
-
-3. Policy Development. The FAA worked with the ICAO NACC Office (North American, Central American and Caribbean), State regulators and ATS providers in the GoMex and Caribbean areas to implement a policy for S-LRNS equipped aircraft to qualify for RNP 10 for GoMex operations. Allowing S-LRNS equipped aircraft to qualify for RNP 10

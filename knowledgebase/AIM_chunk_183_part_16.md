@@ -1,3 +1,0 @@
-Smith International</td></tr><tr><td>Midland</td><td>International</td></tr><tr><td>San Antonio</td><td>International</td></tr><tr><td colspan="2">VERMONT</td></tr><tr><td>Burlington</td><td>International</td></tr><tr><td colspan="2">VIRGIN ISLANDS</td></tr><tr><td>St. Thomas</td><td>Charlotte Amalie Cyril E. King</td></tr></table>
-
-<table><tr><td>State/City</td><td>Airport</td></tr><tr><td>VIRGINIA</td><td></td></tr><tr><td>Richmond International<br>Norfolk International<br>Roanoke Regional/Woodrum Field</td><td></td></tr><tr><td>WASHINGTON</td><td></td></tr><tr><td>Point Roberts Vancouver International<br>Spokane Fairchild AFB<br>Spokane International<br>Whidbey Island NAS, Ault Field</td><td></td></tr><tr><td>WEST VIRGINIA</td><td></

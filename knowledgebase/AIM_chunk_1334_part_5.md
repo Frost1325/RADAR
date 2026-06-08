@@ -1,3 +1,0 @@
-77, Objects Affecting Navigable Airspace, surfaces, a representation of objects that penetrate these surfaces, aircraft movement and apron areas, navigational aids, prominent airport buildings, and a selection of roads and other planimetric detail in the airport vicinity. Also included are tabulations of runway and other operational data.
-
-7. FAA Aeronautical Chart User's Guide. A booklet designed to be used as a teaching aid and reference document. It describes the substantial amount of information provided on FAA's aeronautical charts and publications. It includes explanations and illustrations of chart terms and symbols organized by chart type. The users guide is available for free download at the AeroNav web site.

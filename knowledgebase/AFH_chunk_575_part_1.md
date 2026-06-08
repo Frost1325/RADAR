@@ -1,3 +1,0 @@
-# E
-
-<table><tr><td>Effect and use of flight controls</td><td>3-1</td></tr><tr><td>Feel of the airplane</td><td>3-3</td></tr><tr><td>Electrical fires</td><td>18-9</td></tr><tr><td>Elementary eights</td><td>7-10, 7-13,</td></tr><tr><td>Eights across a road</td><td>7-10, 7-12</td></tr><tr><td>Eights along a road</td><td>7-10, 7-11, 7-12</td></tr><tr><td>Eights around pylons</td><td>7-10, 7-13, 7-14</td></tr><tr><td>Eights-on-pylons</td><td>7-14, 7-15, 7-16, 7-17, 7-18</td></tr><tr><td>Elevator trim stall</td><td>5

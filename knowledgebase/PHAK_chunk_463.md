@@ -1,5 +1,0 @@
- angle of bank—that is, it increases or decreases respectively as the angle of bank increases or decreases. As the angle of bank is increased, the horizontal component of lift increases, thereby increasing the rate of turn (ROT). Consequently, at any given airspeed, the ROT can be controlled by adjusting the angle of bank.
-
-To provide a vertical component of lift sufficient to hold altitude in a level turn, an increase in the AOA is required. Since the drag of the airfoil is directly proportional to its AOA, induced drag increases as the lift is increased. This, in turn, causes a loss of airspeed in proportion to the angle of bank. A small angle of bank results in a small reduction in airspeed while a large angle of bank results in a large reduction in airspeed. Additional thrust (power) must be applied to prevent a reduction in airspeed in level turns. The required amount of additional thrust is proportional to the angle of bank.
-
-To compensate for added lift, which would result if the airspeed were increased during a turn, the AOA must be

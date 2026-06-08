@@ -1,7 +1,0 @@
- to produce the recommended cruise condition. As fuel is consumed and the aircraft's gross weight decreases, the optimum airspeed and power setting may decrease, or the optimum altitude may increase. In addition, the optimum specific range increases. Therefore, the pilot must provide the proper cruise control procedure to ensure that optimum conditions are maintained.
-
-Total range is dependent on both fuel available and specific range. When range and economy of operation are the principal goals, the pilot must ensure that the aircraft is operated at the
-
-recommended long- range cruise condition. By this procedure, the aircraft is capable of its maximum design- operating radius or can achieve flight distances less than the maximum with a maximum of fuel reserve at the destination.
-
-A propeller- driven aircraft combines the propeller with the reciprocating engine for propulsive power. Fuel flow is determined mainly by the shaft power put into the propeller rather than thrust. Thus, the fuel flow can be related directly to the power required to maintain the aircraft in steady, level flight, and on performance charts power can be substituted for fuel flow. This fact allows for the determination of range through analysis of power required versus speed.

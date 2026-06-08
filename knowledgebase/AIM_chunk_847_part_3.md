@@ -1,5 +1,0 @@
-the use of an autopilot with an approach coupler.
-
-(e) The naming of multiple approaches of the same type to the same runway is also changing. Multiple approaches with the same guidance will be annotated with an alphabetical suffix beginning at the end of the alphabet and working backwards for subsequent procedures (e.g., ILS Z RWY 28, ILS Y RWY 28, etc.). The existing annotations such as ILS 2 RWY 28 or Silver ILS RWY 28 will be phased out and replaced with the new designation. The Cat II and Cat III designations are used to differentiate between multiple ILSs to the same runway unless there are multiples of the same type.
-
-(f) RNAV (GPS) approaches to LNAV, LP, LNAV/VNAV and LPV lines of minima using WAAS and RNAV (GPS) approaches to LNAV and LNAV/VNAV lines of minima using GPS are charted as RNAV (GPS) RWY (Number) (e.g., RNAV (GPS) RWY 21). VOR/DME RNAV approaches will continue to be identified as VOR/DME RNAV RWY (Number) (e.g., VOR/D

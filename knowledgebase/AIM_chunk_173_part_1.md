@@ -1,7 +1,0 @@
-## 2. VFR Flights.
-
-(a) Arriving aircraft must obtain an ATC clearance prior to entering Class B airspace and must contact ATC on the appropriate frequency, and in relation to geographical fixes shown on local charts. Although a pilot may be operating beneath the floor of the Class B airspace on initial contact, communications with ATC should be established in relation to the points indicated for spacing and sequencing purposes.
-
-(b) Departing aircraft require a clearance to depart Class B airspace and should advise the clearance delivery position of their intended altitude and route of flight. ATC will normally advise VFR aircraft when leaving the geographical limits of the Class B airspace. Radar service is not automatically terminated with this advisory unless specifically stated by the controller.
-
-(c) Aircraft not landing or departing the primary airport may obtain an ATC clearance to transit the Class B airspace when traffic conditions permit and provided the requirements of 14 CFR Section 91.131 are met. Such VFR aircraft are encouraged, to the extent possible, to operate at altitudes above or below the Class B airspace or transit through established VFR corridors. Pilots operating in VFR corridors are urged to use frequency 122.750 MHz for the exchange of aircraft position information

@@ -1,7 +1,0 @@
-## REFERENCE-
-
-AIM, Preflight Preparation, Paragraph 5- 1- 1, for items that are required.
-
-b. Standard Briefing. You should request a Standard Briefing any time you are planning a flight and you have not received a previous briefing or have not received preliminary information through mass dissemination media; e.g., TIBS, TWEB (Alaska only), etc. International data may be inaccurate or incomplete. If you are planning a flight outside of U.S. controlled airspace, the briefer will advise you to check data as soon as practical after entering foreign airspace, unless you advise that you have the international cautionary advisory. The briefer will automatically provide the following information in the sequence listed, except as noted, when it is applicable to your proposed flight.
-
-1. Adverse Conditions. Significant meteorological and/or aeronautical information that might influence the pilot to alter or cancel the proposed flight; for example, hazardous weather conditions, airport closures, air traffic delays, etc. Pilots should be especially alert for current or forecast weather that could reduce flight minimums below VFR or IFR conditions. Pilots should also be alert for any reported or forecast icing if the aircraft is not certified for operating in icing conditions

@@ -1,7 +1,0 @@
-altitude from which the descent begins; item 2 is the time required for the descent in minutes; item 3 is the amount of fuel consumed in pounds during descent to sea level; and item 4 is the distance covered in NM. Item 5 shows that the chart is based on a Mach .80 airspeed until 280 knots indicated airspeed (KIAS) is obtained. The 250 knot airspeed limitation below 10,000 feet MSL is not included on the chart, since its effect is minimal. Also, the effect of temperature or weight variation is negligible and is therefore omitted.
-
-Due to the increased flight deck workload, pilots should get as much done ahead of time as possible. As with the climb and cruise phases of flight, aircrews should consult the proper performance charts to compute their fuel requirements, as well as the time and distance needed for
-
-their descent.
-
-During the cruise and descent phases of flight, pilots need to monitor and manage the aircraft according to the appropriate manufacturer's recommendations. Flight manuals and operating handbooks contain cruise and descent checklists, performance charts for specific cruise configurations, and descent charts that provide information regarding the fuel, time, and distance required to descend. Aircrews

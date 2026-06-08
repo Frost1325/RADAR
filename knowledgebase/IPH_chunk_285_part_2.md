@@ -1,5 +1,0 @@
-requirements for SOIA ILS/PRM and LDA/PRM approaches are identical with those used for simultaneous close parallel ILS/PRM approaches until near the LDA/PRM approach MAP, where visual acquisition of the ILS aircraft by the LDA aircraft must be accomplished. If visual acquisition is not accomplished prior to reaching the LDA MAP, a missed approach must be executed. A visual segment for the LDA/PRM approach is established between the LDA MAP and the runway threshold. Aircraft transition in visual conditions from the LDA course, beginning at the LDA MAP, to align with the runway and can be stabilized by 500 feet AGL on the extended runway centerline. Pilots are reminded that they are responsible for collision avoidance and wake turbulence mitigation between the LDA MAP and the runway.
-
-The FAA website has additional information about PRM and SOIA approaches, including an instructional PowerPoint
-
-training presentation at http://www.faa.gov/training_ testing/training/prm/.

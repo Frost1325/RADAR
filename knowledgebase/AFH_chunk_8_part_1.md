@@ -1,7 +1,0 @@
-## Sources of Flight Training
-
-Sources of Flight TrainingThe major sources of flight training in the United States include FAA- approved pilot schools and training centers, non- certificated (14 CFR part 61) flying schools, and independent flight instructors. FAA- approved schools are those flight schools certificated by the FAA as pilot schools under 14 CFR part 141. [Figure 1- 8]
-
-Application for part 141 certification is voluntary, and the school needs to meet specific requirements for personnel, equipment, maintenance, and facilities. The school operates each course offering in accordance with an established curriculum that includes a training course outline (TCO) approved by the FAA. Each TCO contains enrollment prerequisites, a detailed description of each lesson including standards and objectives, expected accomplishments and standards for each stage of training, and a description of the checks and tests used to measure each training course enrollee's accomplishments. An FAA- approved pilot school Air Agency certificate expires and needs to be renewed every 2 years.
-
-Renewal is contingent upon proof of continued high quality instruction and a minimum level of instructional activity. Training at an FAA- certificated pilot school is structured and because of this structured environment, the graduates of these

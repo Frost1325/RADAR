@@ -1,5 +1,0 @@
-as a DA. Other navigation systems may be specifically authorized to use this line of minima. (See Section A, Terms/Landing Minima Data, of the U.S. Terminal Procedures books.)
-
-(d) LP. "LP" is the acronym for localizer performance. Approaches to LP lines of minima take advantage of the improved accuracy of WAAS to provide approaches, with lateral guidance and angular guidance. Angular guidance does not refer to a glideslope angle but rather to the increased lateral sensitivity as the aircraft gets closer to the runway, similar to localizer approaches. However, the LP line of minima is a Minimum Descent Altitude (MDA) rather than a DA (H). Procedures with LP lines of minima will not be published with another approach that contains approved vertical guidance (LNAV/VNAV or LPV). It is possible to have LP and LNAV published on the same approach chart but LP will only be published if it provides lower minima than an LNAV line of minima. LP is not a fail-down mode for LPV. LP will only be published if terrain, obstructions, or some other reason prevent publishing
-
-a vertically guided procedure. WAAS avionics may provide GNSS- based advisory vertical guidance

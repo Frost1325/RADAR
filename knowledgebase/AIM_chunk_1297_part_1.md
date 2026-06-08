@@ -1,1 +1,0 @@
-# Chapter 8. Medical Facts for Pilots Section 1. Fitness for Flight

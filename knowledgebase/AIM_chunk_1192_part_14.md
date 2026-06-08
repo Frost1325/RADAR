@@ -1,1 +1,0 @@
-” indicate different worldwide practices.<br>- Ceiling is not specified; defined as the lowest broken or overcast layer, or the vertical visibility.<br>- NWS TAFs exclude BECMG groups and temperature forecasts, NWS TAFS do not use PROB in the first 9<br>hours of a TAF; NWS METARs exclude trend forecasts. US Military TAFs include Turbulence and Icing groups.</td></tr></table>

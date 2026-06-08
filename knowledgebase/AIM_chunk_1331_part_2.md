@@ -1,5 +1,0 @@
-FIG 9- 1- 13. )
-
-2. VFR Terminal Area Charts (TAC). TACs depict the airspace designated as Class B airspace. While similar to sectional charts, TACs have more detail because the scale is larger. The TAC should be used by pilots intending to operate to or from airfields within or near Class B or Class C airspace. Areas with TAC coverage are indicated by a \(\bullet\) on the Sectional Chart indexes. Scale 1 inch \(= 3.43\mathrm{nm} / 1:250,000\) . Charts are revised biannually, except Puerto Rico–Virgin Islands which is revised annually. (See FIG 9-1-1 and FIG 9-1-13. )
-
-3. World Aeronautical Chart (WAC). WACs cover land areas for navigation by moderate speed aircraft operating at high altitudes. Included are city tints, principal roads, railroads, distinctive landmarks, drainage patterns, and relief. Aeronautical information includes visual and radio aids to navigation, airports, airways, special-use airspace, and obstructions. Because of a smaller scale, WACs do not show as

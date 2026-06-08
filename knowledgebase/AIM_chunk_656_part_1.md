@@ -1,3 +1,0 @@
-### b. Explanation of Items Filed in FAA Form 7233-4
-
-Procedures and other information provided in this section are designed to assist operators using FAA Form 7233-4 to file IFR flight plans for flights that will be conducted entirely within U.S. domestic airspace. Requirements and procedures for operating outside U.S. domestic airspace may vary significantly from country to country. It is, therefore, recommended that operators planning flights outside U.S. domestic airspace become familiar with applicable international documents, including Aeronautical Information Publications (AIP); International Flight Information Manuals (IFIM); and ICAO Document 4444, Procedures for Air Navigation Services/Air Traffic Management, Appendix 2.

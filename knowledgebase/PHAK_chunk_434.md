@@ -1,5 +1,0 @@
-, a much lesser force, at point T (downward air pressure on the stabilizer). To better visualize this physics principle: If an iron bar were suspended at point CL, with a heavy weight hanging on it at the CG, it would take downward pressure at point T to keep the "lever" in balance.
-
-Even though the horizontal stabilizer may be level when the aircraft is in level flight, there is a downwash of air from the wings. This downwash strikes the top of the stabilizer and produces a downward pressure, which at a certain speed is just enough to balance the "lever." The faster the aircraft is flying, the greater this downwash and the greater the downward force on the horizontal stabilizer (except T- tails). [Figure 5- 24] In aircraft with fixed- position horizontal stabilizers, the aircraft manufacturer sets the stabilizer at an angle that provides the best stability (or balance) during flight at the design cruising speed and power setting.
-
-If the aircraft's speed decreases, the speed of the airflow over the wing is decreased. As a result of this decreased

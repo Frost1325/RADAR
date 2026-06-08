@@ -1,3 +1,0 @@
-5-1-2 Contractions Commonly Found in NOTAMs
-
-<table><tr><td></td><td>A</td></tr><tr><td>ABN</td><td>Aerodrome Beacon</td></tr><tr><td>ABV</td><td>Above</td></tr><tr><td>ACFT</td><td>Aircraft</td></tr><tr><td>ACT</td><td>Active</td></tr><tr><td>ADJ</td><td>Adjacent</td></tr><tr><td>AGL</td><td>Above Ground Level</td></tr><tr><td>ALS</td><td>Approach Light System</td></tr><tr><td>ALT</td><td>Altitude</td></tr><tr><td>ALTN/ALTLNY</td><td>Alternate/Alternately</td></tr><tr><td>AMDT</td><td>Amendment</td></tr><tr><td>APCH</td><td>Approach</td></tr><tr><td>ARFF</td><td>Aircraft Rescue &amp;amp; Fire Fighting</td></

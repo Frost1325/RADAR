@@ -1,7 +1,0 @@
-## NOTE-
-
-At some airports, the override capability may be on other than the tower frequency (KSFO overrides the final radar controller frequency). Pilots should carefully review the dual communications requirements on the AAUP prior to accepting a PRM approach.
-
-3. Breakouts. The probability is extremely low that an aircraft will "blunder" from its assigned approach course and enter the NTZ, causing ATC to "breakout" the aircraft approaching on the adjacent ILS or LDA course. However, because of the close proximity of the final approach courses, it is essential that pilots follow the ATC breakout instructions precisely and expeditiously. The controller's "breakout" instructions provide conflict resolution for the threatened aircraft, with the turn portion of the "breakout" being the single most important element in achieving maximum protection. A descending breakout will only be issued when it is the only controller option. In no case will the controller descend an aircraft below the MVA, which will provide at least 1,000 feet clearance above obstacles. The pilot is not expected to exceed 1,000 feet per minute rate of descent in the event a descending breakout is issued.
-
-4. Hand-flown Breakouts. The use of the autopilot is

@@ -1,3 +1,0 @@
-outside of the turn travels a longer path than the inside wing, yet both complete their respective paths in the same unit of time.
-
-Therefore, the outside wing travels at a faster airspeed than the inside wing and, as a result, it develops more lift. This creates an overbanking tendency that needs to be controlled by the use of opposite aileron when the desired bank angle is reached. [Figure 3- 15] Because the outboard wing is developing more lift, it also produces more drag. The drag causes a slight slip during steep turns that should be corrected by use of the rudder.

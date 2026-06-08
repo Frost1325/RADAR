@@ -1,5 +1,0 @@
- intervals and each reading is recorded. If the aircraft is to be flown at night, the lights are turned on and any significant changes in the readings are noted. If so, additional entries are made for use at night. The accuracy of the compass can also be checked by comparing the compass reading with the known runway headings.
-
-A deviation card, similar to Figure 16- 12, is mounted near the compass showing the addition or subtraction required to correct for deviation on various headings, usually at intervals of \(30^{\circ}\) . For intermediate readings, the pilot should be able to interpolate mentally with sufficient accuracy. For example, if the pilot needed the correction for \(195^{\circ}\) and noted the correction for \(180^{\circ}\) to be \(0^{\circ}\) and for \(210^{\circ}\) to be \(+2^{\circ}\) , it could be assumed that the correction for \(195^{\circ}\) would be \(+1^{\circ}\) . The magnetic heading, when corrected for deviation, is known as compass heading.
-
-## Effect of Wind

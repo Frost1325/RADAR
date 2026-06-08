@@ -1,5 +1,0 @@
-feeder route and return to it. The pilot is expected to commence the approach in a similar manner at the IAF, if the IAF for the procedure is located along the route of flight to the holding fix.
-
-If a route of flight directly to the IAF is desired, it should be so stated by the controller with phraseology to include the words "direct," "proceed direct," or a similar phrase that the pilot can interpret without question. When a pilot is uncertain of the clearance, ATC should be queried immediately as to what route of flight is preferred.
-
-The name of an instrument approach, as published, is used to identify the approach, even if a component of the approach aid is inoperative or unreliable. The controller will use the name of the approach as published, but must advise the aircraft at the time an approach clearance is issued that the inoperative or unreliable approach aid component is unusable. (Example: "Cleared ILS RWY 4, glideslope unusable.")

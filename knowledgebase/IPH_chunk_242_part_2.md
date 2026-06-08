@@ -1,3 +1,0 @@
-query ATC as to which approach is to be expected from the controller. Pilots may request specific approaches to meet the individual needs of their equipment or regulatory restrictions at any time and ATC will, in most cases, be able to accommodate those requests, providing that workload and traffic permit.
-
-If the flight is operating into an airport without a control tower, the flight crew is occasionally given the choice of any available instrument approach at the field. In these cases, the flight crew must choose an appropriate approach based on the expected weather, aircraft performance, direction of arrival, airport NOTAMs, and previous experience at the airport.

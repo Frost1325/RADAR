@@ -1,1 +1,0 @@
-18,000 may use either UAT or 1090ES equipment. (Refer to 14 CFR 91.225 and 91.227.) While the regulation will not require it, operators equipped with ADS-B In will realize additional benefits from ADS-B broadcast services: Traffic Information Service - Broadcast (TIS-B) (paragraph 4-5-8) and Flight Information Service - Broadcast (FIS-B) (paragraph 4-5-9).

@@ -1,1 +1,0 @@
-3- 12Inoperative Components, 1- 1- 11Localizer, 1- 1- 7Critical Area, 1- 1- 11Locators, Compass, 1- 1- 7Marker Beacon, 1- 1- 9

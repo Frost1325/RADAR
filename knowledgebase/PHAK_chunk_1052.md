@@ -1,5 +1,0 @@
-ers, rivets, and similar standard parts of negligible weight on fixed- wing aircraft do not require a weight and balance check. The following criteria for negligible weight change is outlined in Advisory Circular (AC) 43.13- 1 (as revised), Methods Techniques and Practices- Aircraft Inspection and Repair:
-
-One pound or less for an aircraft whose weight empty is less than 5,000 pounds Two pounds or less for aircraft with an empty weight of more than 5,000 pounds to 50,000 pounds Five pounds or less for aircraft with an empty weight of more than 50,000 pounds
-
-Negligible CG change is any change of less than 0.05 percent Mean Aerodynamic Chord (MAC) for fixed- wing aircraft or 0.2 percent for rotary wing aircraft. MAC is the average distance from the leading edge to the trailing edge of the wing. Exceeding these limits would require a weight and balance check.

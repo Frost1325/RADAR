@@ -1,3 +1,0 @@
-ates for the flight. This type of software is tailored for individual operators and includes their normal flight paths and approved airports. Flight planning software and services are provided through private sources.
-
-Though the pilot is the final authority for the flight and ultimately has full responsibility, the dispatcher is responsible for creating flight plans that are accurate and comply with the CFRs. Alternate minimum criteria are only used as planning tools to ensure the pilot in command and dispatcher are thinking ahead to the approach phase of flight. In the event the flight would actually need to divert to an alternate, the published approach minimums or lower- than- standard minimums must be used as addressed in OpSpecs documents.

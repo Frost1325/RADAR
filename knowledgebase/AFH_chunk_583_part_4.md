@@ -1,3 +1,0 @@
-Task management</td><td>2-14</td></tr><tr><td>Risk</td><td>2-13</td></tr><tr><td>Risk assessment</td><td>2-13</td></tr><tr><td>Role of the FAA</td><td>1-2</td></tr><tr><td>Role of the flight instructor</td><td>1-6</td></tr></table>
-
-<table><tr><td>Role of the pilot examiner</td><td>1-6</td></tr><tr><td>Role of FSTDs and airplanes in UPRT</td><td>5-7, 5-8</td></tr><tr><td>Rotation and lift-off</td><td>16-16</td></tr><tr><td colspan="2">S</td></tr><tr><td>Safety considerations</td><td>1-10, 8-5, 11-10</td></tr><tr><td>Secondary stall</td><td>5-16, 5-18, 5-21, 5

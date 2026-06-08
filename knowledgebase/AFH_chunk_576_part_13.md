@@ -1,1 +1,0 @@
-td></tr><tr><td>Intentional slips</td><td>9-12</td></tr><tr><td>Intentional spins</td><td>5-25, 5-26</td></tr><tr><td>Interstage turbine temperature (ITT)</td><td>15-4, 15-5, 15-8</td></tr><tr><td>Irreversible deceleration and/or sink rate</td><td>4-1, 4-5, 4-11, 4-14, 4-17, 4-19</td></tr></table>

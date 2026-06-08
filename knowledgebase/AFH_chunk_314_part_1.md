@@ -1,7 +1,0 @@
-## Introduction
-
-A high- performance airplane is defined as an airplane with an engine capable of developing more than 200 horsepower (see 14 CFR part 61, section 61.31(f)(1)). A complex airplane (see 14 CFR part 61, section 61.1) means an airplane that has a retractable landing gear, flaps, and a controllable pitch propeller, including airplanes equipped with an engine control system consisting of a digital computer and associated accessories for controlling the engine and propeller, such as a full authority digital engine control; or, in the case of a seaplane, flaps and a controllable pitch propeller, including seaplanes equipped with an engine control system consisting of a digital computer and associated accessories for controlling the engine and propeller, such as a full authority digital engine control.
-
-Transition to a complex airplane, or a high- performance airplane, can be demanding for many pilots. Both increased performance and complexity require additional planning, judgment, and piloting skills. Transition to these types of airplanes, therefore, should be accomplished in a systematic manner through a structured course of training administered by a qualified flight instructor.
-
-Airplanes can be designed to fly through

@@ -1,4 +1,0 @@
- country, or state. Alaska identifiers always begin with the letters "PA" and Hawaii identifiers always begin with the letters "PH." Station identifiers can be found by calling the FSS, a NWS office, or by searching various websites such as DUATS and NOAA's Aviation Weather Aviation Digital Data Services (ADDS).
-3. Date and time of report—depicted in a six-digit group (161753Z). The first two digits are the date. The last four digits are the time of the METAR/SPECI, which is always given in coordinated universal time (UTC). A "Z" is appended to the end of the time to denote the time is given in Zulu time (UTC) as opposed to local time.
-
-4. Date and time of report—depicted in a six-digit group (161753Z).The first two digits are the date. The last four digits are the time of the METAR/SPECI, which is always given in coordinated universal time (UTC). A "Z" is appended t0 the end of the time to denote the time is given in Zulu time (UTC) as oppo sed to local time.

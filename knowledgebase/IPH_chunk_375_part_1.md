@@ -1,7 +1,0 @@
-## Maintaining Aircraft Control
-
-Once the crewmembers recognize the situation, they commit to controlling the aircraft by using and trusting flight instruments. Attempting to search outside the flight deck for visual confirmation can result in spatial disorientation and complete loss of control. The crew must rely on instruments and depend on crew coordination to facilitate that transition. The pilot or flight crew must abandon their efforts to establish visual references and fly the aircraft by their flight instruments.
-
-The most important concern, along with maintaining aircraft control, is to initiate a climb immediately. An immediate climb provides a greater separation from natural and manmade obstacles, as well as improve radar reception of the aircraft by ATC. An immediate climb should be appropriate for the current conditions, environment, and known or perceived obstacles. Listed below are procedures that can assist in maintaining aircraft control after encountering IMC with the most critical action being to immediately announce IMC and begin a substantial climb while procedures are being performed. These procedures are performed nearly simultaneously:
-
-- Attitude—level wings on the attitude indicator.- Heading—maintain heading; turn only to avoid known obstacles.- Power—adjust power as necessary for desired climb rate.- Airspeed—adjust airspeed as necessary. Complete the IMC recovery according to local and published regulations and policies.

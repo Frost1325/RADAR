@@ -1,7 +1,0 @@
-## Role of the FAA
-
-The Federal Aviation Administration (FAA) is empowered by the U.S. Congress to promote aviation safety by prescribing safety standards for civil aviation. Standards are established for the certification of airmen and aircraft, as well as outlining operating rules. This is accomplished through the Code of Federal Regulations (CFR), formerly referred to as Federal Aviation Regulations (FAR). Title 14 of the CFR (14 CFR) is titled Aeronautics and Space with Chapter 1 dedicated to the FAA. Subchapters are broken down by category with numbered parts detailing specific information. [Figure 1- 3] For ease of reference and since the parts are numerical, the abbreviated pattern 14 CFR part ___ is used (e.g., 14 CFR part 91).
-
-This guidance is not legally binding in its own right and will not be relied upon by the FAA as a separate basis for affirmative enforcement action or other administrative penalty. Conformity with the guidance is voluntary only and nonconformity will not affect rights and obligations under existing statutes and regulations.
-
-While the various subchapters and parts of 14 CFR provide general to specific guidance regarding aviation operations within the U.S., the topic of aircraft certification

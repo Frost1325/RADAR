@@ -1,3 +1,0 @@
-section of this chapter.
-
-Once the airplane has slowed sufficiently and has turned onto the taxiway and stopped, the pilot performs the after- landing checklist. Many accidents have occurred as a result of the pilot unintentionally operating the landing gear control and retracting the gear instead of the flap control when the airplane was still rolling. The habit of positively identifying both of these controls, before actuating them, should be formed from the very beginning of flight training and continued in all future flying activities. If available runway permits, the speed of the airplane is allowed to dissipate in a normal manner.

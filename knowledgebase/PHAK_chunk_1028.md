@@ -1,5 +1,0 @@
- accordance with the applicable sections of 14 CFR part 91 on checking, removing, and replacing magnetic chip detectors.
-
-Inspection and maintenance tasks prescribed and specifically identified as preventive maintenance in a primary category aircraft type certificate or STC holder's approved special inspection and preventive maintenance program when accomplished on a primary category aircraft.
-
-Updating self- contained, front instrument panel- mounted air traffic control (ATC) navigational software databases (excluding those of automatic flight control systems, transponders, and microwave frequency DME), only if no disassembly of the unit is required and pertinent instructions are provided; prior to the unit's intended use, an operational check must be performed in accordance with applicable sections of 14 CFR part 91.

@@ -1,7 +1,0 @@
-than one meter in both the horizontal and vertical axis. [Figure 4- 13]
-
-The GBAS augments the GPS to improve aircraft safety during airport approaches and landings. It is expected that the end state configuration will pinpoint the aircraft's position to within one meter or less with a significant improvement in service flexibility and user operating costs.
-
-GBAS is comprised of ground equipment and avionics. The ground equipment includes four reference receivers, a GBAS ground facility, and a VHF data broadcast transmitter. This ground equipment is complemented by GBAS avionics installed on the aircraft. Signals from GPS satellites are received by the GBAS GPS reference receivers (four receivers for each GBAS) at the GBAS equipped airport. The reference receivers calculate their position using GPS. The GPS reference receivers and GBAS ground facility work together to measure errors in GPS provided position.
-
-The GBAS ground facility produces a GBAS correction message based on the difference between actual and GPS calculated position. Included in this message is suitable integrity parameters and approach path information. This GBAS correction message is then sent to a VHF data broadcast (VDB) transmitter. The VDB broadcasts the GBAS signal throughout the GBAS coverage area to avionics in GBAS equipped

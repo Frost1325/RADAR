@@ -1,7 +1,0 @@
- uncommon.
-
-The operational requirements of a large jet transport aircraft necessitate large pitch trim changes. Some requirements are:
-
-A large CG range A large speed range The ability to perform large trim changes due to wing leading edge and trailing edge high- lift devices without limiting the amount of elevator remaining Maintaining trim drag to a minimum
-
-These requirements are met by the use of a variable incidence horizontal stabilizer. Large trim changes on a fixed- tail aircraft require large elevator deflections. At these large deflections, little further elevator movement remains in the same direction. A variable incidence horizontal stabilizer is designed to take out the trim changes. The stabilizer is larger than the elevator, and consequently does not need to be moved through as large an angle. This leaves the elevator streamlining the tail plane with a full range of movement up and down. The variable incidence horizontal stabilizer can be set to handle the bulk of the pitch control demand, with the elevator handling the rest. On aircraft equipped with a variable incidence horizontal stabilizer, the elevator is smaller and less effective in isolation than it is on a fixed- tail aircraft. In comparison to other flight controls, the variable incidence horizontal stabilizer is enormously powerful in its effect.

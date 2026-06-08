@@ -1,3 +1,0 @@
-distribution errors.
-
-<table><tr><td rowspan="2"></td><td colspan="3">Airspeed</td></tr><tr><td>Slower</td><td>Desired Airspeed</td><td>Faster</td></tr><tr><td>Higher</td><td>(1) <br>Total Energy: OK <br>Potential energy: high <br>Kinetic Energy: low</td><td>(4) <br>Total Energy: high <br>Potential energy: high <br>Kinetic Energy: OK</td><td>(7) <br>Total Energy: very high <br>Potential energy: high <br>Kinetic Energy: high</td></tr><tr><td>Desired Altitude</td><td>(2) <br>Total Energy: low <br>Potential energy: OK <br>Kinetic Energy: low</td><td>(5) Desired Energy State <br>Total Energy: OK <br>Potential energy: OK <br>Kinetic Energy: OK</td><td>(8) <br>Total Energy: high <br>Potential energy: OK <br>Kinetic Energy: high</td></tr><

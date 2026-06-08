@@ -1,5 +1,0 @@
-CFR Section 91.167(b). For example, there are 3 high altitude airports in the U.S. with approved instrument approach procedures where all of the MDAs are greater than 2,000 feet and/or the landing visibility minimums are greater than 3 miles (Bishop, California; South Lake Tahoe, California; and Aspen- Pitkin Co./Sardy Field, Colorado). In the case of these airports, it is possible for a pilot to elect, on the basis of forecasts, not to carry sufficient fuel to get to an alternate when the ceiling and/or visibility is actually lower than that necessary to complete the approach.
-
-2. A small number of other airports in mountainous terrain have MDAs which are slightly (100 to 300 feet) below 2,000 feet AGL. In situations where there is an option as to whether to plan for an alternate, pilots should bear in mind that just a slight worsening of the weather conditions from those forecast could place the airport below the published IFR landing minimums.
-
-3. An IFR flight to an airport which requires special equipment; i.e., DME, glide slope, etc., in order to make the available approaches to the

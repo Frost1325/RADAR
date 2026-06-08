@@ -1,5 +1,0 @@
-. An aircraft loaded too far rearward may not do this. Instead, when the nose is momentarily pulled up, it may alternately climb and dive becoming steeper with each oscillation. This instability is not only uncomfortable to occupants, but it could even become dangerous by making the aircraft unmanageable under certain conditions.
-
-The recovery from a stall in any aircraft becomes progressively more difficult as its CG moves aft. This is particularly important in spin recovery, as there is a point in rearward loading of any aircraft at which a "flat" spin develops. A flat spin is one in which centrifugal force, acting through a CG located well to the rear, pulls the tail of the aircraft out away from the axis of the spin, making it impossible to get the nose down and recover.
-
-An aircraft loaded to the rear limit of its permissible CG range handles differently in turns and stall maneuvers and has different landing characteristics than when it is loaded near the forward limit.

@@ -1,5 +1,0 @@
-. The heated windscreen should only be used during flight. Do not leave it on during ground operations, as it can overheat and cause damage to the windscreen. Warning: the electrical current can cause compass deviation errors by as much as \(40^{\circ}\) .
-
-## Propeller Anti-ice
-
-Propellers are protected from icing by the use of alcohol or electrically heated elements. Some propellers are equipped with a discharge nozzle that is pointed toward the root of the blade. Alcohol is discharged from the nozzles, and centrifugal force drives the alcohol down the leading edge of the blade. The boots are also grooved to help direct the flow of alcohol. This prevents ice from forming on the leading edge of the propeller. Propellers can also be fitted with propeller anti- ice boots. The propeller boot is divided into two sections—the

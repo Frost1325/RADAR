@@ -1,7 +1,0 @@
-## 4. Priority for Controller Application of Merging Target Procedures
-
-(a) Explanation of Merging Target Procedures. As described in subparagraph c3 below, ATC will use "merging target procedures" to mitigate the effects of both severe turbulence and MWA. The procedures in subparagraph c3 have been adapted from existing procedures published in FAA Order JO 7110.65, Air Traffic Control, Paragraph 5-1-8, Merging Target Procedures. Paragraph 5-1-8 calls for en route controllers to advise pilots of potential traffic that they perceive may fly directly above or below his/her aircraft at minimum vertical separation. In response, pilots are given the option of requesting a radar vector to ensure their radar target will not merge or overlap with the traffic's radar target.
-
-(b) The provision of "merging target procedures" to mitigate the effects of severe turbulence and/or MWA is not optional for the controller, but rather is a priority responsibility. Pilot requests for vectors for traffic avoidance when encountering MWA or pilot reports of "Unable RVSM due turbulence or MWA" are considered first priority aircraft separation and sequencing responsibilities.
-
-(FAA Order JO 7110.65, Paragraph 2- 1-

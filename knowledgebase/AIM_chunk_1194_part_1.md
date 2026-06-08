@@ -1,5 +1,0 @@
-## NOTE-
-
-There are two types of automated stations, AO1 for automated weather reporting stations without a precipitation discriminator, and AO2 for automated stations with a precipitation discriminator. (A precipitation discriminator can determine the difference between liquid and frozen/freezing precipitation). This information appears in the remarks section of an automated report.
-
-5. Wind. The wind is reported as a five digit group (six digits if speed is over 99 knots). The first three digits are the direction the wind is blowing from, in tens of degrees referenced to true north, or "VRB" if the direction is variable. The next two digits is the wind speed in knots, or if over 99 knots, the next three digits. If the wind is gusty, it is reported as a "G" after the speed followed by the highest gust reported. The abbreviation "KT" is appended to denote the use of knots for wind speed.

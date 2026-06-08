@@ -1,1 +1,0 @@
-2, 3-5, 3-17, 3-23, 3-24, 5-10, 5-21, 10-2, 10-3, 10-4, 13-32,<br>16-12, 16-24, 18-9, 18-11, 18-18</td></tr><tr><td>Plain (hinge) flap</td><td>12-3</td></tr><tr><td>Porpoising</td><td>9-34, 9-35, 18-13</td></tr><tr><td>Post-flight</td><td>2-23, 17-15</td></tr><tr><td>Securing and servicing</td><td>2-23</td></tr><tr><td>Potential energy</td><td>4-1, 4-10, 4-18, 4-19, 16-18, 16-1

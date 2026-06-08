@@ -1,5 +1,0 @@
-## 7-3-5. Operations Problem Areas
-
-a. A wake encounter can be catastrophic. In 1972 at Fort Worth a DC-9 got too close to a DC-10 (two miles back), rolled, caught a wingtip, and cartwheeled coming to rest in an inverted position on the runway. All aboard were killed. Serious and even fatal GA accidents induced by wake vortices are not uncommon. However, a wake encounter is not necessarily hazardous. It can be one or more jolts with varying severity depending upon the direction of the encounter, weight of the generating aircraft, size of the encountering aircraft, distance from the generating aircraft, and point of vortex encounter. The probability of induced roll increases when the encountering aircraft's heading is generally aligned with the flight path of the generating aircraft.
-
-b. AVOID THE AREA BELOW AND BEHIND THE GENERATING AIRCRAFT, ESPECIALLY AT LOW ALTITUDE WHERE EVEN A MOMENTARY WAKE ENCOUNTER COULD BE HAZARDOUS. This is not easy to do. Some accidents have occurred even though the pilot of the trailing aircraft had carefully noted that the aircraft in front was at a considerably lower altitude. Unfortunately, this does not

@@ -1,7 +1,0 @@
-## Preflight
-
-Because of their complexity, retractable landing gear demands a close inspection prior to every flight. The inspection should begin inside the flight deck. First, make certain that the landing gear selector switch is in the GEAR DOWN position. Then, turn on the battery master switch and ensure that the landing gear position indicators show that the gear is down and locked.
-
-External inspection of the landing gear consists of checking individual system components. [Figure 12- 14] The landing gear, wheel well, and adjacent areas should be clean and free of mud and debris. Dirty switches and valves may cause false safe light indications or interrupt the extension cycle before the landing gear is completely down and locked. The wheel wells should be clear of any obstructions, as foreign objects may damage the gear or interfere with its operation. Bent gear doors may be an indication of possible problems with normal gear operation.
-
-Ensure shock struts are properly inflated and that the pistons are clean. Check main gear and nose gear uplock and downlock mechanisms for general condition. Power sources and retracting mechanisms are checked for general condition, obvious defects, and security of attachment. Check hydraulic lines for signs of chafing and leakage at attach points. Warning system micro switches (squat

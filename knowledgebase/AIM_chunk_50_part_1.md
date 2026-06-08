@@ -1,7 +1,0 @@
-## NOTE
-
-An aircraft approved for multi- sensor navigation and equipped with a single navigation system must maintain an ability to navigate or proceed safely in the event that any one component of the navigation system fails, including the flight management system (FMS). Retaining a FMS- independent VOR capability would satisfy this requirement.
-
-[c] The requirements for a second system apply to the entire set of equipment needed to achieve the navigation capability, not just the individual components of the system such as the radio navigation receiver. For example, to use two RNAV systems (e.g., GPS and DME/DME/IRU) to comply with the requirements, the aircraft must be equipped with two independent radio navigation receivers and two independent navigation computers (e.g., flight management systems (FMS)). Alternatively, to comply with the requirements using a single RNAV system with an installed and operable VOR capability, the VOR capability must be independent of the FMS.
-
-[d] To satisfy the requirement for two independent navigation systems, if the primary navigation system is GPS- based, the second system must be independent of GPS (for example, VOR or DME/DME/IRU). This allows continued navigation in case of failure of the GPS or WAAS services. Recogn

@@ -1,3 +1,0 @@
-tr><tr><td>MOCA</td><td>Minimum Obstruction Clearance Altitude</td></tr><tr><td>MSG</td><td>Message</td></tr><tr><td>MSL</td><td>Mean Sea Level</td></tr><tr><td>MU</td><td>Designate a Friction Value Representing Runway Surface Conditions</td></tr><tr><td></td><td>N</td></tr><tr><td>N</td><td>North</td></tr><tr><td>NDB</td><td>Nondirectional Radio Beacon</td></tr><tr><td>NE</td><td>Northeast</td></tr><tr><td>NM</td><td>Nautical Mile/s</td></tr></table>
-
-<table><tr><td>NTAP</td><td>Notice To Airmen Publication</td></tr><tr><td>NW</td><td>Northwest</td></tr><tr><td></td><td>O</td></tr><tr><td>OBSC</td><td>Obscured</td></tr><tr><td>OM</td><td>Outer

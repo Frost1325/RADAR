@@ -1,7 +1,0 @@
-## Emergencies
-
-An emergency can be either a distress or urgency condition as defined in the pilot/controller glossary. Distress is defined as a condition of being threatened by serious and/or imminent danger and requiring immediate assistance. Urgency is defined as a condition of being concerned about safety and requiring timely but not immediate assistance; a potential distress condition.
-
-Pilots do not hesitate to declare an emergency when faced with distress conditions, such as fire, mechanical failure, or structural damage. However, some are reluctant to report an urgency condition when encountering situations that may not be immediately perilous but are potentially catastrophic. An aircraft is in an urgency condition the moment that the pilot becomes doubtful about position, fuel endurance, weather, or any other condition that could adversely affect flight safety. The time for a pilot to request assistance is when an urgent situation may, or has just occurred, not after it has developed into a distress situation.
-
-The pilot in command (PIC) is responsible for crew, passengers, and operation of the aircraft at all times. Title 14 of the Code of Federal Regulations (14 CFR) part 91, § 91.3 allows deviations from regulations during emergencies that allow the PIC to make the best decision to ensure safety of all

@@ -1,5 +1,0 @@
-base leg is positioned as needed for the altitude or wind condition. Position the base leg to conserve or dissipate altitude so as to reach the desired landing spot.
-
-The turn onto the base leg is made at an altitude high enough and close enough to permit the airplane to glide to what would normally be the base key position in a \(90^{\circ}\) power- off approach. Initial flaps may be extended prior to the base key position if needed.
-
-Although the base key position is important, it should not be overemphasized nor considered as a fixed point on the ground. Many inexperienced pilots may gain a conception of it as a particular landmark, such as a tree, crossroad, or other visual reference, to be reached at a certain altitude. This misconception leaves the pilot at a total loss any time such objects are not present. Both altitude and geographical location should be varied as much as is practical to eliminate any such misconceptions. After reaching the base key position, the approach and landing are the same as in the \(90^{\circ}\) power- off approach.

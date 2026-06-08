@@ -1,2 +1,0 @@
-Hypoxic hypoxiaHypoxic hypoxiaHypoxic hypoxiaHypoxic hypoxiaHypoxic hypoxiaHypoxic hypoxia
-Hypoxia Hypoxic hypoxiaHypoxic hypoxiaHypoxic hypoxiaHypoxic hypoxiaHypoxic hypoxiaHypoxic oxygenation

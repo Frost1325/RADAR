@@ -1,7 +1,0 @@
-## Airports Without A Control Tower
-
-From a communications standpoint, executing an instrument approach to an airport that is not served by an ATC tower requires more attention and care than making a visual approach to that airport. Pilots are expected to self- announce their arrival into the vicinity of the airport no later than 10 NM from the field. Depending on the weather, as well as the amount and type of conflicting traffic that exists in the area, an approach to an airport without an operating ATC tower increases the difficulty of the transition to visual flight.
-
-In many cases, a flight arriving via an instrument approach needs to mix in with VFR traffic operating in the vicinity of the field. For this reason, many companies require that flight crews make contact with the arrival airport CTAF or company operations personnel via a secondary radio over 25 NM from the field in order to receive traffic advisories. In addition, pilots should attempt to listen to the CTAF well in advance of their arrival in order to determine the VFR traffic situation.
-
-Since separation cannot be provided by ATC between IFR and VFR traffic when operating in areas where there is no radar coverage, pilots are expected to make radio announcements on the CTAF. These announcements allow other aircraft operating in

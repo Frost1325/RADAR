@@ -1,3 +1,0 @@
-## NOTE-
-
-NOTE- FAA analysis of accidents and incidents involving aircraft holding in position indicate that two minutes or more elapsed between the time the instruction was issued to line up and wait and the resulting event (for example, land- over or go- around). Pilots should consider the length of time that they have been holding in position whenever they HAVE NOT been advised of any expected delay to determine when it is appropriate to query the controller.

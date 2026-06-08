@@ -1,3 +1,0 @@
-Air Traffic Facilities, 4- 1- 1 Pilot Weather Reports, 7- 1- 43 Piracy, Air, Emergency, 6- 3- 6 PIREPs. See Pilot Weather Reports Pointer NOTAMs, 5- 1- 3
-
-Position Reporting, 5- 3- 3 Pre- departure Clearance Procedures, 5- 2- 1 Precipitation Static, 7- 5- 9 Precision Approach, 5- 4- 34 Precision Approach Path Indicator, 2- 1- 4 Precision Approach Radar, 4- 5- 7 Precision Approach Systems, 1- 1- 33 Preflight, Preparation, 5- 1- 1 Priority, Landing, 5- 4- 62 Procedure Turn, 5- 4- 28 Limitations, 5- 4- 31 Procedures Arrival, 5- 4- 1 En Route, 5- 3- 1 Instrument Approach, 5- 4- 26 Interception, 5- 6- 2 Prohibited Areas, 3- 4

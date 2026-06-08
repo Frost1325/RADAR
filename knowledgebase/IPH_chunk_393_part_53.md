@@ -1,3 +1,0 @@
-FR routes, visual reporting points or points for transitioning and/or circumnavigating controlled and/or special use airspace, that is defined relative to a VORTAC station or in terms of latitude/longitude coordinates.
-
-Wide Area Augmentation System (WAAS). A method of navigation based on GPS. Ground correction stations transmit position corrections that enhance system accuracy and add vertical navigation (VNAV) features.

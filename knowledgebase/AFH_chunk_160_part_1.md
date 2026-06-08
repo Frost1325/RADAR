@@ -1,3 +1,0 @@
-## Developed Phase
-
-The developed phase occurs when the airplane's angular rotation rate, airspeed, and vertical speed are stabilized in a flightpath that is nearly vertical. In the developed phase, aerodynamic forces and inertial forces are in balance, and the airplane's attitude, angles, and self- sustaining motions about the vertical axis are constant or repetitive, or nearly so. The spin is in equilibrium. It is important to note that some training airplanes will not enter into the developed phase but could transition unexpectedly from the incipient phase into a spiral dive. In a spiral dive the airplane will not be in equilibrium but instead will be accelerating and G load can rapidly increase as a result.

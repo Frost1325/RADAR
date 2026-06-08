@@ -1,5 +1,0 @@
- flight diversion around hazardous weather. Before any cross- country flight, check the charts for airports or suitable landing areas along or near the route of flight. Also, check for navigational aids that can be used during a diversion. Risk management is explained in greater detail in Chapter 2, Aeronautical Decision- making.
-
-Computing course, time, speed, and distance information in flight requires the same computations used during preflight planning. However, because of the limited flight deck space and because attention must be divided between flying the aircraft, making calculations, and scanning for other aircraft, take advantage of all possible shortcuts and rule- of- thumb computations.
-
-When in flight, it is rarely practical to actually plot a course on a sectional chart and mark checkpoints and distances. Furthermore, because an alternate airport is usually not very far from your original course, actual plotting is seldom necessary.

@@ -1,3 +1,0 @@
-to the required attitudes and ground references.
-
-The pilot should be introduced by their instructor to ground reference maneuvers as soon as the pilot shows proficiency in the four fundamentals. Ground reference maneuvers call for manipulation of the flight controls using necessary control pressures to affect the airplane's attitude and position by using the outside natural horizon and ground- based references with brief periods of scanning the flight instruments.

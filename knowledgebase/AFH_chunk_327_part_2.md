@@ -1,7 +1,0 @@
-, adding to the overall engine operating temperatures. Turbocharged engines are also operated at higher power settings a greater portion of the time.
-
-High heat is detrimental to piston engine operation. Its cumulative effects can lead to piston, ring, and cylinder head failure and place thermal stress on other operating components. Excessive cylinder head temperature can lead to detonation, which in turn can cause catastrophic engine failure. Turbocharged engines are especially heat sensitive. The key to turbocharger operation is effective heat management.
-
-Monitor the condition of a turbocharged engine with manifold pressure gauge, tachometer, exhaust gas temperature/turbine inlet temperature gauge, and cylinder head temperature gauge. Manage the "heat system" with the throttle, propeller rpm, mixture, and cowl flaps. At any given cruise power, the mixture is the most influential control over the exhaust gas/TIT. The throttle regulates total fuel flow, but the mixture governs the fuel- to- air ratio. The mixture, therefore, controls temperature.
-
-Exceeding temperature limits in an after- takeoff climb is usually not a problem since a full rich mixture cools with excess fuel. At cruise, power is normally reduced and mixture adjusted accordingly. Under cruise conditions, monitor temperature limits closely because that is when the temperatures

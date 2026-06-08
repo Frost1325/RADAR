@@ -1,7 +1,0 @@
-### 4-3-26. Operations at Uncontrolled Airports With Automated Surface Observing System (ASOS)/Automated Weather Sensor System(Awss)/Automated Weather Observing System (AWOS)
-
-a. Many airports throughout the National Airspace System are equipped with either ASOS, AWSS, or AWOS. At most airports with an operating control tower or human observer, the weather will be available to you in an Aviation Routine Weather Report (METAR) hourly or special observation format on the Automatic Terminal Information Service (ATIS) or directly transmitted from the controller/observer.
-
-b. At uncontrolled airports that are equipped with ASOS/Awss/Awos with ground-to-air broadcast capability, the one-minute updated airport weather should be available to you within approximately 25 NM of the airport below 10,000 feet. The frequency for the weather broadcast will be published on sectional charts and in the Airport/Facility Directory. Some part-time towered airports may also broadcast the automated weather on their ATIS frequency during the hours that the tower is closed.
-
-c. Controllers issue SVFR or IFR clearances based on pilot request, known traffic and reported weather, i.e., METAR/Nonroutine (

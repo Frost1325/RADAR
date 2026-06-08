@@ -1,5 +1,0 @@
- to rise, the needle valve closes the fuel opening and shuts off the fuel flow to the carburetor. The needle valve opens again when the engine requires additional fuel. The flow of the fuel- air mixture to the combustion chambers is regulated by the throttle valve, which is controlled by the throttle in the flight deck.
-
-The float- type carburetor has several distinct disadvantages. First, they do not function well during abrupt maneuvers. Secondly, the discharge of fuel at low pressure leads to incomplete vaporization and difficulty in discharging fuel into some types of supercharged systems. The chief disadvantage of the float- type carburetor, however, is its icing tendency. Since the float- type carburetor must discharge
-
-fuel at a point of low pressure, the discharge nozzle must be located at the venturi throat, and the throttle valve must be on the engine side of the discharge nozzle. This means that the drop in temperature due to fuel vaporization takes place within the venturi. As a result, ice readily forms in the venturi and on the throttle valve.

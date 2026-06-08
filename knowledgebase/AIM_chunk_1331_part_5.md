@@ -1,3 +1,0 @@
-. A three-color chart series which shows current aeronautical information useful to helicopter pilots navigating in areas with high concentrations of helicopter activity. Information depicted includes helicopter routes, four classes of heliports with associated frequency and lighting capabilities, NAVAIDs, and obstructions. In addition, pictorial symbols, roads, and easily identified geographical features are portrayed.
-
-Helicopter charts have a longer life span than other chart products and may be current for several years. Helicopter Route Charts are updated as requested by the FAA. Scale 1 inch = \(1.71\mathrm{nm} / 1:125,000.34 \mathrm{x} 30\) inches folded to \(5 \mathrm{x} 10\) inches. (See FIG 9-1-2. )

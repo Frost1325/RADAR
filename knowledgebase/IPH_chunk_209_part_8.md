@@ -1,3 +1,0 @@
-a 1,500 ft HAA will have CAT C CAR of 2.86 NM, a 1.16 NM (68.5%) increase over pre-Change 21 CAR for CAT C.This extra protected airspace can be used by the pilot to maneuver the aircraft instead of being forced to use high descent rates which are often necessary for high HAA circling approaches.
-
-Most commercial operators dictate standard procedures for conducting instrument approaches in their FAA-approved manuals. These standards designate company callouts,flight profiles, configurations, and other specific duties for each flight deck crewmember during the conduct of an instrument approach.

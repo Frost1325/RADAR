@@ -1,3 +1,0 @@
-## 7-1-16. Reporting of Cloud Heights
-
-a. Ceiling, by definition in the CFRs and as used in aviation weather reports and forecasts, is the height above ground (or water) level of the lowest layer of clouds or obscuring phenomenon that is reported as "broken," "overcast," or "obscuration," e.g., an aerodrome forecast (TAF) which reads "BKN030" refers to height above ground level. An area forecast which reads "BKN030" indicates that the height is above mean sea level.

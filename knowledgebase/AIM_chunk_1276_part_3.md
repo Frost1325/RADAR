@@ -1,7 +1,0 @@
-to the wing tips and tail of the airframe, and properly discharge to the airstream.
-
-d. Static dischargers work on the principal of creating a relatively easy path for discharging negative charges that develop on the aircraft by using a discharger with fine metal points, carbon coated rods, or carbon wicks rather than wait until a large charge is developed and discharged off the trailing edges of the aircraft that will interfere with avionics equipment. This process offers approximately 50 decibels (dB) static noise reduction which is adequate in most cases to be below the threshold of noise that would cause interference in avionics equipment.
-
-e. It is important to remember that precipitation static problems can only be corrected with the proper number of quality static dischargers, properly installed on a properly bonded aircraft. P-static is indeed a problem in the all weather operation of the aircraft, but there are effective ways to combat it. All possible methods of reducing the effects of P-static should be considered so as to provide the best possible performance in the flight environment.
-
-f. A wide variety of discharger designs is available on the commercial market. The inclusion of well-designed dischargers may be expected to improve airframe noise in P-static conditions by as much as

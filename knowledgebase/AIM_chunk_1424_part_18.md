@@ -1,3 +1,0 @@
-></tr><tr><td>INS</td><td>Inertial Navigation System</td></tr><tr><td>IOC</td><td>Initial Operational Capability</td></tr><tr><td>IR</td><td>IFR Military Training Route</td></tr><tr><td>IRU</td><td>Inertial Reference Unit</td></tr><tr><td>ITWS</td><td>Integrated Terminal Weather System</td></tr><tr><td>JFK</td><td>John F. Kennedy International Airport</td></tr><tr><td>kHz</td><td>Kilohertz</td></tr><tr><td>LAA</td><td>Local Airport Advisory</td></tr><tr><td>LAAS</td><td>Local Area Augmentation System</td></tr><tr><td>LAHSO</td><td>Land and Hold Short Operations</td></tr><tr><td>LAWRS</td><td>Limited Aviation Weather Reporting<br>Station</td></tr><tr><td>LDA</td><td>Localizer Type Directional Aid</td></tr></table>
-
-<table><tr><td>Abbrev

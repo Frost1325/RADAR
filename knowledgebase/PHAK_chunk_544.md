@@ -1,5 +1,0 @@
- aerodynamics would predict minimum usable turn radius or maneuverability to occur at this condition. The maneuver speed is a valuable reference point, since an aircraft operating below this point cannot produce a damaging positive flight load. Any combination of maneuver and gust cannot create damage due to excess airload when the aircraft is below the maneuver speed.
-
-The other point of importance on the Vg diagram is the intersection of the negative limit load factor and line of maximum negative lift capability. Any airspeed greater than this provides a negative lift capability sufficient to damage the aircraft; any airspeed less than this does not provide negative lift capability sufficient to damage the aircraft from excessive flight loads.
-
-The limit airspeed (or redline speed) is a design reference point for the aircraft—this aircraft is limited to \(225\mathrm{mph}\) . If flight is attempted beyond the limit airspeed, structural damage or structural failure may result from a variety of phenomena.

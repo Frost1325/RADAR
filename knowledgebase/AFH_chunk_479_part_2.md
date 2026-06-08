@@ -1,3 +1,0 @@
-light- sport airplane (sport airplanes are single- engine) without supervision from an authorized instructor.
-
-Pilots holding higher level certificates with the appropriate category and class ratings may fly LSAs as long as the pilot holds a valid U.S. driver's license as evidence of medical eligibility. However, if the pilot's most recent medical certificate was denied, revoked, suspended, or withdrawn, a U.S. driver's license is not sufficient. The pilot would then need to hold a valid FAA medical certificate to fly an LSA.

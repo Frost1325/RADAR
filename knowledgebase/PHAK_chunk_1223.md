@@ -1,6 +1,0 @@
-
-Figure 11-32. Landing distance table.
-
-a combined landing distance graph and allows compensation for temperature, weight, headwinds, tailwinds, and varying obstacle height. Begin by finding the correct OAT on the scale on the left side of the chart. Move up in a straight line to the correct pressure altitude of 4,000 feet. From this intersection, move straight across to the first dark reference line. Follow the lines in the same diagonal fashion until the correct landing weight is reached. At 2,400 pounds, continue in a straight line across to the second dark reference line. Once again, draw a line in a diagonal manner to the correct wind component and then straight across to the third dark reference line. From this point, draw a line in two separate directions: one straight across to figure the ground roll and one in a diagonal manner to the correct obstacle height. This should be 975 feet for the total ground roll and 1,500 feet for the total distance over a 50 foot obstacle.
-
-## Stall Speed Performance Charts

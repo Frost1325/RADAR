@@ -1,1 +1,0 @@
-, and the type of equipment installed at a particular airport, these operators can depart from appropriately equipped runways with as little as 300 feet RVR. Additionally, OpSpecs outline provisions for approach minimums, alternate airports, and weather services in Volume 3 of FAA Order 8900.1, Flight Standards Information Management System (FSIMS).

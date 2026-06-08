@@ -1,7 +1,0 @@
-## 5-4-27. Overhead Approach Maneuver
-
-a. Pilots operating in accordance with an IFR flight plan in Visual Meteorological Conditions (VMC) may request ATC authorization for an overhead maneuver. An overhead maneuver is not an instrument approach procedure. Overhead maneuver patterns are developed at airports where aircraft have an operational need to conduct the maneuver. An aircraft conducting an overhead maneuver is considered to be VFR and the IFR flight plan is cancelled when the aircraft reaches the initial point on the initial approach portion of the maneuver. (See FIG 5-4-31.) The existence of a standard overhead maneuver pattern does not eliminate the possible requirement for an aircraft to conform to conventional rectangular patterns if an overhead maneuver cannot be approved. Aircraft operating to an airport without a functioning control tower must initiate cancellation of an IFR flight plan prior to executing the overhead maneuver. Cancellation of the IFR flight plan must be accomplished after crossing the landing threshold on the initial portion of the maneuver or after landing. Controllers may authorize an overhead maneuver and issue the following to arriving aircraft:
-
-1. Pattern altitude and direction of traffic. This information may be omitted if either is standard.
-
-PHRASEOLOGY- PATTERN ALTITUDE (altitude).

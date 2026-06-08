@@ -1,5 +1,0 @@
-## Terminal Arrival Areas
-
-The Terminal Arrival Area (TAA) provides a transition from the en route structure to the terminal environment with little required pilot/air traffic control interface for aircraft equipped with Area Navigation (RNAV) systems. TAAs provide minimum altitudes with standard obstacle clearance when operating within the TAA boundaries. TAAs are primarily used on RNAV approaches but may be used on an ILS approach when RNAV is the sole means for navigation to the IF; however, they are not normally used in areas of heavy concentration of air traffic. [Figure 4- 36]
-
-The basic design of the RNAV procedure underlying the TAA is normally the "T" design (also called the "Basic T"). The "T" design incorporates two IAFs plus a dual purpose IF/IAF that functions as both an intermediate fix and an initial approach fix. The T configuration continues from the IF/IAF to the FAF and then to the MAP. The two base leg IAFs are typically aligned in a straight- line perpendicular to the intermediate course connecting at the IF/IAF. A Hold- in- Lieu- of Procedure Turn (HILO) is anchored at the IF/IAF and depicted on U.S

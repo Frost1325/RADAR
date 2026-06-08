@@ -1,7 +1,0 @@
-## Fuel Crossfeed
-
-Fuel crossfeed systems are also unique to multieingine airplanes. Using crossfeed, an engine can draw fuel from a fuel tank located in the opposite wing.
-
-On most multieingine airplanes, operation in the crossfeed mode is an emergency procedure used to extend airplane range and endurance in OEI flight. There are a few models that permit crossfeed as a normal, fuel balancing technique in normal operation, but these are not common. The AFM/POI describes crossfeed limitations and procedures that vary significantly among multieingine airplanes.
-
-Checking crossfeed operation on the ground with a quick repositioning of the fuel selectors does nothing more than ensure freedom of motion of the handle. To actually check crossfeed operation, a complete, functional crossfeed system check should be accomplished. To do this, each engine should be operated from its crossfeed position during the run- up. The engines should be checked individually and allowed to run at moderate power (1,500 rpm minimum) for at least 1 minute to ensure that fuel flow can be established from the crossfeed source. Upon completion of the check, each engine should be operated for at least 1 minute at moderate power from the main (takeoff) fuel

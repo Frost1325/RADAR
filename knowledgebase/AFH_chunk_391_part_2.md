@@ -1,5 +1,0 @@
-and therefore the turns, is of no consequence as far as airplane controllability and performance are concerned. It is perfectly acceptable to make turns toward the failed engine.
-
-On the base leg, if performance is adequate, the flaps may be extended to an intermediate setting (typically \(25^{\circ}\) ). If the performance is inadequate, as measured by decay in airspeed or high sink rate, delay further flap extension until closer to the runway. \(\mathrm{V}_{\mathrm{YSE}}\) is still the minimum airspeed to maintain.
-
-On final approach, a normal \(3^{\circ}\) glidepath to a landing is desirable. Visual approach slope indicator (VASI) or other vertical path lighting aids should be utilized if available. Slightly steeper approaches may be acceptable. However, a long, flat, low approach should be avoided. Large, sudden power applications or reductions should also be avoided. Maintain \(\mathrm{V}_{\mathrm{YSE}}\) until the landing is assured, then slow to 1.3 \(\mathrm{V}_{\mathrm{SO}}\) or the AFM/POH recommended speed. The final flap setting may be delayed until the landing is assured or the airplane may

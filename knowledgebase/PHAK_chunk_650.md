@@ -1,5 +1,0 @@
- the trim tab to its full up position. With the trim tab up and into the airstream, the airflow over the horizontal tail surface tends to force the trailing edge of the elevator down. This causes the tail of the aircraft to move up and the nose to move down. [Figure 6- 20]
-
-If the trim tab is set to the full nose- up position, the tab moves to its full down position. In this case, the air flowing under the horizontal tail surface hits the tab and forces the trailing edge of the elevator up, reducing the elevator's AOA. This causes the tail of the aircraft to move down and the nose to move up.
-
-In spite of the opposing directional movement of the trim tab and the elevator, control of trim is natural to a pilot. If the pilot needs to exert constant back pressure on a control column, the need for nose- up trim is indicated. The normal trim procedure is to continue trimming until the aircraft is balanced and the nose- heavy condition is no longer apparent. Pilots normally establish the desired power, pitch attitude, and configuration first, and then trim the aircraft to relieve

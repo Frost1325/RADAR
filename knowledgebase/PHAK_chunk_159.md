@@ -1,7 +1,0 @@
- from the bottom of the cowling. Although the quantity of oil seemed insignificant at the time, the pilot decided to delay the takeoff and have a mechanic check the source of the oil. The pilot's good judgment was confirmed when the mechanic found that one of the oil cooler hose fittings was loose.
-
-## External pressures
-
-The interaction between the pilot, airplane, and the environment is greatly influenced by the purpose of each flight operation. The pilot must evaluate the three previous areas to decide on the desirability of undertaking or continuing the flight as planned. It is worth asking why the flight is being made, how critical is it to maintain the schedule, and is the trip worth the risks?
-
-On a ferry flight to deliver an airplane from the factory, in marginal weather conditions, the pilot calculated the groundspeed and determined that the airplane would arrive at the destination with only 10 minutes of fuel remaining. The pilot was determined to keep on schedule by trying to "stretch" the fuel supply instead of landing to refuel. After landing with low fuel state, the pilot realized that this could have easily resulted in an emergency landing in deteriorating weather conditions. This was a chance that was not worth taking to keep the planned schedule.

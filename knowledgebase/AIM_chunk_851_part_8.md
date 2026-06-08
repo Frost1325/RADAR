@@ -1,7 +1,0 @@
-communications, RNAV databases, and aeronautical
-
-navigation products. The missed approach waypoint is assigned a pronounceable name when it is not located at the runway threshold.
-
-e. Minimum Vectoring Altitudes (MVAs) are established for use by ATC when radar ATC is exercised. MVA charts are prepared by air traffic facilities at locations where there are numerous different minimum IFR altitudes. Each MVA chart has sectors large enough to accommodate vectoring of aircraft within the sector at the MVA. Each sector boundary is at least 3 miles from the obstruction determining the MVA. To avoid a large sector with an excessively high MVA due to an isolated prominent obstruction, the obstruction may be enclosed in a buffer area whose boundaries are at least 3 miles from the obstruction. This is done to facilitate vectoring around the obstruction. (See FIG 5-4-10. )
-
-1. The minimum vectoring altitude in each sector provides 1,000 feet above the highest obstacle in nonmountainous areas and 2,000 feet above the highest obstacle in designated mountainous areas. Where lower MVAs are required in designated mountainous areas to achieve compatibility with terminal routes or to permit vectoring to an IAP

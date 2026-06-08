@@ -1,1 +1,0 @@
-adar) Environment.** Pilots must report over each point used in the flight plan to define the route of flight, even if the point is depicted on aeronautical charts as an “on request” (non-compulsory) reporting point. For aircraft providing automatic position reporting via an Automatic Dependent Surveillance-Contract (ADS-C) logon, pilots should discontinue voice position reports.

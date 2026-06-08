@@ -1,5 +1,0 @@
-## NOTE-
-
-The pilot may elect to use the procedure turn or hold-in-lieu-of-PT when it is not required by the procedure, but must first receive an amended clearance from ATC. If the pilot is uncertain whether the ATC clearance intends for a procedure turn to be conducted or to allow for a straight-in approach, the pilot must immediately request clarification from ATC (14 CFR Section 91.123).
-
-1. On U.S. Government charts, a barbed arrow indicates the maneuvering side of the outbound course on which the procedure turn is made. Headings are provided for course reversal using the 45 degree type procedure turn. However, the point at which the turn may be commenced and the type and rate of turn is left to the discretion of the pilot (limited by the charted remain within xx NM distance). Some of the options are the 45 degree procedure turn, the racetrack pattern, the teardrop procedure turn, or the 80 degree \(\leftrightarrow 260\) degree course reversal. Racetrack entries should be conducted on the maneuvering side where the majority of protected airspace resides. If an entry places the pilot on the non-maneuvering side of

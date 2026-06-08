@@ -1,3 +1,0 @@
-15-13, 15-15</td></tr><tr><td>Flight training</td><td>13-35, 13-36, 15-14, 15-15</td></tr></tr></table>
-
-<table><tr><td>Ground training</td><td>15-14</td></tr><tr><td>Training for night flight</td><td>11-7</td></tr><tr><td>Transition training</td><td>12-17, 12-18, 14-15, 15-13, 17-4, 17-7, 17-13, 17-15</td></tr><tr><td>Transition training considerations</td><td>17-4</td></tr><tr><td>Flight instructors</td><td>17-4</td></tr><tr><td>Flight school</td><td>17-4</td></tr><tr><td>Trim control</td><td>3-5, 3

@@ -1,7 +1,0 @@
-(d) FIS aviation weather products (for example, graphical ground-based radar precipitation depictions) are not appropriate for tactical (typical timeframe of less than 3 minutes) avoidance of severe weather such as negotiating a path through a weather hazard area. FIS supports strategic (typical timeframe of 20 minutes or more) weather decisionmaking such as route selection to avoid a weather hazard area in its entirety. The misuse of information beyond its applicability may place the pilot and aircraft in jeopardy. In addition, FIS should never be used in lieu of an individual preflight weather and flight planning briefing.
-
-(e) DLSP offer numerous MET and AI products with information that can be layered on top of each other. Pilots need to be aware that too much information can have a negative effect on their cognitive work load. Pilots need to manage the amount of information to a level that offers the most pertinent information to that specific flight without creating a cockpit distraction. Pilots may need to
-
-adjust the amount of information based on numerous factors including, but not limited to, the phase of flight, single pilot operation, autopilot availability, class of airspace, and the weather conditions encountered.
-
-(f) FIS NOTAM products, including Temporary Flight Restriction (TFR

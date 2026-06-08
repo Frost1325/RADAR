@@ -1,5 +1,0 @@
- level of safety, a "statement of
-
-demonstrated ability" (SODA) can be issued. This waiver, or SODA, is valid as long as the physical impairment does not worsen. Contact the local Flight Standards District Office (FSDO) for more information on this subject.
-
-The FAA medical standards, 14 CFR part 67, specify fifteen medical conditions that are considered disqualifying by "history or clinical diagnosis." Regardless of when one of these conditions was diagnosed and treated, an airman may not be issued a medical certificate except through a process called a "Special Issuance Authorization," as explained in 14 CFR part 67, section 67.401. A special issuance is a discretionary issuance by the FAA Federal Air Surgeon and requires satisfactory completion of special testing determined by the FAA to demonstrate that an airman is safe to fly for the duration of the medical certificate issued. The specific disqualifying conditions include:

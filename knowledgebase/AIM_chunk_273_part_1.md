@@ -1,7 +1,0 @@
-## NOTE-
-
-Radar ATC facilities normally display and monitor both primary and secondary radar when it is available, except that secondary radar may be used as the sole display source in Class A airspace, and under some circumstances outside of Class A airspace (beyond primary coverage and in en route areas where only secondary is available). Secondary radar may also be used outside Class A airspace as the sole display source when the primary radar is temporarily unusable or out of service. Pilots in contact with the affected ATC facility are normally advised when a temporary outage occurs; i.e., "primary radar out of
-
-service; traffic advisories available on transponder aircraft only." This means simply that only the aircraft which have transponders installed and in use will be depicted on ATC radar indicators when the primary radar is temporarily out of service.
-
-2. When receiving VFR radar advisory service, pilots should monitor the assigned frequency at all times. This is to preclude controllers' concern for radio failure or emergency assistance to aircraft under the controller's jurisdiction. VFR radar advisory service does not include vectors away from conflicting traffic unless requested by the pilot. When advisory service is no longer desired, advise the controller before changing frequencies and then change your transponder code to 1200

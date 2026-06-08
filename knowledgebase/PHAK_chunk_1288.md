@@ -1,5 +1,0 @@
- provide a means for the moisture to change from one state to another.
-
-Cloud type is determined by its height, shape, and characteristics. They are classified according to the height of their bases as low, middle, or high clouds, as well as clouds with vertical development. [Figure 12- 22]
-
-Low clouds are those that form near the Earth's surface and extend up to about 6,500 feet AGL. They are made primarily of water droplets but can include supercooled water droplets that induce hazardous aircraft icing. Typical low clouds are stratus, stratocumulus, and nimbostratus. Fog is also classified as a type of low cloud formation. Clouds in this family create low ceilings, hamper visibility, and can change rapidly. Because of this, they influence flight planning and can make visual flight rules (VFR) flight impossible.

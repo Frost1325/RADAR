@@ -1,5 +1,0 @@
- a fan (turbofan) Turbojet (pure jet)
-
-By plotting the performance curve for each engine, a comparison can be made of maximum aircraft speed variation with the type of engine used. Since the graph is only a means of comparison, numerical values for net thrust, aircraft speed, and drag are not included.
-
-Comparison of the four powerplants on the basis of net thrust makes certain performance capabilities evident. In the speed range shown to the left of line A, the reciprocating powerplant outperforms the other three types. The turboprop outperforms the turbofan in the range to the left of line C. The turbofan engine outperforms the turbojet in the range to the left of line F. The turbofan engine outperforms the reciprocating powerplant to the right of line B and the turboprop to the right of line C. The turbojet outperforms the reciprocating powerplant to the right of line D, the turboprop to the right of line E, and the turbofan to the right of line F.

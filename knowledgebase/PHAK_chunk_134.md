@@ -1,3 +1,0 @@
- that correct action can be taken. Recognition of hazardous thoughts is the first step toward neutralizing them. After recognizing a thought as hazardous, the pilot should label it as hazardous, then state the corresponding antidote. Antidotes should be memorized for each of the hazardous attitudes so they automatically come to mind when needed.
-
-Figure 2-4. The five hazardous attitudes identified through past and contemporary study.

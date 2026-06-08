@@ -1,3 +1,0 @@
-## 7-1-12. Weather Observing Programs
-
-a. Manual Observations. With only a few exceptions, these reports are from airport locations staffed by FAA or NWS personnel who manually observe, perform calculations, and enter these observations into the (WMSCR) communication system. The format and coding of these observations are contained in Paragraph 7-1-30, Key to Aviation Routine Weather Report (METAR) and Aerodrome Forecasts (TAF).

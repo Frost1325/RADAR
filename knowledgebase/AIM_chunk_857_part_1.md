@@ -1,3 +1,0 @@
-## 3. ILS or RNAV (GPS) charts.
-
-(a) Some RNAV (GPS) charts will also contain an ILS line of minima to make use of the ILS precision final in conjunction with the RNAV GPS capabilities for the portions of the procedure prior to the final approach segment and for the missed approach. Obstacle clearance for the portions of the procedure other than the final approach segment is still based on GPS criteria.

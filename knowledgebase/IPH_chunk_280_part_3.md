@@ -1,1 +1,0 @@
-infrastructures and lighting requirements for standard CAT II/III, and the Special Authorization approaches mitigate the lack of some lighting with the modern avionics found in many aircraft today. Similar to standard CAT II/III, an air carrier must be specifically authorized to conduct Special Authorization CAT II/II in OpSpecs Part C.

@@ -1,7 +1,0 @@
-## Engine Failure During Flight
-
-Engine failure will above the ground are handled differently than those occurring at lower speeds and altitudes. Cruise airspeed allows better airplane control and altitude, which may permit time for a possible diagnosis and remedy of the failure. Maintaining airplane control, however, is still paramount. Airplanes have been lost at altitude due to apparent fixation on the engine problem to the detriment of flying the airplane.
-
-Not all engine failures or malfunctions are catastrophic in nature (catastrophic meaning a major mechanical failure that damages the engine and precludes further engine operation). Many cases of power loss are related to fuel starvation, where restoration of power may be made with the selection of another tank. An orderly inventory of gauges and switches may reveal the problem. Carburetor heat or alternate air can be selected. The affected engine may run smoothly on just one magneto or at a lower power setting. Altering the mixture may help. If fuel vapor formation is suspected, fuel boost pump operation may be used to eliminate flow and pressure fluctuations.
-
-Although it is a natural desire among pilots to save an ailing engine with a precautionary shutdown, the engine should be left running if there is any doubt as to needing it for further safe flight. Catastrophic failure

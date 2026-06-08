@@ -1,7 +1,0 @@
-restrictions area under 14 CFR Section 91.137(a)(1).
-
-d. The FAA accepts recommendations for the establishment of a temporary flight restrictions area under 14 CFR Section 91.137(a)(1) from military major command headquarters, regional directors of the Office of Emergency Planning, Civil Defense State Directors, State Governors, or other similar
-
-authority. For the situations involving 14 CFR Section 91.137(a)(2), the FAA accepts recommendations from military commanders serving as regional, subregional, or Search and Rescue (SAR) coordinators; by military commanders directing or coordinating air operations associated with disaster relief; or by civil authorities directing or coordinating organized relief air operations (includes representatives of the Office of Emergency Planning, U.S. Forest Service, and State aeronautical agencies). Appropriate authorities for a temporary flight restrictions establishment under 14 CFR Section 91.137(a)(3) are any of those listed above or by State, county, or city government entities.
-
-e. The type of restrictions issued will be kept to a minimum by the FAA consistent with achievement of the necessary objective. Situations which warrant the extreme restrictions of 14 CFR Section

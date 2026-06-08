@@ -1,5 +1,0 @@
- line through the wing tips, again passing through the CG. The vertical, or yaw, axis passes through the aircraft vertically, intersecting the CG. All control movements cause the aircraft to move around one or more of these axes and allows for the control of the aircraft in flight. [Figure 3- 2]
-
-One of the most significant components of aircraft design is CG. It is the specific point where the mass or weight of an aircraft may be said to center; that is, a point around which, if the aircraft could be suspended or balanced, the aircraft would remain relatively level. The position of the CG of an aircraft determines the stability of the aircraft in flight. As the CG moves rearward (towards the tail), the aircraft becomes more and more dynamically unstable. In aircraft with fuel tanks situated in front of the CG, it is important that the CG is set with the fuel tank empty. Otherwise, as the fuel is used, the aircraft becomes unstable. [Figure 3- 3] The CG is computed during initial design and construction and is further affected by the installation of onboard equipment, aircraft loading, and other factors.
-
-## Major Components

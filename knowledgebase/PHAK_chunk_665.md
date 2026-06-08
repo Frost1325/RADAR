@@ -1,5 +1,0 @@
- comparatively small, lightweight crankcase. In addition, the compact cylinder arrangement reduces the engine's frontal area and allows a streamlined installation that minimizes aerodynamic drag.
-
-Depending on the engine manufacturer, all of these arrangements can be designed to utilize spark or compression ignition and operate on either a two- or four- stroke cycle.
-
-In a two- stroke engine, the conversion of chemical energy into mechanical energy occurs over a two- stroke operating cycle. The intake, compression, power, and exhaust processes occur in only two strokes of the piston rather than the more common four strokes. Because a two- stroke engine has a power stroke upon each revolution of the crankshaft, it typically has higher power- to- weight ratio than a comparable four- stroke engine. Due to the inherent inefficiency and disproportionate emissions of the earliest designs, use of the two- stroke engine has been limited in aviation.

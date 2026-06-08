@@ -1,5 +1,0 @@
-><td>(5) Desired Energy State <br>Total Energy: OK <br>Potential energy: OK <br>Kinetic Energy: OK</td><td>(8) <br>Total Energy: high <br>Potential energy: OK <br>Kinetic Energy: high</td></tr><tr><td>Lower</td><td>(3) <br>Total Energy: very low <br>Potential energy: low <br>Kinetic Energy: low</td><td>(6) <br>Total Energy: low <br>Potential energy: low <br>Kinetic Energy: OK</td><td>(9) <br>Total Energy: OK <br>Potential energy: low <br>Kinetic Energy: high</td></tr></table>
-
-Figure 4- 11. An energy state matrix that translates the main altitude- speed deviations into energy errors relative to the desired energy state (5).
-
-Monitoring the altimeter (or other flight path reference) and airspeed indicator allows the pilot to distinguish these two types of energy errors. In total energy errors, the airplane has too much energy (blue boxes) or too little energy (red boxes). The pilot will notice that altitude and speed

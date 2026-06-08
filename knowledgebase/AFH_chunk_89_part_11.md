@@ -1,5 +1,0 @@
-, adjusting pitch attitude and throttle setting as appropriate. Once short-term deviations are corrected, the airplane will need to be trimmed for long-term control to maintain the desired path-speed profile (5 in Figure 4-12).
-
-The above approach- to- landing scenario is just one example illustrating the risk of mismanaging altitude- speed deviations. Pilots need to be able to identify, assess, and mitigate altitude and/or airspeed deviations during any phase of flight, including traffic pattern operations, take- offs and climbs, cruise flight, descending flight, and any procedure or maneuver involving turns.
-
-Clearly, skills for promptly correcting path- speed deviations can enhance flight safety but the pilot should also be aware of the risk of unrecoverable depletion of the airplane's mechanical energy, especially as the airplane approaches the edges of its flight envelope where available excess power is zero.

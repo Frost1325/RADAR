@@ -1,3 +1,0 @@
-## Terminal Routes
-
-In cases where the IAF is part of the en route structure and feeder routes are not required, a transition or terminal route is still needed for aircraft to proceed from the IAF to the intermediate fix (IF). These routes are initial approach segments because they begin at the IAF. Like feeder routes, they are depicted with course, minimum altitude, and distance to the IF. Essentially, these routes accomplish the same thing as feeder routes but they originate at an IAF, whereas feeder routes terminate at an IAF. [Figure 4- 30 ]

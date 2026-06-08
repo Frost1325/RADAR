@@ -1,3 +1,0 @@
-## F
-
-<table><tr><td>False start</td><td>15-12</td></tr><tr><td>Faulty approaches and landings</td><td>9-30</td></tr><tr><td>Feathering</td><td>2-21, 9-25, 13-3, 13-5, 13-6, 13-7, 13-29, 13-30, 13-35, 13-36, 15-1, 15-5, 18-9</td></tr><tr><td>Flap effectiveness</td><td>12-3</td></tr><tr><td>Flap control malfunction/failure</td><td>18-10</td></tr><tr><td>Asymmetric (split) flap</td><td>18-11</td></tr><tr><td>Landing gear malfunction</td><td>18-12</td></tr><tr><td>Loss of elevator control</td><td>18

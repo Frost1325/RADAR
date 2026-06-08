@@ -1,7 +1,0 @@
-ignition is on. The switches that control the magnetos operate on the principle of short- circuiting the current to turn the ignition off. If the switch is faulty, it can be in the "off" position and still permit current to flow in the magneto primary circuit. This condition could allow the engine to start when the switch is off.
-
-Hand propping an aircraft is a hazardous procedure when done perfectly. Not mitigating the hazards associated with hand propping can lead to serious injury and a runaway airplane. A spinning propeller can be lethal should it strike someone. Persons not trained, not competent, or who do not understand how to mitigate the hazards associated with hand propping should never perform this procedure!
-
-Hand propping requires a team of two properly trained people. Both individuals should be familiar with the airplane and hand propping techniques. The first person is responsible for directing the procedure including pulling the propeller blades through. The second person sits in the airplane to ensure that the brakes are set and to exercise controls as directed by the person pulling the propeller. When hand propping occurs, a person unfamiliar with the controls should never occupy the pilot's seat.
-
-When hand propping is necessary, the ground surface near the propeller should be stable and free of

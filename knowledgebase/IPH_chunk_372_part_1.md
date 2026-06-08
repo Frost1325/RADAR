@@ -1,3 +1,0 @@
-## Pitot/Static System Failure
-
-A pitot or static system failure can also cause erratic and unreliable instrument indications. When a static system problem occurs, it affects the airspeed indicator, altimeter, and VSI. In the absence of an alternate static source in an unpressurized aircraft, the pilot could break the glass on the VSI because it is not required for instrument flight. Breaking the glass provides both the altimeter and airspeed indicator a source of static pressure, but pilots should be cautious because breaking the glass can cause additional instrument errors. Before considering, pilots should be familiar with their aircraft's specific procedures for static problems.

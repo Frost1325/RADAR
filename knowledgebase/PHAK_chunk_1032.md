@@ -1,7 +1,0 @@
- alterations, or maintenance can be performed; for delivering or exporting the aircraft; or for evacuating an aircraft from an area of impending danger. A special flight permit may be issued to allow the operation of an overweight aircraft for flight beyond its normal range over water or land areas where adequate landing facilities or fuel is not available.
-
-If a special flight permit is needed, assistance and the necessary forms may be obtained from the local FSDO or Designated Airworthiness Representative (DAR). [Figure 9- 10]
-
-## Airworthiness Directives (ADs)
-
-A primary safety function of the FAA is to require correction of unsafe conditions found in an aircraft, aircraft engine, propeller, or appliance when such conditions exist and are likely to exist or develop in other products of the same design. The unsafe condition may exist because of a design defect, maintenance, or other causes. Airworthiness Directives (ADs), under 14 CFR, part 39, define the authority and responsibility of the Administrator for requiring the necessary corrective action. ADs are used to notify aircraft owners and other interested persons of unsafe conditions and to specify the conditions under which the product may continue to be operated. ADs are divided into two categories:

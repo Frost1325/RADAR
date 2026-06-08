@@ -1,7 +1,0 @@
-## LNAV/VNAV Equipment
-
-Lateral navigation/vertical navigation (LNAV/VNAV) equipment is similar to an instrument landing system (ILS) in that it provides both lateral and vertical approach course guidance. Since precise vertical position information is beyond the current capabilities of the GPS, approaches with LNAV/VNAV minimums make use of certified barometric VNAV (baro- VNAV) systems for vertical guidance and/or the wide area augmentation system (WAAS) to improve GPS accuracy for this purpose.
-
-Note: WAAS makes use of a collection of ground stations that are used to detect and correct inaccuracies in the position information derived from the GPS. Using WAAS, the accuracy of vertical position information is increased to within three meters.
-
-To make use of WAAS; however, the aircraft must be equipped with an IFR- approved GPS receiver with WAAS signal reception that integrates WAAS error correction signals into its position determining processing. The WAAS enabled GPS receiver [Figure 3- 5] allows the pilot to load an RNAV approach and receive guidance along the lateral and vertical profile shown on the approach chart. [Figure 3- 6] It is very important to know what kind of equipment is installed in an aircraft, and what

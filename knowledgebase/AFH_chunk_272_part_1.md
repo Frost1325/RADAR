@@ -1,7 +1,0 @@
-## Hard Landing
-
-When the airplane contacts the ground during landings, its vertical speed is instantly reduced to zero. Unless provisions are made to slow this vertical speed and cushion the impact of touchdown, the force of contact with the ground could cause structural damage to the airplane.
-
-The purpose of pneumatic tires, shock absorbing landing gear, and other devices is to cushion the impact and to increase the time in which the airplane's vertical descent is stopped. The importance of this cushion may be understood from the computation that a 6- inch free fall on landing is roughly equal to a 340 fpm descent. Within a fraction of a second, the airplane gets slowed from this rate of vertical descent to zero without damage.
-
-During this time, the landing gear, together with some aid from the lift of the wings, supplies whatever force is needed to counteract the force of the airplane's inertia and weight. However, the lift decreases rapidly as the airplane's forward speed is decreased, and the force on the landing gear increases by the impact of touchdown. When the descent stops, the lift is practically zero, leaving the landing gear alone to carry both the airplane's weight and inertia force. The load imposed at the instant of touchdown may easily be three or four times the

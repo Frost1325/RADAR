@@ -1,7 +1,0 @@
- aircraft is pressurized and they are seated. Structural damage also has the potential to expose them to wind blasts and extremely cold temperatures.
-
-Rapid descent from altitude is necessary in order to minimize these problems. Automatic visual and aural warning systems are included in the equipment of all pressurized aircraft.
-
-## Oxygen Systems
-
-Crew and passengers use oxygen systems, in conjunction with pressurization systems, to prevent hypoxia. Regulations require, at a minimum, flight crews have and use supplemental oxygen after 30 minutes exposure to cabin pressure altitudes between 12,500 and 14,000 feet. Use of supplemental oxygen is required immediately upon exposure to cabin pressure altitudes above 14,000 feet. Every aircraft occupant, above 15,000 feet cabin pressure altitude, must have supplemental oxygen. However, based on a person's physical characteristics and condition, a person may feel the effects of oxygen deprivation at much lower altitudes. Some people flying above 10,000 feet during the day may experience disorientation due to the lack of adequate oxygen. At night, especially when fatigued, these effects may occur as low as 5,000 feet. Therefore, for optimum protection, pilots are encouraged to use supplemental oxygen above 10,000 feet cabin altitude during the day and above 5,000 feet at night.

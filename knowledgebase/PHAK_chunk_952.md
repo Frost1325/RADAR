@@ -1,5 +1,0 @@
-" gyros and require periodic adjustment. It is important to check the indications frequently (approximately every 15 minutes) and reset the heading indicator to align it with the magnetic compass when required. Adjust the heading indicator to the magnetic compass heading when the aircraft is straight and level at a constant speed to avoid compass errors.
-
-The bank and pitch limits of the heading indicator vary with the particular design and make of instrument. On some heading indicators found in light aircraft, the limits are approximately \(55^{\circ}\) of pitch and \(55^{\circ}\) of bank. When either of these attitude limits is exceeded, the instrument "tumbles"
-
-or "spills" and no longer gives the correct indication until reset. After spilling, it may be reset with the caging knob. Many of the modern instruments used are designed in such a manner so that they do not tumble.

@@ -1,7 +1,0 @@
-rotating. This procedure stops an engine- driven oil (or hydraulic) pump from continuing to pump the flammable fluid that is feeding the fire.
-
-Some light airplane emergency checklists direct the pilot to shut off the electrical master switch. However, the pilot should consider that unless the fire is electrical in nature, or a crash landing is imminent, deactivating the electrical system prevents the use of panel radios for transmitting distress messages and also causes air traffic control (ATC) to lose transponder returns.
-
-Pilots of powerless single- engine airplanes are left with no choice but to make a forced landing. Pilots of twin- engine airplanes may elect to continue the flight to the nearest airport. However, consideration should be given to the possibility that a wing could be seriously impaired and lead to structural failure. Even a brief but intense fire could cause dangerous structural damage. In some cases, the fire could continue to burn under the wing (or engine cowling in the case of a single- engine airplane) out of view of the pilot. Engine compartment fires that appear to have been extinguished have been known to rekindle with changes in airflow pattern and airspeed.
-
-The pilot should be familiar with the airplane's emergency descent procedures. The pilot should also bear in mind

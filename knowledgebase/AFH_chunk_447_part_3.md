@@ -1,7 +1,0 @@
-1.0 is termed the critical Mach number ( \(\mathrm{MC_R}\) ).
-
-There is no particular problem associated with the acceleration of the airflow up to the critical Mach number, the point where Mach 1.0 airflow begins. However, a shock wave is formed at the point where the airflow suddenly returns to subsonic flow. This shock wave becomes more severe and moves aft on the wing as airflow velocity increases. Eventually, flow separation occurs behind the well- developed shock wave. [Figure 16- 6]
-
-If airplane speed progresses sufficiently beyond \(\mathrm{M_{MO}}\) , the separation of air behind the shock wave may result in severe buffeting and possible loss of control or "upset." Because of the accompanying changes to the center of lift, the airplane may exhibit pitch change tendencies.
-
-With increased speed and the aft movement of the shock wave, the wing's center of pressure moves aft causing the start of a nose- down tendency or "tuck." Mach tuck develops gradually, and the condition should not be allowed to progress to where there is no longer enough elevator authority to prevent entry into a steep, sometimes unrecoverable, dive. An alert pilot should respond to excessive airspeed, buffeting, or

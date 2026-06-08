@@ -1,5 +1,0 @@
-atics vs. UPRT Flight Training Methods</td></tr><tr><td>ASPECT OF TRAINING</td><td>AEROBATICS</td><td>UPSET PREVENTION AND RECOVERY TRAINING</td></tr><tr><td>Primary Objective</td><td>Precision maneuvering capability</td><td>Safe, effective recovery from aircraft upsets</td></tr><tr><td>Secondary Outcome</td><td>Improved manual aircraft handling skills</td><td>Improved manual aircraft handling skills</td></tr><tr><td>Aerobatic Maneuvering</td><td>Primary mode of training</td><td>Supporting mode of training</td></tr><tr><td>Academics</td><td>Supporting role</td><td>Fundamental component</td></tr><tr><td>Training Resources Utilized</td><td>Aircraft (few exceptions)</td><td>Aircraft or a full-flight simulator</td></tr></table>
-
-Figure 5-2. Some differences between aerobatic training and upset prevention and recovery training.
-
-Comprehensive UPRT builds on three mutually supportive components: academics, airplane- based training and, typically at the

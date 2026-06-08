@@ -1,5 +1,0 @@
-}\) turn traces the lower portion of that loop at the end of the maneuver. The second \(90^{\circ}\) of the first \(180^{\circ}\) turn and the first \(90^{\circ}\) of the second \(180^{\circ}\) turn complete the other loop of the eight. The sensation of using the airplane to slowly draw this symbol gives the maneuver its name.
-
-To aid in the performance of the lazy eight's symmetrical climbing/descending turns, the pilot selects prominent reference points on the natural horizon. The reference points selected should be at \(45^{\circ}\) , \(90^{\circ}\) , and \(135^{\circ}\) from the direction in which the maneuver is started for each \(180^{\circ}\) turn. With the general concept of climbing and descending turns grasped, specifics of the lazy eight can then be discussed.
-
-Shown in Figure 10- 4A, from level flight a gradual climbing turn is begun in the direction of the \(45^{\circ}\) reference point. The climbing turn should be planned and controlled so that the maximum pitch- up attitude is reached at the \(

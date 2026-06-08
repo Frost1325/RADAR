@@ -1,5 +1,0 @@
-} = \mathrm{m}\times \mathrm{g}\times \mathrm{h} \qquad \mathrm{m} = \mathrm{object mass\] \[\mathrm{g} = \mathrm{gravity field strength\] \[\mathrm{h} = \mathrm{object height\]
-
-We sometimes use the terms "power" and "thrust" interchangeably when discussing climb performance. This erroneously implies the terms are synonymous. It is important to distinguish between these terms. Thrust is a force or pressure exerted on an object. Thrust is measured in pounds (lb) or newtons (N). Power, however, is a measurement of the rate of performing work or transferring energy (KE and PE). Power is typically measured in horsepower (hp) or kilowatts (kw). We can think of power as the motion (KE and PE) a force (thrust) creates when exerted on an object over a period of time.
-
-Positive climb performance occurs when an aircraft gains PE by increasing altitude. Two basic factors, or a combination of the two factors, contribute to positive climb performance in most aircraft:

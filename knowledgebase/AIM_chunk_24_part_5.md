@@ -1,3 +1,0 @@
-334.25</td></tr><tr><td>110.3</td><td>335.00</td></tr><tr><td>110.35</td><td>334.85</td></tr><tr><td>110.5</td><td>329.60</td></tr><tr><td>110.55</td><td>329.45</td></tr></table>
-
-<table><tr><td>Localizer MHz</td><td>Glide Slope</td></tr><tr><td>110.70</td><td>330.20</td></tr><tr><td>110.75</td><td>330.05</td></tr><tr><td>110.90</td><td>330.80</td></tr><tr><td>110.95</td><td>330.65</td></tr><tr><td>111.10</td><

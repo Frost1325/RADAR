@@ -1,3 +1,0 @@
-## Introduction
-
-The turbopopeller- powered airplane flies and handles just like any other airplane of comparable size and weight, since the aerodynamics are the same. The major differences between flying a turboprop and other non- turbine- powered airplanes are found in the handling of the airplane's powerplant and its associated systems, which are unique to gas turbine engines. The turbopopeller- powered airplane also has the advantage of being equipped with a constant speed, full feathering and reversing propeller—something normally not found on piston- powered airplanes.

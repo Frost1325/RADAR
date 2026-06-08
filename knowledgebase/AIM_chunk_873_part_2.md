@@ -1,7 +1,0 @@
-an IAF or an associated feeder route as described on the
-
-IAP chart unless an appropriate new or revised ATC clearance is received, or the IFR flight plan is canceled.
-
-f. Pilots planning flights to locations which are private airfields or which have instrument approach procedures based on private navigation aids should obtain approval from the owner. In addition, the pilot must be authorized by the FAA to fly special instrument approach procedures associated with private navigation aids (see paragraph 5-4-8). Owners of navigation aids that are not for public use may elect to turn off the signal for whatever reason they may have; e.g., maintenance, energy conservation, etc. Air traffic controllers are not required to question pilots to determine if they have permission to land at a private airfield or to use procedures based on privately owned navigation aids, and they may not know the status of the navigation aid. Controllers presume a pilot has obtained approval from the owner and the FAA for use of special instrument approach procedures and is aware of any details of the procedure if an IFR flight plan was filed to that airport.
-
-g. Pilots should not rely on radar to identify a fix unless the fix is indicated as "RADAR" on the IAP. Pilots may request radar identification

@@ -1,7 +1,0 @@
-inevitable due to airport non- availability, then crossfeed allows use of fuel that would otherwise be unavailable to the operating engine. It also permits the pilot to balance the fuel consumption to avoid an out- of- balance wing heaviness.
-
-The AFM/POH procedures for crossfeed vary widely. Thorough fuel system knowledge is essential if crossfeed is to be conducted. Fuel selector positions and fuel boost pump usage for crossfeed differ greatly among multieingine airplanes. Prior to landing, crossfeed should be terminated and the operating engine returned to its main tank fuel supply.
-
-If the airplane is above its single- engine absolute ceiling at the time of engine failure, it slowly loses altitude. The pilot should maintain \(\mathrm{V}_{\mathrm{YSE}}\) to minimize the rate of altitude loss. This "drift down" rate is greatest immediately following the failure and decreases as the single- engine ceiling is approached. Due to performance variations caused by engine and propeller wear, turbulence, and pilot technique, the airplane may not maintain altitude even at its published single- engine ceiling. Any further rate of sink, however, would likely be modest.
-
-An engine failure in a descent or other low power setting can be deceiving. The dramatic yaw and

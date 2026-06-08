@@ -1,7 +1,0 @@
--crossing runway. Note the larger aircraft's rotation point-if past the intersection-continue the approach-land prior to the intersection. If larger aircraft rotates prior to the intersection, avoid flight below the larger aircraft's flight path. Abandon the approach unless a landing is ensured well before reaching the intersection.
-
-6. Departing behind a larger aircraft. Note the larger aircraft's rotation point and rotate prior to the larger aircraft's rotation point. Continue climbing above the larger aircraft's climb path until turning clear of the larger aircraft's wake. Avoid subsequent headings which will cross below and behind a larger aircraft. Be alert for any critical takeoff situation which could lead to a vortex encounter.
-
-7. Intersection takeoffs- same runway. Be alert to adjacent larger aircraft operations, particularly upwind of your runway. If intersection takeoff clearance is received, avoid subsequent heading which will cross below a larger aircraft's path.
-
-8. Departing or landing after a larger aircraft executing a low approach, missed approach, or touch-and-go landing. Because vortices settle and move laterally near the ground, the vortex hazard may exist along the runway and in your flight path after a larger aircraft has executed a low approach, missed approach, or a touch-and-go landing, particular in light quarter

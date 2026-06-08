@@ -1,7 +1,0 @@
-## Securing and Servicing
-
-After engine shutdown and deplaning passengers, the pilot should accomplish a post- flight inspection. This includes a walk around to inspect the general condition of the aircraft. Inspect near and around the cowling for signs of oil or fuel streaks and around the oil breather for excessive oil discharge. Inspect under wings and other fuel tank locations for fuel stains. Inspect landing gear and tires for damage and brakes for any leaking hydraulic fluid. Inspect cowling inlets for obstructions.
-
-Oil levels should be checked and quantities brought to AFM/POH levels. Fuel should be added based on the immediate use of the airplane. If the airplane is going to be inactive, it is a good operating practice to fill the fuel tanks to prevent water condensation from forming inside the tank. If another flight is planned, the fuel tanks should be filled based on the flight planning requirements for that flight.
-
-The aircraft should be hangerd or tied down, flight controls secured, and security locks in place. The type of tie downs may vary significantly from chains to well- worn ropes. Chains are not flexible and as such should not be made taut so as to allow the airplane some movement and prevent airframe structural damage. Tie

@@ -1,5 +1,0 @@
-SXC R- 310 and VTU R- 129 to VTU VOR/DME, then via VTU R- 289 and RZS R- 109 to RZS VORTAC. SHAFTER TRANSITION (CHANLI.EHF): From over SXC VORTAC via SXC R- 344 and LAX R164 to LAX VORTAC, then via LAX R- 337 to LANDO INT and EHF R- 126 to EHF VORTAC.
-
-CHANNEL ONE DEPARTURE SANTA ANA, CALIFORNIA (CHANLI.SXC) 07298 SANTA ANA/JOHN WAYNE AIRPORT- ORANGE COUNTY (SNA)
-
-the pilot to make an immediate turn toward the Durango VOR instead of flying the series of headings that terminate at specific altitudes as dictated by the approach procedure. [Figure 6- 28] Pilots must be aware of their individual systems Path and Terminator handling characteristics and always review the manufacturer's documentation to familiarize themselves with the capabilities of the RNAV equipment they are operating. Pilots should be aware that some

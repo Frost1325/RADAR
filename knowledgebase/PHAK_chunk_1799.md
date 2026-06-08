@@ -1,7 +1,0 @@
- Permanent cardiac pacemaker Heart replacement Psychosis Bipolar disorder Personality disorder that is severe enough to have repeatedly manifested itself by overt acts Substance dependence (including alcohol) Substance abuse Epilepsy Disturbance of consciousness and without satisfactory explanation of cause Transient loss of control of nervous system function(s) without satisfactory explanation of cause
-
-However, this list includes only the mandatory disqualifying conditions. There are many other medical conditions that fall into the General Medical Condition section of the regulations that are considered by the FAA to be disqualifying even though they are not stated in the regulations. Conditions such as cancer, kidney stones, neurologic and neuromuscular conditions including Parkinson's disease and multiple sclerosis, certain blood disorders, and other conditions that may progress over time require review by the FAA before a medical certificate may be issued.
-
-The important thing to remember is that with very few exceptions, all disqualifying medical conditions may be considered for special issuance. If you can present satisfactory medical documentation to the FAA that your condition is stable, the chances are good that you will be able to qualify for an Authorization.
-
-## Health and Physiological Factors Affecting Pilot Performance

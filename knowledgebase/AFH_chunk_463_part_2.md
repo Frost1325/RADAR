@@ -1,5 +1,0 @@
-an additional \(15\%\) . [Figure 16- 16]
-
-Simply put, the pilot divides the length of an intended runway by 1.67 or 1.92, as appropriate, to determine the minimum distance that should be available for landing. With this safety margin, it works out that the minimum dry runway field length should be at least 1.4 times the calculated air and ground distance needed, and the wet runway landing field length should be at least 1.61 times the calculated air and ground distance needed. Careful flight planning allows a pilot to determine how much load in terms of fuel, passengers, or cargo can be carried to a particular runway while still maintaining the desired safety margin. Depending on the destination, the load might need to be limited in order to protect the safety margin when landing. This is often complex, since fuel load has its own safety implications.
-
-Certified landing field length requirements are computed for the stop made with speed brakes deployed and maximum wheel braking. Reverse thrust is not used in establishing the certified landing distances. However, reversers should definitely be used, if available.

@@ -1,5 +1,0 @@
- If the aircraft drifts, fly a heading to re- intercept the course then apply a correction to compensate for wind drift.
-
-If minor needle fluctuations occur, avoid changing headings immediately. Wait a moment to see if the needle recenters; if it does not, then you must correctly recenter the course to the needle.
-
-When flying "TO" a station, always fly the selected course with a "TO" indication. When flying "FROM" a station, always fly the selected course with a "FROM" indication. If this is not done, the action of the course deviation needle is reversed. To further explain this reverse action, if the aircraft is flown toward a station with a "FROM" indication or away from a station with a "TO" indication, the course deviation needle indicates in a direction opposite to that which it should indicate. For example, if the aircraft drifts to the right of a radial being flown, the needle moves to the right or points away from the radial. If the aircraft drifts to the left of the radial being flown, the needle moves left or in the direction opposite of the radial.

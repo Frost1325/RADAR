@@ -1,7 +1,0 @@
-## Introduction
-
-About twenty percent of all yearly general aviation (GA) accidents occur during takeoff and departure climbs, and more than half of those accidents are the result of some sort of failure of the pilot. A significant number of takeoff accidents are the result of loss of control of the airplane. When compared to the entire profile of a normal flight, this phase of a flight is relatively short, but the pilot workload is intense. This chapter discusses takeoffs and departure climbs in airplanes under normal conditions and under conditions that require maximum performance.
-
-Though it may seem relatively simple, the takeoff often presents the most hazards of any part of a flight. The importance of thorough knowledge of procedures and techniques coupled with proficiency in performance cannot be overemphasized.
-
-The discussion in this chapter is centered on airplanes with tricycle landing gear (nose- wheel). Procedures for conventional gear airplanes (tail- wheel) are discussed in Chapter 14: Transition to Tailwheel Airplanes. The manufacturer's recommended procedures pertaining to airplane configuration, airspeeds, and other information relevant to takeoffs and departure climbs in a specific make and model airplane are contained in the Federal Aviation Administration (FAA)- approved Airplane Flight Manual and/or Pilot's Operating Handbook (AFM/PO

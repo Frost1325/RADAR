@@ -1,3 +1,0 @@
-## F
-
-FAA—Federal Aviation AdministrationFAF—Final Approach FixFAP—Final Approach PointFB—Fly- ByFCC—Federal Communications CommissionFD—Flight DirectorFDP—Flight Data ProcessingFE—Flight EngineerFIR—Flight Information RegionFIS—Flight Information SystemFIS- B—Flight Information Services- BroadcastFISDL—Flight Information Services Data LinkFL—Flight LevelFL CHG—Flight Level ChangeFLIR—Forward Looking Infra- RedFMC—Flight Management ComputerFMS—Flight Management SystemFO—Fly- OverFOM—Flight Operations ManualFPA—Flight Path AngleFPV—Flight Path VectorFSB—Flight Standardization BoardFSDO—Flight Standards District OfficeFSL—NOAA Forecast Systems LaboratoryFSS—Flight Service Station

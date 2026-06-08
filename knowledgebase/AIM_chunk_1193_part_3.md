@@ -1,5 +1,0 @@
-Weather Report (SPECI).
-
-The type of report (METAR or SPECI) will always appear as the lead element of the report.
-
-2. ICAO Station Identifier. The METAR code uses ICAO 4-letter station identifiers. In the contiguous 48 States, the 3-letter domestic station identifier is prefixed with a "K," i.e., the domestic identifier for Seattle is SEA while the ICAO identifier is KSEA. Elsewhere, the first two letters of the ICAO identifier indicate what region of the world and country (or state) the station is in. For Alaska, all station identifiers start with "PA;" for Hawaii, all station identifiers start with "PH." Canadian station identifiers start with "CU," "CW," "CY," and "CZ." Mexican station identifiers start with "MM." The identifier for the western Caribbean is "M" followed by the individual country's letter; i.e., Cuba is "MU;" Dominican Republic "MD;" the Bahamas "MY." The identifier for the eastern Caribbean is "T" followed by the individual country's letter; i.e., Puerto Rico is "TJ." For a complete worldwide listing see ICAO Document 7910, Location Indicators

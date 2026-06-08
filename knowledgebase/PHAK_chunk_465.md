@@ -1,5 +1,0 @@
-. As the airspeed is increased in a constant- rate level turn, the radius of the turn increases. This increase in the radius of turn causes an increase in the centrifugal force, which must be balanced by an increase in the horizontal component of lift, which can only be increased by increasing the angle of bank.
-
-In a slipping turn, the aircraft is not turning at the rate appropriate to the bank being used, since the aircraft is yawed toward the outside of the turning flight path. The aircraft is banked too much for the ROT, so the horizontal lift component is greater than the centrifugal force. [Figure 5- 35] Equilibrium between the horizontal lift component and centrifugal force is reestablished by either decreasing the bank, increasing the ROT, or a combination of the two changes.
-
-A skidding turn results from an excess of centrifugal force over the horizontal lift component, pulling the aircraft toward the outside of the turn. The ROT is too great for the angle of bank. Correction of a skidding turn thus involves a reduction in the ROT, an increase in bank, or a combination of the two changes.

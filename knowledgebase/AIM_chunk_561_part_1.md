@@ -1,3 +1,0 @@
-## c. TIS-B Limitations.
-
-1. TIS-B is NOT intended to be used as a collision avoidance system and does not relieve the pilot's responsibilityto "see and avoid" other aircraft, in accordance with 14CFR \(\S 91.113\mathrm{b}\) .TIS- B must not be used for avoidance maneuvers during times when there is no visual contact with the intruder aircraft. TIS- B is intended only to assist in the visual acquisition of other aircraft.

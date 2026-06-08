@@ -1,7 +1,0 @@
-## Landing Gear Safety Devices
-
-Most airplanes with a retractable landing gear have a gear warning horn that sounds when the airplane is configured for landing and the landing gear is not down and locked. Normally, the horn is linked to the throttle or flap position and/or the airspeed indicator so that when the airplane is below a certain airspeed, configuration, or power setting with the gear retracted, the warning horn sounds.
-
-Accidental retraction of a landing gear may be prevented by such devices as mechanical downlocks, safety switches, and ground locks. Mechanical downlocks are built- in components of a gear retraction system and are operated automatically by the gear retraction system. To prevent accidental operation of the downlocks and inadvertent landing gear retraction while the airplane is on the ground, electrically- operated safety switches are installed.
-
-A landing gear safety switch, sometimes referred to as a squat switch, is usually mounted in a bracket on one of the main gear shock struts. [Figure 12- 12] When the strut is compressed by the weight of the airplane, the switch opens the electrical circuit to the motor or mechanism that powers retraction. In this way, if the landing gear switch in the flight deck is placed in the RETRACT

@@ -1,3 +1,0 @@
-tr><tr><td>FMS</td><td>Flight Management System</td></tr><tr><td>FMSP</td><td>Flight Management System Procedure</td></tr><tr><td>FO</td><td>Fly-over</td></tr><tr><td>FPA</td><td>Flight Path Angle</td></tr><tr><td>FPV</td><td>Flight Path Vector</td></tr><tr><td>FPNM</td><td>Feet Per Nautical Mile</td></tr></table>
-
-<table><tr><td>Abbreviation/ Acronym</td><td>Meaning<br>Flight Standards District Office</td></tr><tr><td>FSDO</td><td>Flight Service Station</td></tr><tr><td>FSS</td><td>Ground Based Augmentation System</td></tr><tr><td>GBAS</td><td>Geostationary Satellite</td></tr><tr><td>GEO</td><td>GBAS Landing System</td></tr><tr><td>GNS</td><td>Global Navigation Satellite System</td></tr><tr><td>GNSSP</

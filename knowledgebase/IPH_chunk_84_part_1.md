@@ -1,3 +1,0 @@
-## See and Avoid Techniques
-
-See and Avoid TechniquesMeteorological conditions permitting, you are required to use "see and avoid" techniques to avoid traffic, terrain, and other obstacles. To avoid obstacles during a departure, the takeoff minimums may include a non- standard ceiling and visibility minimum. These are given to pilots so they can depart an airport without being able to meet the established climb gradient. Instead, they must see and avoid obstacles in the departure path. In these situations, ATC provides radar traffic information for radar- identified aircraft outside controlled airspace, workload permitting, and safety alerts to pilots believed to be within an unsafe proximity to obstacles or aircraft.

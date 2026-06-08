@@ -1,5 +1,0 @@
- both runways are shown on the sign along with arrows showing the approximate alignment of each runway. [Figure 14- 11A and B] In addition to showing the approximate runway alignment, the arrows indicate the direction(s) to the threshold of the runway whose designation is immediately next to each corresponding arrow.
-
-This type of taxiway and runway/runway intersection geometry can be very confusing and create navigational challenges. Extreme caution must be exercised when taxiing onto or crossing this type of intersection. Figure 14- 11A and B shows a depiction of a taxiway, runway/runway intersection and is also designated as a "hot spot" on the airport diagram. In the example, Taxiway Bravo intersects with two runways, 31- 13 and 35- 17, which cross each other.
-
-Surface painted runway holding position signs may also be used to aid you in determining the holding position. These markings consist of white characters on a red background and are painted on the left side of the taxiway centerline. Figure 14- 12 shows a surface painted runway holding position sign that is the holding point for Runway 32R- 14L.

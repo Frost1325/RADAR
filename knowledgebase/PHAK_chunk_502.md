@@ -1,5 +1,0 @@
- handle a smaller mass of air per revolution. This light load allows the engine to turn at high rpm and to convert the maximum amount of fuel into heat energy in a given time. The high rpm also creates maximum thrust because, although the mass of air handled per revolution is small, the rpm and slipstream velocity are
-
-high, and with the low aircraft speed, there is maximum thrust. After liftoff, as the speed of the aircraft increases, the constant- speed propeller automatically changes to a higher angle (or pitch). Again, the higher blade angle keeps the AOA small and efficient with respect to the relative wind. The higher blade angle increases the mass of air handled per revolution. This decreases the engine rpm, reducing fuel consumption and engine wear, and keeps thrust at a maximum.
-
-After the takeoff climb is established in an aircraft having a controllable- pitch propeller, the pilot reduces the power output of the engine to climb power by first decreasing the manifold pressure and then increasing the blade angle to lower the rpm.

@@ -1,5 +1,0 @@
-5^{\circ}\) , but downwind in the direction the wind is blowing making it 40 units long to correspond with the wind velocity of 40 knots. Identify this line as the wind line by placing the letter "W" at the end to show the wind direction.
-
-## Step 4
-
-Finally, measure 120 units on the ruler to represent the airspeed, making a dot on the ruler at this point. The units used may be of any convenient scale or value (such as \(1 / 4\) inch \(= 10\) knots), but once selected, the same scale must be used for each of the linear movements involved. Then place the ruler so that the end is on the arrowhead (W) and the 120- knot dot intercepts the TC line. Draw the line and label it "AS 120." The point "P" placed at the intersection represents the position of the aircraft at the end of 1 hour. The diagram is now complete.

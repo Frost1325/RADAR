@@ -1,5 +1,0 @@
- unhurried use of the autopilot and is less reactive in nature. Diverting from the final approach fix, while more difficult, still allows the pilot to plan and coordinate better, rather than executing a futile missed approach. Let's look at a detailed discussion of each of the Five Ps.
-
-## The Plan
-
-The "Plan" can also be called the mission or the task. It contains the basic elements of cross- country planning, weather, route, fuel, publications currency, etc. The "Plan" should be reviewed and updated several times during the course of the flight. A delayed takeoff due to maintenance, fast moving weather, and a short notice TFR may all radically alter the plan. The "plan" is not only about the flight plan, but also all the events that surround the flight and allow the pilot to accomplish the mission. The plan is always being updated and modified and is especially responsive to changes in the other four remaining Ps. If for no other reason, the 5 P check reminds the pilot that the day's flight plan is real life and subject to change at any time.

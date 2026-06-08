@@ -1,3 +1,0 @@
-.
-
-DESIGNATED COMMON TRAFFIC ADVISORY FREQUENCY (CTAF) AREA- In Alaska, in addition to being designated for the purpose of carrying out airport advisory practices while operating to or from an airport without an operating airport traffic control tower, a CTAF may also be designated for the purpose of carrying out advisory practices for operations in and through areas with a high volume of VFR traffic.

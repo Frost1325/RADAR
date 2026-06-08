@@ -1,3 +1,0 @@
-## En Route Reporting Procedures
-
-En Route Reporting ProceduresIn addition to acknowledging a handoff to another Center en route controller, there are reports that should be made without a specific request from ATC. Certain reports should be made at all times regardless of whether a flight is in radar contact with ATC, while others are necessary only if radar contact has been lost or terminated. [Figure 2- 68]

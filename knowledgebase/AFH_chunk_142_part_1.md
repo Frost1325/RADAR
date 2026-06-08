@@ -1,7 +1,0 @@
-## Stalls
-
-A stall is an aerodynamic condition which occurs when smooth airflow over the airplane's wings is disrupted, resulting in loss of lift. Specifically, a stall occurs when the AOA—the angle between the chord line of the wing and the relative wind—exceeds the wing's critical AOA. It is possible to exceed the critical AOA at any airspeed, at any attitude, and at any power setting. [Figure 5- 8]
-
-For these reasons, it is important to understand factors and situations that can lead to a stall, and develop proficiency in stall recognition and recovery. Performing intentional stalls will familiarize the pilot with the conditions that result in a stall, assist in recognition of an impending stall, and develop the proper corrective response if a stall occurs. Stalls are practiced to two different levels:
-
-- Impending Stall—an impending stall occurs when the AOA causes a stall warning, but has not yet reached the critical AOA. Indications of an impending stall can include buffeting, stick shaker, or aural warning.- Full Stall—a full stall occurs when the critical AOA is exceeded. Indications of a full stall are typically that an uncommanded nose down pitch cannot be readily arrested, and may

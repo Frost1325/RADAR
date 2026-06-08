@@ -1,5 +1,0 @@
-of landing or, if the intercepted aircraft is a helicopter, overflying the helicopter land-ing area.<br>NIGHT-Same and, in addition, showing steady landing lights.</td><td>Land at this aerodrome.</td><td>AEROPLANES:<br>DAY-Lowering landing gear, following the intercepting aircraft and, if after overflying the runway landing is consid-ered safe, proceeding to land.<br>NIGHT-Same and, in addition, showing<br>steady landing lights (if carried).<br>HELICOPTERS:<br>DAY or NIGHT-Following the intercepting<br>aircraft and proceeding to land, showing a steady landing light (if carried).</td><td>Understood,<br>will comply.</td></tr></table>
-
-TBL5-6-2 Intercepting Signals
-
-<table><tr><td colspan="5">INTERCEPTING SIGNALS<br>Signals and Responses During Aircraft Intercept<br>Signals initiated by intercepted aircraft and responses by intercepting aircraft<br>(as set forth in ICAO Annex 2-Appendix 1, 2.2)</td></tr><tr><td>Series</td><td>INTERCEPTED Aircraft Signals</td><

@@ -1,7 +1,0 @@
-Charts (1:500,000)- Designed for visual navigation of slow or medium speed aircraft. Topographic information on these charts features the portrayal of relief and a judicious selection of visual check points for VFR flight. Aeronautical information includes visual and radio aids to navigation, airports, controlled airspace, restricted areas, obstructions, and related data.
-
-b. VFR Terminal Area Charts (1:250,000)- Depict Class B airspace which provides for the control or segregation of all the aircraft within Class B airspace. The chart depicts topographic information and aeronautical information which includes visual and radio aids to navigation, airports, controlled airspace, restricted areas, obstructions and related data.
-
-c. World Aeronautical Charts (WAC) (1:1,000,000)- Provide a standard series of aeronautical charts covering land areas of the world at a size and scale convenient for navigation by moderate speed aircraft. Topographic information includes cities and towns, principal roads, railroads, distinctive landmarks, drainage, and relief. Aeronautical information includes visual and radio aids to navigation, airports, airways, restricted areas, obstructions, and other pertinent data.
-
-d. En Route

@@ -1,5 +1,0 @@
-, and proper consideration must also be provided when predicting takeoff distance. The effect of a headwind is to allow the aircraft to reach the lift- off speed at a lower groundspeed, while the effect of a tailwind is to require the aircraft to achieve a greater groundspeed to attain the lift- off speed.
-
-A headwind that is 10 percent of the takeoff airspeed reduces the takeoff distance approximately 19 percent. However, a tailwind that is 10 percent of the takeoff airspeed increases the takeoff distance approximately 21 percent. In the case where the headwind speed is 50 percent of the takeoff speed, the takeoff distance would be approximately 25 percent of the zero wind takeoff distance (75 percent reduction).
-
-The effect of wind on landing distance is identical to its effect on takeoff distance. Figure 11- 19 illustrates the general effect of wind by the percent change in takeoff or landing distance as a function of the ratio of wind velocity to takeoff or landing speed.

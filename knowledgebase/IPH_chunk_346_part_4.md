@@ -1,3 +1,0 @@
-td></tr><tr><td>Night</td><td>3 SM</td><td>500 feet below<br>1,000 feet above<br>2 000 feet horizontal</td></tr><tr><td>More than 1,200 feet<br>above the surface and at<br>or above 10,000 feet MSL</td><td>5 SM</td><td>1,000 feet below<br>1000 feet above<br>1 statute mile horizontal</td></tr><tr><td>B,C,D,E, Surface Area<br>Airspace SVFR Minimums</td><td></td><td></td></tr><tr><td>Day</td><td>None</td><td>Clear of clouds</td></tr><tr><td>Night</td><td>None</td><td>Clear of clouds</td></tr></table>
-
-Figure 7-7. Helicopter VFR minimums.

@@ -1,5 +1,0 @@
-## Part 135 Operators
-
-Part 135 OperatorsPart 135 operators are not required to file an alternate if, for at least one hour before and one hour after the ETA, the ceiling is at least 1,500 feet above the lowest circling approach minimum descent altitude (MDA). If a circling instrument approach is not authorized for the airport, the ceiling must be at least 1,500 feet above the lowest published minimum or 2,000 feet above the airport elevation, whichever is higher. For the IAP to be used at the destination airport, the forecasted visibility for that airport must be at least 3 SM or 2 SM more than the lowest applicable visibility minimums, whichever is greater.
-
-Alternate landing minimums for flights conducted under 14 CFR Part 135 are described in the OpSpecs for that operation. All helicopters operated under IFR must carry enough fuel to fly to the intended destination, fly from that airport to the filed alternate, if required, and continue for 30 minutes at normal cruising speed.

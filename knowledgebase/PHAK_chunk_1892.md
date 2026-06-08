@@ -1,5 +1,0 @@
- tranquilizer, or antihistamine, can make a pilot more susceptible to hypoxia.
-
-Painkillers are grouped into two broad categories: analgesics and anesthetics. Analgesics are drugs that reduce pain, while anesthetics are drugs that deaden pain or cause loss of consciousness.
-
-Over- the- counter analgesics, such as acetylsalicylic acid (aspirin), acetaminophen (Tylenol), and ibuprofen (Advil), have few side effects when taken in the correct dosage. Although some people are allergic to certain analgesics or may suffer from stomach irritation, flying usually is not restricted when taking these drugs. However, flying is almost always precluded while using prescription analgesics, such as drugs containing propoxyphene (e.g., Darvon), oxycodone (e.g., Percodan), meperidine (e.g., Demerol), and codeine, since these drugs are known to cause side effects, such as mental confusion, dizziness, headaches, nausea, and vision problems.

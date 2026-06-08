@@ -1,7 +1,0 @@
- poisoning are headache, blurred vision, dizziness, drowsiness, and/or loss of muscle power. Any time a pilot smells exhaust odor, or any time these symptoms are experienced, immediate corrective action should be taken including turning off the heater, opening fresh air vents and windows, and using supplemental oxygen, if available.
-
-Tobacco smoke also causes CO poisoning. Smoking at sea level can raise the CO concentration in the blood and result in physiological effects similar to flying at 8,000 feet. Besides hypoxia, tobacco causes diseases and physiological debilitation that can be medically disqualifying for pilots.
-
-## Stress
-
-Stress is the body's response to physical and psychological demands placed upon it. The body's reaction to stress includes releasing chemical hormones (such as adrenaline) into the blood and increasing metabolism to provide more energy to the muscles. Blood sugar, heart rate, respiration, blood pressure, and perspiration all increase. The term "stressor" is used to describe an element that causes an individual to experience stress. Examples of stressors include physical stress (noise or vibration), physiological stress (fatigue), and psychological stress (difficult work or personal situations).

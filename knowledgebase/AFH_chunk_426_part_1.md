@@ -1,7 +1,0 @@
-## Split-Shaft/Free Turbine Engine
-
-In a free power- turbine engine, such as the Pratt & Whitney PT- 6 engine, the propeller is driven by a separate turbine through reduction gearing. The propeller is not on the same shaft as the basic engine turbine and compressor. [Figure 15- 5] Unlike the fixed- shaft engine, in the split- shaft engine the propeller can be feathered in flight or on the ground with the basic engine still running. The free power- turbine design allows the pilot to select a desired propeller governing rpm, regardless of basic engine rpm.
-
-A typical free power- turbine engine has two independent counter- rotating turbines. One turbine drives the compressor, while the other drives the propeller through a reduction gearbox. The compressor in the basic engine consists of three axial flow compressor stages combined with a single centrifugal compressor stage. The axial and centrifugal stages are assembled on the same shaft and operate as a single unit.
-
-Inlet air enters the engine via a circular plenum near the rear of the engine and flows forward through the successive compressor stages. The flow is directed outward by the centrifugal compressor stage through radial diffusers before entering the combustion chamber, where the flow direction is actually

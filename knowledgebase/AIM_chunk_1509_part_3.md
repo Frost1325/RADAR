@@ -1,3 +1,0 @@
-7- 1- 34Weather Observing Programs, 7- 1- 26Wind Shear, 7- 1- 48Military NOTAMs, 5- 1- 3Military Operations Areas, 3- 4- 2Military Training Routes, 3- 5- 1IFR, 3- 5- 2VFR, 3- 5- 2Minimum, Fuel Advisory, 5- 5- 7Minimum Safe Altitudes, 5- 4- 8Minimum Turning Altitude (MTA), 5- 3- 8Minimum Vectoring Altitudes, 5- 4- 16MinimumsApproach, 5- 4- 52Instrument Landing Systems, 1- 1- 10Landing, 5- 4- 52Missed Approach, 5- 4- 55MOA. See Military Operations AreasMode C, 4- 1- 15Mountain Flying, 7- 5- 3Mountain Wave, 7- 5- 4
-
-Mountainous Areas, 5- 6

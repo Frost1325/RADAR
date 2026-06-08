@@ -1,3 +1,0 @@
-td>1. Short and soft-field takeoffs and landings</td></tr><tr><td>2. Cruise control</td><td>2. Maximum performance operations</td></tr><tr><td>3. Review</td><td></td></tr></table>
-
-The training times indicated in the syllabus are for illustration purposes. Actual times should be based on the capabilities of the pilot.The time periods may be minimal for pilots with higher qualifications or increased for pilots who do not meet certification requirements or have had little recent flight experience.

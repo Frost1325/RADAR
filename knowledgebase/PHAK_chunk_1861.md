@@ -1,5 +1,0 @@
- features and atmospheric conditions encountered in landing can create illusions of being on the wrong approach path. Landing errors due to these illusions can be prevented by anticipating them during approaches, inspecting unfamiliar airports before landing, using electronic glideslope or VASI systems when available, and maintaining proficiency in landing procedures.
-
-## Motion Sickness
-
-Motion sickness, or airsickness, is caused by the brain receiving conflicting messages about the state of the body. A pilot may experience motion sickness during initial flights, but it generally goes away within the first few lessons. Anxiety and stress, which may be experienced at the beginning of flight training, can contribute to motion sickness. Symptoms of motion sickness include general discomfort, nausea, dizziness, paleness, sweating, and vomiting.

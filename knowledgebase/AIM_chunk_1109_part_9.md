@@ -1,7 +1,0 @@
-from Flight Service Stations, FAA's en route "Flight Watch" service, data from other air traffic control facilities, airline operation control centers, pilot reports, as well as their own observations.
-
-(h) FAA's Flight Information Service- Broadcast (FIS-B).
-
-(1) FIS-B is a ground-based broadcast service provided through the FAA's Automatic Dependent Surveillance-Broadcast (ADS-B) Services Universal Access Transceiver (UAT) network. The service provides users with a 978 MHz data link capability when operating within range and line-of-sight of a transmitting ground station. FIS-B enables users of properly-equipped aircraft to receive and display a suite of broadcast weather and aeronautical information products.
-
-(2) The following list represents the initial suite of text and graphical products available through FIS-B and provided free-of-charge. Detailed information concerning FIS-B meteorological products can be found in Advisory Circular 00-45, Aviation Weather Services, and AC 00-63, Use of Cockpit Displays of Digital Weather and Aeronautical Information. Information on Special Use Airspace (SUA), Temporary Flight Restriction (TFR), and Notice to Airmen (NOTAM) products can be found in Chapters

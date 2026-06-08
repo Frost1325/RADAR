@@ -1,5 +1,0 @@
-and maintaining the climb attitude until reaching the full stall.
-
-The pilot should recognize when the stall has occurred and take action without delay to prevent a prolonged stalled condition. The pilot should recover from the stall by immediately reducing the AOA and applying as much nose- down control input as required to eliminate the stall warning, level the wings with ailerons, coordinate with rudder, an smoothly advance the power as needed. Since the throttle is already at the climb power setting, this step may simply mean confirming the proper power setting. [Figure 5- 12]
-
-The final step is to return the airplane to the desired flightpath (e.g., straight and level or departure/climb attitude). With sufficient airspeed and control effectiveness, the pilot may return the throttle to the appropriate power setting.

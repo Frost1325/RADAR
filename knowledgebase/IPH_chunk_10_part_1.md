@@ -1,3 +1,0 @@
-## Chapter 1
-
-- Reworded paragraph "Alternate Minimums for Commercial Operators," regarding requirements for Part 121 and 135 operators. Clarified a sentence indicating it pertains to alternate airports rather than all airports.- Updated paragraph "Departures from Airports Without an Operating Control Tower" regarding obtaining information from a Flight Service Station (FSS). Changed references from "Automated Flight Service Station (AFSS)" to "Flight Service Station (FSS)." Added information about finding the phone number to use, when there is a direct line to the controlling Air Traffic Control (ATC) Facility, to obtain a clearance.

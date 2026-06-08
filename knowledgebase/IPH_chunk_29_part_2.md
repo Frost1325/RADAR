@@ -1,3 +1,0 @@
-full page depiction of the airport that includes the same features of the airport sketch plus additional details, such as taxiway identifiers,
-
-airport latitude and longitude, and building identification. The airport diagrams are also available in the Airport/Facility Directory section of the Chart Supplement (CS) and on the Aeronautical Information Services' website, located at www.aeronav.faa.gov. [Figure 1- 2]

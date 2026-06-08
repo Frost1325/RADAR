@@ -1,1 +1,0 @@
-1500 feet</td></tr><tr><td>28.41 to 27.92</td><td>2000 feet</td></tr><tr><td>27.91 to 27.42</td><td>2500 feet</td></tr></table>

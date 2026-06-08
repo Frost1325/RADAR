@@ -1,7 +1,0 @@
-of its speed.
-
-There are two potential errors in attempting a three- point landing. In the first, the main wheels are allowed to make runway contact a little early with the tail still in the air. With the CG aft of themain wheels, the tail naturally drops when thmian wheels touch, AOA increases, and the plane may become airborne again. This "skip" is easily managed by re- flaring and again trying to hold the plane off until reaching the three- point attitude. A large "skip" or bounce may result in being high above the runway with insufficient energy. In these circumstances, the pilot should execute a go- around.
-
-In the second error, the plane is held off the ground a bit too long so that the in- flight pitch attitude is steeper than the three- point attitude. When touchdown is made in this attitude, the tail makes contact first. Provided this happens from no more than a foot off the surface, the result is undramatic: the tail touches, the plane pitches forward slightly onto the main wheels, and rollout proceeds normally.
-
-In every case, once the tailwheel makes contact, the elevator control should be eased fully back to press the tailwheel on the runway. Without this elevator input, the

@@ -1,5 +1,0 @@
- effects only compounds the problem. Particularly, medications containing diphenhydramine (e.g., Benadryl) are known to cause drowsiness and have a prolonged half- life, meaning the drugs stay in one's system for an extended time, which lengthens the time that side effects are present.
-
-Many medications, such as tranquilizers, sedatives, strong pain relievers, and cough suppressants, have primary effects that may impair judgment, memory, alertness, coordination, vision, and the ability to make calculations. [Figure 17- 9] Others, such as antihistamines, blood pressure drugs, muscle relaxants, and agents to control diarrhea and motion sickness, have side effects that may impair the same critical functions. Any medication that depresses the nervous system, such as a sedative, tranquilizer, or antihistamine, can make a pilot more susceptible to hypoxia.
-
-Painkillers are grouped into two broad categories: analgesics and anesthetics. Analgesics are drugs that reduce pain, while anesthetics are drugs that deaden pain or cause loss of consciousness.

@@ -1,5 +1,0 @@
- with atmospheric pressure. It is one of the basic factors in weather changes, helps to lift the aircraft, and actuates some of the most important flight instruments in the aircraft. These instruments often include the altimeter, the airspeed indicator (ASI), the vertical speed indicator (VSI), and the manifold pressure gauge.
-
-Though air is very light, it has mass and is affected by the attraction of gravity. Therefore, like any other substance, it has weight; because it has weight, it has force. Since it is a fluid substance, this force is exerted equally in all directions, and its effect on bodies within the air is called pressure. Under standard conditions at sea level, the average pressure exerted by the weight of the atmosphere is approximately 14.7 pounds per square inch (psi). The density of air has significant effects on the aircraft's performance. As air becomes less dense, it reduces:
-
-- Power, because the engine takes in less air- Thrust, because the propeller is less efficient in thin air- Lift, because the thin air exerts less force on the airfoils

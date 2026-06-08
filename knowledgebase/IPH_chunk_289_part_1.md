@@ -1,7 +1,0 @@
-## Radar Approaches
-
-The two types of radar approaches available to pilots when operating in the NAS are precision approach radar (PAR) and airport surveillance radar (ASR). Radar approaches may be given to any aircraft at the pilot's request. ATC may also offer radar approach options to aircraft in distress regardless of the weather conditions or as necessary to expedite traffic. Despite the control exercised by ATC in a radar approach environment, it remains the pilot's responsibility to ensure the approach and landing minimums listed for the approach are appropriate for the existing weather conditions considering personal approach criteria certification and company OpSpecs.
-
-Perhaps the greatest benefit of either type of radar approach is the ability to use radar to execute a no gyro approach. Assuming standard rate turns, ATC can indicate when to begin and end turns. If available, pilots should make use of this approach when the heading indicator has failed and partial panel instrument flying is required.
-
-Information about radar approaches is published in tabular form in the front of the TPP booklet. PAR, ASR, and circling approach information including runway, DA, DH, or MDA, height above airport (HAA), HAT, ceiling, and visibility criteria

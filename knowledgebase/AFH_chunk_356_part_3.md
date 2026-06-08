@@ -1,7 +1,0 @@
-when climb is no longer possible.
-
-The takeoff in a multigenie airplane should be planned in sufficient detail so that the appropriate action is taken in the event of an engine failure. The pilot should be thoroughly familiar with the airplane's performance capabilities and limitations in order to make an informed takeoff decision as part of the preflight planning. That decision should be reviewed as the last item of the "before takeoff" checklist.
-
-In the event of an engine failure shortly after takeoff, the decision is basically one of continuing flight or landing, even off- airport. If single- engine climb performance is adequate for continued flight, and the airplane has been promptly and correctly configured, the climb after takeoff may be continued. If single- engine climb performance is such that climb is unlikely or impossible, a landing has to be made in the most suitable area. To be avoided above all is attempting to continue flight when it is not within the airplane's performance capability to do so. [Figure 13- 6]
-
-Takeoff planning factors include weight and balance, airplane performance (both single and multigenie), runway length, slope and contamination, terrain and obstacles in the area, weather conditions, and pilot proficiency. Most multigenie airplanes have AFM/

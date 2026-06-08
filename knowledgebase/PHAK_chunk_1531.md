@@ -1,3 +1,0 @@
- established. ATC issues traffic advisories based on observed radar targets. The traffic is referenced by azimuth from the aircraft in terms of the 12- hour clock. Also, distance in nautical miles, direction in which the target is moving, and type and altitude of the aircraft, if known, are given.
-
-An example would be: "Traffic 10 o'clock 5 miles east bound, Cessna 152, 3,000 feet." The pilot should note that traffic position is based on the aircraft track and that wind correction can affect the clock position at which a pilot locates traffic. This service is not intended to relieve the pilot of the responsibility to see and avoid other aircraft. [Figure 14- 44] In addition to basic radar service, terminal radar service

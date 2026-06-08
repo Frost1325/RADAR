@@ -1,3 +1,0 @@
-increments while in the landing pattern. Incremental deflection of flaps on downwind, base leg, and final approach allow smaller adjustments of pitch and power and support a stabilized approach.
-
-Whenever the flap setting is changed, the pilot should be prepared to re- trim the airplane as needed to compensate for the change in aerodynamic forces. Throughout this chapter, more detail is provided on the use of flaps during specific approach and landing situations, as appropriate.

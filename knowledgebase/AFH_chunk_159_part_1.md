@@ -1,7 +1,0 @@
-## Incipient Phase
-
-The incipient phase occurs from the time the airplane stalls and starts rotating until the spin has fully developed. This phase may take two to four turns for most airplanes. In this phase, the aerodynamic and inertial forces have not achieved a balance. As the incipient phase develops, the indicated airspeed will generally stabilize at a low and constant airspeed and the symbolic airplane of the turn indicator should indicate the direction of the spin. The pilot should not use the slip/skid ball (inclinometer) to determine spin direction. The location of the instrument in the airplane determines how the ball will move rather than the direction of the spin. For example, the ball mounted on the left side of the airplane will always move to the left, even in spin with rotation to the right.
-
-The pilot should initiate incipient spin recovery procedures prior to completing \(360^{\circ}\) of rotation. The pilot should apply full rudder opposite the direction of rotation. The turn indicator shows a deflection in the direction of rotation if disoriented.
-
-Incipient spins that are not allowed to develop into a steady- state spin are the most commonly used maneuver in initial spin training and recovery techniques.

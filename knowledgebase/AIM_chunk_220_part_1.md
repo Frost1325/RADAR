@@ -1,7 +1,0 @@
-### a. VFR Flyways.
-
-1. VFR Flyways and their associated Flyway Planning Charts were developed from the recommendations of a National Airspace Review Task Group. A VFR Flyway is defined as a general flight path not defined as a specific course, for use by pilots in planning flights into, out of, through or near complex terminal airspace to avoid Class B airspace. An ATC clearance is NOT required to fly these routes.
-
-2. VFR Flyways are depicted on the reverse side of some of the VFR Terminal Area Charts (TAC), commonly referred to as Class B airspace charts. (See FIG 3-5-1.) Eventually all TACs will include a VFR Flyway Planning Chart. These charts identify VFR flyways designed to help VFR pilots avoid major controlled traffic flows. They may further depict multiple VFR routings throughout the area which may be used as an alternative to flight within Class B airspace. The ground references provide a guide for improved visual navigation. These routes are not intended to discourage requests for VFR operations within Class B airspace but are designed solely to assist pilots in planning for flights under and around busy Class B airspace without actually entering Class B airspace.
-
-3. It is very important to remember

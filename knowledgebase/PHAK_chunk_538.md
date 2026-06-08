@@ -1,5 +1,0 @@
-, delivers the greatest gain in altitude in a chandelle and results in a better overall performance in both chandelles and lazy eights. The recommended entry speed for these maneuvers is generally near the manufacturer's design maneuvering speed, which allows maximum development of load factors without exceeding the load limits.
-
-## Rough Air
-
-All standard certificated aircraft are designed to withstand loads imposed by gusts of considerable intensity. Gust load factors increase with increasing airspeed, and the strength used for design purposes usually corresponds to the highest level flight speed. In extremely rough air, as in thunderstorms or frontal conditions, it is wise to reduce the speed to the design maneuvering speed. Regardless of the speed held, there may be gusts that can produce loads that exceed the load limits.

@@ -1,1 +1,0 @@
-66 NDB Approach 4- 69 Radar Approaches 4- 69 Precision Approach Radar (PAR) 4- 72 Airport Surveillance Radar (ASR) 4- 72 Localizer Approaches 4- 75 Localizer and Localizer DME 4- 75 Localizer Back Course 4- 76 Localizer- Type Directional Aid (LDA) 4- 76 Simplified Directional Facility (SDF) 4- 78

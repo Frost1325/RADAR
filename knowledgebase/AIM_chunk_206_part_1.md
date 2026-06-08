@@ -1,1 +1,0 @@
-## Section 5. Other Airspace Areas

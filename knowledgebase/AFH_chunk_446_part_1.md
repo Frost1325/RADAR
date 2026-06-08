@@ -1,3 +1,0 @@
-## Absence of Propeller Drag
-
-When the throttles are closed on a piston- powered airplane, the propellers create significant drag. Airspeed or altitude is immediately decreased. The effect of reducing power to idle on the jet engine, however, produces no such drag effect. In fact, at an idle power setting, the jet engine still produces forward thrust. While this can be an advantage in certain descent profiles, it is a handicap when it is necessary to lose speed quickly. The lack of propeller drag, along with the aerodynamically clean airframe of the jet, are new to most pilots, and slowing the airplane down is one of the initial problems encountered by pilots transitioning into jets. In level flight at idle power, it takes about 1 mile to lose 10 knots of airspeed.

@@ -1,1 +1,0 @@
-</td><td>332.75</td></tr><tr><td>111.70</td><td>333.5</td></tr><tr><td>111.75</td><td>333.35</td></tr><tr><td>111.90</td><td>331.1</td></tr><tr><td>111.95</td><td>330.95</td></tr></table>

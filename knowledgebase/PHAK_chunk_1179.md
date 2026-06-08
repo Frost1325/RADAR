@@ -1,3 +1,0 @@
-, results in a 20 percent increase in the landing distance. In performance planning, the pilot determined that at 70 knots the distance would be 1,600 feet. However, now it is increased by 20 percent and the required distance is now 1,920 feet.
-
-The newly revised landing distance of 1,920 feet is also affected by the wind. In looking at Figure 11- 19, the affect of the wind is an additional 20 percent for every ten miles per hour (mph) in wind. This is computed not on the original estimate but on the estimate based upon the increased airspeed. Now the landing distance is increased by another 320 feet for a total requirement of 2,240 feet to land the airplane after reaching 50 feet AGL.

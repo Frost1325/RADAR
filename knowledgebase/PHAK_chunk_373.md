@@ -1,5 +1,0 @@
- to the weight of the aircraft. While the aircraft will be flying more slowly, it will still maintain level flight. The AOA is adjusted to maintain lift equal weight. The airspeed will naturally adjust until drag equals thrust and then maintain that airspeed (assumes the pilot is not trying to hold an exact speed).
-
-Straight- and- level flight in the slow- speed regime provides some interesting conditions relative to the equilibrium of forces. With the aircraft in a nose- high attitude, there is a vertical component of thrust that helps support it. For one thing, wing loading tends to be less than would be expected.
-
-In level flight, when thrust is increased, the aircraft speeds up and the lift increases. The aircraft will start to climb unless the AOA is decreased just enough to maintain the relationship between lift and weight. The timing of this decrease in AOA needs to be coordinated with the increase in thrust and airspeed. Otherwise, if the AOA is decreased too fast, the aircraft will descend, and if the AOA is decreased too slowly, the aircraft will climb.

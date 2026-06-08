@@ -1,1 +1,0 @@
-the preceding aircraft rotated. While taxiing onto the runway, the pilot should select ground reference points that are aligned with the runway direction to aid in maintaining directional control and alignment with the runway center line during the climb out. These may be runway centerline markings, runway lighting, distant trees, towers, buildings, or mountain peaks.

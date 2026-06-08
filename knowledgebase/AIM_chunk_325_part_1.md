@@ -1,1 +1,0 @@
-# Section 2. Radio Communications Phraseology and Techniques

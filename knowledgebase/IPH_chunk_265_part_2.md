@@ -1,7 +1,0 @@
-until established on the localizer, cleared ILS runway three six approach."
-
-Other clearance formats may be used to fit individual circumstances, but the controller should always assign an altitude to maintain until the aircraft is established on a segment of a published route or IAP. The altitude assigned must guarantee IFR obstruction clearance from the point at which the approach clearance is issued until the aircraft is established on a published route. 14 CFR Part 91, § 91.175 (j) prohibits a pilot from making a procedure turn when vectored to a FAF or course, when conducting a timed approach, or when the procedure specifies "NO PT."
-
-When vectoring aircraft to the final approach course, controllers are required to ensure the intercept is at least 2 NM outside the approach gate. Exceptions include the following situations, but do not apply to RNAV aircraft being vectored for a GPS or RNAV approach:
-
-When the reported ceiling is at least 500 feet above the MVA/MIA and the visibility is at least 3 SM (may be a pilot report (PIREP) if no weather is reported for the airport), aircraft may be vectored to intercept the final approach course closer than 2 NM outside the approach gate but

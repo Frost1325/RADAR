@@ -1,7 +1,0 @@
- with the increasing severity of maneuvers. The category system provides for maximum utility of an aircraft. If normal operation alone is intended, the required load factor (and consequently the weight of the aircraft) is less than if the aircraft is to be employed in training or acrobatic maneuvers as they result in higher maneuvering loads.
-
-Aircraft that do not have the category placard are designs that were constructed under earlier engineering requirements in which no operational restrictions were specifically given to the pilots. For aircraft of this type (up to weights of about 4,000 pounds), the required strength is comparable to present- day utility category aircraft, and the same types of operation are permissible. For aircraft of this type over 4,000 pounds, the load factors decrease with weight. These aircraft should be regarded as being comparable to the normal category aircraft designed under the category system, and they should be operated accordingly.
-
-## Load Factors in Steep Turns
-
-At a constant altitude, during a coordinated turn in any aircraft, the load factor is the result of two forces: centrifugal force and weight. [Figure 5- 52] For any given bank angle, the ROT varies with the airspeed—the higher the speed, the

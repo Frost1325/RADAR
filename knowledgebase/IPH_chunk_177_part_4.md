@@ -1,7 +1,0 @@
-terrain clearance. Know the height of the highest terrain and obstacles in the operating area and your position in relation to the surrounding high terrain.
-
-The following are excerpts from CFIT accidents related to descending on arrival: "...delayed the initiation of the descent..."; "Aircraft prematurely descended too early..."; "...late getting down..."; "During a descent...incorrectly cleared down..."; "...aircraft prematurely let down..."; "...lost situational awareness..."; "Premature descent clearance..."; "Prematurely descended..."; "Premature descent clearance while on vector..."; "During initial descent..." [Figure 3- 9]
-
-Practicing good communication skills is not limited to just pilots and controllers. In its findings from a 1974 air carrier accident, the National Transportation Safety Board (NTSB) wrote, "...the extraneous conversation conducted by the flight crew during the descent was symptomatic of a lax atmosphere in the flight deck that continued throughout the approach." The NTSB listed the probable cause as "... the flight crew's lack of altitude awareness at critical points during the approach due to poor flight deck discipline in that the crew did not follow prescribed procedures."
-
-In 1981, the FAA issued 14 CFR Part

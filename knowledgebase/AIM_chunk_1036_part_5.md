@@ -1,5 +1,0 @@
-><td></td></tr></table>
-
-<table><tr><td>NO.</td><td>MESSAGE</td><td>CODE SYMBOL</td></tr><tr><td rowspan="2">1</td><td>Operation completed.</td><td>LLL</td></tr><tr><td>We have found all personnel.</td><td>LL</td></tr><tr><td rowspan="2">3</td><td>We have found only some personnel.</td><td>++</td></tr><tr><td>We are not able to continue. <br>Returning to base.</td><td>XX</td></tr><tr><td rowspan="2">4</td><td>Have divided into two groups. <br>Each proceeding in direction indicated.</td><td>Z</td></tr><tr><td>Information received that aircraft is in this direction.</td><td>→→</td></tr><tr><td>7</td><td>Nothing found. Will continue search.</td><td>NN</td></tr></table>
-
-Note: These visual signals have been accepted for international use and appear in Annex 12 to the Convention on International Civil Aviation.

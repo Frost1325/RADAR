@@ -1,7 +1,0 @@
-uder is on a course that crosses the client at a shallow angle (either overtaking or head on) and either aircraft abruptly changes course within \(\frac{1}{4}\) NM, TIS will display the intruder on the opposite side of the client than it actually is.
-
-These are relatively rare occurrences and will be corrected in a few radar scans once the course has stabilized.
-
-(g) Heading/Course Reference. Not all TIS aircraft installations will have onboard heading reference information. In these installations, aircraft course reference to the TIS display is provided by the Mode S radar. The radar only determines ground track information and has no indication of the client aircraft heading. In these installations, all intruder bearing information is referenced to ground track and does not account for wind correction. Additionally, since ground- based radar will require several scans to determine aircraft course following a course change, a lag in TIS display orientation (intruder aircraft bearing) will occur. As in (f) above, intruder distance and altitude are still usable.
-
-(h) Closely-Spaced Intruder Errors. When operating more than \(30\mathrm{NM}\) from the Mode S sensor, TIS forces any intruder within \(3 / 8\mathrm{

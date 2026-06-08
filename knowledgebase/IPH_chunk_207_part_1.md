@@ -1,3 +1,0 @@
-## Aircraft Performance Considerations
-
-All operators are required to comply with specific airplane performance limitations that govern approach and landing. Many of these requirements must be considered prior to the origination of flight. The primary goal of these performance considerations is to ensure that the aircraft can remain clear of obstructions throughout the approach, landing, and go- around phase of flight, as well as land within the distance required by the FAA. Although the majority of in- depth performance planning for an instrument flight is normally done prior to the aircraft's departure, a general review of performance considerations is usually conducted prior to commencing an instrument approach.

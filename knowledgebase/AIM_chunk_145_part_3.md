@@ -1,5 +1,0 @@
-reason for the closure, duration of the closure, airfield configuration and the existence and the hours of operation of an airport traffic control tower. Pilots should check NOTAMs and the Automated Terminal Information System (ATIS) for local runway and taxiway closure information.
-
-3. Temporarily closed taxiways are usually treated as hazardous areas, in which no part of an aircraft may enter, and are blocked with barricades. However, as an alternative a yellow cross may be installed at each entrance to the taxiway.
-
-f. Helicopter Landing Areas. The markings illustrated in FIG 2-3-23 are used to identify the landing and takeoff area at a public use heliport and hospital heliport. The letter "H" in the markings is oriented to align with the intended direction of approach. FIG 2-3-23 also depicts the markings for a closed airport.

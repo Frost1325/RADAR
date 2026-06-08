@@ -1,5 +1,0 @@
- realized at altitudes less than the wingspan. During the final phases of the approach as the aircraft nears the ground, a reduction of power is necessary to offset the increase in lift caused from ground effect otherwise the aircraft will have a tendency to climb above the desired glidepath (GP).
-
-## Axes of an Aircraft
-
-The axes of an aircraft are three imaginary lines that pass through an aircraft's CG. The axes can be considered as imaginary axles around which the aircraft turns. The three axes pass through the CG at \(90^{\circ}\) angles to each other. The axis passes through the CG and parallel to a line from nose to tail is the longitudinal axis, the axis that passes parallel to a line from wingtip to wingtip is the lateral axis, and the axis that passes through the CG at right angles to the other two axes is the vertical axis. Whenever an aircraft changes its flight attitude or position in flight, it rotates about one or more of the three axes. [Figure 5- 18]

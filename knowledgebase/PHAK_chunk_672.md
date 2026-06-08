@@ -1,5 +1,0 @@
- authority digital engine control (FADEC, discussed more fully later in the chapter) is standard on such equipped aircraft, which minimizes complication of engine control. By 2007, various jet- fueled piston aircraft had logged well over 600,000 hours of service.
-
-## Propeller
-
-The propeller is a rotating airfoil, subject to induced drag, stalls, and other aerodynamic principles that apply to any airfoil. It provides the necessary thrust to pull, or in some cases push, the aircraft through the air. The engine power is used to rotate the propeller, which in turn generates thrust very similar to the manner in which a wing produces lift. The amount of thrust produced depends on the shape of the airfoil, the angle of attack (AOA) of the propeller blade, and the revolutions per minute (rpm) of the engine. The propeller itself is twisted so the blade angle changes from hub to tip. The greatest angle of incidence, or the highest pitch, is at the hub while the smallest angle of incidence or smallest pitch is at the tip. [Figure 7- 6]

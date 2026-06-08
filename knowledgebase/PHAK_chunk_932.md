@@ -1,7 +1,0 @@
-It is important to monitor vacuum pressure during flight, because the attitude and heading indicators may not provide reliable information when suction pressure is low. The vacuum, or suction, gauge is generally marked to indicate the normal range. Some aircraft are equipped with a warning light that illuminates when the vacuum pressure drops below the acceptable level.
-
-When the vacuum pressure drops below the normal operating range, the gyroscopic instruments may become unstable and inaccurate. Cross- checking the instruments routinely is a good habit to develop.
-
-## Turn Indicators
-
-Aircraft use two types of turn indicators: turn- and- slip indicators and turn coordinators. Because of the way the gyro is mounted, the turn- and- slip indicator shows only the rate of turn in degrees per second. The turn coordinator is mounted at an angle, or canted, so it can initially show roll rate. When the roll stabilizes, it indicates rate of turn. Both instruments indicate turn direction and quality (coordination), and also serve as a backup source of bank information in the event an attitude indicator fails. Coordination is achieved by referring to the inclinometer, which consists of a liquid- filled curved tube with a ball inside. [Figure 8- 21]

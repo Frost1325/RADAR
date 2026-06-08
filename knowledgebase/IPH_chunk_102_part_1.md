@@ -1,3 +1,0 @@
-## Airway/Route Depiction
-
-IFR en route charts show all IFR radio NAVAIDs that have been flight- checked by the FAA and are operational. The FAA, Aeronautical Information Services publishes and distributes U.S. Government Civil Aeronautical Charts and flight information publications. IFR en route navigation information is provided on three charts: IFR en route low altitude chart, IFR en route high altitude chart, and Terminal Area Chart (TAC). [Figure 2- 24A and B]

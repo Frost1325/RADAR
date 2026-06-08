@@ -1,7 +1,0 @@
-. They may be embedded in heavy rain associated with a thunderstorm or in light rain in benign appearing virga. When there is little or no precipitation at the surface accompanying the microburst, a ring of blowing dust may be the only visual clue of its existence.
-
-4. Duration. An individual microburst will seldom last longer than 15 minutes from the time it strikes the ground until dissipation. The horizontal winds continue to increase during the first 5 minutes with the maximum intensity winds lasting approximately 2-4 minutes. Sometimes microbursts are concentrated into a line structure, and under these conditions, activity may continue for as long as an hour. Once microburst activity starts, multiple microbursts in the same general area are not uncommon and should be expected.
-
-e. Microburst wind shear may create a severe hazard for aircraft within 1,000 feet of the ground, particularly during the approach to landing and landing and take-off phases. The impact of a microburst on aircraft which have the unfortunate
-
-experience of penetrating one is characterized in FIG 7- 1- 15. The aircraft may encounter a headwind (performance increasing) followed by a downdraft and tailwind (both performance decreasing), possibly resulting in terrain impact

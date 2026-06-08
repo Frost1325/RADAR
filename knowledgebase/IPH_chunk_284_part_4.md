@@ -1,5 +1,0 @@
-approach. Differences, as compared to other simultaneous approaches, are listed below:
-
-- Immediately follow break out instructions as soon as safety permits.
-
-- Use of the AAUP.- Use of dual VHF communications.- Completion of required PRM training.- Handflving any breakout instruction. It is important to note that descending breakouts, though rare, may be issued. Flight crews will never be issued breakout instructions that clear them to an altitude below the MVA, and they are not required to descend at more than 1,000 fpm.- Traffic Alert and Collision Avoidance System (TCAS) is not required to conduct a PRM approach. For aircraft so equipped, if the controller's climb/descend instruction differs from the TCAS resolution advisory (RA), pilots must follow the RA while continuing to follow the controller's turn instruction. Report this deviation to ATC as soon as practical.

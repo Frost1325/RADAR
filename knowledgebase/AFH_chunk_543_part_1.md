@@ -1,5 +1,0 @@
-## Combined Maneuvers
-
-Combined maneuvers, such as climbing or descending turns, should be avoided if at all possible by an untrained instrument pilot. Combining maneuvers only compounds the problems encountered in individual maneuvers and increases the risk of control loss. The objective is to keep the airplane under control by maintaining as much of the airplane's natural equilibrium as possible. Deviating as little as possible from straight- and- level flight attitude makes this much easier.
-
-When being assisted by ATC, the pilot may detect a sense of urgency while being directed to change heading and/or altitude. This sense of urgency reflects a normal concern for safety on the part of the controller. Nevertheless, the pilot should not let this prompting lead to rushing into a maneuver that could result in loss of control. It's reasonable to ask the controller to slow down, if this becomes an issue.

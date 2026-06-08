@@ -1,1 +1,0 @@
-## 5-6-3. Law Enforcement Operations by Civil and Military Organizations

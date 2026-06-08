@@ -1,7 +1,0 @@
-### a. Direct Communications, Controllers and Pilots.
-
-1. ARTCCs are capable of direct communications with IFR air traffic on certain frequencies. Maximum communications coverage is possible through the use of Remote Center Air/Ground (RCAG) sites comprised of both VHF and UHF transmitters and receivers. These sites are located throughout the U.S. Although they may be several hundred miles away from the ARTCC, they are remoted to the various ARTCCs by land lines or microwave links. Since IFR operations are expedited through the use of direct communications, pilots are requested to use these frequencies strictly for communications pertinent to the control of IFR aircraft. Flight plan filing, en route weather, weather forecasts, and similar data should be requested through FSSs, company radio, or appropriate military facilities capable of performing these services.
-
-2. An ARTCC is divided into sectors. Each sector is handled by one or a team of controllers and has its own sector discrete frequency. As a flight progresses from one sector to another, the pilot is requested to change to the appropriate sector discrete frequency.
-
-3. Controller Pilot Data Link Communications (CPDLC) is a system that supplements air/ground voice communications. As a result, it expands two-way air traffic

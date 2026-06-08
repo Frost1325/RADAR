@@ -1,3 +1,0 @@
-9-37, 14-6, 14-8, 18-5</td></tr><tr><td>Ground operation</td><td>2-1, 2-12, 2-14, 13-14, 14-1, 14-8, 15-3, 15-6, 17-4</td></tr></table>
-
-<table><tr><td>H</td><td></td></tr><tr><td>Hand propping</td><td>2-16, 2-17</td></tr><tr><td>Hard landing</td><td>9-20, 9-22, 9-23, 9-35, 12-4, 13-22, 16-23, 17-15</td></tr><tr><td>High final approach</td><td>9-30</td></tr><tr><td>High-performance airplane</td><td>12-1, 12-17, 12-

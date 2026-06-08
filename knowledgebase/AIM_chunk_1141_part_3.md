@@ -1,3 +1,0 @@
-. Segments of the horizon circle which may have a significantly different visibility may be reported in the remarks section of the weather report; i.e., the southeastern quadrant of the horizon circle may be determined to be 2 miles in mist while the remaining quadrants are determined to be 3 miles in mist.
-
-c. When the prevailing visibility at the usual point of observation, or at the tower level, is less than 4 miles, certificated tower personnel will take visibility observations in addition to those taken at the usual point of observation. The lower of these two values will be used as the prevailing visibility for aircraft operations.

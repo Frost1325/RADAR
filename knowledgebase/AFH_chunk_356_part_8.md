@@ -1,3 +1,0 @@
-eller wear, or poor technique in airspeed, bank angle, and rudder control can easily negate even a 200 fpm rate of climb.
-
-A pre- takeoff safety brief clearly defines all pre- planned emergency actions to all crewmembers. Even if operating the aircraft alone, the pilot should review and be familiar with takeoff emergency considerations. Indecision at the moment an emergency occurs degrades reaction time and the ability to make a proper response.

@@ -1,7 +1,0 @@
-compressor. The remaining energy causes rapid air expansion in the nozzle of the tail pipe, accelerates the gas to a high velocity, and produces thrust. [Figure 16- 1]
-
-The large first stage design of a turbofan engine, a ducted fan, diverts some of the air around the engine core. This cooler bypass air produces some of the thrust. The amount of air that bypasses the core compared to the amount compressed for combustion determines a turbofan's bypass ratio. In a turbofan engine, the compressor and turbine sections divide into sub- sections. Each sub- section in the turbine section connects to a specific sub- section of the compressor section via a split- spool shaft. [Figure 16- 2]
-
-Air drawn into the engine for the gas generator is further compressed and constitutes the core airflow. While a turbojet engine uses the entire gas generator's output to produce thrust in the form of a high- velocity exhaust gas jet, the lower velocity and cooler bypass air produces some of the thrust produced by a turbofan engine.
-
-The turbofan engine design increases the thrust of the jet engine, particularly at lower speeds and altitudes. Although less efficient at higher altitudes, the turbofan engine increases acceleration, decreases

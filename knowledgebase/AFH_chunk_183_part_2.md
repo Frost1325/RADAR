@@ -1,7 +1,0 @@
-10\) the span, the reduction in induced drag is about 50 percent. At high speeds where parasite drag dominates, induced drag is a small part of the total drag. Consequently, ground effect is a greater concern during takeoff and landing.
-
-At takeoff, the takeoff roll, lift- off, and the beginning of the initial climb are accomplished within the ground effect area. The ground effect causes local increases in static pressure, which cause the airspeed indicator and altimeter to indicate slightly lower values than they should and usually cause the vertical speed indicator to indicate a descent. As the airplane lifts off and climbs out of the ground effect area, the following occurs:
-
-- The airplane requires an increase in AOA to maintain lift coefficient.- The airplane experiences an increase in induced drag and thrust required.- The airplane experiences a pitch-up tendency and requires less elevator travel because of an increase in downwash at the horizontal tail.- The airplane experiences a reduction in static source pressure and a corresponding increase in indicated airspeed.
-
-\(\mathrm{V}_{\mathrm{X}}\) is the speed at which the airplane achieves the greatest gain in altitude for a given distance over the ground. It is usually slightly less than \(\mathrm{V}_{\mathrm{Y

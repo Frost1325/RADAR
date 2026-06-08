@@ -1,1 +1,0 @@
-, and the aircraft must have sufficient fuel (reference 14 CFR 121.349, 125.203, 129.17, and 135.165). These rules ensure the safety of the operation by preventing a single point of failure.

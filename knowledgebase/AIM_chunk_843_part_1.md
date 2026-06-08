@@ -1,7 +1,0 @@
-## 5-4-4. Advance Information on Instrument Approach
-
-a. When landing at airports with approach control services and where two or more IAPs are published, pilots will be provided in advance of their arrival with the type of approach to expect or that they may be vectored for a visual approach. This information will be broadcast either by a controller or on ATIS. It will not be furnished when the visibility is three miles or better and the ceiling is at or above the highest initial approach altitude established for any low altitude IAP for the airport.
-
-b. The purpose of this information is to aid the pilot in planning arrival actions; however, it is not an ATC clearance or commitment and is subject to change. Pilots should bear in mind that fluctuating weather, shifting winds, blocked runway, etc., are conditions which may result in changes to approach information previously received. It is important that pilots advise ATC immediately they are unable to execute the approach ATC advised will be used, or if they prefer another type of approach.
-
-c. Aircraft destined to uncontrolled airports, which have automated weather data with broadcast capability, should monitor the ASOS/AWSS/AWOS frequency to ascertain the current weather for the airport. The pilot must advise

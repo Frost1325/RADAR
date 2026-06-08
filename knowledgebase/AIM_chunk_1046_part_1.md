@@ -1,7 +1,0 @@
-## NOTE-
-
-Code 7500 will never be assigned by ATC without prior notification from the pilot that the aircraft is being subjected to unlawful interference. The pilot should refuse the assignment of Code 7500 in any other situation and inform the controller accordingly. Code 7500 will trigger the special emergency indicator in all radar ATC facilities.
-
-c. Air traffic controllers will acknowledge and confirm receipt of transponder Code 7500 by asking the pilot to verify it. If the aircraft is not being subjected to unlawful interference, the pilot should respond to the query by broadcasting in the clear that the aircraft is not being subjected to unlawful interference. Upon receipt of this information, the controller will request the pilot to verify the code selection depicted in the code selector windows in the transponder control panel and change the code to the appropriate setting. If the pilot replies in the affirmative or does not reply, the controller will not ask further questions but will flight follow, respond to pilot requests and notify appropriate authorities.
-
-d. If it is possible to do so without jeopardizing the safety of the flight, the pilot of a hijacked passenger aircraft, after departing from the cleared routing over which the aircraft was operating, will attempt to do one or more of

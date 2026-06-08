@@ -1,5 +1,0 @@
-for certain military noncollocated VOR and TACAN facilities which serve the same area but which may be separated by distances up to a few miles.
-
-f. VOR/DME, VORTAC, ILS/DME, and LOC/DME facilities are identified by synchronized identifications which are transmitted on a time share basis. The VOR or localizer portion of the facility is identified by a coded tone modulated at 1020 Hz or a combination of code and voice. The TACAN or DME is identified by a coded tone modulated at 1350 Hz. The DME or TACAN coded identification is transmitted one time for each three or four times that the VOR or localizer coded identification is transmitted. When either the VOR or the DME is inoperative, it is important to recognize which identifier is retained for the operative facility. A single coded identification with a repetition interval of approximately 30 seconds indicates that the DME is operative.
-
-g. Aircraft equipment which provides for automatic DME selection assures reception of azimuth and distance information from a common source. when designated VOR/DME, VORTAC and ILS/DME navigation facilities are selected. Pilots are cautioned to disregard any distance

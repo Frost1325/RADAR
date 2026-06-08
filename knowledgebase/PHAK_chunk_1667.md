@@ -1,5 +1,0 @@
-, the sequence \(\mathrm{TH} \pm\) variation \((\mathrm{V}) =\) magnetic heading \((\mathrm{MH}) \pm\) deviation (D) \(=\) compass heading (CH) is followed to arrive at compass heading. [Figure 16- 16]
-
-By determining the amount of drift, the pilot can counteract the effect of the wind and make the track of the aircraft coincide with the desired course. If the mass of air is moving across the course from the left, the aircraft drifts to the right, and a correction must be made by heading the aircraft sufficiently to the left to offset this drift. In other words, if the wind is from the left, the correction is made by pointing the aircraft to the left a certain number of degrees, therefore correcting for wind drift. This is the wind correction angle (WCA) and is expressed in terms of degrees right or left of the TC. [Figure 16- 17]
-
-To summarize:

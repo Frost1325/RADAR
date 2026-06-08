@@ -1,5 +1,0 @@
-A) merged Special Use Airspace (SUA) and Temporary Flight Restriction (TFR) Web site, a single comprehensive source to review airspace closure information. Comments and enhancements are welcomed from the communities of interest; contact Milops Helpdesk in the AIM office. More details regarding this release, including new features and known issues, are available within the SUA TFR v3.0 Release Notes at the following link SUA TFR v3.0 Release Notes.
-
-Welcome to the public preview release of the Federal Aviation Administration (FAA) merged Special Use Airspace (SUA) and Temporary Flight Restriction (TFR) Web site, a single comprehensive source to review airspace closure information. Comments and enhancements are welcomed from the communities of interest; contact Milops Helpdesk in the AIM office. More details regarding this release, including new features and known issues, are available within the SUA TFR v3.0 Release Notes at the following link: SUA TFR v3.0 Release Notes.
-
-5- 18 Chapter 6

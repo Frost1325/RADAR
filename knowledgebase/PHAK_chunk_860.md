@@ -1,3 +1,0 @@
- in motion; therefore, it can be thought of as a pressure due to motion. Wind also generates dynamic pressure. It does not matter if the aircraft is moving through still air at 70 knots or if the aircraft is facing a wind with a speed of 70 knots, the same dynamic pressure is generated.
-
-When the wind blows from an angle less than \(90^{\circ}\) off the nose of the aircraft, dynamic pressure can be depicted on the ASI. The wind moving across the airfoil at 20 knots is the same as the aircraft moving through calm air at 20 knots. The pitot tube captures the dynamic pressure, as well as the static pressure that is always present.

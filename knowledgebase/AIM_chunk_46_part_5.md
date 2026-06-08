@@ -1,3 +1,0 @@
-to retrieve the procedure by name from the aircraft navigation database, not just as a manually entered series of waypoints. Manual entry of waypoints using latitude/longitude or place/bearing is not permitted for approach procedures.
-
-(4) Prior to using a procedure or waypoint retrieved from the airborne navigation database, the pilot should verify the validity of the database. This verification should include the following preflight and inflight steps:

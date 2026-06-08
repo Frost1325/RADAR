@@ -1,3 +1,0 @@
- through a gear train at one speed, two speeds, or variable speeds. In addition, superchargers can have one or more stages. Each stage also provides an increase in pressure and superchargers may be classified as single stage, two stage, or multistage, depending on the number of times compression occurs.
-
-An early version of a single- stage, single- speed supercharger may be referred to as a sea- level supercharger. An engine equipped with this type of supercharger is called a sea- level engine. With this type of supercharger, a single gear- driven impeller is used to increase the power produced by an engine at all altitudes. The drawback with this type of supercharger is a decrease in engine power output with an increase in altitude.

@@ -1,5 +1,0 @@
- Central \((90^{\circ})\) , Mountain \((105^{\circ})\) , and Pacific \((120^{\circ})\) . The dividing lines are somewhat irregular because communities near the boundaries often find it more convenient to use time designations of neighboring communities or trade centers.
-
-Figure 16- 5 shows the time zones in the conterminous United States. When the sun is directly above the 90th meridian, it is noon Central Standard Time. At the same time, it is \(1\mathrm{p.m}\) . Eastern Standard Time, \(11\mathrm{a.m}\) . Mountain Standard Time, and \(10\mathrm{a.m}\) . Pacific Standard Time. When Daylight Saving Time is in effect, generally between the second Sunday in March and the first Sunday in November, the sun is directly above the 75th meridian at noon, Central Daylight Time.
-
-These time zone differences must be taken into account during long flights eastward—especially if the flight must be completed before dark. Remember, an hour is lost when

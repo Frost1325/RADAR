@@ -1,3 +1,0 @@
-## Alternator/Generator
-
-On a multigenie aircraft, each engine has an alternator or generator installed. Alternator or generator paralleling circuitry matches the output of each engine's alternator/generator so that the electrical system load is shared equally between them. In the event of an alternator/generator failure, the inoperative unit can be isolated and the entire electrical system powered from the remaining one. Depending upon the electrical capacity of the alternator/generator, the pilot may need to reduce the electrical load (referred to as load shedding) when operating on a single unit. The AFM/POH contains system description and limitations.

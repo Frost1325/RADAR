@@ -1,1 +1,0 @@
-pilot believes the instrument references will be easy to use, the pilot also receives an overview of the natural horizon and may subconsciously rely on it more than the attitude indicator. If the natural horizon were to suddenly disappear, the untrained instrument pilot would be subject to vertigo, spatial disorientation, and inevitable control loss.

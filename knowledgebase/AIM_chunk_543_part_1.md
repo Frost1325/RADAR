@@ -1,1 +1,0 @@
-## 4-5-7. Automatic Dependent Surveillance-Broadcast (ADS-B) Services

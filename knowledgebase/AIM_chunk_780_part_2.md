@@ -1,5 +1,0 @@
-permit, maintain a listening watch on the affected frequency while attempting to comply with the following recommended communications procedures:
-
-1. If two-way communications cannot be established with the ARTCC after changing frequencies, a pilot should attempt to recontact the transferring controller for the assignment of an alternative frequency or other instructions.
-
-2. When an ARTCC radio frequency failure occurs after two-way communications have been established, the pilot should attempt to reestablish contact with the center on any other known ARTCC frequency, preferably that of the next responsible sector when practicable, and ask for instructions. However, when the next normal frequency change along the route is known to involve another ATC facility, the pilot should contact that facility, if feasible, for instructions. If communications cannot be reestablished by either method, the pilot is expected to request communications instructions from the FSS appropriate to the route of flight.

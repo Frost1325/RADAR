@@ -1,3 +1,0 @@
-the proper nose above the horizon attitude by rapid and positive use of the controls.
-
-f. After Touchdown. In most cases drift, caused by crosswind can be ignored; the forces acting on the aircraft after touchdown are of such magnitude that drift will be only a secondary consideration. If the aircraft is under good control, the "crab" may be kicked out with rudder just prior to touchdown. This is more important with high wing aircraft, for they are laterally unstable on the water in a crosswind and may roll to the side in ditching.

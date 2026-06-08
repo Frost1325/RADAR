@@ -1,7 +1,0 @@
-## 7-5-6. Mountain Flying
-
-a. Your first experience of flying over mountainous terrain (particularly if most of your flight time has been over the flatlands of the midwest) could be a never-to-be-forgotten nightmare if proper planning is not done and if you are not aware of the potential hazards awaiting. Those familiar section lines are not present in the mountains; those flat, level fields for forced landings are practically nonexistent; abrupt changes in wind direction and velocity occur; severe updrafts and downdrafts are common, particularly near or above abrupt changes of terrain such as cliffs or rugged areas; even the clouds look different and can build up with startling rapidity. Mountain flying need not be hazardous if you follow the recommendations below.
-
-b. File a Flight Plan. Plan your route to avoid topography which would prevent a safe forced landing. The route should be over populated areas and well known mountain passes. Sufficient altitude should be maintained to permit gliding to a safe landing in the event of engine failure.
-
-c. Don't fly a light aircraft when the winds aloft, at your proposed altitude, exceed 35 miles per hour. Expect the winds to be of much greater velocity over mountain passes than reported a

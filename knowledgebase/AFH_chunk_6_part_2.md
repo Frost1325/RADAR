@@ -1,3 +1,0 @@
-DPE's certification activities.
-
-The FAA selects highly qualified individuals to be DPEs. These individuals have good industry reputations for professionalism, high integrity, a demonstrated willingness to serve the public, and adhere to FAA policies and procedures in certification matters. A DPE is expected to administer practical tests with the same degree of professionalism, using the same methods, procedures, and standards as an FAA ASI. Note that a DPE is not an FAA ASI. A DPE cannot initiate enforcement action, investigate accidents, or perform surveillance activities on behalf of the FAA. However, the majority of FAA practical tests at the recreational, private, and commercial pilot level are administered by DPEs.

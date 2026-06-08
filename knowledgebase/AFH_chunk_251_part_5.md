@@ -1,7 +1,0 @@
-approach angle and close to the airplane's stalling speed, the initiation of the round out or flare needs to be judged accurately to avoid flying into the ground or stalling prematurely and sinking rapidly. A lack of floating during the flare with sufficient control to touch down properly is verification that the approach speed was correct.
-
-Touchdown should occur at the minimum controllable airspeed with the airplane in approximately the pitch attitude that results in a power- off stall when the throttle is closed. Care should be exercised to avoid closing the throttle too rapidly, as closing the throttle may result in an immediate increase in the rate of descent and a hard landing. Note that a small amount of power provides more airflow over the elevator giving it more authority at low airspeeds to enable the pilot to flare. There is a risk that low airspeed and a windmilling propeller blocking airflow over the elevator may make it difficult to flare.
-
-Upon touchdown, the airplane is held in this positive pitch attitude as long as the elevators remain effective and if recommended by the manufacturer. This provides aerodynamic braking to assist in deceleration. However, immediately upon touchdown of the nose- wheel,
-
-maximum braking is applied to minimize the after- landing roll. For most airplanes, aerodynamic drag is the

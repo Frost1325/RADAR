@@ -1,5 +1,0 @@
- system that utilizes the static air pressure and the dynamic pressure due to the motion of the aircraft through the air. These combined pressures are utilized for the operation of the airspeed indicator (ASI), altimeter, and vertical speed indicator (VSI). [Figure 8- 1]
-
-## Impact Pressure Chamber and Lines
-
-The pitot tube is utilized to measure the total combined pressures that are present when an aircraft moves through the air. Static pressure, also known as ambient pressure, is always present whether an aircraft is moving or at rest. It is simply the barometric pressure in the local area. Dynamic pressure is present only when an aircraft is in motion; therefore, it can be thought of as a pressure due to motion. Wind also generates dynamic pressure. It does not matter if the aircraft is moving through still air at 70 knots or if the aircraft is facing a wind with a speed of 70 knots, the same dynamic pressure is generated.

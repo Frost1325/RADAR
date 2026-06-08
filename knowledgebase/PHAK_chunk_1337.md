@@ -1,7 +1,0 @@
- enhanced by a weather observer. In any form, the surface observation provides valuable information about individual airports around the country. Although the reports cover only a small radius, the pilot can generate a good picture of the weather over a wide area when many reporting stations are viewed together.
-
-## Air Route Traffic Control Center (ARTC)
-
-Air Route Traffic Control Center (ARTC)The Air Route Traffic Control Center (ARTC) facilities are responsible for maintaining separation between flights conducted under instrument flight rules (IFR) in the en route structure. Center radars (Air Route Surveillance Radar (ARSR)) acquire and track transponder returns using the same basic technology as terminal radars. Earlier center radars displayed weather as an area of slashes (light precipitation) and Hs (moderate rainfall). Because the controller could not detect higher levels of precipitation, pilots had to be wary of areas showing moderate rainfall. Newer radar displays show weather as three shades of blue. Controllers can select the level of weather to be displayed. Weather displays of higher levels of intensity make it difficult for controllers to see aircraft data blocks, so pilots should not expect air traffic control (ATC) to keep weather displayed continuously.
-
-## Upper Air Observations

@@ -1,7 +1,0 @@
-, that a check of the availability and status of lighting systems at the destination airport is made. This information can be found on aeronautical charts and in the Chart Supplements. The status of each facility can be determined by reviewing pertinent Notices to Airmen (NOTAMs).
-
-Most airports have rotating beacons. The beacon rotates at a constant speed, thus producing a series of light flashes at regular intervals. These flashes may consist of a white flash and one or two different colors that are used to identify various types of landing areas. For example:
-
-- Lighted civilian land airports—alternating white and green lights- Lighted civilian water airports—alternating white and yellow lights- Lighted military airports—alternating white and green lights, but are differentiated from civil airports by dual peaked (two quick) white flashes, then green
-
-Beacons producing red flashes indicate obstructions or areas considered hazardous to aerial navigation. Steady- burning red lights are used to mark obstructions on or near airports and sometimes to supplement flashing lights on en route obstructions. High- intensity, flashing white lights are used to mark some supporting structures of overhead transmission lines that stretch across rivers, chasms, and gorges. These high- intensity lights are also used to identify tall

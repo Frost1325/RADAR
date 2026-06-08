@@ -1,5 +1,0 @@
-Authorization (IA); however, the aircraft maintenance manual provides the procedures to follow. The FAA does not issue Airworthiness Directives (ADs) for S- LSAs or E- LSAs. If an FAA- certified component is installed on an LSA, the FAA issues any pertaining ADs for that specific component. Manufacturer safety directives are not distributed by the FAA. S- LSA owners should comply with:
-
-Safety directives (alerts, bulletins, and notifications) issued by the LSA manufacturer ADs if any FAA- certificated components are installed Safety alerts (immediate action) Service bulletins (recommending future action) Safety notifications (informational)
-
-S- LSA compliance with maintenance requirements provides greater latitude for owners and operators of these airplanes. Because of the options in complying with the maintenance requirements, pilots who are transitioning to LSAs should understand how maintenance is accomplished; who is providing the maintenance services; and verify that all compliance requirements have been met.

@@ -1,7 +1,0 @@
-plane Flight Manual or Pilot's Operating Handbook. The minimum distances required for takeoff and landing obtained either in planning prior to takeoff or in performance assessments conducted at the time of landing must fall within the applicable declared distances before the pilot can accept that runway for takeoff or landing.
-
-(c) Runway design standards may impose restrictions on the amount of runway available for use in takeoff and landing that are not apparent from the reported physical length of the runway or from runway markings and lighting. The runway elements of Runway Safety Area (RSA), Runway Object Free Area (ROFA), and Runway Protection Zone (RPZ) may reduce a runway's declared distances to less than the physical length of the runway at geographically constrained airports (See FIG 4- 3- 6). When considering the amount of runway available for use in takeoff or landing performance calculations, the declared distances published for a runway must always be used in lieu of the runway's physical length.
-
-REFERENCE- AC 150/5300- 13, Airport Design.
-
-(d) While some runway elements associated with declared distances may be identifiable through runway markings or lighting (for example, a displaced threshold or a stopway), the individual declared distance limits are not marked

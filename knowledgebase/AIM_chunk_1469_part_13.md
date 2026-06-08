@@ -1,7 +1,0 @@
-s are not synonymous with Preferred IFR Routes but may be listed as such as they do accomplish essentially the same purpose.
-
-(See PREFERRED IFR ROUTES.)
-
-PREFERRED IFR ROUTES- Routes established between busier airports to increase system efficiency and capacity. They normally extend through one or more ARTCC areas and are designed to achieve balanced traffic flows among high density terminals. IFR clearances are issued on the basis of these routes except when severe weather avoidance procedures or other factors dictate otherwise. Preferred IFR Routes are listed in the Airport/Facility Directory. If a flight is planned to or from an area having such routes but the departure or arrival point is not listed in the Airport/Facility Directory, pilots may use that part of a Preferred IFR Route which is appropriate for the departure or arrival point that is listed. Preferred IFR Routes are correlated with DPs and STARs and may be defined by airways, jet routes, direct routes between NAVAIDs, Waypoints, NAVAID radials/ DME, or any combinations thereof.
-
-(See CENTER'S AREA.) (See INSTRUMENT DEPARTURE PROCEDURE.) (See PREFERENTIAL ROUTES.) (See STANDARD TERMINAL ARRIVAL.) (Refer to AIRPORT/F

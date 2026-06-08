@@ -1,3 +1,0 @@
-Land and Hold Short Operations</td></tr><tr><td>LAWRS</td><td>Limited Aviation Weather Reporting<br>Station</td></tr><tr><td>LDA</td><td>Localizer Type Directional Aid</td></tr></table>
-
-<table><tr><td>Abbreviation/ Acronym</td><td>Meaning</td></tr><tr><td>LDA/PRM...</td><td>Localizer Type Directional Aid/Precision Runway Monitor</td></tr><tr><td>LGA...</td><td>LaGuardia Airport</td></tr><tr><td>LIRL...</td><td>Low Intensity Runway Lights</td></tr><tr><td>LLWAS...</td><td>Low Level Wind Shear Alert System</td></tr><tr><td>LLWAS NE...</td><td>Low Level Wind Shear Alert System<br>Network Expansion</td></tr><tr><td>LLWAS-RS...</td><td>Low Level Wind Shear Alert System<br>Relocation/Sustainment</td></tr><tr><td>LNAV...</td><td>Lateral Navigation</td></tr><tr

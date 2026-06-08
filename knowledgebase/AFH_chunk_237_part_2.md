@@ -1,3 +1,0 @@
-around is initiated, it is desirable to have the landing gear in the down- and- locked position. After a positive rate of climb is established, the landing gear is retracted.
-
-The landing gear is retracted only after the initial or rough trim is accomplished and when it is certain the airplane will remain airborne. During the initial part of an extremely low go- around, it is possible for the airplane to settle onto the runway and bounce. This situation is not particularly dangerous provided the airplane is kept straight and a constant, safe pitch attitude is maintained. With the application of power, the airplane attains a safe flying speed rapidly and the advanced power cushions any secondary touchdown.

@@ -1,5 +1,0 @@
-</td><td>X</td><td>X</td><td>X</td><td>X</td><br>X</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>
-
-REFERENCE- FAA Order 7900.5B, Surface Weather Observing, for element reporting.
-
-<table><tr><td colspan="2">SERVICE LEVEL A</td></tr><tr><td>Service Level A consists of all the elements of Service Levels B, C and D plus the elements listed to the right, if observed.</td><td>10 minute longline RVR at precedented sites or<br>additional visibility increments of 1/8, 1/16 and 0<br>Sector visibility<br>Variable sky condition<br>Cloud layers above 12,000 feet and cloud types<br>Widespread dust, sand and other obscurations<br>Volcanic eruptions</td></tr><tr><td colspan="2">SERVICE LEVEL B</td></tr><tr><td>Service Level B consists of all the elements of Service Levels C and D plus the

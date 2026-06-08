@@ -1,7 +1,0 @@
- Upon realizing that he was not going to make the runway, the pilot increased power to both engines causing an enormous yaw to the left (the left propeller was feathered) whereupon the aircraft started to turn left. In desperation, the instructor closed both throttles and the aircraft hit the ground and was substantially damaged.
-
-This case is interesting because it highlights two particular issues. First, taking action without forethought can be just as dangerous as taking no action at all. In this case, the pilot's actions were incorrect; yet, there was sufficient time to take the necessary steps to analyze the simulated emergency. The second and more subtle issue is that decisions made under pressure are sometimes executed based upon limited experience and the actions taken may be incorrect, incomplete, or insufficient to handle the situation.
-
-## Detect (the Problem)
-
-Problem detection is the first step in the decision- making process. It begins with recognizing a change occurred or an expected change did not occur. A problem is perceived first by the senses and then it is distinguished through insight and experience. These same abilities, as well as an objective analysis of all available information, are used to determine the nature and severity of the problem. One critical error made during the decision- making process is incorrectly

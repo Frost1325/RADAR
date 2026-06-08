@@ -1,7 +1,0 @@
-## NOTE-
-
-When in doubt, consult with a FAA Flight Service Station Specialist.
-
-h. With increased access to weather products via the public Internet, the aviation community has access to an over whelming amount of weather information and data that support self-briefing. FAA AC 00-45 (current edition) describes the weather products distributed by the NWS. Pilots and operators using the public Internet to access weather from a third party vendor should request and/or review an appropriate description of services and provider disclosure. This should include, but. is not limited to, the type of weather product (for example, current weather or forecast weather) the currency of the product (i.e., product issue and valid times), and the relevance of. the product. Pilots and operators should be cautious when using unfamiliar weather products and when in doubt, consult with a Flight Service Specialist.
-
-i. The development of new weather products, coupled with the termination of some legacy textual and graphical products may create confusion between regulatory requirements and the new products. All flight-related, aviation weather decisions must be based on all available pertinent weather products. As every flight is unique and the weather conditions for that flight vary hour by hour, day to day, multiple weather products may be necessary to

@@ -1,1 +1,0 @@
-## 6-2-4. Emergency Locator Transmitter (ELT)

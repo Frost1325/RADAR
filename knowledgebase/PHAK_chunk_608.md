@@ -1,7 +1,0 @@
- adhere to at the higher AOA. With this shape, the airflow separation starts at the trailing edge and progresses forward gradually as AOA is increased.
-
-The pointed leading edge necessary for high- speed flight results in an abrupt stall and restricts the use of trailing edge flaps because the airflow cannot follow the sharp curve
-
-around the wing leading edge. The airflow tends to tear loose rather suddenly from the upper surface at a moderate AOA. To utilize trailing edge flaps, and thus increase the \(\mathrm{C_{L - MAX}}\) , the wing must go to a higher AOA without airflow separation. Therefore, leading edge slots, slats, and flaps are used to improve the low- speed characteristics during takeoff, climb, and landing. Although these devices are not as powerful as trailing edge flaps, they are effective when used full span in combination with high- lift trailing edge flaps. With the aid of these sophisticated high- lift devices, airflow separation is delayed and the \(\mathrm{C_{L - MAX}}\) is increased considerably. In fact, a 50 knot reduction in stall speed is not uncommon.
-
-The operational requirements of a large jet transport aircraft necessitate large pitch trim changes. Some requirements are:

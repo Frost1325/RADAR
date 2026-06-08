@@ -1,7 +1,0 @@
-## Crosswind After-Landing Roll
-
-Particularly during the after- landing roll, special attention should be given to maintaining directional control by the use of rudder or nose- wheel steering, while keeping the upwind wing from rising by the use of aileron. When an airplane is airborne, it moves with the air mass in which it is flying regardless of the airplane's heading and speed. When an airplane is on the ground, it is unable to move with the air mass (crosswind) because of the resistance created by ground friction on the wheels.
-
-Characteristically, an airplane has a greater profile or side area behind the main landing gear than forward of the gear. With the main wheels acting as a pivot point and the greater surface area exposed to the crosswind behind that pivot point, the airplane tends to turn or weathervane into the wind.
-
-The relative wind acting on an airplane during the after- landing roll is the result of two factors. One is the natural wind, which acts in the direction the air mass is traveling. It has a headwind component acting along the airplane's ground track and a crosswind component acting \(90^{\circ}\) to its track. The other factor is the wind induced by the forward movement of

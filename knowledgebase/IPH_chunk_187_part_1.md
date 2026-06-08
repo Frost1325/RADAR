@@ -1,7 +1,0 @@
-## Approach Clearance
-
-The approach clearance provides guidance to a position from where the pilot can execute the approach. It is also a clearance to fly that approach. If only one approach procedure exists, or if ATC authorizes the aircrew to execute the approach procedure of their choice, the clearance may be worded as simply as "... cleared for approach." If ATC wants to restrict the pilot to a specific approach, the controller names the approach in the clearance. For example, "... cleared ILS Runway 35 Right approach."
-
-When the landing is to be made on a runway that is not aligned with the approach being flown, the controller may issue a circling approach clearance, such as "... cleared for VOR Runway 17 approach, circle to land Runway 23." Approaches whose final approach segment is more than 30 degrees different from the landing runway alignment are always designated as circling approaches. Unless a specific landing runway is specified in the approach clearance, the pilot may land on any runway. Pilots landing at non- towered airports are reminded of the importance of making radio calls as set forth in the AIM.
-
-When cleared for an approach prior to reaching a holding fix, ATC expects the pilot to continue to the holding

@@ -1,5 +1,0 @@
- corresponding increase in cabin altitude. Differential control is used to prevent the maximum differential pressure, for which the fuselage was designed, from being exceeded. This differential pressure is determined by the structural strength of the cabin and often by the relationship of the cabin size to the probable areas of rupture, such as window areas and doors.
-
-The cabin air pressure safety valve is a combination pressure relief, vacuum relief, and dump valve. The pressure relief valve prevents cabin pressure from exceeding a predetermined differential pressure above ambient pressure. The vacuum relief prevents ambient pressure from exceeding cabin pressure by allowing external air to enter the cabin when ambient pressure exceeds cabin pressure. The flight deck control switch actuates the dump valve. When this switch is positioned to ram, a solenoid valve opens, causing the valve to dump cabin air into the atmosphere.
-
-The degree of pressurization and the operating altitude of the aircraft are limited by several critical design factors. Primarily, the fuselage is designed to withstand a particular maximum cabin differential pressure.

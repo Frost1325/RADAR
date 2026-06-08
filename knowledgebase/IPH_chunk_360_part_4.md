@@ -1,5 +1,0 @@
-a current database, a GPS approach should be made. If neither, an ILS or GPS procedure is available use another instrument approach.
-
-Upon entering inadvertent IMC, priority must be given to control of the helicopter. Keep it simple and take one action at a time.
-
-- Control. First use the wings on the attitude indicator to level the helicopter. Maintain heading and increase to climb power. Establish climb airspeed at the best angle of climb but no slower than \(V_{\text{MINI}}\) .- Climb. Climb straight ahead until your crosscheck is established. Then make a turn only to avoid terrain or objects. If an altitude has not been previously established with ATC to climb to for inadvertent IMC, then you should climb to an altitude that is at least 1,000 feet above the highest known object and that allows for contacting ATC.- Communicate. Attempt to contact ATC as soon as the helicopter is stabilized in the climb and headed away from danger. If the appropriate frequency is not known, you should attempt to contact ATC on either very high frequency (VHF) 121.5 or ultra high frequency (UHF) 243.0. Initial information provided to

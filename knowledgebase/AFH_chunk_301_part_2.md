@@ -1,5 +1,0 @@
-performing flight deck operations, and the dim white light may be used for chart reading. Many charts can be displayed on a EFB, which does not require a flashlight. However, its brightness should be set so as not to seriously impair night vision.
-
-Since the red light is non- glaring, it will not impair night vision. Some pilots prefer two flashlights, one with a white light for preflight and the other a penlight type with a red light. The latter can be suspended by a string from around the neck to ensure the light is always readily available. As mentioned earlier, red light distorts color perception of pigments other than red on charts.
-
-Aeronautical charts are essential for night cross- country flight and, if the intended course is near the edge of the chart, the adjacent chart should also be available. The lights of cities and towns can be seen at surprising distances at night, and if this adjacent chart is not available to identify those landmarks, confusion could result. Regardless of the equipment used, organization of the flight deck eases the burden and enhances safety. Organize equipment and charts and place them within easy reach prior to taxiing.

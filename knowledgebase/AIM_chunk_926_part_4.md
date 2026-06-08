@@ -1,5 +1,0 @@
-precision approaches (for example, VOR, NDB, LOC, RNAV, GPS, LDA, SDF, etc.).
-
-2. Circling Approach Procedure. An IAP with a circle-to-land maneuver or circle-to-land minimums does not meet criteria for straight-in landing minimums. While the regulations do not prohibit EFVS from being used during any phase of flight, they do prohibit it from being used for operational credit on anything but a straight-in IAP with straight-in landing minima. EFVS must only be used during a circle-to-land maneuver provided the visual references required throughout the circling maneuver are distinctly visible using natural vision. An EFVS cannot be used to satisfy the requirement that an identifiable part of the airport be distinctly visible to the pilot during a circling maneuver at or above MDA or while descending below MDA from a circling maneuver.
-
-3. Enhanced Flight Visibility. Flight visibility is determined by using natural vision, and enhanced flight visibility (EFV) is determined by using an EFVS. 14 CFR part 91.175 (l) requires that the EFV observed by using an EFVS cannot be less than the visibility prescribed in the IAP to be used in order to continue

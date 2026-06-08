@@ -1,3 +1,0 @@
-table>
-
-<table><tr><td>FSS</td><td>Flight Service Station</td></tr><tr><td>FT</td><td>Feet</td></tr><tr><td></td><td>G</td></tr><tr><td>GCA</td><td>Ground Controlled Approach</td></tr><tr><td>GP</td><td>Glide Path</td></tr><tr><td>GPS</td><td>Global Positioning System</td></tr><tr><td>GRVL</td><td>Gravel</td></tr><tr><td></td><td>H</td></tr><tr><td>HEL</td><td>Helicopter</td></tr><tr><td>HIRL</td><td>High Intensity Runway Lights</td></tr><tr><td>HR</td><td>Hour</td></tr><tr><td></td><td>I</td></tr><tr><td>ID</td><td>Identify/Identifier</td></tr><tr><td>IFR</td><td>Instrument Flight Rules</td></tr><tr><td>ILS</td><td>Instrument

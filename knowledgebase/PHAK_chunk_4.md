@@ -1,5 +1,0 @@
- because he clung to the idea of birdlike wings. [Figure 1- 1] By 1655, mathematician, physicist, and inventor Robert Hooke concluded that the human body does not possess the strength to power artificial wings. He believed human flight would require some form of artificial propulsion.
-
-The quest for human flight led some practitioners in another direction. In 1783, the first manned hot air balloon, crafted by Joseph and Etienne Montgolfier, flew for 23 minutes. Ten days later, Professor Jacques Charles flew the first gas balloon. A madness for balloon flight captivated the public's imagination and for a time flying enthusiasts turned their expertise to the promise of lighter- than- air flight. But for all its majesty in the air, the balloon was little more than a
-
-billowing heap of cloth capable of no more than a one- way, downwind journey.

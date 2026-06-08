@@ -1,3 +1,0 @@
-# Chapter Summary
-
-Flying a complex or high-performance airplane requires a pilot to further divide his or her attention during the most critical phases of flight: takeoff and landing. The knowledge, judgment, and piloting skills required to fly these airplanes needs to be developed. It is essential that adequate training is received to ensure a complete understanding of the systems, their operation (both normal and emergency), and operating limitations.

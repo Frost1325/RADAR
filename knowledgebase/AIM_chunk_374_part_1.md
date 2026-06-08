@@ -1,1 +1,0 @@
-## 4-2-13. Communications with Tower when Aircraft Transmitter or Receiver or Both are Inoperative

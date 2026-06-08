@@ -1,3 +1,0 @@
-disregard the temperature restrictions. The charted temperature limits are evaluated for the final approach segment only. Regardless of charted temperature limits or temperature compensation by the FMS, the pilot may need to manually compensate for cold temperature on minimum altitudes and the decision altitude.
-
-6. Aircraft size. The achieved minimums may be dependent on aircraft size. Large aircraft may require higher minimums due to gear height and/or wingspan. Approach procedure charts will be annotated with applicable aircraft size restrictions.

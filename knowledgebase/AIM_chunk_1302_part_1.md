@@ -1,5 +1,0 @@
-### c. Medication.
-
-1. Pilot performance can be seriously degraded by both prescribed and over-the-counter medications, as well as by the medical conditions for which they are taken. Many medications, such as tranquilizers, sedatives, strong pain relievers, and cough-suppressant preparations, have primary effects that may impair judgment, memory, alertness, coordination, vision, and the ability to make calculations. Others, such as antihistamines, blood pressure drugs, muscle relaxants, and agents to control diarrhea and motion sickness, have side effects that may impair the same critical functions. Any medication that depresses the nervous system, such as a sedative, tranquilizer or antihistamine, can make a pilot much more susceptible to hypoxia.
-
-2. The CFRs prohibit pilots from performing crewmember duties while using any medication that affects the faculties in any way contrary to safety. The safest rule is not to fly as a crewmember while taking any medication, unless approved to do so by the FAA.

@@ -1,5 +1,0 @@
-OCS. The number is rounded up to the next higher 20 foot increment.
-
-2. Circling MDA. The circling MDA will provide 300 foot obstacle clearance within the area considered for obstacle clearance and may be lower than the LNAV/VNAV DA, but never lower than the straight in LNAV MDA. This may occur when different controlling obstacles are used or when other controlling factors force the LNAV MDA to be higher than 250 feet above the LNAV OCS. In FIG 5-4-11, the required obstacle clearance for both the LNAV and Circle resulted in the same MDA, but lower than the LNAV/VNAV DA. FIG 5-4-12 provides an illustration of this type of situation.
-
-3. Vertical guidance (LNAV/VNAV). A line is drawn horizontal at obstacle height until reaching the obstacle clearance surface (OCS). At the OCS, a vertical line is drawn until reaching the glide path. This is the DA for the approach. This method places the offending obstacle in front of the LNAV/VNAV DA so it can be seen and avoided. In some situations, this may result in the LNAV/VNAV DA being higher than the

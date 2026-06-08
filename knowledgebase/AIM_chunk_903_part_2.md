@@ -1,5 +1,0 @@
-approaches as well as depicting the visual segment of the approach.
-
-3. Controllers monitor the SOIA ILS PRM and LDA PRM approaches in exactly the same manner as is done for ILS PRM approaches. The procedures and system requirements for SOIA ILS PRM and LDA PRM approaches are identical with those used for simultaneous close parallel ILS PRM approaches until near the LDA PRM approach missed approach point (MAP) - where visual acquisition of the ILS aircraft by the aircraft conducting the LDA PRM approach occurs. Since the ILS PRM and LDA PRM approaches are identical except for the visual segment in the SOIA concept, an understanding of the procedures for conducting ILS PRM approaches is essential before conducting a SOIA ILS PRM or LDA PRM operation.
-
-4. In SOIA, the approach course separation (instead of the runway separation) meets established close parallel approach criteria. Refer to FIG 5-4-22 for the generic SOIA approach geometry. A visual segment of the LDA PRM approach is established between the LDA MAP and the runway threshold. Aircraft transition in visual conditions from the LDA course, beginning at the LDA MAP, to align with the runway and

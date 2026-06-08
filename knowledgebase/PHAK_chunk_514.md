@@ -1,5 +1,0 @@
- thrust toward that blade. Visualize rotating the vertically mounted propeller shaft to shallower angles relative to the moving air (as on an aircraft). This unbalanced thrust then becomes proportionately smaller and continues getting smaller until it reaches the value of zero when the propeller shaft is exactly horizontal in relation to the moving air.
-
-The effects of each of these four elements of torque vary in value with changes in flight situations. In one phase of flight, one of these elements may be more prominent than another. In another phase of flight, another element may be more prominent. The relationship of these values to each other varies with different aircraft depending on the airframe, engine, and propeller combinations, as well as other design features. To maintain positive control of the aircraft in all flight conditions, the pilot must apply the flight controls as necessary to compensate for these varying values.
-
-## Load Factors

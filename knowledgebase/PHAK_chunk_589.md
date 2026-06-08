@@ -1,5 +1,0 @@
- airflow breaks away from an airfoil. The natural progression is from laminar boundary layer to turbulent boundary layer and then to airflow separation. Airflow separation produces high drag and ultimately destroys lift. The boundary layer separation point moves forward on the wing as the AOA is increased. [Figure 5- 66]
-
-Vortex generators are used to delay or prevent shock wave induced boundary layer separation encountered in transonic flight. They are small low aspect ratio airfoils placed at a \(12^{\circ}\) to \(15^{\circ}\) AOA to the airstream. Usually spaced a few inches apart along the wing ahead of the ailerons or other control surfaces, vortex generators create a vortex that mixes the boundary airflow with the high energy airflow just above the surface. This produces higher surface velocities and increases the energy of the boundary layer. Thus, a stronger shock wave is necessary to produce airflow separation.
-
-## Shock Waves

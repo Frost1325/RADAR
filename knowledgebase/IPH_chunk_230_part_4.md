@@ -1,7 +1,0 @@
-s or special IAPs that have a DA/DH or MDA.
-
-While the regulations do not prohibit EFVS from being used during any phase of flight for situational awareness, EFVS displays are not designed, installed, certified, or intended as a sufficient visual system to conduct circling maneuvers. EFVS may only be used during a circle- to- land maneuver provided the visual references required throughout the circling maneuver are distinctly visible to the pilot using natural vision throughout the circling maneuver. Therefore,
-
-an EFVS cannot be used to satisfy the requirement that an identifiable part of the airport be distinctly visible to the pilot during a circling maneuver at or above MDA or while descending below MDA from a circling maneuver.
-
-The visual information provided by an EFVS serves as independent verification of the position information provided by the aircraft's displays and systems. An EFVS also enables a pilot to assess the enhanced flight visibility and identify required visual references, helps a pilot align the aircraft with the runway, and provides position, roll, rate of closure, and distance remaining information. Sections 91.176(a) and 91.176(b) permit a pilot to use an EFVS to identify the required visual references and to determine that

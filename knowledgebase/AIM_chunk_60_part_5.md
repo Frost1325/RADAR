@@ -1,3 +1,0 @@
-the identifier may be used at different airports (for example, RW36 will be the identifier at each airport with a runway 36), the actual point, at each airport, is defined by a specific latitude/longitude coordinate.
-
-(5) The runway threshold waypoint, normally the MAWP, may have a five-letter identifier (for example, SNEEZ) or be coded as RW## (for example, RW36, RW36L). MAWPs located at the runway threshold are being changed to the RW## identifier, while MAWPs not located at the threshold will have a five-letter identifier. This may cause the approach chart to differ from the aircraft database until all changes are complete. The runway threshold waypoint is also used as the center of the Minimum Safe Altitude (MSA) on most GPS approaches.

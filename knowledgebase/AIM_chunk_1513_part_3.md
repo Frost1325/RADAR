@@ -1,1 +1,0 @@
-, 5- 4- 31 Procedures Arrival, 5- 4- 1 En Route, 5- 3- 1 Instrument Approach, 5- 4- 26 Interception, 5- 6- 2 Prohibited Areas, 3- 4- 1 Publications, Aeronautical, 9- 1- 1 Published Instrument Approach Procedure Visual Segment, 5- 4- 18 Pulsating Visual Approach Slope Indicator, 2- 1- 5

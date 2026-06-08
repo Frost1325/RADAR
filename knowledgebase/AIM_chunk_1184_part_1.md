@@ -1,3 +1,0 @@
-## EXAMPLE-
-
-In this example, the controller is advising arriving and departing aircraft that they could encounter a wind shear condition right on the runway due to a gust front (significant change of wind direction) with the possibility of a 20 knot gain in airspeed associated with the gust front. Additionally, the airport surface winds (for the runway in use) are reported as 250 degrees at 20 knots.

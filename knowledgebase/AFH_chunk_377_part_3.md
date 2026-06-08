@@ -1,5 +1,0 @@
-to maintain the established bank. An airspeed is soon reached where full right rudder travel and up to a \(5^{\circ}\) right bank can no longer counteract the asymmetrical thrust, and the airplane will begin to yaw uncontrollably to the left.
-
-The moment the pilot first recognizes the uncontrollable yaw, or experiences any symptom associated with a stall, the pilot simultaneously retards the throttle for the operating engine to stop the yaw and lowers the pitch attitude to regain speed. Recovery is made to straight flight on the entry heading at \(\mathrm{V_{SSE}}\) or \(\mathrm{V_{YSE}}\) . The pilot increases power to the operating engine, and demonstrates controlled flight before restoring symmetrical power.
-
-To keep the foregoing description simple, there were several important background details that were not covered. The rudder pressure during the demonstration can be quite high. During certification under historical 14 CFR part 23, section 23.149(e), 150 pounds of force was permitted. Most twins will run out of rudder travel long before 150 pounds of pressure is required. Still, the rudder pressure used during any \(\mathrm{V_{MC}}\) demonstration

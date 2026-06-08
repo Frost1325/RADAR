@@ -1,7 +1,0 @@
- or the maximum structural cruising speed. This is the speed at which exceeding the limit load factor may cause permanent deformation of the aircraft structure.
-
-\(\mathrm{V_{NE}}\) the speed that should never be exceeded. If flight is attempted above this speed, structural damage or structural failure may result.
-
-## Performance Charts
-
-Performance ChartsPerformance charts allow a pilot to predict the takeoff, climb, cruise, and landing performance of an aircraft. These charts, provided by the manufacturer, are included in the AFM/POI. Information the manufacturer provides on these charts has been gathered from test flights conducted in a new aircraft, under normal operating conditions while using average piloting skills, and with the aircraft and engine in good working order. Engineers record the flight data and create performance charts based on the behavior of the aircraft during the test flights. By using these performance charts, a pilot can determine the runway length needed to take off and land, the amount of fuel to be used during flight, and the time required to arrive at the destination. It is important to remember that the data from the charts will not be accurate if the aircraft is not in good working order or when operating under adverse conditions. Always consider the necessity to compensate for the performance numbers if the aircraft is not in good working order or piloting skills are below average.

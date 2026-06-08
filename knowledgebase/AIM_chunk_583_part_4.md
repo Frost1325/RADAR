@@ -1,5 +1,0 @@
-</td></tr><tr><td colspan="2">NOTE-<br>MWA encounters do not necessarily result in altitude deviations on the order of 200 feet. The guidance below is<br>intended to address less significant MWA encounters.</td></tr></table>
-
-<table><tr><td colspan="2">Wake Turbulence Encounters</td></tr><tr><td>Pilot should:<br>·Contact ATC and request vector, FL change or,<br>if capable, a lateral offset<br>See Paragraph 4-6-7, Guidance on Wake<br>Turbulence.</td><td>Controller should:<br>·Issue vector, FL change or lateral offset<br>clearance, traffic permitting<br>Paragraph 4-6-6 explains “traffic permitting.”</td></tr></table>
-
-<table><tr><td colspan="2">“Unable RVSM Due Equipment”<br>Failure of Automatic Altitude Control System, Altitude Alerter or All Primary Altimeters</td></tr><tr><td>Pilot will:<br>·Contact ATC and state “Unable RVSM Due<br>Equipment”<br>·Request clearance out of RVSM airspace unless<br>oper

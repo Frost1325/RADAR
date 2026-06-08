@@ -1,5 +1,0 @@
-
-
-Although there are various kinds of pressure, pilots are mainly concerned with atmospheric pressure. It is one of the basic factors in weather changes, helps to lift an aircraft, and actuates some of the important flight instruments. These instruments are the altimeter, airspeed indicator, vertical speed indicator, and manifold pressure gauge.
-
-Air is very light, but it has mass and is affected by the attraction of gravity. Therefore, like any other substance, it has weight, and because of its weight, it has force. Since air is a fluid substance, this force is exerted equally in all directions. Its effect on bodies within the air is called pressure. Under standard conditions at sea level, the average pressure exerted by the weight of the atmosphere is approximately 14.70 pounds per square inch (psi) of surface, or 1,013.2 millibars (mb). The thickness of the atmosphere is limited; therefore, the higher the altitude, the less air there is above. For this reason, the weight of the atmosphere at 18,000 feet is one- half what it is at sea level.

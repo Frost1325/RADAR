@@ -1,5 +1,0 @@
-## Low-Speed Flight
-
-The jet airplane wing, designed primarily for high- speed flight, has relatively poor low- speed characteristics. As opposed to the normal piston- powered airplane, the jet wing has less area relative to the airplane's weight, a lower aspect ratio (long chord/short span), and thin airfoil shape—all of which amount to the need for speed to generate enough lift. The swept wing is additionally penalized at low speeds because its effective lift is proportional to airflow speed that is perpendicular to the leading edge.
-
-In a typical piston- engine airplane, \(\mathrm{V_{MD}}\) (minimum drag) in the clean configuration is normally at a speed of about \(1.3 \mathrm{V_{S}}\) . [Figure 16- 7] Flight below \(\mathrm{V_{MD}}\) in a piston- engine airplane is well identified and predictable. In contrast, in a jet airplane, flight in the area of \(\mathrm{V_{MD}}\) (typically \(1.5 - 1.6 \mathrm{V_{S}}\) ) does not normally produce any noticeable changes in flying qualities other than a lack of speed stability—a condition where a decrease in speed leads to an increase in

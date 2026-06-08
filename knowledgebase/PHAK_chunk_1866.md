@@ -1,3 +1,0 @@
- heart rate, respiration, blood pressure, and perspiration all increase. The term "stressor" is used to describe an element that causes an individual to experience stress. Examples of stressors include physical stress (noise or vibration), physiological stress (fatigue), and psychological stress (difficult work or personal situations).
-
-Stress falls into two broad categories: acute (short term) and chronic (long term). Acute stress involves an immediate threat that is perceived as danger. This is the type of stress that triggers a "fight or flight" response in an individual, whether the threat is real or imagined. Normally, a healthy person can cope with acute stress and prevent stress overload. However, ongoing acute stress can develop into chronic stress.

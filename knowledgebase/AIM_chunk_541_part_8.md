@@ -1,5 +1,0 @@
-will occur. As in (f) above, intruder distance and altitude are still usable.
-
-(h) Closely-Spaced Intruder Errors. When operating more than \(30\mathrm{NM}\) from the Mode S sensor, TIS forces any intruder within \(3 / 8\mathrm{NM}\) of the TIS client to appear at the same horizontal position as the client aircraft. Without this feature, TIS could display intruders in a manner confusing to the pilot in critical situations (e.g., a closely-spaced intruder that is actually to the right of the client may appear on the TIS display to the left). At longer distances from the radar, TIS cannot accurately determine relative bearing/distance information on intruder aircraft that are in close proximity to the client.
-
-Because TIS uses a ground- based, rotating radar for surveillance information, the accuracy of TIS data is dependent on the distance from the sensor (radar) providing the service. This is much the same phenomenon as experienced with ground- based navigational aids, such as VOR or NDB. As distance from the radar increases, the accuracy of surveillance decreases. Since TIS does not inform the pilot of distance from the Mode S radar

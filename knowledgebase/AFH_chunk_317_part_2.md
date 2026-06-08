@@ -1,7 +1,0 @@
-approach conditions relative to the wind conditions can be made.
-
-The time of flap extension and the degree of deflection are related. Large changes in flap deflection at one single point in the landing pattern can produce large lift changes that require significant pitch and power changes in order to maintain airspeed and descent angle. Consequently, there is an advantage to extending flaps in increments while in the landing pattern. Incremental deflection of flaps on downwind, base leg, and final approach allow smaller adjustments of pitch and power and support a stabilized approach.
-
-While normal, soft- field, or short- field landings require minimal speed at touchdown, a short- field obstacle approach requires minimum speed and a steep approach angle. Flap extension, particularly beyond \(30^{\circ}\) , results in significant levels of drag. The drag can produce a high sink rate that the pilot needs to control with power. When a pilot uses power during a steep approach or short- field approach to offset the drag produced by the flaps, the landing flare becomes critical. A reduction in power too early can result in a hard landing, airplane damage, or loss of control. A reduction in power too late causes the airplane to float down the runway.
-
-Crosswind component is another factor

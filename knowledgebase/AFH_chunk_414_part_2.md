@@ -1,7 +1,0 @@
-cause the airplane to tip enough for the outside wingtip to contact the ground and may even impose a sideward force that could collapse one landing gear leg. [Figure 14- 4] In general, this combination of events is eliminated by landing straight and avoiding turns at higher than normal running speed.
-
-To use the brakes, the pilot should slide the toes or feet up from the rudder pedals to the brake pedals (or apply heel pressure in airplanes equipped with heel brakes). If rudder pressure is being held at the time braking action is needed, that pressure should not be released as the feet or toes are being slid up to the brake pedals because control may be lost before brakes can be applied. During the ground roll, the airplane's direction of movement may be changed by carefully applying pressure on one brake or uneven pressures on each brake in the desired direction. Caution should be exercised when applying brakes to avoid overcontrolling.
-
-If a wing starts to rise, aileron control should be applied toward that wing to lower it. The amount required depends on speed because as the forward speed of the airplane decreases, the ailerons become less effective.
-
-If available runway permits, the speed of the airplane should be allowed to dissipate in a normal manner by

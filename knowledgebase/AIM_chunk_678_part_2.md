@@ -1,1 +1,0 @@
-b, when requested by an Air Navigation Service Provider. If ADS-B capability filed in Item 10 is compliant with RTCA DO-260B,include the item "260B" in SUR/. If ADS-B capability filed in Item 10 is compliant with RTCA DO-282B, include the item "282B" in SUR/.

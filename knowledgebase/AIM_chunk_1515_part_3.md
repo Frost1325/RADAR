@@ -1,3 +1,0 @@
-4- 61, 5- 5- 1 Pilot, 4- 1- 14, 4- 4- 1, 4- 4- 4, 5- 4- 61, 5- 5- 1, 6- 1- 1, 7- 3- 6 Restricted Areas, 3- 4- 1 Restrictions Departure, 5- 2- 4 Flight, Temporary, 3- 5- 2 RIL. See Runway Intersection Lights (RIL) RNAV. See Area Navigation Route Coded Departure Route, 4- 4- 3 Course Changes, 5- 3- 7 Route System, 5- 3- 5 Runway
-
-Friction Reports, 4- 3- 12 Aiming Point Markings, 2- 3- 2 Centerline Markings, 2- 3- 2 Closed Lighting, 2- 3- 18 Marking, 2- 3- 18 Demarcation Bar, 2- 3- 4 Designators,

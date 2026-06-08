@@ -1,7 +1,0 @@
-is important not to be tempted to control the bank angle prior to reducing AOA. Both roll stability and roll control will improve considerably after getting the wings flying again. It is also imperative to proactively cancel yaw with proper use of the rudder to prevent a stall from progressing into a spin.
-
-4. Add thrust/power. Power should be added as needed, as stalls can occur at high power or low power settings or at high airspeeds or low airspeeds. Advance the throttle promptly, but smoothly, as needed while using rudder and elevator controls to stop any yawing motion and prevent any undesirable pitching motion. Adding power typically reduces the loss of altitude during a stall recovery, but it does not eliminate a stall. The reduction in AOA is imperative. For propeller-driven airplanes, power application increases the airflow around the wing, assisting in stall recovery.
-
-5. Retract speedbrakes/spoilers (if equipped). This will improve lift and the stall margin.
-
-6. Return to the desired flightpath. Apply smooth and coordinated flight control movements to return the airplane to the desired flightpath being careful to avoid a secondary stall. However, be situationally aware of the proximity to terrain during the recovery and take the necessary flight control action to avoid

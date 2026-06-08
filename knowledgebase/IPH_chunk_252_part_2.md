@@ -1,5 +1,0 @@
-ensure that all items have been set up correctly. Most pilots verbally brief the specific MAP so that it is fresh in their minds and there is no confusion as to who is doing what during a missed approach. Also, it is a very good idea to brief the published missed approach even if the tower is most likely to give you alternate instructions in the event of a missed approach. A typical approach briefing might sound like the following example for a flight inbound to the Monroe Regional Airport (KMLU):
-
-ATIS: "Monroe Regional Airport Information Bravo, time 2253 Zulu, wind 360 at 10, visibility 1 mile, mist, ceiling 300 overcast, temperature 4, dew point 3, altimeter 29.73, ILS Runway 4 approach in use, landing and departing Runway 4, advise on initial contact that you have information Bravo."
-
-PF: "We're planning an ILS approach to Runway 4 at Monroe Regional Airport, page 270, effective date 22 Sep 11 to 20 Oct 11. Localizer frequency is 109.5, SABAR Locator Outer Marker is 3

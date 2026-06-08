@@ -1,5 +1,0 @@
-AF. [Figure 4- 54] In this case, a procedure turn or penetration turn is required to be a part of the approach design. For
-
-The NDB to be considered an on- airport facility, the facility must be located within one mile of any portion of the landing runway for straight- in approaches and within one mile of any portion of usable landing surface for circling approaches. The final approach segment of the approach is designed with a final approach area that is 2.5 NM wide at the facility and increases to 8 NM wide at 10 NM from the facility. Additionally, the final approach course and the extended runway centerline angle of convergence cannot exceed \(30^{\circ}\) for straight- in approaches. This type of NDB approach is afforded a minimum of 350 feet obstacle clearance.
-
-When a FAF is established for an NDB approach, the approach design criteria changes. It also takes into account whether or not the NDB is located on or off the airport. Additionally, this type of approach can be made both moving toward or away from the NDB facility. The Tuscon Ryan Field, NDB/DME RWY 6 is an approach with a FAF using an on

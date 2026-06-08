@@ -1,7 +1,0 @@
-consequences associated with misfueling, fuel nozzles are specific to the type of fuel. AVGAS fuel filler nozzles are straight with a constant diameter. [Figure 2- 10] However, jet fuel filler nozzles are flared at the end to prevent insertion into AVGAS fuel tanks. [Figure 2- 11]
-
-Using the proper, approved grade of fuel is critical for safe, reliable engine operation. Without the proper fuel quantity, grade, and quality, the engine(s) will likely cease to operate. Therefore, it is imperative that the pilot visually verify that the airplane has the correct fuel quantity for the intended flight plus adequate and legal reserves, as well as inspect that the fuel is of the proper grade and that the quality of the fuel is acceptable. The pilot should always ensure that the fuel caps have been securely replaced following each fueling.
-
-Many airplanes experience sensitivity to attitude when fueling for maximum capacity. Nosewheel or main landing gear strut extension, both high as well as low, and the slope of the ramp can significantly alter the attitude of the aircraft and therefore the fuel capacity. Always positively confirm the fuel quantity indicated on the fuel gauges by visually inspecting the level of fuel in each tank.
-
-The

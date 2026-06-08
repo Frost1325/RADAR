@@ -1,7 +1,0 @@
-## Full Stalls, Power-Off
-
-The practice of power- off stalls is usually performed with normal landing approach conditions to simulate an accidental stall occurring during approach to landing. However, power- off stalls should be practiced at all flap settings to ensure familiarity with handling arising from mechanical failures, icing, or other abnormal situations. Airspeed in excess of the normal approach speed should not be carried into a stall entry since it could result in an abnormally nose- high attitude.
-
-To set up the entry for a straight- ahead power- off stall, airplanes equipped with flaps or retractable landing gear should be in the landing configuration. After extending the landing gear, applying carburetor heat (if applicable), and retarding the throttle sufficiently, the pilot holds the airplane at a constant altitude until the airspeed decelerates to normal approach speed. The airplane should then be smoothly pitched down to a normal approach attitude to maintain that airspeed. Wing flaps should be extended and pitch attitude adjusted to maintain the airspeed. Once in a normal approach, the pilot sets the power to idle.
-
-When the approach attitude and airspeed have stabilized, the pilot should smoothly raise the airplane's nose to an attitude that induces a stall. Directional control should be maintained and wings

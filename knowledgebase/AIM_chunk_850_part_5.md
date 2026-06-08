@@ -1,1 +1,0 @@
-") without specifying a particular IAF. In either case, the pilot should proceed direct to the IAF or to the IF/IAF associated with the sector that the aircraft will enter the TAA and join the approach course from that point and if required by that sector (i.e., sector is not labeled "NoPT), complete the HILPT course reversal.

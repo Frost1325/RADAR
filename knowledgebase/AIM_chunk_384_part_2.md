@@ -1,7 +1,0 @@
-centerline from the base leg to the runway.
-
-6. Departure leg. The flight path which begins after takeoff and continues straight ahead along the extended runway centerline. The departure climb continues until reaching a point at least \(1 / 2\) mile beyond the departure end of the runway and within 300 feet of the traffic pattern altitude.
-
-d. Many towers are equipped with a tower radar display. The radar uses are intended to enhance the effectiveness and efficiency of the local control, or tower, position. They are not intended to provide radar services or benefits to pilots except as they may accrue through a more efficient tower operation. The four basic uses are:
-
-1. To determine an aircraft's exact location. This is accomplished by radar identifying the VFR aircraft through any of the techniques available to a radar position, such as having the aircraft squawk ident. Once identified, the aircraft's position and spatial relationship to other aircraft can be quickly determined, and standard instructions regarding VFR operation in Class B, Class C, and Class D surface areas will be issued. Once initial radar identification of a VFR aircraft has been established and the appropriate instructions have been issued, radar monitoring may be discontinued; the reason being that the local controller's primary means of

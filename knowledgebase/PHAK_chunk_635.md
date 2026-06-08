@@ -1,5 +1,0 @@
- airfoil similar to the horizontal surface on a conventional aft- tail design. The difference is that the canard actually creates lift and holds the nose up, as opposed to the aft- tail design which exerts downward force on the tail to prevent the nose from rotating downward. [Figure 6- 14]
-
-The canard design dates back to the pioneer days of aviation. Most notably, it was used on the Wright Flyer. Recently, the canard configuration has regained popularity and is appearing on newer aircraft. Canard designs include two types- one with a horizontal surface of about the same size as a normal aft- tail design, and the other with a surface of the same approximate size and airfoil of the aft- mounted wing known as a tandem wing configuration. Theoretically, the canard is considered more efficient because using the horizontal surface to help lift the weight of the aircraft should result in less drag for a given amount of lift.
-
-## Rudder

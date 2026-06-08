@@ -1,7 +1,0 @@
-illusion that the aircraft is at a higher altitude than it actually is. The pilot, who does not recognize this illusion will fly a lower approach. A downsloping runway, downsloping approach terrain, or both, can have the opposite effect.
-
-(d) Featureless terrain illusion. An absence of ground features, as when landing over water, darkened areas, and terrain made featureless by snow, can create the illusion that the aircraft is at a higher altitude than it actually is. The plot, who does not recognize this illusion will fly a lower approach.
-
-(e) Atmospheric illusions. Rain on the windscreen can create the illusion of greater height, and atmospheric haze the illusion of being at a greater distance from the runway. The pilot, who does not recognize these illusions will fly a lower approach. Penetration of fog can create the illusion of pitching up. The pilot, who does not recognize this illusion will steepen the approach, often quite abruptly.
-
-(f) Ground lighting illusions. Lights along a straight path, such as a road, and even lights on moving trains can be mistaken for runway and approach lights. Bright runway and approach lighting systems, especially where few lights illuminate the surrounding terrain, may create the illusion of less distance to the runway. The pilot,

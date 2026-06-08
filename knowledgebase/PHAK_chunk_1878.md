@@ -1,5 +1,0 @@
- sleepiness, and dizziness.
-
-The first noticeable effect of dehydration is fatigue, which in turn makes top physical and mental performance difficult, if not impossible. Flying for long periods in hot summer temperatures or at high altitudes increases the susceptibility to dehydration because these conditions tend to increase the rate of water loss from the body.
-
-To help prevent dehydration, drink two to four quarts of water every 24 hours. Since each person is physiologically different, this is only a guide. Most people are aware of the eight- glasses- a- day guide: If each glass of water is eight ounces, this equates to 64 ounces, which is two quarts. If this fluid is not replaced, fatigue progresses to dizziness, weakness, nausea, tingling of hands and feet, abdominal cramps, and extreme thirst.

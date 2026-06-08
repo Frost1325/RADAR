@@ -1,5 +1,0 @@
-## Stall Awareness
-
-14 CFR part 61, section 61.87 (d)(10) and (e)(10) require that a student pilot who is receiving training for a single- engine or multigenie airplane rating or privileges, respectively, log flight training in stalls and stall recoveries prior to solo flight. [Figure 1- 14] During this training, the flight instructor should emphasize that the direct cause of every stall is an excessive angle of attack (AOA). The student pilot should fully understand that there are several flight maneuvers that may produce an increase in the wing's AOA, but the stall does not occur until the AOA becomes excessive. This critical AOA varies from \(16^{\circ} - 20^{\circ}\) depending on the airplane design. [Figure 1- 15]
-
-The flight instructor should emphasize that low speed is not necessary to produce a stall. The wing can be brought to an excessive AOA at any speed. High pitch attitude is not an absolute indication of proximity to a stall. Some airplanes are capable of vertical flight with a corresponding low AOA. Most airplanes are quite capable of stalling at a level or near level pitch attitude

@@ -1,1 +1,0 @@
-<table><tr><td colspan="2">Alaskan Air Command Rescue<br>Coordination Center</td></tr><tr><td>Elmendorf AFB, Alaska</td><td>Phone</td></tr><tr><td>Commercial</td><td>907-428-7230<br>800-420-7230<br>(outside Anchorage)</td></tr><tr><td>DSN</td><td>317-551-7230</td></tr></table>

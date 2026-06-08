@@ -1,3 +1,0 @@
-## 5-1-1. Preflight Preparation
-
-a. Every pilot is urged to receive a preflight briefing and to file a flight plan. This briefing should consist of the latest or most current weather, airport, and en route NAVAID information. Briefing service may be obtained from an FSS either by telephone, by radio when airborne, or by a personal visit to the station. Pilots with a current medical certificate in the 48 contiguous States may access Lockheed Martin Flight Services or the Direct User Access Terminal System (DUATS) via the internet. Lockheed Martin Flight Services and DUATS will provide preflight weather data and allow pilots to file domestic VFR or IFR flight plans.

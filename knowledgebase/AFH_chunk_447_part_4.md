@@ -1,3 +1,0 @@
-start of a nose- down tendency or "tuck." Mach tuck develops gradually, and the condition should not be allowed to progress to where there is no longer enough elevator authority to prevent entry into a steep, sometimes unrecoverable, dive. An alert pilot should respond to excessive airspeed, buffeting, or warning devices before the onset of extreme nose- down forces.
-
-Due to the critical aspects of high- altitude/high- Mach flight, most jet airplanes capable of operating in the Mach ranges use some form of automated Mach tuck compensation. If the system becomes inoperative, the airplane is typically limited to a reduced maximum Mach number.

@@ -1,5 +1,0 @@
-((120 \times 5 = 600)\) . It was determined in the previous example that a
-
-descent should be initiated at 20 NM to lose 6,000 feet. If the groundspeed is 120 knots, that means the aircraft is moving along at 2 NM per minute. So to go 20 NM, it takes 10 minutes. Ten minutes at 600 fpm means you will lose 6,000 feet.
-
-The calculations should be made before the flight and rules of thumb updates should be applied in flight. For example, from the charted STAR pilots might plan a descent based on an expected clearance to "cross 40 DME West of Brown VOR at 6,000" and then apply rules of thumb for slowing down from 250 knots. These might include planning airspeed at 25 NM from the runway threshold to be 250 knots, 200 knots at 20 NM, and 150 knots at 15 NM until gear and flap speeds are reached, never to fall below approach speed.

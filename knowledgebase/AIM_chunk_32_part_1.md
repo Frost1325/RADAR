@@ -1,3 +1,0 @@
-## 1-1-11. NAVAID Identifier Removal During Maintenance
-
-During periods of routine or emergency maintenance, coded identification (or code and voice, where applicable) is removed from certain FAA NAVAIDs. Removal of identification serves as a warning to pilots that the facility is officially off the air for tune- up or repair and may be unreliable even though intermittent or constant signals are received.

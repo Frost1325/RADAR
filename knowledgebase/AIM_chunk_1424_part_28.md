@@ -1,3 +1,0 @@
-tr><tr><td>PPS...</td><td>Precise Positioning Service</td></tr><tr><td>PRM...</td><td>Precision Runway Monitor</td></tr><tr><td>PT...</td><td>Procedure Turn</td></tr><tr><td>QICP...</td><td>Qualified Internet Communications<br>Provider</td></tr><tr><td>RA...</td><td>Resolution Advisory</td></tr><tr><td>RAA...</td><td>Remote Advisory Airport</td></tr><tr><td>RAIM...</td><td>Receiver Autonomous Integrity Monitoring</td></tr><tr><td>STMP...</td><td>Special Traffic Management Program</td></tr></table>
-
-<table><tr><td>Abbreviation/ Acronym</td><td>Meaning</td></tr><tr><td>SWSL</td><td>Supplemental Weather Service Locations</td></tr><tr><td>RAIS</td><td>Remote Airport Information Service</td></tr><tr><td>RBDT</td><td>Ribbon Display Terminals</td></tr><tr><td>RCAG</

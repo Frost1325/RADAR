@@ -1,7 +1,0 @@
-engine to continue to run without help from the starter. This is usually the result of low battery power or the starter not turning the engine fast enough for it to start properly.
-
-Takeoffs in turboprop airplanes are not made by automatically pushing the power lever full forward to the stops. As stated earlier, depending on conditions, takeoff power may be limited by either torque or by engine temperature. Normally, the power lever position on takeoff is somewhat aft of full forward.
-
-Takeoff and departure in a turboprop airplane (especially a twin- engine cabin- class airplane) should be accomplished in accordance with a standard takeoff and departure "profile" developed for the particular make and model. [Figure 15- 11] The takeoff and departure profile should be in accordance with the airplane manufacturer's recommended procedures as outlined in the Federal Aviation Administration (FAA)- approved Airplane Flight Manual and/or the Pilot's Operating Handbook (AFM/POH). The increased complexity of turboprop airplanes makes the standardization of procedures a necessity for safe and efficient operation. The transitioning pilot should review the profile procedures before each takeoff to form a mental picture of the takeoff and departure process.
-
-For any given high- horsepower operation, the pilot can

@@ -1,5 +1,0 @@
- but the aircraft's AOA changes abruptly from quite low to very high. Since the flight path of the aircraft in relation to the oncoming air determines the direction of the relative wind, the AOA is suddenly increased, and the aircraft would reach the stalling angle at a speed much greater than the normal stall speed.
-
-The stalling speed of an aircraft is also higher in a level turn than in straight- and- level flight. [Figure 5- 39] Centrifugal force is added to the aircraft's weight and the wing must produce sufficient additional lift to counterbalance the load imposed by the combination of centrifugal force and weight. In a turn, the necessary additional lift is acquired by applying back pressure to the elevator control. This increases the wing's
-
-AOA and results in increased lift. The AOA must increase as the bank angle increases to counteract the increasing load caused by centrifugal force. If at any time during a turn the AOA becomes excessive, the aircraft stalls.

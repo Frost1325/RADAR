@@ -1,7 +1,0 @@
-## Initial Approach Segment
-
-The purposes of the initial approach segment are to provide a method for aligning the aircraft with the intermediate or final approach segment and to permit descent during the alignment. This is accomplished by using a DME arc, a course reversal, such as a procedure turn or holding pattern, or by following a terminal route that intersects the final approach course. The initial approach segment begins at an IAF and usually ends where it joins the intermediate approach segment or at an IF. The letters IAF on an approach chart indicate the location of an IAF and more than one may be available. Course, distance, and minimum altitudes are also provided for initial approach segments. A given procedure may have several initial approach segments. When more than one exists, each joins a common intermediate segment, although not necessarily at the same location.
-
-Many RNAV approaches make use of a dual- purpose IF/ IAF associated with a hold- in- lieu- of PT (HILO) anchored at the Intermediate Fix. The HILO forms the Initial Approach Segment when course reversal is required.
-
-When the PT is required, it is only necessary to enter the holding pattern to reverse course. The dual purpose fix functions as an IAF in that case. Once the aircraft has entered

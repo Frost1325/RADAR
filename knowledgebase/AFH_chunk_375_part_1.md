@@ -1,3 +1,0 @@
-## Engine Inoperative Flight Principles
-
-There are two main considerations for OEI operations—performance and control. Multiegnine pilots learn to operate the airplane for maximum rate of climb performance at the blue radial indicated airspeed by training to fly without sideslip. Pilots also learn to recognize and recover from loss of directional control associated with the red radial indicated airspeed by performing a \(\mathrm{V_{MC}}\) demonstration. Since the object of a \(\mathrm{V_{MC}}\) demonstration is not performance, sideslip occurs during the maneuver. Detailed discussion on both the loss of directional control and maximum OEI climb performance follows.

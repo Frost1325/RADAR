@@ -1,1 +1,0 @@
-plans, which affect aircrew and vehicle operators, may incorporate additional lighting, markings, and procedures to control airport surface traffic. They will be addressed at two levels; operations less than 1,200 feet RVR to 600 feet RVR and operations less than 600 feet RVR.

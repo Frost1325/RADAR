@@ -1,5 +1,0 @@
-7- 11 is an example of a Copter GPS PinS approach that allows the helicopter to fly VFR from the MAP to the heliport.
-
-The final and missed approach protected airspace providing obstacle and terrain avoidance is based on 70 KIAS, with a maximum 10- knot tailwind component. It is absolutely essential that pilots adhere to the 70 KIAS limitation in procedures that include an immediate climbing and turning missed approach. Exceeding the airspeed restriction increases the turning radius significantly and can cause the helicopter to leave the missed approach protected airspace. This may result in controlled flight into terrain (CFIT) or obstacles.
-
-If a helicopter has a \(\mathsf{V}_{\mathsf{MINI}}\) greater than 70 knots, then it is not capable of conducting this type of approach. Similarly, if the autopilot in "go- around" mode climbs at a \(\mathsf{V}_{\mathsf{VI}}\) greater than 70 knots, then that mode cannot be used. It is the responsibility of the pilot to determine compliance with missed approach climb gradient requirements when operating at speeds other than \(\mathsf{V}_{\mathsf{Y}}\)

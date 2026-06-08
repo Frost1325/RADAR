@@ -1,5 +1,0 @@
- the designation of the intersecting runway. The runway numbers on the sign are arranged to correspond to the relative location of the respective runway thresholds. Figure 14- 10 shows "18- 36" to indicate the threshold for Runway 18 is to the left and the threshold for
-
-Runway 36 is to the right. The sign also indicates that you are located on Taxiway Alpha.
-
-If the runway holding position sign is located on a taxiway at the intersection of two runways, the designations for both runways are shown on the sign along with arrows showing the approximate alignment of each runway. [Figure 14- 11A and B] In addition to showing the approximate runway alignment, the arrows indicate the direction(s) to the threshold of the runway whose designation is immediately next to each corresponding arrow.

@@ -1,1 +1,0 @@
-off minimums are provided and weather conditions allow compliance with these minimums. Additionally, ATC required crossing restrictions may also require climb gradients greater than 200 FPNM. These climb gradients may be amended or canceled at ATC's discretion. Multiple ATC climb gradients are permitted. An ATC climb gradient will not be used on an ODP.

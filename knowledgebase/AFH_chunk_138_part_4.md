@@ -1,5 +1,0 @@
-required to create the same response. Pilots sometimes refer to the feel of this reduced effectiveness as "sloppy" or "mushy" controls.
-
-When flying above the minimum drag speed \(\mathrm{(L / D_{MAX})}\) , more power is required to fly even faster. When flying at speeds below \(\mathrm{L / D_{MAX}}\) , more power is required to fly even slower. Since slow flight will be performed well below \(\mathrm{L / D_{MAX}}\) , the pilot should be aware that large power inputs or a reduction in AOA will be required to prevent the aircraft from decelerating. It is important to note that when flying below \(\mathrm{L / D_{MAX}}\) or on the backside of the power curve, as the AOA increases toward the critical AOA and the airplane's speed continues to decrease, small changes in the pitch control result in disproportionally large changes in induced drag and therefore changes in airspeed. As a result, pitch becomes a more effective control of airspeed when flying below \(\mathrm{L / D_{MAX}}\) and power is an effective control of the path.
-
-It is also important to note that an airplane flying below \

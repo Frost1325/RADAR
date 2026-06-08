@@ -1,3 +1,0 @@
-- SNA localizer south course to I- SNA 1 DME fix or SII R- 118, turn left heading \(175^{\circ}\) , cross SII R- 132 then turn right heading \(200^{\circ}\) , intercept and proceed via SXC R- 084 to SXC VORTAC, thence via (transition) or (assigned route). Expect filed altitude ten minutes after departure.
-
-GORMAN TRANSITION (CHANLI.GMN): From over SXC VORTAC via SXC R- 344 and LAX R- 164 to LAX VORTAC, then via LAX R- 323 and GMN R- 142 to GMN VORTAC. SAN MARCUS TRANSITION (CHANLI.RZS): From over SXC VORTAC via SXC R- 310 and VTU R- 129 to VTU VOR/DME, then via VTU R- 289 and RZS R- 109 to RZS VORTAC. SHAFTER TRANSITION (CHANLI.EHF): From

@@ -1,3 +1,0 @@
-### e. Reports of TIS Malfunctions
-
-1. Users of TIS can render valuable assistance in the early correction of malfunctions by reporting their observations of undesirable performance. Reporters should identify the time of observation, location, type and identity of aircraft, and describe the condition observed; the type of transponder processor, and software in use can also be useful information. Since TIS performance is monitored by maintenance personnel rather than ATC, it is suggested that malfunctions be reported by radio or telephone to the nearest Flight Service Station (FSS) facility.

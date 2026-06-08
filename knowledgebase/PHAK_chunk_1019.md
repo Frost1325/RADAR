@@ -1,5 +1,0 @@
- developed by the operator must be on board the aircraft during each operation. The FAA considers an approved MEL to be a supplemental type certificate (STC) issued to an aircraft by serial number and registration number. It, therefore, becomes the authority to operate that aircraft in a condition other than originally type certificated.
-
-With an approved MEL, if the position lights were discovered inoperative prior to a daytime flight, the pilot would make an entry in the maintenance record or discrepancy record provided for that purpose. The item would then either be repaired or deferred in accordance with the MEL. Upon
-
-confirming that daytime flight with inoperative position lights is acceptable in accordance with the provisions of the MEL, the pilot would leave the position lights switch OFF, open the circuit breaker (or whatever action is called for in the procedures document), and placard the position light switch as INOPERATIVE.

@@ -1,3 +1,0 @@
-use airports that have radar service and approach control facilities to assist in the safe arrival and departure of large numbers of aircraft. Many airports do not have approach control facilities. It is important for pilots to understand the differences between approaches with and without an approach control facility. For example,
-
-consider the Durango, Colorado, ILS DME RWY 2 and low altitude en route chart excerpt shown in Figure 4- 7.

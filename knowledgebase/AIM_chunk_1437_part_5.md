@@ -1,7 +1,0 @@
-the airspace overlying the waters within 12 nautical miles of the coast of the 48 contiguous States and Alaska. Unless otherwise authorized, all persons must operate their aircraft under IFR.
-
-2. CLASS B- Generally, that airspace from the surface to 10,000 feet MSL surrounding the nation’s busiest airports in terms of airport operations or passenger enplanements. The configuration of each Class B airspace area is individually tailored and consists of a surface area and two or more layers
-
-(some Class B airspaces areas resemble upside-down wedding cakes), and is designed to contain all published instrument procedures once an aircraft enters the airspace. An ATC clearance is required for all aircraft to operate in the area, and all aircraft that are so cleared receive separation services within the airspace. The cloud clearance requirement for VFR operations is "clear of clouds."
-
-3. CLASS C- Generally, that airspace from the surface to 4,000 feet above the airport elevation (charted in MSL) surrounding those airports that have an operational control tower, are serviced by a radar approach control, and that have a certain number of IFR operations or passenger enplanements. Although the configuration of each Class C area is individually tailored, the airspace usually

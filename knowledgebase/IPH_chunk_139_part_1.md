@@ -1,3 +1,0 @@
-## Minimum Reception Altitude (MRA)
-
-MRAs are determined by FAA flight inspection traversing an entire route of flight to establish the minimum altitude the navigation signal can be received for the route and for off- course NAVAID facilities that determine a fix. When the MRA at the fix is higher than the MEA, an MRA is established for the fix and is the lowest altitude at which an intersection can be determined.

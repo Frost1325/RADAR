@@ -1,7 +1,0 @@
-## 5. Chart Terminology
-
-(a) Decision Altitude (DA) replaces the familiar term Decision Height (DH). DA conforms to the international convention where altitudes relate to MSL and heights relate to AGL. DA will eventually be published for other types of instrument approach procedures with vertical guidance, as well. DA indicates to the pilot that the published descent profile is flown to the DA (MSL), where a missed approach will be initiated if visual references for landing are not established. Obstacle clearance is provided to allow a momentary descent below DA while transitioning from the final approach to the missed approach. The aircraft is expected to follow the missed instructions while continuing along the published final approach course to at least the published runway threshold waypoint or MAP (if not at the threshold) before executing any turns.
-
-(b) Minimum Descent Altitude (MDA) has been in use for many years, and will continue to be used for the LNAV only and circling procedures.
-
-(c) Threshold Crossing Height (TCH) has been traditionally used in "precision" approaches as the height of the glide slope above threshold. With publication of LNAV/VNAV minimums and RNAV descent angles, including graphically depicted descent profiles, TCH also applies to the height

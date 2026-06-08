@@ -1,3 +1,0 @@
- These manuals provided multifaceted materials designed to reduce the number of decision- related accidents. The effectiveness of these materials was validated in independent studies where student pilots received such training in conjunction with the standard flying curriculum. When tested, the pilots who had received ADM- training made fewer in- flight errors than those who had
-
-not received ADM training. The differences were statistically significant and ranged from about 10 to 50 percent fewer judgment errors. In the operational environment, an operator flying about 400,000 hours annually demonstrated a 54 percent reduction in accident rate after using these materials for recurrency training.

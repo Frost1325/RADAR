@@ -1,5 +1,0 @@
-speed using the elevator. To correct a combination of total energy and distribution errors, both controls need to be used simultaneously. Figure 4- 12 summarizes the control skills needed to correct total energy and energy distribution errors.
-
-Scenario 1 [Figure 4- 9] is a good example to illustrate energy errors and the skills needed to correct and avoid them. Figure 4- 13 actually depicts three possible scenarios (B, C, and D) where an airplane on final approach to land has descended below its intended flight path. Should the pilot pitch up, throttle up, or both? It depends. The airplane is lower than desired, but the pilot should check the airspeed as well. Relative to the target airspeed, the actual speed may be slower (B), faster (D), or on target (C). In all three cases, the goal is to return the airplane to its correct energy state (A), following a deviation in altitude and/or airspeed.
-
-Lower- and- slower (B) is fundamentally different from lower- and- faster (D). The former requires advancing the throttle forward to regain total energy (3 in Figure 4- 12), while the latter requires pulling back on the yoke/stick to

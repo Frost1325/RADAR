@@ -1,7 +1,0 @@
-## Emergency Approaches and Landings (Simulated)
-
-During dual training flights, the instructor should give simulated emergency landings by retarding the throttle and calling "simulated emergency landing." The objective of these simulated emergency landings is to develop a pilot's accuracy, judgment, planning, procedures, and confidence when little or no power is available. A simulated emergency landing may be given with the airplane in any configuration. If the simulated power failure occurs while above best glide speed, the pilot allows the airplane to slow (or may even bleed off speed by climbing) until reaching best glide speed. When reaching that speed, the nose can be lowered and the airplane trimmed to maintain that speed. If the failure occurs at or below best glide speed, the nose should be lowered immediately to maintain or accelerate to best glide speed. The pilot should ensure that the flaps and landing gear are in the proper configuration for the existing situation.
-
-A constant gliding speed is usually maintained because variations of gliding speed nullify all attempts at accuracy in judgment of gliding distance and the landing spot. The many variables, such as altitude, obstruction, wind direction, landing direction, landing surface and gradient, and landing distance requirements of the airplane, determine the pattern and approach procedures to use.
-
-The

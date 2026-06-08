@@ -1,5 +1,0 @@
-## 7-3-7. Helicopters
-
-In a slow hover taxi or stationary hover near the surface, helicopter main rotor(s) generate downwash producing high velocity outwash vortices to a distance approximately three times the diameter of the rotor. When rotor downwash hits the surface, the resulting outwash vortices have behavioral characteristics similar to wing tip vortices produced by fixed wing aircraft. However, the vortex circulation is outward, upward, around, and away from the main rotor(s) in all directions. Pilots of small aircraft should avoid operating within three rotor diameters of any helicopter in a slow hover taxi or stationary hover. In forward flight, departing or landing helicopters produce a pair of strong, high- speed trailing vortices similar to wing tip vortices of larger
-
-fixed wing aircraft. Pilots of small aircraft should use caution when operating behind or crossing behind landing and departing helicopters.

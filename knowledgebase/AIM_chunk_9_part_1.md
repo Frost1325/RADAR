@@ -1,5 +1,0 @@
-## 1-1-6. VHF Omni-directional Range/Tactical Air Navigation (VORTAC)
-
-a. A VORTAC is a facility consisting of two components, VOR and TACAN, which provides three individual services: VOR azimuth, TACAN azimuth and TACAN distance (DME) at one site. Although consisting of more than one component, incorporating more than one operating frequency, and using more than one antenna system, a VORTAC is considered to be a unified navigational aid. Both components of a VORTAC are envisioned as operating simultaneously and providing the three services at all times.
-
-b. Transmitted signals of VOR and TACAN are each identified by three-letter code transmission and are interlocked so that pilots using VOR azimuth with TACAN distance can be assured that both signals being received are definitely from the same ground station. The frequency channels of the VOR and the TACAN at each VORTAC facility are "paired" in accordance with a national plan to simplify airborne operation.

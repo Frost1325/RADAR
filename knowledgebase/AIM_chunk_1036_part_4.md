@@ -1,3 +1,0 @@
-;fcel&gt;</td><td>&lt;nl&gt;</td></tr><tr><td>&lt;fcel&gt;</td><td>&lt;fcel&gt;</td><td>&lt;i&gt;</td></tr><tr><td>&lt;fcel&gt;</td><td>&lt;fcel&gt;&lt;/fcel&gt;</td><td>&lt;i&gt;</td></tr><tr><td>&lt;fcel&gt;&lt;/fcel&gt;</td><td>&lt;fcel&gt;</td><td>&lt;i&gt;</td><td></td></tr><tr><td>&lt;fcel&gt;</td><td>&lt;fcel&gt;</td><td rowspan="2">&lt;i&gt;</td><td></td></tr><tr><td>&lt;fcel&gt;</td><td>&lt;ucel&gt;</td><td></td></tr></table>
-
-<table><tr><td>NO.</td><td>MESSAGE</td><td>CODE SYMBOL</td></tr><tr><td rowspan="2">1</td><td>Operation completed.</td><td>LLL</td></tr><tr><td>We

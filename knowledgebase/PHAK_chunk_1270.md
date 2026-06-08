@@ -1,5 +1,0 @@
- lapse rate varies from \(1.1^{\circ}\mathrm{C}\) to \(2.8^{\circ}\mathrm{C}\) (2 \(^\circ \mathrm{F}\) to \(5^{\circ}\mathrm{F}\) ) per 1,000 feet.
-
-## Inversion
-
-As air rises and expands in the atmosphere, the temperature decreases. There is an atmospheric anomaly that can occur; however, that changes this typical pattern of atmospheric behavior. When the temperature of the air rises with altitude, a temperature inversion exists. Inversion layers are commonly shallow layers of smooth, stable air close to the ground. The temperature of the air increases with altitude to a certain point, which is the top of the inversion. The air at the top of the layer acts as a lid, keeping weather and pollutants trapped below. If the relative humidity of the air is high, it can contribute to the formation of clouds, fog, haze, or smoke resulting in diminished visibility in the inversion layer.

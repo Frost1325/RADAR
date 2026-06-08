@@ -1,3 +1,0 @@
-## Aircraft Energy Management
-
-The process of planning, monitoring and controlling altitude and airspeed targets in relation to the airplane's energy state. Note that this definition is concerned with managing mechanical energy (altitude and airspeed) and addresses the safety (flight control) side of energy management. It does not address the efficiency (aircraft performance) side of energy management, which is concerned with how efficiently the engine generates mechanical energy from fuel and how efficiently the airframe spends that energy in flight.

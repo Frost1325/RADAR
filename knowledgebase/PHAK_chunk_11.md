@@ -1,5 +1,0 @@
-4]
-
-A public auction decided who would win the honor of becoming the first paying airline customer. The former mayor of St. Petersburg, A. C. Pheid, made the winning bid of \(\) 400.00\(, which secured his place in history as the first paying airline passenger.
-
-On January 1, 1914, the first scheduled airline flight was conducted. The flight length was 21 miles and lasted 23 minutes due to a headwind. The return trip took 20 minutes. The line, which was subsidized by Florida businessmen, continued for 4 months and offered regular passage for \(\) 5.00\$ per person or \(\) 5.00\$ per 100 pounds of cargo. Shortly after the opening of the line, Benoist added a new airboat that afforded more protection from spray during takeoff and landing. The routes were also extended to Manatee, Bradenton, and Sarasota giving further credence to the idea of a profitable commercial airline.

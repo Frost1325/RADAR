@@ -1,1 +1,0 @@
-Procedure) with Vertical Guidance (aviation) APVs. LDA minima for with and without glideslope is provided and annotated on the minima lines of the approach chart as S- LDA/GS and S- LDA. Because the final approach course is not aligned with the runway centerline, additional maneuvering is required compared to an ILS approach. [Figure 4- 61]

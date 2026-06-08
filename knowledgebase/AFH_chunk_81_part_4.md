@@ -1,3 +1,0 @@
-quickly slow the airplane down and decrease total energy more rapidly than by just reducing the throttle setting to idle. This additional role of the elevator is shown on the power curve. [Figure 4- 5]
-
-Applying the respective role of the controls to manage the airplane's energy state leads to a set of simple "rules" for proper throttle- elevator coordination to effectively control vertical flight path and airspeed. What are these basic rules of energy control?

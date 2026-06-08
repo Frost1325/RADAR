@@ -1,7 +1,0 @@
-, markings and lighting
-
-The chapter identifies best practices to help you avoid errors that may potentially lead to runway incursions. Although the chapter pertains mostly to surface movements for single- pilot operations, all of the information is relevant for flight crew operations as well.
-
-Additional information about surface operations is available through the following sources:
-
-Federal Aviation Administration (FAA) Runway Safety website- - www.faa.gov/go/runwaysafety FAA National Aeronautical Navigation Services (AeroNav), formerly known as the National Aeronautical Charting Office (NACO)- - www.faa.gov/air_traffic/flight_info/aeronav Chart Supplement U.S. (formerly Airport/Facility Directory)- - www.faa.gov/air_traffic/flight_info/aeronav/digital_products/dafd/search/ Automatic Terminal Information Service (ATIS) Notice to Airmen (NOTAMs)- - http://www.faa.gov/pilots/flt_plan/notams Advisory Circular (AC) 91- 73, part 91 and part 135, Single- Pilot and Flight School Procedures During Taxi Operations Aeronautical Information Manual (AIM)- - www.faa.gov/air_traffic/publications/atpubs/aim/ AC 120- 74, parts 91, 121, 125, and 135, Flight Crew Procedures During Taxi Operations

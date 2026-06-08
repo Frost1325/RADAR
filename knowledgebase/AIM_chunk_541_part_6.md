@@ -1,7 +1,0 @@
-IS Predictive Algorithm. TIS information is collected one radar scan prior to the scan during which the uplink occurs. Therefore, the surveillance information is approximately 5 seconds old. In order to present the intruders in a "real time" position, TIS uses a "predictive algorithm" in its tracking software. This algorithm uses track history data to extrapolate intruders to their expected positions consistent with the time of display in the cockpit. Occasionally, aircraft maneuvering will cause this algorithm to induce errors in the TIS display. These errors primarily affect relative bearing information; intruder distance and altitude will remain relatively accurate and may be used to assist in "see and avoid." Some of the more common examples of these errors are as follows:
-
-(1) When client or intruder aircraft maneuver excessively or abruptly, the tracking algorithm will report incorrect horizontal position until the maneuvering aircraft stabilizes.
-
-(2) When a rapidly closing intruder is on a course that crosses the client at a shallow angle (either overtaking or head on) and either aircraft abruptly changes course within \(\frac{1}{4}\) NM, TIS will display the intruder on the opposite side of the client than it actually is.
-
-These are relatively rare occurrences and

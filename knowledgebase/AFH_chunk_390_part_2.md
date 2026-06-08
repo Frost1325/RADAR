@@ -1,7 +1,0 @@
-fuel vapor formation is suspected, fuel boost pump operation may be used to eliminate flow and pressure fluctuations.
-
-Although it is a natural desire among pilots to save an ailing engine with a precautionary shutdown, the engine should be left running if there is any doubt as to needing it for further safe flight. Catastrophic failure accompanied by heavy vibration, smoke, blistering paint, or large trails of oil, on the other hand, indicate a critical situation. The affected engine should be feathered and the securing failed engine checklist completed. The pilot should divert to the nearest suitable airport and declare an emergency with ATC for priority handling.
-
-Fuel crossfeed is a method of getting fuel from a tank on one side of the airplane to an operating engine on the other. Crossfeed is used for extended single- engine operation. If a suitable airport is close at hand, there is no need to consider crossfeed. If prolonged flight on a single- engine is inevitable due to airport non- availability, then crossfeed allows use of fuel that would otherwise be unavailable to the operating engine. It also permits the pilot to balance the fuel consumption to avoid an out- of- balance wing heaviness.
-
-The AFM/POH procedures for crossfeed vary widely. Thorough fuel system

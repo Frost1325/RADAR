@@ -1,1 +1,0 @@
-pilot may hold over an out- of- service NDB. Refer to Advisory Circular 90- 108, Use of Suitable RNAV System on Conventional Routes and Procedures, dated March 3, 2011 for additional guidance on the proper times and procedures for substituting a RNAV system for means of navigation.

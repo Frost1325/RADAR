@@ -1,5 +1,0 @@
-during airplane certification and demonstrated in pilot training follows later in this chapter.
-
-Unless otherwise noted, when V- speeds are given in the AFM/POH, they apply to sea level, standard day conditions at maximum takeoff weight. Performance speeds vary with aircraft weight, configuration, and atmospheric conditions. The speeds may be stated in statute miles per hour (mph) or knots (kt), and they may be given as calibrated airspeeds (CAS) or indicated airspeeds (IAS). As a general rule, the newer AFM/POHs show V- speeds in knots indicated airspeed (KIAS). Some V- speeds are also stated in knots calibrated airspeed (KCAS) to meet certain regulatory requirements. Whenever available, pilots should operate the airplane from published indicated airspeeds.
-
-Rate of climb is the altitude gain per unit of time, while climb gradient is the actual measure of altitude gained per 100 feet of horizontal travel, expressed as a percentage. An altitude gain of 1.5 feet per 100 feet of travel (or 15 feet per 1,000 or 150 feet per 10,000) is a climb gradient of 1.5 percent

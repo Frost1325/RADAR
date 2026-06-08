@@ -1,7 +1,0 @@
-udder pressure in the appropriate direction to keep the airplane rolling straight down the runway.
-
-As the forward speed of the airplane increases, the pilot should apply sufficient aileron pressure into the crosswind to keep the wings level. The effect of the crosswind component will not completely vanish; therefore, the pilot needs to maintain some aileron pressure throughout the takeoff roll. If the upwind wing rises, the amount of wing surface exposed to the crosswind will increase, which may cause the airplane to lose lateral alignment with the runway centerline and to "skip." [Figure 6- 5] The pilot uses rudder pressure to keep the airplane's longitudinal axis parallel to the runway centerline.
-
-This "skipping" is usually indicated by a series of very small bounces caused by the airplane attempting to fly and then settling back onto the runway. During these bounces, the crosswind also tends to move the airplane sideways, and these bounces develop into side- skipping. This side- skipping imposes severe side stresses on the landing gear and may result in structural failure.
-
-During a crosswind takeoff roll, it is important that the pilot hold sufficient aileron pressure into the wind not only to keep the upwind wing from rising but to hold that

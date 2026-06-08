@@ -1,5 +1,0 @@
-be compatible with the conduct of EFVS operations.
-
-Under § 91.176(a), operators who have been issued OpSpec C073, MSpec MC073, or LOA C073, may conduct EFVS operations to touchdown and rollout on certain vertical navigation (VNAV) IAPs that use an MDA as a DA/DH in accordance with C073. Additionally, §§ 91.176 and 91.189 permit an authorized EFVS operation to be conducted during an authorized Category II or Category III operation.
-
-Currently, EFVS operations in rotorcraft can be conducted only on IAPs that are flown to a runway. Instrument approach criteria, procedures, and appropriate visual references have not yet been developed for straight- in landing operations below DA/DH or MDA under IFR to heliports or platforms. EFVS cannot be used in lieu of natural vision to descend below published minimums on copter approaches to a point- in- space (PinS) followed by a "proceed visual flight rules (VFR)" visual segment, or on approaches designed to a specific landing site using a "proceed visually" visual segment.

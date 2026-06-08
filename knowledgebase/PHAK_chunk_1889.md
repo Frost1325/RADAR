@@ -1,3 +1,0 @@
- decision- making, and performance. In addition, fatigue, stress, dehydration, and inadequate nutrition can increase an airman's susceptibility to adverse effects from various drugs, even if they appeared to tolerate them in the past. If multiple medications are being taken at the same time, the adverse effects can be even more pronounced.
-
-Another important consideration is that the medical condition for which a medication is prescribed may itself be disqualifying. The FAA will consider the condition in the context of risk for medical incapacitation, and the medication as well for cognitive impairment, and either or both could be found unacceptable for medical certification.

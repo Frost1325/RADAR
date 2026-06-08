@@ -1,5 +1,0 @@
-procedure is indicated by the title of the procedure and notes on the chart.
-
-(a) Straight-in IAPs are identified by the navigational system providing the final approach guidance and the runway to which the approach is aligned (e.g., VOR RWY 13). Circling only approaches are identified by the navigational system providing final approach guidance and a letter (e.g., VOR A). More than one navigational system separated by a slash indicates that more than one type of equipment must be used to execute the final approach (e.g., VOR/DME RWY 31). More than one navigational system separated by the word "or" indicates either type of equipment may be used to execute the final approach (e.g., VOR or GPS RWY 15).
-
-(b) In some cases, other types of navigation systems including radar may be required to execute other portions of the approach or to navigate to the IAF (e.g., an NDB procedure turn to an ILS, an NDB in the missed approach, or radar required to join the procedure or identify a fix). When radar or other equipment is required for procedure entry from the en route environment, a note will be charted in the planview of the approach

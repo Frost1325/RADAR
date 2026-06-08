@@ -1,1 +1,0 @@
-the holding position. This type of marking is normally used where the width of the holding position on the taxiway is greater than 200 feet(60m). It is located to the left side of the taxiway centerline on the holding side and prior to the holding position marking. (See FIG 2-3-11. )

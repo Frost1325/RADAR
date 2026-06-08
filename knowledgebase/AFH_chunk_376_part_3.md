@@ -1,7 +1,0 @@
-bank angle of not more than \(5^{\circ}\) . This more closely resembles the \(\mathrm{V_{MC}}\) demonstration task in the practical test for a multiegnine rating.
-
-The AFM/POH- published \(\mathrm{V_{MC}}\) is determined with the critical engine inoperative. The critical engine is the engine whose failure had the most adverse effect on directional control. On twins with each engine rotating in conventional, clockwise rotation as viewed from the pilot's seat, the critical engine will be the left engine.
-
-Multiegnine airplanes are subject to P- factor just as single- engine airplanes are. The descending propeller blade of each engine will produce greater thrust than the ascending blade when the airplane is operated under power and at positive angles of attack. The descending propeller blade of the right engine is also a greater distance from the center of gravity, and therefore has a longer moment arm than the descending propeller blade of the left engine. As a result, failure of the left engine will result in the most asymmetrical thrust (adverse yaw) as the right engine will be providing the remaining thrust. [Figure 13- 12]
-
-Many twins are designed with a counter- rotating right engine

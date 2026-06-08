@@ -1,5 +1,0 @@
-The minimum visibility required for 34:1 penetrations is 3/4 SM and for 20:1 penetrations 1 SM, which is discussed in chapter 5 of this handbook. When there are penetrations of the final approach OIS, a visibility credit for approach lighting systems is not allowed for either airplane or helicopter procedures that would result
-
-<table><tr><td colspan="3">Helicopter Use of Standard Instrument Approach Procedures</td></tr><tr><td>Procedure</td><td>Helicopter Visibility Minima</td><td>Helicopter MDA/DA</td></tr><tr><td>Standard</td><td>The greater of: one half the Category A visibility minima, 1/4 statute mile visibility or 1,200 RVR unless annotated (Visibility Reduction by Helicopters NA.)</td><td>As published for Category A</td></tr><tr><td>Copter Procedure</td><td>As published</td><td>As published</td></tr><tr><td>GPS Copter Procedure</td><td>As published</td><td>As published</td></tr></table>
-
-Figure 7-9. Hel

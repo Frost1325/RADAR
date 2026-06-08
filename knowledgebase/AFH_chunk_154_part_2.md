@@ -1,7 +1,0 @@
-in this stall, to recognize when an elevator trim stall is approaching, and to take prompt and correct action to prevent a full stall condition. It is imperative to avoid the occurrence of an elevator trim stall during an actual go- around from an approach to landing.
-
-At a safe altitude and after ensuring that the area is clear of other air traffic, the pilot should slowly retard the throttle and extend the landing gear (if the airplane is equipped with retractable gear). The next step is to extend the flaps to the one- half or full position, close the throttle, and maintain altitude until the airspeed approaches the normal glide speed.
-
-When the normal glide is established, the pilot should trim the airplane nose- up for the normal landing approach glide. During this simulated final approach glide, the throttle is then advanced smoothly to maximum allowable power, just as it would be adjusted to perform a go- around.
-
-The combined effects of increased propwash over the tail and elevator trim tend to make the nose rise sharply and turn to the left. With the throttle fully advanced, the pitch attitude increases above the normal climbing attitude. When it is apparent the airplane is approaching a stall, the pilot should apply sufficient forward elevator pressure to reduce the AOA and eliminate the stall warning before returning

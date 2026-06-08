@@ -1,3 +1,0 @@
-executing a low approach, missed approach, or touch-and-go landing. Because vortices settle and move laterally near the ground, the vortex hazard may exist along the runway and in your flight path after a larger aircraft has executed a low approach, missed approach, or a touch-and-go landing, particular in light quartering wind conditions. You should ensure that an interval of at least 2 minutes has elapsed before your takeoff or landing.
-
-9. En route VFR (thousand-foot altitude plus 500 feet). Avoid flight below and behind a large aircraft's path. If a larger aircraft is observed above on the same track (meeting or overtaking) adjust your position laterally, preferably upwind.

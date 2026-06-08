@@ -1,7 +1,0 @@
-than training situations, the multigene airplane is only operated below \(\mathrm{V}_{\mathrm{SSE}}\) for mere seconds just after lift- off or during the last few dozen feet of altitude in preparation for landing.
-
-For spin avoidance when practicing engine failures, the flight instructor should pay strict attention to the maintenance of proper airspeed and bank angle as the learner executes the appropriate procedure. The instructor should also be particularly alert during stall and slow flight practice. While flying with a center- of- gravity closer to the forward limit provides better stall and spin avoidance characteristics, it does not eliminate the hazard.
-
-When performing a \(\mathrm{V}_{\mathrm{MC}}\) demonstration, the instructor should also be alert for any sign of an impending stall. The learner may be highly focused on the directional control aspect of the maneuver to the extent that impending stall indications go unnoticed. If a \(\mathrm{V}_{\mathrm{MC}}\) demonstration cannot be accomplished under existing conditions of density altitude, the instructor may, for training purposes, utilize a rudder blocking technique.
-
-As very few twins have ever been spin- tested (none are required to), the recommended spin recovery techniques are based only on the best information available. The departure from controlled flight

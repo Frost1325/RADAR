@@ -1,3 +1,0 @@
-0-27200, 27200-27300, 27300-27400, 27400-27500, 27500-27600, 27600-27700, 27700-27800, 27800-27900, 27900-28000, 28000-28100, 28100-28200, 28200-28300, 28300 e. TBL 7-1-3 contains a comparison of weather observing programs and the elements reported.
-
-f. Service Standards. During 1995, a government/industry team worked to comprehensively reassess the requirements for surface observations at the nation's airports. That work resulted in agreement on a set of service standards, and the FAA and NWS ASOS sites to which the standards would apply. The term "Service Standards" refers to the level of detail in

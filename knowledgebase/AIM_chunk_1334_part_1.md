@@ -1,5 +1,0 @@
-### d. Supplementary Charts and Publications.
-
-1. Airport/Facility Directory (A/FD). This 7-volume booklet series contains data on airports, seaplane bases, heliports, NAVAIDs, communications data, weather data sources, airspace, special notices, and operational procedures. Coverage includes the conterminous U.S., Puerto Rico, and the Virgin Islands. The A/FD shows data that cannot be readily depicted in graphic form; e.g., airport hours of operations, types of fuel available, runway widths, lighting codes, etc. The A/FD also provides a means for pilots to update visual charts between edition dates (A/FD is published every 56 days while Sectional Aeronautical and VFR Terminal Area Charts are generally revised every six months). The Aeronautical Chart Bulletins (VFR Chart Update Bulletins) are available for free download from the AeroNav web site. Volumes are side-bound 5-3/8 x 8-1/4 inches. (See FIG 9-1-12. )
-
-2. Supplement Alaska. This is a civil/military flight information publication issued by FAA every 56 days. It is a single volume booklet designed for use with appropriate I

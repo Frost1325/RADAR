@@ -1,7 +1,0 @@
- aircraft on the basis of calendar time, time in service, number of system operations, or any combination of these.
-
-All inspections should follow the current manufacturer's maintenance manual, including the Instructions for Continued Airworthiness concerning inspection intervals, parts replacement, and life- limited items as applicable to the aircraft.
-
-## Annual Inspection
-
-Any reciprocating engine or single- engine turbojet/ turbopropeller- powered small aircraft (weighing 12,500 pounds or less) flown for business or pleasure and not flown for compensation or hire is required to be inspected at least annually. The inspection shall be performed by a certificated airframe and powerplant (A&P) mechanic who holds an inspection authorization (IA) by the manufacturer of the aircraft or by a certificated and appropriately rated repair station. The aircraft may not be operated unless the annual inspection has been performed within the preceding 12 calendar months. A period of 12 calendar months extends from any day of a month to the last day of the same month the following year. An aircraft overdue for an annual inspection may be operated under a Special Flight Permit issued by the FAA for the purpose of flying the aircraft to a location where the annual inspection can be performed. However, all applicable ADs that are due must be complied with before the flight.

@@ -1,3 +1,0 @@
-the landing roll unless absolutely necessary to avoid a collision with obstacles.
-
-If the landing occurs with only the nose gear extended, the initial contact should be made on the aft fuselage structure with a nose- high attitude. This procedure helps prevent porpoising and/or wheelbarrowing. The pilot should then allow the nose- wheel to gradually touchdown, using nose- wheel steering as necessary for directional control.

@@ -1,5 +1,0 @@
-## 7-5-3. Obstructions To Flight
-
-a. General. Many structures exist that could significantly affect the safety of your flight when operating below 500 feet AGL, and particularly below 200 feet AGL. While 14 CFR Part 91.119 allows flight below 500 AGL when over sparsely populated areas or open water, such operations are very dangerous. At and below 200 feet AGL there are numerous power lines, antenna towers, etc., that are not marked and lighted as obstructions and; therefore, may not be seen in time to avoid a collision. Notices to Airmen (NOTAMs) are issued on those lighted structures experiencing temporary light outages. However, some time may pass before the FAA is notified of these outages, and the NOTAM issued, thus pilot vigilance is imperative.
-
-b. Antenna Towers. Extreme caution should be exercised when flying less than 2,000 feet AGL because of numerous skeletal structures, such as radio and television antenna towers, that exceed 1,000 feet AGL with some extending higher than 2,000 feet AGL. Most skeletal

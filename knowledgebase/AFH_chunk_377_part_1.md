@@ -1,5 +1,0 @@
-## \(\mathbf{V}_{\mathbf{MC}}\) Demo
-
-The actual demonstration of \(\mathrm{V_{MC}}\) and recovery in flight training more closely resembles static \(\mathrm{V_{MC}}\) determination in aircraft certification. For a demonstration that avoids the hazard of unintended contact with the ground, the pilot selects an altitude that will allow performance of the maneuver at least 3,000 feet AGL. The following description assumes a twin with non- counter- rotating engines, where the left engine is critical.
-
-With the landing gear retracted and the flaps set to the takeoff position, the pilot slows the airplane to approximately 10 knots above \(\mathrm{V_{SSE}}\) or \(\mathrm{V_{YSE}}\) (whichever is higher) and trims for takeoff. For the remainder of the maneuver, the trim setting remains unaltered. The pilot selects an entry heading and sets high rpm on both propeller controls. Power on the left engine is throttled back to idle as the right engine power is advanced to the takeoff setting. The landing gear warning horn will sound as long as a throttle is retarded, however the pilot listens carefully for the stall warning

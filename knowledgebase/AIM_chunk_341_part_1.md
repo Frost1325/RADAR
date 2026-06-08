@@ -1,7 +1,0 @@
-## EXAMPLE-
-
-Assume that a controller issues an approach clearance to an aircraft at the bottom of a holding stack and an aircraft with a similar call sign (at the top of the stack) acknowledges the clearance with the last two or three numbers of the aircraft's call sign. If the aircraft at the bottom of the stack did not hear the clearance and intervene, flight safety would be affected, and there would be no reason for either the controller or pilot to suspect that anything is wrong. This kind of "human factors" error can strike swiftly and is extremely difficult to rectify.
-
-2. Pilots, therefore, must be certain that aircraft identification is complete and clearly identified
-
-before taking action on an ATC clearance. ATC specialists will not abbreviate call signs of air carrier or other civil aircraft having authorized call signs. ATC specialists may initiate abbreviated call signs of other aircraft by using the prefix and the last three digits/letters of the aircraft identification after communications are established. The pilot may use the abbreviated call sign in subsequent contacts with the ATC specialist. When aware of similar/identical call signs, ATC specialists will take action to minimize errors by emphasizing certain numbers/letters, by repeating the entire call sign, by repeating the prefix, or by asking

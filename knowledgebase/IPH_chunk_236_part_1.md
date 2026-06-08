@@ -1,7 +1,0 @@
-## Required Navigation Performance (RNP)
-
-The operational advantages of RNP include accuracy, onboard performance monitoring and alerting which provide increased navigation precision and lower minimums than conventional RNAV. RNP DAs can be as low as 250 feet with visibilities as low as 3/4 SM. Besides lower minimums, the benefits of RNP include improved obstacle clearance limits, as well as reduced pilot workload. When RNP capable aircraft fly an accurate, repeatable path, ATC can be confident that these aircraft are at a specific position, thus maximizing safety and increasing capacity.
-
-To attain the benefits of RNP approach procedures, a key component is curved flight tracks. Constant radius turns
-
-To attain the benefits of RNP approach procedures, a key component is curved flight tracts. Constant radius turns around a fix are called "radius- to- fix legs (RF legs)." These turns, which are encoded into the navigation database, allow the aircraft to avoid critical areas of terrain or conflicting airspace while preserving positional accuracy by maintaining precise, positive course guidance along the curved track. The introduction of RF legs into the design of terminal RNAV procedures results in improved use of airspace and allows procedures to be developed to and from runways that are otherwise limited to

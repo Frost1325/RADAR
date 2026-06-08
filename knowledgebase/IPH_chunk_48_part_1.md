@@ -1,5 +1,0 @@
-## Ceiling and Visibility Requirements
-
-All takeoffs and departures have visibility minimums (some may have minimum ceiling requirements) incorporated into the procedure. There are a number of methods to report visibility and a variety of ways to distribute these reports, including automated weather observations. Flight crews should always check the weather, including ceiling and visibility information, prior to departure. Never launch an IFR flight without obtaining current visibility information immediately prior to departure. Further, when ceiling and visibility minimums are specified for IFR departure, both are applicable.
-
-Weather reporting stations for specific airports across the country can be located by reviewing the CS. Weather sources along with their respective phone numbers and frequencies are listed by airport. Frequencies for weather sources, such as Automatic Terminal Information Service (ATIS), Digital Automatic Terminal Information Service (D- ATIS), Automated Weather Observing System (AWOS), Automated Surface Observing System (ASOS), and FAA Automated Flight Service Station (AFSS) are published on approach charts as well. [Figure 1- 9]

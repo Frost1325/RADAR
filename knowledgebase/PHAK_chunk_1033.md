@@ -1,6 +1,0 @@
- under 14 CFR, part 39, define the authority and responsibility of the Administrator for requiring the necessary corrective action. ADs are used to notify aircraft owners and other interested persons of unsafe conditions and to specify the conditions under which the product may continue to be operated. ADs are divided into two categories:
-
-1. Those of an emergency nature requiring immediate compliance prior to further flight
-2. Those of a less urgent nature requiring compliance within a specified period of time
-
-ADs are regulatory and shall be complied with unless a specific exemption is granted. It is the responsibility of the aircraft owner or operator to ensure compliance with all pertinent ADs, including those ADs that require recurrent or continuing action. For example, an AD may require a repetitive inspection each 50 hours of operation, meaning the particular inspection shall be accomplished and recorded every 50 hours of time in service. Owners/operators are reminded that there is no provision to overly the maximum hour requirement of an AD unless it is specifically written into the AD. To help determine if an AD applies to an amateur-built aircraft, contact the local FSDO.

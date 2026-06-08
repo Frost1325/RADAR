@@ -1,5 +1,0 @@
-## Introduction
-
-This chapter presents information on IFR helicopter operations in the National Airspace System. Advances in avionics technology installed in helicopters such as Global Positioning System (GPS) and Wide Area Augmentation System (WAAS) are bringing approach procedures to helicopters around the country.
-
-The ability to operate helicopters under IFR increases their utility and safety. Helicopter IFR operators have an excellent safety record due to the investment in IFR- equipped helicopters, development of instrument approach procedures (IAPs), and IFR- trained flight crews. The safety record of IFR operations in the Gulf of Mexico is equivalent to the safety record of the best- rated airlines. Manufacturers are working to increase IFR all- weather capabilities of helicopters by providing slower minimum instrument airspeeds \((V_{\mathrm{MIN}})\) , faster cruising speeds, and better autopilots and flight management systems (FMS). As a result, in October 2005, the first civil helicopter in the United States was certified for flight into known icing conditions. [Figure 7- 1]

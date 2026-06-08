@@ -1,5 +1,0 @@
-## Missed Approach
-
-Many reasons exist for executing a missed approach. The primary reasons, of course, are that the required flight visibility prescribed in the IAP being used does not exist when natural vision is used under 14 CFR Part 91, § 91.175c, the required enhanced flight visibility is less than that prescribed in the IAP when an EFVS is used under 14 CFR Part 91, § 91.176, or the required visual references for the runway cannot be seen upon arrival at the DA, DH, or MAP. In addition, according to 14 CFR Part 91, the aircraft must continuously be in a position from which a descent to a landing on the intended runway can be made at a normal rate of descent using normal maneuvers, and for operations conducted under Part 121 or 135, unless that descent rate allows touchdown to occur within the TDZ of the runway of intended landing. CAT II and III approaches call for different visibility requirements as prescribed by the FAA Administrator.
-
-Prior to initiating an instrument approach procedure, the pilot should assess the actions to be taken in the event of a balked (rejected) landing beyond the missed approach point

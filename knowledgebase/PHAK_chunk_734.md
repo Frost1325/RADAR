@@ -1,5 +1,0 @@
- oil system operation. It ensures the pressure in pounds per square inch (psi) of the oil supplied to the engine. Green indicates the normal operating range, while red indicates the minimum and maximum pressures. There should be an indication of oil pressure during engine start. Refer to the AFM/POH for manufacturer limitations.
-
-The oil temperature gauge measures the temperature of oil. A green area shows the normal operating range, and the red line indicates the maximum allowable temperature. Unlike oil pressure, changes in oil temperature occur more slowly. This is particularly noticeable after starting a cold engine, when it may take several minutes or longer for the gauge to show any increase in oil temperature.
-
-Check oil temperature periodically during flight especially when operating in high or low ambient air temperature. High oil temperature indications may signal a plugged oil line, a low oil quantity, a blocked oil cooler, or a defective temperature gauge. Low oil temperature indications may signal improper oil viscosity during cold weather operations.

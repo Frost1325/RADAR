@@ -1,5 +1,0 @@
-## NOTE-
-
-White Decks: If a helideck is painted white, then international orange or yellow markings can be used for the temporary or permanent diagonals.
-
-(b) Temporary Closing. A temporary marker can be used for hazards of an interim nature. This marker could be made from vinyl or other durable material in the shape of a diagonal "X." The marker should be white with legs at least 20 feet long and 3 feet in width. This marker is designed to be quickly secured and removed from the deck using grommets and rope ties. The duration, time, location, and nature of these temporary closings should be provided to and coordinated with company aviation departments, nearby helicopter bases, and helicopter operators supporting the area. These markers MUST be removed when the hazard no longer exists. (See FIG 10-2-2.)

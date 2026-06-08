@@ -1,5 +1,0 @@
- landing threshold, the runway centerline lights are white until the last 3,000 feet of the runway. The white lights begin to alternate with red for the next 2,000 feet. For the remaining 1,000 feet of the runway, all centerline lights are red.
-
-Touchdown zone lights (TDZL)- installed on some precision approach runways to indicate the touchdown zone when landing under adverse visibility conditions. They consist of two rows of transverse light bars disposed symmetrically about the runway centerline. The system consists of steady- burning white lights that start 100 feet beyond the landing threshold and extend to 3,000 feet beyond the landing threshold or to the midpoint of the runway, whichever is less.
-
-Taxiway centerline lead- off lights- provide visual guidance to persons exiting the runway. They are color- coded to warn pilots and vehicle drivers that they are within the runway environment or ILS critical area, whichever is more restrictive. Alternate green and yellow lights are installed, beginning with green, from the runway centerline to one centerline light position beyond the runway holding position or ILS critical area holding position.

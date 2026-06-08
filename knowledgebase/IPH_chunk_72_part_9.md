@@ -1,5 +1,0 @@
-SM approved</td></tr><tr><td>X</td><td>MNPS approved</td></tr><tr><td>Y</td><td>VHF with 8.33 kHz channel spacing capability</td></tr><tr><td>Z</td><td>Other equipment carried or other capabilities<br>(see Note 5)</td></tr><tr><td colspan="2">Any alphanumeric characters not indicated above are reserved.<br>Ef active September 1, 2005.</td></tr></table>
-
-Any alphanumeric characters not indicated above are reserved. Ef active September 1, 2005.
-
-<table><tr><td colspan="2">ICAO Flight Plan Equipment Codes</td></tr><tr><td colspan="2">Surveillance equipment and capabilities</td></tr><tr><td colspan="2">INSERT N if no surveillance equipment for the route to be f own is carried, or the equipment is unserviceable, OR INSERT one or more of the following descriptors, to a maximum of 20 characters, to describe the serviceable surveillance equipment carried and/or capabilities on board:</td></tr><tr><td></td><td>SSR Modes A and C</td

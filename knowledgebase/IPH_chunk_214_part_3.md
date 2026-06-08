@@ -1,5 +1,0 @@
-microphone, and/or hand-held microphone.- SOPs should state the altitude awareness company policy on confirming assigned altitude.
-
-Example: The PM acknowledges ATC altitude clearance. If the aircraft is on the autopilot, then the PF makes input into the autopilot/altitude alerter. PF points to the input while stating the assigned altitude as he or she understands it. The PM then points to the input stating aloud what he or she understands the ATC clearance to be confirming that the input and clearance match. If the aircraft is being handflown, then the PM makes the input into the altitude alerter/ autopilot, then points to the input and states clearance. PF then points to the alerter stating aloud what he or she understands the ATC clearance to be confirming that the alerter and clearance match.
-
-Example: If there is no altitude alerter in the aircraft, then both pilots write down the clearance, confirm that they have the same altitude, and then cross off the previously assigned altitude.

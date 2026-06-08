@@ -1,7 +1,0 @@
- in the weight of the wing structure, which means the wing must be heavier to carry the same load. For this reason, part of the gain (due to a decrease in drag) is lost because of the increased weight, and a compromise in
-
- design is necessary to obtain the best results from these two conflicting conditions.
-
-The second means of changing the planform is by tapering (decreasing the length of chord from the root to the tip of the wing). In general, tapering causes a decrease in drag (most effective at high speeds) and an increase in lift. There is also a structural benefit due to a saving in weight of the wing.
-
-Most training and general aviation type airplanes are operated at high coefficients of lift, and therefore require comparatively high aspect ratios. Airplanes that are developed to operate at very high speeds demand greater aerodynamic cleanness and greater strength, which require low aspect ratios. Very low aspect ratios result in high wing loadings and high stall speeds. When sweepback is combined with low aspect ratio, it results in flying qualities very different from a more conventional high aspect ratio airplane configuration. Such airplanes require very precise and professional flying techniques, especially at slow speeds, while airplanes with a high aspect ratio are usually more forgiving of improper pilot techniques.

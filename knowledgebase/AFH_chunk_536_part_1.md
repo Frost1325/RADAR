@@ -1,7 +1,0 @@
-## Inadvertent VFR Flight Into IMC
-
-It is beyond the scope of this handbook to incorporate a course of training in basic attitude instrument flying. This information is contained in the Instrument Flying Handbook (FAA- H- 8083- 15). Certain pilot certificates and/or associated ratings require training in instrument flying and a demonstration of specific instrument flying tasks on the practical test.
-
-Pilots and flight instructors should refer to the Instrument Flying Handbook (FAA- H- 8083- 15) for guidance in the performance of these tasks and to the appropriate airman certification standards (ACS) for information on the evaluation of tasks performed for the particular certificate level and/or rating. The pilot should remember, however, that unless these tasks are practiced on a continuing and regular basis, skill erosion begins almost immediately. In a very short time, the pilot's assumed level of confidence is much higher than the performance he or she is actually able to demonstrate should the need arise.
-
-Accident statistics show that the pilot who has not been trained in attitude instrument flying, or one whose instrument skills have eroded, lose control of the airplane in about 10 minutes once forced to rely solely on instrument references. The purpose of this

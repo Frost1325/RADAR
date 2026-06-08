@@ -1,7 +1,0 @@
-minimum control speed \((\mathrm{V}_{\mathrm{MC}})\) . Some multinegine pilots prefer to delay full flap extension to short final with the landing assured. This is an acceptable technique with appropriate experience and familiarity with the airplane.
-
-In the round out for landing, residual power is gradually reduced to idle. With the higher wing loading of multinegine airplanes and with the drag from two windmilling propellers, there is minimal float. Full stall landings are generally undesirable in twins. The airplane should be held off as with a high performance single- engine model, allowing touchdown of the main wheels prior to a full stall.
-
-Under favorable wind and runway conditions, the nose- wheel can be held off for best aerodynamic braking. Even as the nose- wheel is gently lowered to the runway centerline, continued elevator back pressure greatly assists the wheel brakes in stopping the airplane.
-
-If runway length is critical, or with a strong crosswind, or if the surface is contaminated with water, ice, or snow, it is undesirable to rely solely on aerodynamic braking after touchdown. The full weight of the airplane should be placed on the wheels as soon as practicable. The wheel brakes are more effective than aerodynamic braking alone in dec

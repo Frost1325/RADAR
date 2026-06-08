@@ -1,3 +1,0 @@
-turn. The final 1/2 of the chance in grounded occurs during the last 2/3 of the turn.
-
-To successfully perform eights along a ground reference, the pilot should be able to smoothly and accurately coordinate changes in bank angle to maintain a constant- radius turn and counteract drift. The speed in which the pilot can anticipate these corrections directly affects the accuracy of the overall maneuver and the amount of attention that can be directed toward scanning for outside hazards and instrument indications.

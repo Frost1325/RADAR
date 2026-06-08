@@ -1,5 +1,0 @@
- and the RNAV en route mode is selected, the CDI displays course guidance to the waypoint, not the original VORTAC. DME also displays distance to the waypoint. Many units have the capability to store several waypoints, allowing them to be programmed prior to flight, if desired, and called up in flight.
-
-RNAV waypoints are entered into the unit in magnetic bearings (radials) of degrees and tenths (i.e., \(275.5^{\circ}\) ) and distances in NM and tenths (i.e., \(25.2\mathrm{NM}\) ). When plotting RNAV waypoints on an aeronautical chart, pilots find it
-
-difficult to measure to that level of accuracy, and in practical application, it is rarely necessary. A number of flight planning publications publish airport coordinates and waypoints with this precision and the unit accepts those figures. There is a subtle but important difference in CDI operation and display in the RNAV modes.

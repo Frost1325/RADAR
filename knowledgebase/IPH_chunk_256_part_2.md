@@ -1,3 +1,0 @@
-on DME collocated with a facility providing omnidirectional course information, such as a VOR. A DME arc cannot be based on an ILS or LOC DME source because omnidirectional course information is not provided.
-
-The ROC along the arc depends on the approach segment. For an initial approach segment, a ROC of 1,000 feet is required in the primary area, which extends to 4 NM on either side of the arc. For an intermediate segment primary area, the ROC is 500 feet. The initial and intermediate segment secondary areas extend 2 NM from the primary boundary area edge. The ROC starts at the primary area boundary edge at 500 feet and tapers to zero feet at the secondary area outer edge. [Figure 4- 31 ]

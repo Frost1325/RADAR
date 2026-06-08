@@ -1,5 +1,0 @@
-than 14 CFR parts 121 and 135 operators, continued operations below DA or MDA where touchdown in the TDZ is not assured, where a high sink rate occurs, or where the decision to conduct a missed approach procedure is not executed in a timely manner, all create a significant risk to the operation.
-
-4. Missed Approach Considerations. As noted earlier, a missed approach initiated after the DA or MAP involves additional risk. At 100 feet or less above the runway, it is likely that an aircraft is significantly below the TERPS missed approach obstacle clearance surface. Prior planning is recommended and should include contingencies between the published MAP and touchdown with reference to obstacle clearance, aircraft performance, and alternate escape plans.
-
-d. Light Emitting Diode (LED) Airport Lighting Impact on EFVS Operations. The FAA has recently begun to replace incandescent lamps with LEDs at some airports in threshold lights, taxiway edge lights, taxiway centerline lights, low intensity runway edge lights, windowe lights, beacons, and some obstruction lighting. Pilots should be aware that LED lights cannot be sensed by current EFVS systems.

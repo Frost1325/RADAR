@@ -1,5 +1,0 @@
- be a process as simple as the pilot positioning a circuit breaker to the OFF position or as complex as rendering instruments or equipment totally inoperable. Complex maintenance tasks require a certificated and appropriately rated maintenance person to perform the deactivation. In all cases, the item or equipment must be placarded INOPERATIVE.
-
-All small rotorcraft, non- turbine powered airplanes, gliders, or lighter- than- air aircraft operated under 14 CFR part 91 are eligible to use the maintenance deferral provisions of 14 CFR, part 91, section 91.213(d). However, once an operator requests an MEL, and a Letter of Authorization (LOA) is issued by the FAA, then the use of the MEL becomes mandatory for that aircraft. All maintenance deferrals must be accomplished in accordance with the terms and conditions of the MEL and the operator- generated procedures document.
-
-The use of an MEL for an aircraft operated under 14 CFR part 91 also allows for the deferral of inoperative items or equipment. The primary guidance becomes the FAA- approved MEL issued to that specific operator and N- numbered aircraft.

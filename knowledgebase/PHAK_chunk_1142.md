@@ -1,3 +1,0 @@
- equal to drag. The power required to achieve equilibrium in constant- altitude flight at various airspeeds is depicted on a power required curve. The power required curve illustrates the fact that at low airspeeds near the stall or minimum controllable airspeed, the power setting required for steady, level flight is quite high.
-
-Flight in the region of normal command means that while holding a constant altitude, a higher airspeed requires a higher power setting and a lower airspeed requires a lower power setting. The majority of aircraft flying (climb, cruise, and maneuvers) is conducted in the region of normal command.

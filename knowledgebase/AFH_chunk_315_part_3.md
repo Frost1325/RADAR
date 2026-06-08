@@ -1,3 +1,0 @@
-, that pitching behavior depends on several variables including flap type, wing position, downwash behavior, and horizontal tail location. Consequently, pitch behavior depends on the design features of the particular airplane.
-
-Flap deflection of up to \(15^{\circ}\) primarily produces lift with minimal increases in drag. Deflection beyond \(15^{\circ}\) produces a large increase in drag. Drag from flap deflection is parasite drag and, as such, is proportional to the square of the speed. Also, deflection beyond \(15^{\circ}\) produces a significant nose- up pitching moment in most high- wing airplanes because the resulting downwash changes the airflow over the horizontal tail.

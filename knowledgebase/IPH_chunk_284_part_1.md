@@ -1,7 +1,0 @@
-## Simultaneous Close Parallel Precision Runway Monitor (PRM) Approaches
-
-Simultaneous close parallel (independent) PRM approaches are authorized for use at designated airports that have parallel runways spaced less than 4,300 feet apart. [Figure 4- 47] Certain PRM approaches are referred to as Simultaneous Offset Instrument Approaches (SOIA) and
-
-are discussed in depth later in this chapter.
-
-PRM procedures are the most efficient method of increasing approach capacity at airports with closely spaced, parallel runways. Use of PRM procedures increases airport capacity during periods of low visibility by providing ATC the capability to monitor simultaneous close parallel (independent) approaches. These PRM operations reduce delays and increase fuel savings. Traditionally the PRM system included a high- update rate radar, a high resolution ATC radar display, as well as software that can autonomously track aircraft in close to real time, with visual and aural alerts that depict the aircraft's current position and velocity as well as displaying a ten- second projected position to the controllers. Today, most PRM operations are conducted without the need for high update rate radar, so long as all of the other requirements to conduct such approaches are met.

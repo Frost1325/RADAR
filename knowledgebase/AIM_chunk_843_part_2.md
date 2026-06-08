@@ -1,3 +1,0 @@
-unable to execute the approach ATC advised will be used, or if they prefer another type of approach.
-
-c. Aircraft destined to uncontrolled airports, which have automated weather data with broadcast capability, should monitor the ASOS/AWSS/AWOS frequency to ascertain the current weather for the airport. The pilot must advise ATC when he/she has received the broadcast weather and state his/her intentions.

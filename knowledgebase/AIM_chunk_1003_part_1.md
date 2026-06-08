@@ -1,1 +1,0 @@
-### c. Helicopter Intercept phases (See FIG 5-6-2)

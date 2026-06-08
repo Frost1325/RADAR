@@ -1,5 +1,0 @@
-beginning at the runway threshold, at the threshold elevation, and centered on the extended runway centerline. The POFZ is 200 feet (60m) long and 800 feet (240m) wide. The POFZ must be clear when an aircraft on a vertically guided final approach is within 2 nautical miles of the runway threshold and the reported ceiling is below 250 feet or visibility less than \(3 / 4\) statute mile
-
-(SM) (or runway visual range below 4,000 feet). If the POFZ is not clear, the MINIMUM authorized height above touchdown (HAT) and visibility is 250 feet and \(3 / 4\) SM. The POFZ is considered clear even if the wing of the aircraft holding on a taxiway waiting for runway clearance penetrates the POFZ; however, neither the fuselage nor the tail may infringe on the POFZ. The POFZ is applicable at all runway ends including displaced thresholds.
-
-c. Straight-in Minimums are shown on the IAP when the final approach course is within 30 degrees of the runway alignment (15 degrees for GPS IAPs)

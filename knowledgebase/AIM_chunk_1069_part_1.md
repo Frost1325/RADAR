@@ -1,7 +1,0 @@
-## 7-1-3. Use of Aviation Weather Products
-
-a. Air carriers and operators certificated under the provisions of 14 CFR Part 119 are required to use the aeronautical weather information systems defined in the Operations Specifications issued to that certificate holder by the FAA. These systems may utilize basic FAA/National Weather Service (NWS) weather services, contractor- or operator-proprietary weather services and/or Enhanced Weather Information System (EWINS) when approved in the Operations Specifications. As an integral part of this system approval, the procedures for collecting, producing and disseminating aeronautical weather information, as well as the crew member and dispatcher training to support the use of system weather products, must be accepted or approved.
-
-b. Operators not certificated under the provisions of 14 CFR Part 119 are encouraged to use FAA/NWS products through Flight Service Stations, Direct User Access Terminal System (DUATS), Lockheed Martin Flight Services, and/or Flight Information Services-Broadcast (FIS-B).
-
-c. The suite of available aviation weather product types is expanding, with the development of new sensor systems, algorithms and forecast models. The FAA and NWS, supported by various weather research laboratories and corporations under contract to

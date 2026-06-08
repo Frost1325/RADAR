@@ -1,1 +1,0 @@
-used to set takeoff power. Climb and cruise power are established with the torquemeter and propeller tachometer while observing ITT limits. Gas generator \((\mathrm{N}_1)\) operation is monitored by the gas generator tachometer. Proper observation and interpretation of these instruments provide an indication of engine performance and condition.

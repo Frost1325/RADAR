@@ -1,5 +1,0 @@
- point along the length of the blade. [Figure 5- 44] Because most propellers have a flat blade "face," the chord line is often drawn along the face of the propeller blade. Pitch is not blade angle, but because pitch is largely determined by blade angle, the two terms are
-
-often used interchangeably. An increase or decrease in one is usually associated with an increase or decrease in the other. The pitch of a propeller may be designated in inches. A propeller designated as a "74- 48" would be 74 inches in length and have an effective pitch of 48 inches. The pitch is the distance in inches, which the propeller would screw through the air in one revolution if there were no slippage.
-
-When specifying a fixed- pitch propeller for a new type of aircraft, the manufacturer usually selects one with a pitch that operates efficiently at the expected cruising speed of the aircraft. Every fixed- pitch propeller must be a compromise because it can be efficient at only a given combination of airspeed and revolutions per minute (rpm). Pilots cannot change this combination in flight.

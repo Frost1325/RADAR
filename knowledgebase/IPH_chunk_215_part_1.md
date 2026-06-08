@@ -1,7 +1,0 @@
-## Approach Control
-
-Approach control is responsible for controlling all instrument flights operating within its area of responsibility. Approach control may serve one or more airports. Control is exercised primarily through direct pilot and controller communication and airport surveillance radar (ASR). Prior to arriving at the initial approach fix (IAF), instructions will be received from the air route traffic control center (ARTCC) to contact approach control on a specified frequency. Where radar is approved for approach control service, it is used not only for radar approaches, but also for vectors in conjunction with published non- radar approaches using conventional NAVAIDs or RNAV/GPS.
-
-When radar handoffs are initiated between the ARTCC and approach control, or between two approach control facilities, aircraft are cleared (with vertical separation) to an outer fix most appropriate to the route being flown and, if required, given holding instructions. Or, aircraft are cleared to the airport or to a fix so located that the handoff is completed prior to the time the aircraft reaches the fix. When radar handoffs are used, successive arriving flights may be handed off to approach control with radar separation in lieu of vertical separation.
-
-After release to approach control, aircraft are vectored to the final approach course. ATC occasionally vectors the aircraft across the

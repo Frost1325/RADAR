@@ -1,3 +1,0 @@
-aircraft lights, may cause interference with brain function. Although rare, this may occur at a frequencies from 1 to 20 hertz. If continuous, the possible physical reactions can be nausea, dizziness, grogginess, unconsciousness, headaches, or confusion. Pilots should try to eliminate or screen out any light source that might cause an unwanted reaction to blinking or flickering lights.
-
-- Sunglasses can aid the dark adaptation process, which is delayed by prolonged exposure to bright sunlight.

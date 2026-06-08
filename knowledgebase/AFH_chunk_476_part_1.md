@@ -1,5 +1,0 @@
-## Introduction
-
-The light- sport aircraft (LSA) concept broadens the access of flight to more people. LSA have been defined as a simple- to- operate, easy- to- fly aircraft; however, "simple- to- operate" and "easy- to- fly" do not negate the need for proper and effective training. This chapter introduces the light- sport category of airplanes and places emphasis on transition to a light- sport airplane.
-
-Even though light- sport airplane flight may appear simple to an experienced pilot, a transition to a light- sport airplane should include the same methodical training approach as transitioning into any other airplane. A pilot seeking a transition into light- sport airplane flying should follow a systematic, structured light- sport airplane training course under the guidance of a competent instructor with recent experience in the specific training airplane.

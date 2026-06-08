@@ -1,3 +1,0 @@
-. See High Density Traffic AirportsHelicopterIFR Operations, 10- 1- 1Landing Area Markings, 2- 3- 19VFR Operations at Controlled Airports, 4- 3- 18Special Operations, 10- 2- 1
-
-Wake Turbulence, 7- 3- 6High Density Traffic Airports, 4- 1- 21Hold, For Release, 5- 2- 4Holding, 5- 3- 8Holding Position Markings, 2- 3- 1, 2- 3- 12for Instrument Landing Systems, 2- 3- 12for Taxiway/Taxiway Intersections, 2- 3- 12Holding Position Signs, Surface Painted, 2- 3- 12Hypoxia, 8- 1- 3

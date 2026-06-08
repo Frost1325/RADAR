@@ -1,5 +1,0 @@
-pitch can be dramatically steep. Like takeoffs and departures, approach and landing should be accomplished in accordance with a standard approach and landing profile. [Figure 15- 12] However, when flying an airplane equipped with a split shaft/free turbine engine, the pilot should anticipate the demand for power and account for any lag in "spool- up" time.
-
-A stabilized approach is an essential part of the approach and landing process. In a stabilized approach, the airplane, depending on design and type, is placed in a stabilized descent on a glidepath ranging from 2.5 to \(3.5^{\circ}\) . The speed is stabilized at some reference from the AFM/POH—usually 1.25 to 1.30 times the stall speed in approach configuration. The descent rate is stabilized from 500 fpm to 700 fpm until the landing flare.
-
-Landing some turboprop airplanes (as well as some piston twins) can result in a hard, premature touchdown if the engines are idled too soon. This is because large propellers spinning rapidly in low pitch create considerable drag. In such airplanes, it may be preferable to maintain power throughout the landing flare and touchdown

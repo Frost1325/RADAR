@@ -1,3 +1,0 @@
-## 3. Area Navigation (RNAV) Routes.
-
-(a) Published RNAV routes, including Q-Routes and T-Routes, can be flight planned for use by aircraft with RNAV capability, subject to any limitations or requirements noted on en route charts, in applicable Advisory Circulars, or by NOTAM. RNAV routes are depicted in blue on aeronautical charts and are identified by the letter "Q" or "T" followed by the airway number (for example, Q-13, T-205). Published RNAV routes are RNAV-2 except when specifically charted as RNAV-1. These routes require system performance currently met by GPS, GPS/WAAS, or DME/DME/IRU RNAV systems that satisfy the criteria discussed in AC 90-100A, U.S. Terminal and En Route Area Navigation (RNAV) Operations.

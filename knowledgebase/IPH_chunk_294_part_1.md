@@ -1,5 +1,0 @@
-## Localizer and Localizer DME
-
-The localizer approach system can provide both precision and non- precision approach capabilities to a pilot. As a part of the ILS system, the localizer provides horizontal guidance for a precision approach. Typically, when the localizer is discussed, it is thought of as a non- precision approach due to the fact that either it is the only approach system installed, or the glideslope is out of service on the ILS. In either case, the localizer provides a non- precision approach using a localizer transmitter installed at a specific airport. [Figure 4- 58]
-
-TERPS provides the same alignment criteria for a localizer approach as it does for the ILS, since it is essentially the same approach without vertical guidance stemming from the glideslope. A localizer is always aligned within \(3^{\circ}\) of the runway, and it is afforded a minimum of 250 feet obstacle clearance in the final approach area. In the case of a localizer DME (LOC DME) approach, the localizer installation has a collocated DME installation that provides distance information required for the approach. [Figure 4- 59]

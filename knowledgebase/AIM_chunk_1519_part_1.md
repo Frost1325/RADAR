@@ -1,3 +1,0 @@
-# [References are to page numbers]
-
-Terrain Alert, 4- 1- 10  THL. See Takeoff Hold Lights  TIBS. See Telephone Information Briefing Service  Time  Clearance Void, 5- 2- 4  Release, 5- 2- 4  TIS. See Traffic Information Service  TIS- B. See Traffic Information Service- Broadcast  TLS. See Transponder Landing System  Touchdown Zone Lights (TDZL), 2- 1- 6  Tower, Antenna, 7- 5- 1  Tower En Route Control, 4- 1- 14  Traffic  Advisories, 5- 5- 4  Local Flow Traffic Management Program, 5- 4- 3  Traffic Advisory Practices, Airports Without Operating Control Towers, 4- 1- 2  Traffic Alert and Collision Avoidance System, 4- 4- 11  Traffic Control Light Signals, 4- 3- 16  Traffic Information Service, 4- 5- 8  Traffic Information Service (TIS), 4- 4- 11  Traffic

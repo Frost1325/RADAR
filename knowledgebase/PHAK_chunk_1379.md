@@ -1,6 +1,0 @@
- If the end time of a valid period is at midnight UTC, it is annotated as 24. For example, a 00Z TAF issued on the 9th of the month and valid for 24 hours would have a valid period of 0900/0924.
-5. Forecast wind—the wind direction and speed forecast are coded in a five-digit number group. An example would be 15011KT. The first three digits indicate the direction of the wind in reference to true north. The last two digits state the windspeed in knots appended with "KT." Like the METAR, winds greater than 99 knots are given in three digits.
-6. Forecast visibility—given in statute miles and may be in whole numbers or fractions. If the forecast is greater than six miles, it is coded as "P6SM."
-
-7. Forecast significant weather—weather phenomena are coded in the TAF reports in the same format as the METAR.
-8. Forecast sky condition—given in the same format as the METAR. Only cumulonimbus (CB) clouds are forecast in this portion of the TAF report as opposed to CBs and towering cumulus in the METAR.

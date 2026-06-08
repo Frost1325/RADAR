@@ -1,5 +1,0 @@
-## NOTE
-
-It is not necessary for a controller to specifically inquire if the pilot will use a specific runway or to offer a choice of runways. If a pilot prefers to use a different runway from that specified, or the one most nearly aligned with the wind, the pilot is expected to inform ATC accordingly.
-
-2. At airports where a runway use program is established, ATC will assign runways deemed to have the least noise impact. If in the interest of safety a runway different from that specified is preferred, the pilot is expected to advise ATC accordingly. ATC will honor such requests and advise pilots when the requested runway is noise sensitive. When use of a runway other than the one assigned is requested, pilot cooperation is encouraged to preclude disruption of traffic flows or the creation of conflicting patterns.

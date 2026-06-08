@@ -1,1 +1,0 @@
-of exposure to cabin pressure altitudes between 12,500 and 14,000 feet and immediately on exposure to cabin pressure altitudes above 14,000 feet. Every occupant of the aircraft must be provided with supplemental oxygen at cabin pressure altitudes above 15,000 feet.

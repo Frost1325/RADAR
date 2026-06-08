@@ -1,3 +1,0 @@
-in disproportionally large changes in induced drag and therefore changes in airspeed. As a result, pitch becomes a more effective control of airspeed when flying below \(\mathrm{L / D_{MAX}}\) and power is an effective control of the path.
-
-It is also important to note that an airplane flying below \(\mathrm{L / D_{MAX}}\) , exhibits a characteristic known as "speed instability" and the airspeed will continue to decay without appropriate pilot action. For example, if the airplane is disturbed by turbulence and the airspeed decreases, the airspeed may continue to decrease without the appropriate pilot action of reducing the AOA or adding power. [Figure 5- 6]

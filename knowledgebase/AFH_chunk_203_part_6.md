@@ -1,6 +1,0 @@
-the pilot should visually utilize the ground- based, nose, and wingtip references to properly position the airplane in attitude and in orientation to the rectangular course. In order to maintain a constant ground- based radius during the turns, each turn requires the bank angle to be adjusted to compensate for the changing groundspeed—the higher the groundspeed, the steeper the bank. If the groundspeed is initially higher and then decreases throughout the turn, the bank angle should progressively decrease throughout the turn. The converse is also true, if the groundspeed is initially slower and then increases throughout the turn, the bank angle should progressively increase throughout the turn until rollout is started. Also, the rate for rolling in and out of the turn should be adjusted to prevent drifting in or out of the course. When the wind is from a direction that could drift the airplane into the course, the banking roll rate should be slow. When the wind is from a direction that could drift the airplane to the outside of the course, the banking roll rate should be quick.
-
-The following are the most common errors made while performing rectangular courses:
-
-1. Failure to adequately clear the surrounding area for safety hazards, initially and throughout the maneuver.
-2. Failure to establish a constant, level altitude prior to entering the maneuver

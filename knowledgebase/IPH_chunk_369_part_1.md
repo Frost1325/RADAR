@@ -1,3 +1,0 @@
-## Aircraft System Malfunction
-
-Preventing aircraft system malfunctions that might lead to an in- flight emergency begins with a thorough preflight inspection. In addition to items normally checked before visual flight rules (VFR) flight, pilots intending to fly instrument flight rules (IFR) should pay particular attention to antennas, static wicks, anti- icing/de- icing equipment, pitot tube, and static ports. During taxi, verify operation and accuracy of all flight instruments. The pilots must ensure that all systems are operational before departing into IFR conditions.

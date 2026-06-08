@@ -1,5 +1,0 @@
- traffic control (ATC) will advise when updated altimeter settings are available. If a pilot is not utilizing ATC assistance, local altimeter settings can be obtained by monitoring local automated weather observing system/automated surface observation system (AWOS/ASOS) or automatic terminal information service (ATIS) broadcasts.
-
-Many pilots confidently expect the current altimeter setting will compensate for irregularities in atmospheric pressure at all altitudes, but this is not always true. The altimeter setting broadcast by ground stations is the station pressure corrected to mean sea level. It does not account for the irregularities
-
-at higher levels, particularly the effect of nonstandard temperature. If each pilot in a given area is using the same altimeter setting, each altimeter should be equally affected by temperature and pressure variation errors, making it possible to maintain the desired vertical separation between aircraft. This does not guarantee vertical separation though. It is still imperative to maintain a regimented visual scan for intruding air traffic.

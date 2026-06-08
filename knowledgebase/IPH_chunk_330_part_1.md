@@ -1,3 +1,0 @@
-## Charting/Database Inconsistencies
-
-It is important for pilots to remember that many inconsistencies may exist between aeronautical charts and airborne navigation databases. Since there are so many sources of information included in the production of these materials, and the data is manipulated by several different organizations before it is eventually displayed on RNAV equipment, the possibility is high that there will be noticeable differences between the charts and the databases. Because of this, pilots must be familiar with the capabilities of the database and have updated aeronautical charts while flying to ensure the proper course is being flown.

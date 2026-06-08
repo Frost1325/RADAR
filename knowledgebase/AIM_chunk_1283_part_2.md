@@ -1,3 +1,0 @@
-obscures your reference. Make your decisions early. Don't assume you can pick up a lost reference point when you get closer.
-
-4. Exercise extreme caution when flying from sunlight into shade. Physical awareness may tell you that you are flying straight but you may actually be in a spiral dive with centrifugal force pressing against you. Having no visual references enhances this illusion. Just because you have a good visual reference does not mean that it's safe to continue. There may be snow-covered terrain not visible in the direction that you are traveling. Getting caught in a no visual reference situation can be fatal.

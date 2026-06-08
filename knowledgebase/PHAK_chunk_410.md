@@ -1,3 +1,0 @@
- wing pushes the mass of air down. At high angles of attack, the amount of induced drag is high; since this corresponds to lower airspeeds in actual flight, it can be said that induced drag predominates at low speed. However, the reduction of the wingtip vortices due to ground effect alters
-
-the spanwise lift distribution and reduces the induced AOA and induced drag. Therefore, the wing will require a lower AOA in ground effect to produce the same \(\mathrm{C_L}\) . If a constant AOA is maintained, an increase in \(\mathrm{C_L}\) results. [Figure 5- 17]

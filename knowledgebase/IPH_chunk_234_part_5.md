@@ -1,5 +1,0 @@
-capability are specifically approved in the AFM. Airplanes that are commonly approved in these types of operations include Boeing 737NG, 767, and 777, as well as the Airbus A300 series. Landing minimums are shown as DAs because the approaches are flown using an electronic glide path. Other RNAV systems require special approval. In some cases, the visibility minimums for LNAV/VNAV might be greater than those for LNAV only. This situation occurs because DA on the LNAV/VNAV vertical descent path is farther away from the runway threshold than the LNAV MDA missed approach point.
-
-Also shown in Figure 4- 12, is the LNAV minimums line. This minimum is for lateral navigation only, and the approach minimum altitude is published as a MDA. LNAV provides the same level of service as the present GPS stand alone approaches. LNAV supports the following systems: WAAS, when the navigation solution will not support vertical navigation; and GPS navigation systems which are presently authorized to conduct GPS approaches.
-
-Circling minimums that may be used with any type of approach approved RNAV equipment when publication of straight- in approach minimums is not possible.

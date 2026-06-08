@@ -1,5 +1,0 @@
-## Chandelle
-
-A chandelle is a maximum performance, \(180^{\circ}\) climbing turn that begins from approximately straight- and- level flight and concludes with the airplane in a wings- level, nose- high attitude just above stall speed. [Figure 10- 3] The goal is to gain the most altitude possible for a given bank angle and power setting; however, the standard used to judge the maneuver is not the amount of altitude gained, but rather the pilot's proficiency as it pertains to maximizing climb performance for the power and bank selected, as well as the skill demonstrated.
-
-A chandelle is best described in two specific phases: the first \(90^{\circ}\) of turn and the second \(90^{\circ}\) of turn. The first \(90^{\circ}\) of turn is described as constant bank and continuously increasing pitch; and the second \(90^{\circ}\) as constant pitch and continuously decreasing bank. During the first \(90^{\circ}\) , the pilot will set the bank angle, increase power, and increase pitch attitude at a rate such that maximum pitch- up occurs at the completion of the first \(90^{\circ

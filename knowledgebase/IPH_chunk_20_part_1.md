@@ -1,3 +1,0 @@
-## Chapter 3
-
-Arrivals. 3- 1 Introduction. 3- 1 Navigation in the Arrival Environment. 3- 2 Descent Planning. 3- 3 Vertical Navigation (VNAV) Planning. 3- 4 LNAV/VNAV Equipment. 3- 6 Descent Planning for High Performance Aircraft. 3- 6 Descending From the En Route Altitude. 3- 8 Controlled Flight Into Terrain (CFIT). 3- 9 Standard Terminal Arrival Routes (STARs). 3- 10 RNAV STARS or STAR Transitions. 3- 12 Interpreting the STAR. 3- 12 STAR Procedures. 3- 16 Preparing for the Arrival. 3- 16 Reviewing the Approach. 3- 16 Altitude. 3- 18 Airspeed. 3- 20 Holding Patterns. 3- 21 Approach Clearance. 3- 22 Present Position Direct. 3- 24 Radar Vectors to Final Approach Course. 3- 24 Special Airport Qualification. 3- 26 Chapter 4Approaches

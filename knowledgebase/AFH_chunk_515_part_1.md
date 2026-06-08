@@ -1,5 +1,0 @@
-## Approach
-
-When the pilot has time to maneuver, the planning of the approach should be governed by the following three factors:
-
-Wind direction and velocity Dimensions and slope of the chosen field Obstacles in the final approach path These three factors are seldom compatible. When compromises have to be made, the pilot should aim for a wind/obstacle/terrain combination that permits a final approach with some margin for error in judgment or technique. A pilot who overestimates the gliding range may be tempted to stretch the glide across obstacles in the approach path. For this reason, it is sometimes better to plan the approach over an unobstructed area, regardless of wind direction. Experience shows that a collision with obstacles at the end of a ground roll or slide is much less hazardous than striking an obstacle at flying speed before the touchdown point is reached.

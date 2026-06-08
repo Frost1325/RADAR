@@ -1,3 +1,0 @@
-if aircraft flying intersecting routes pass safely within the separation standard, or if they conflict with each other. In addition to vector lines, the
-
-controller can also display a route line for any given aircraft on his or her radar screen. This tells the controller where a particular aircraft is in specified number of minutes, as well as the path the aircraft will fly to get there. Decision support tools such as these help each controller look ahead and avoid conflicts.

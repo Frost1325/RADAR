@@ -1,5 +1,0 @@
-## Descent Planning
-
-Planning the descent from cruise is important because of the need to dissipate altitude and airspeed in order to arrive
-
-at the approach gate properly configured. Descending early results in more flight at low altitudes with increased fuel consumption, and starting down late results in problems controlling both airspeed and descent rates on the approach. Prior to flight, pilots need to calculate the fuel, time, and distance required to descend from the cruising altitude to the approach gate altitude for the specific instrument approach at the destination airport. While in flight prior to the descent, it is important for pilots to verify landing weather to include winds at their intended destination. Inclimate weather at the destination airport can cause slower descents and missed approaches that require a sufficient amount of fuel that should be calculated prior to starting the descent. In order to plan the descent, the pilot needs to know the cruise altitude, approach gate altitude or initial approach fix altitude, descent grounded speed, and

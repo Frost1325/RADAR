@@ -1,3 +1,0 @@
-made aware of any hazardous gases in the area. Never assume that the crew has already been informed. If the aircraft were to fly through the hazardous gases, the crew could be poisoned and/or the engines could develop mechanical problems.
-
-6. Poisonous or irritating gases may cling to a victim’s clothing and go unnoticed until the patient is loaded and the doors of the helicopter are closed. To avoid possible compromise of the crew, all of these patients must be decontaminated prior to loading.

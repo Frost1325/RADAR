@@ -1,3 +1,0 @@
-## Wide Area Augmentation System
-
-The Wide Area Augmentation System (WAAS) offers an opportunity for airports to gain ILS like approach capability without the purchase or installation of any ground- based navigation equipment at the airport. Today, WAAS is already being used at more than 900 runways across the United States to achieve minimums as low as 200 feet height above HAT/one- half mile visibility.

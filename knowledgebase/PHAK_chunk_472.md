@@ -1,7 +1,0 @@
- now being greater than lift, the aircraft begins to descend. At the same time, the flight path goes from level to a descending flight path. Do not confuse a reduction in lift with the inability to generate sufficient lift to maintain level flight. The flight path is being manipulated with available thrust in reserve and with the elevator.
-
-To descend at the same airspeed as used in straight- and- level flight, the power must be reduced as the descent is entered. Entering the descent, the component of weight acting forward along the flight path increases as the angle of descent increases and, conversely, when leveling off, the component of weight acting along the flight path decreases as the angle of descent decreases.
-
-## Stalls
-
-An aircraft stall results from a rapid decrease in lift caused by the separation of airflow from the wing's surface brought on by exceeding the critical AOA. A stall can occur at any pitch attitude or airspeed. Stalls are one of the most misunderstood areas of aerodynamics because pilots often believe an airfoil stops producing lift when it stalls. In a stall, the wing does not totally stop producing lift. Rather, it cannot generate adequate lift to sustain level flight.

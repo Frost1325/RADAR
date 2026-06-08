@@ -1,7 +1,0 @@
-## Automated Weather Systems
-
-An automated weather system consists of any of the automated weather sensor platforms that collect weather data at airports and disseminate the weather information via radio and/or landline. The systems consist of the ASOS/ Automated Weather Sensor System (AWSS) and the AWOS.
-
-These systems are installed and maintained at airports across the United States by both government (FAA and National Weather Service (NWS)) and private entities. They are relatively inexpensive to operate because they require no outside observer, and they provide invaluable weather information for airports without operating control towers. [Figure 1- 11]
-
-AWOS and ASOS/AwSS offer a wide variety of capabilities and progressively broader weather reports. Automated systems typically transmit weather every one to two minutes so the most up- to- date weather information is constantly broadcast. Basic AwOS includes only altimeter setting, wind speed, wind direction, temperature, and dew point information. More advanced systems, such as the ASOS/AwSS and AwOS- 3, are able to provide additional information, such as wind speed, wind gust, wind direction, variable wind direction, temperature, dew point, altimeter setting, and density altitude. ASOS/AwSS stations providing service levels A or

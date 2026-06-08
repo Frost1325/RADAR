@@ -1,5 +1,0 @@
-## Primary and Secondary En Route Obstacle Clearance Areas
-
-The primary obstacle clearance area has a protected width of \(8\mathrm{NM}\) with \(4\mathrm{NM}\) on each side of the centerline. The primary area has widths of route protection based upon system accuracy of a \(\pm 4.5^{\circ}\) angle from the NAVAID. These \(4.5^{\circ}\) lines extend out from the NAVAID and intersect the boundaries of the primary area at a point approximately \(51\mathrm{NM}\) from the NAVAID. Ideally, the \(51\mathrm{NM}\) point is where pilots would change over from navigating away from the facility, to navigating toward the next facility, although this ideal is rarely achieved. [Figure 2- 38]
-
-If the distance from the NAVAID to the change- over point (COP) is more than 51 NM, the outer boundary of the primary area extends beyond the 4 NM width along the \(4.5^{\circ}\) line when the COP is at midpoint. This means the primary area, along with its obstacle clearance criteria, is extended out into what would have been the

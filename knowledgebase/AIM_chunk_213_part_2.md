@@ -1,5 +1,0 @@
-Aviation Mapping Customer Operations (DLA AVN/QAM) 8000 Jefferson Davis Highway Richmond, VA 23297- 5339 Toll free phone: 1- 800- 826- 0342 Commercial: 804- 279- 6500
-
-This NGA FLIP is available for pilot briefings at FSS and many airports.
-
-f. Nonparticipating aircraft are not prohibited from flying within an MTR; however, extreme vigilance should be exercised when conducting flight through or near these routes. Pilots should contact FSSs within 100 NM of a particular MTR to obtain current information or route usage in their vicinity. Information available includes times of scheduled activity, altitudes in use on each route segment, and actual route width. Route width varies for each MTR and can extend several miles on either side of the charted MTR centerline. Route width information for IR and VR MTRs is also available in the FLIP AP/1B along with additional MTR (slow routes/air refueling routes) information. When requesting MTR information, pilots should give the FSS their position,

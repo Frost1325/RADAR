@@ -1,1 +1,0 @@
-td>DAY or NIGHT–Use Series 2 signals prescribed for intercepting aircraft.</td><td>Understood.</td></tr><tr><td>6</td><td>DAY or NIGHT–Irregular flashing of all available lights.</td><td>In distress.</td><td>DAY or NIGHT–Use Series 2 signals prescribed for intercepting aircraft. </td><td>Understood.</td></tr></table>

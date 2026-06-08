@@ -1,5 +1,0 @@
-## 4-6-3. Aircraft and Operator Approval Policy/Procedures, RVSM Monitoring and Databases for Aircraft and Operator Approval
-
-a. RVSM Authority. 14 CFR Section 91.180 applies to RVSM operations within the U.S. 14 CFR Section 91.706 applies to RVSM operations outside the U.S. Both sections require that the operator obtain authorization prior to operating in RVSM airspace. 14 CFR Section 91.180 requires that, prior to conducting RVSM operations within the U.S., the operator obtain authorization from the FAA or from the responsible authority, as appropriate. In addition, it requires that the operator and the operator's aircraft comply with the standards of 14 CFR Part 91 Appendix G (Operations in RVSM Airspace).
-
-b. Sources of Information. The FAA RVSM Website Homepage can be accessed at: http://www.faa.gov/about/office_org/headquarters_offices/ato/service_units/enroute/rvsm/. The "RVSM Documentation" and "Domestic RVSM" webpages are linked to the RVSM Homepage. "RVSM Documentation" contains guidance and direction for an operator to obtain aircraft and operator

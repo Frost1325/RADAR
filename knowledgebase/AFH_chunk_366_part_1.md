@@ -1,7 +1,0 @@
-## Stall Training
-
-It is recommended that stalls be practiced at an altitude that allows recovery no lower than 3,000 feet AGL for multigene airplanes, or higher if recommended by the AFM/POI. Losing altitude during recovery from a stall is to be expected.
-
-Stall characteristics vary among multigenie airplanes just as they do with single-engine airplanes, and therefore, a pilot should be familiar with them. Yet, the most important stall recovery step in a multigenie airplane is the same as it is in all airplanes: reduce the angle of attack (AOA). For reference, the stall recovery procedure described in Chapter 5 is included in Figure 13- 9. Following a reduction in the AOA and the stall warning being eliminated, the wings should be rolled level and power added as needed. Immediate full application of power in a stalled condition has an associated risk due to the possibility of asymmetric thrust. In addition, single- engine stalls, or stalls with significantly more power on one engine than the other, should not be attempted due to the likelihood of a departure from controlled flight and possible spin entry. Similarly, simulated engine failures should not be performed during stall entry and recovery.
-
-<table><tr><td colspan="2

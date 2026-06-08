@@ -1,5 +1,0 @@
- the atmosphere. As water changes from one state to another, an exchange of heat takes place. These changes occur through the processes of evaporation, sublimation, condensation, deposition, melting, or freezing. However, water vapor is added into the atmosphere only by the processes of evaporation and sublimation.
-
-Evaporation is the changing of liquid water to water vapor. As water vapor forms, it absorbs heat from the nearest available source. This heat exchange is known as the latent heat of evaporation. A good example is the evaporation of human perspiration. The net effect is a cooling sensation as heat is extracted from the body. Similarly, sublimation is the changing of ice directly to water vapor, completely bypassing the liquid stage. Though dry ice is not made of water, but rather carbon dioxide, it demonstrates the principle of sublimation when a solid turns directly into vapor.
-
-## Relative Humidity

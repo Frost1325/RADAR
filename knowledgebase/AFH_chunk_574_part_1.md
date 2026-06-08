@@ -1,3 +1,0 @@
-# Index
-
-<table><tr><td>A</td><td></td></tr><tr><td>Abnormal engine instrument indication</td><td>18-16</td></tr><tr><td>Absence of propeller:</td><td></td></tr><tr><td>Drag</td><td>16-4</td></tr><tr><td>Effect</td><td>16-4</td></tr><tr><td>Slipstream</td><td>16-4</td></tr><tr><td>Academic material (knowledge and risk management)</td><td>5-5</td></tr><tr><td>Prevention through ADM and risk management</td><td>5-6</td></tr><tr><td>Prevention through proportional counter-response</td><td>5-6</td></tr><tr><td>Recovery</td><td>5-6</td></tr><tr><td>Accelerated stalls</td><td>5-19</td></tr><tr><td>Accelerate-go distance</td><td>13-10, 13-

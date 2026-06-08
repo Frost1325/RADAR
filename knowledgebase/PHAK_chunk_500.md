@@ -1,3 +1,0 @@
- in the geometric pitch of the blades permits the propeller to operate with a relatively constant AOA along its length when in cruising flight. Propeller blades are twisted to change the blade angle in proportion to the differences in speed of rotation along the length of the propeller, keeping thrust more nearly equalized along this length.
-
-Usually \(1^{\circ}\) to \(4^{\circ}\) provides the most efficient lift/drag ratio, but in flight the propeller AOA of a fixed- pitch propeller varies—normally from \(0^{\circ}\) to \(15^{\circ}\) . This variation is caused by changes in the relative airstream, which in turn results from changes in aircraft speed. Thus, propeller AOA is the product of two motions: propeller rotation about its axis and its forward motion.

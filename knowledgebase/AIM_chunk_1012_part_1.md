@@ -1,1 +1,0 @@
-# 5-6-5. ADIZ Boundaries and Designated Mountainous Areas (See FIG 5-6-3.)

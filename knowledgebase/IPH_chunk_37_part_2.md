@@ -1,3 +1,0 @@
-traffic, closed taxiways, airport construction, etc. It is the pilot's responsibility to know if a particular airport has preplanned taxi routes, to be familiar with them, and to have the taxi descriptions in their possession. Specific information about airports that use coded taxiway routes is included in the Notices to Airmen Publication (NTAP).
-
-At Long Beach/Daugherty Field Airport, the following areas have been designated as hot spots, posing a special challenge to pilots.

@@ -1,5 +1,0 @@
-off data for any aircraft is based on aircraft performance demonstrated in ideal conditions, using a clean, dry runway, and maximum braking (reverse thrust is not used to compute stopping distance). In reality, stopping performance can be degraded by an array of factors as diversified as:
-
-- Reduced runway friction (grooved/non-grooved)- Mechanical runway contaminants (rubber, oily residue, debris)- Natural contaminants (standing water, snow, slush, ice, dust)- Wind direction and velocity- Low air density- Flap configuration- Bleed air configuration- Underinflated or failing tires- Penalizing MEL or CDL items- Deficient wheel brakes or RTO auto-brakes- Inoperative anti-skid- Pilot technique and individual proficiency
-
-Taking pilot response times into account, the go/no- go decision should be made before \(\mathrm{V}_{1}\) so that deceleration can begin no later than \(\mathrm{V}_{1}\) . If braking has not begun by \(\mathrm{V}_{1}\) , the decision to continue the takeoff is made by default. Delaying the RTO maneuver by just one second beyond \(\mathrm{V}_{1}\) increases the speed 4 to 6 knots on

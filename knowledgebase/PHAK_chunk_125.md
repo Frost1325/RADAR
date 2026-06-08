@@ -1,7 +1,0 @@
- important component of ADM. When a pilot follows good decision- making practices, the inherent risk in a flight is reduced or even eliminated. The ability to make good decisions is based upon direct or indirect experience and education. The formal risk management decision- making process involves six steps as shown in Figure 2- 3.
-
-Consider automotive seat belt use. In just two decades, seat belt use has become the norm, placing those who do not wear seat belts outside the norm, but this group may learn to wear a seat belt by either direct or indirect experience. For example, a driver learns through direct experience about the value of wearing a seat belt when he or she is involved in a car accident that leads to a personal injury. An indirect learning experience occurs when a loved one is injured during a car accident because he or she failed to wear a seat belt.
-
-As you work through the ADM cycle, it is important to remember the four fundamental principles of risk management.
-
-1. Accept no unnecessary risk. Flying is not possible without risk, but unnecessary risk comes without a corresponding return. If you are flying a new airplane for the first time, you might determine that the risk of making that flight in low visibility conditions is unnecessary.

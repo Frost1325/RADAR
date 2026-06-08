@@ -1,7 +1,0 @@
-## Operational Procedures
-
-It would be impossible to discuss all the many airplane design and flap combinations. Pilots should refer to the Federal Aviation Administration (FAA) approved Airplane Flight Manual and/or Pilot's Operating Handbook (AFM/POH) for a given airplane. However, while some AFM/POHs are specific as to operational use of flaps, others leave the use of flaps to pilot discretion. Since flaps are often used for landings and takeoffs, when the airplane is close to the ground, pilot judgment and error avoidance are of critical importance.
-
-Since the recommendations given in the AFM/POH are based on the airplane and the flap design, the pilot should relate the manufacturer's recommendation to aerodynamic effects of flaps. This requires basic background knowledge of flap aerodynamics and geometry. With this information, a decision as to the degree of flap deflection and time of deflection based on runway and approach conditions relative to the wind conditions can be made.
-
-The time of flap extension and the degree of deflection are related. Large changes in flap deflection at one single point in the landing pattern can produce large lift changes that require significant pitch and power changes in order to maintain airspeed and descent angle. Consequently, there

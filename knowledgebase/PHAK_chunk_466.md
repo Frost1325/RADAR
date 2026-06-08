@@ -1,5 +1,0 @@
-idding turn results from an excess of centrifugal force over the horizontal lift component, pulling the aircraft toward the outside of the turn. The ROT is too great for the angle of bank. Correction of a skidding turn thus involves a reduction in the ROT, an increase in bank, or a combination of the two changes.
-
-To maintain a given ROT, the angle of bank must be varied with the airspeed. This becomes particularly important in high- speed aircraft. For instance, at 400 miles per hour (mph), an aircraft must be banked approximately \(44^{\circ}\) to execute a standard- rate turn ( \(3^{\circ}\) per second). At this angle of bank, only about 79 percent of the lift of the aircraft comprises the vertical component of the lift. This causes a loss of altitude unless the AOA is increased sufficiently to compensate for the loss of vertical lift.
-
-## Forces in Climbs

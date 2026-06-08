@@ -1,7 +1,0 @@
-fair accuracy; while above this level the accuracy in judgment of height above the ground decreases, since all features tend to merge. The best aid in perfecting the ability to judge height above this altitude is through the indications of the altimeter and associating them with the general appearance of the earth.
-
-The judgment of altitude in feet, hundreds of feet, or thousands of feet is not as important as the ability to estimate gliding angle and its resultant distance. Regardless of altitude, a pilot who knows the normal glide angle of the airplane can estimate, with reasonable accuracy, the approximate spot along a given ground path at which the airplane will land. A pilot who has the ability to accurately estimate altitude, can also judge how much maneuvering is possible and safe during the glide, which is important to the choice of landing areas in an actual emergency.
-
-The objective of a good final approach is to descend at an angle that permits the airplane to reach the desired aiming point at an airspeed that results in a predictable float where touchdown occurs on or within a specified distance beyond a designated point. To accomplish this, it is essential that both the descent angle and the airspeed be accurately controlled.
-
-Unlike a normal approach when the power setting is variable, on a power- off approach the power

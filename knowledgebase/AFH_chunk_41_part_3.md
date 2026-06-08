@@ -1,7 +1,0 @@
-the amount of power applied, the airplane could rapidly move forward and go unnoticed if pilot attention is fixed only inside the airplane. A good operational practice is to split attention from one item inside to a look outside.
-
-Air- cooled engines generally are tightly cowled and equipped with baffles that direct the flow of air to the engine in sufficient volumes for cooling while in flight; however, on the ground, much less air is forced through the cowling and around the baffling. Prolonged ground operations may cause cylinder overheating long before there is an indication of rising oil temperature. To minimize overheating during engine run- up, it is recommended that the airplane be headed as nearly as possible into the wind and, if equipped, engine instruments that indicate cylinder head temperatures should be monitored. Cowl flaps, if available, should be set according to the AFM/POH.
-
-Each airplane has different features and equipment and the before- takeoff checklist provided in airplane's AFM/POH should be used to perform the run- up. Many critical systems are checked and set during the before- takeoff check. Most airplanes have at least the following systems checked and set:
-
-- Fuel System—set per the AFM/POH and verified ON and

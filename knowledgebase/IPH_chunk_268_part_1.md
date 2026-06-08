@@ -1,3 +1,0 @@
-## Visual and Contact Approaches
-
-To expedite traffic, ATC may clear pilots for a visual approach in lieu of the published approach procedure if flight conditions permit. Requesting a contact approach may be advantageous since it requires less time than the published IAP and provides separation from IFR and special visual flight rules (SVFR) traffic. A contact or visual approach may be used in lieu of conducting a SIAP, and both allow the flight to continue as an IFR flight to landing while increasing the efficiency of the arrival.

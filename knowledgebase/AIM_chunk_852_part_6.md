@@ -1,5 +1,0 @@
-the OCS, a vertical line is drawn until reaching the glide path. This is the DA for the approach. This method places the offending obstacle in front of the LNAV/VNAV DA so it can be seen and avoided. In some situations, this may result in the LNAV/VNAV DA being higher than the LNAV and/or Circling MDA.
-
-h. Visual Descent Points (VDPs) are being incorporated in nonprecision approach procedures. The VDP is a defined point on the final approach course of a nonprecision straight-in approach procedure from which normal descent from the MDA to the runway touchdown point may be commenced, provided visual reference required by 14 CFR Section 91.175(c)(3) is established. The VDP will normally be identified by DME on VOR and LOC procedures and by along-track distance to the next waypoint for RNAV procedures. The VDP is identified on the profile view of the approach chart by the symbol: V.
-
-1. VDPs are intended to provide additional guidance where they are implemented. No special technique is required to fly a procedure with a VDP. The pilot should not descend below the MDA prior to reaching the VDP and acquiring the necessary visual reference

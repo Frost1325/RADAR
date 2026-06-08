@@ -1,7 +1,0 @@
-## Configuration
-
-After establishing the proper climb attitude and power settings, the pilot's next concern is flap retraction. After the descent has been stopped, the landing flaps are partially retracted or placed in the takeoff position as recommended by the manufacturer. Depending on the airplane's altitude and airspeed, it is wise to retract the flaps intermittently in small increments to allow time for the airplane to accelerate progressively as they are being raised. A sudden and complete retraction of the flaps could cause a loss of lift resulting in the airplane settling into the ground. [Figure 9- 12]
-
-Unless otherwise specified in the AFM/POH, it is generally recommended that the flaps be retracted (at least partially) before retracting the landing gear for two reasons. First, on most airplanes full flaps produce more drag than the landing gear; and second, in case the airplane inadvertently touches down as the go- around is initiated, it is desirable to have the landing gear in the down- and- locked position. After a positive rate of climb is established, the landing gear is retracted.
-
-The landing gear is retracted only after the initial or rough trim is accomplished and when it is certain the airplane will remain airborne. During

@@ -1,1 +1,0 @@
-# 5-4-16. Simultaneous Close Parallel ILS PRM/RNAV PRM/GLS PRM Approaches and Simultaneous Offset Instrument Approaches (SOIA) (See FIG 5-4-21.)

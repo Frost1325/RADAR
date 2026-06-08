@@ -1,2 +1,0 @@
-
-# Chickasha direct Guthrie

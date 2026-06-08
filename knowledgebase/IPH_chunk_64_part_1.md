@@ -1,5 +1,0 @@
-## Low, Close-In Obstacles
-
-Obstacles that are located within 1 NM of the DER and penetrate the 40:1 OCS are referred to as "low, close- in obstacles" and are also included in the TPP. These obstacles are less than 200 feet above the DER elevation, within 1 NM of the runway end, and do not require increased takeoff minimums. The standard ROC to clear these obstacles would require a climb gradient greater than 200 ft/NM for a very short distance, only until the aircraft was 200 feet above the DER. To eliminate publishing an excessive climb gradient, the obstacle above ground level (AGL)/ MSL height and location relative to the DER is noted in the Takeoff Minimums and (Obstacle) Departure Procedures section of a given TPP booklet. The purpose of this note is to identify the obstacle and alert the pilot to the height and location of the obstacle so they can be avoided. This can be accomplished in a variety of ways:
-
-The pilot may be able to see the obstruction and maneuver around the obstacle(s) if necessary; Early liftoff/climb performance may allow the aircraft to cross well above the obstacle(s); If the obstacle(s

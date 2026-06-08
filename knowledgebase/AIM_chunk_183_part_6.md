@@ -1,3 +1,0 @@
-II</td><td></td></tr><tr><td>Kahului .................</td><td>Kahului</td></tr><tr><td>IDAHO</td><td></td></tr><tr><td>Boise .................</td><td>Air Terminal</td></tr><tr><td>ILLINOIS</td><td></td></tr><tr><td>Champaign .................</td><td>Urbana U of Illinois–Willard</td></tr><tr><td>Chicago .................</td><td>Midway International</td></tr></table>
-
-<table><tr><td>State/City</td><td>Airport</td></tr><tr><td>Moline</td><td>Quad City International</td></tr><tr><td>Peoria</td><td>Greater Peoria Regional</td></tr><tr><td>Springfield</td><td>Abraham Lincoln Capital</td></tr><tr><td colspan="2">INDIANA</td></tr><tr><td>Evansville</td><td>Regional</td></tr><tr><td>Fort Wayne</td><td>International

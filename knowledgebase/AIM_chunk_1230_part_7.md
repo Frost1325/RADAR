@@ -1,1 +1,0 @@
-td>150</td><td>170</td><td>190</td><td>220</td><td>240</td><td>360</td><td>480</td><td>720</td><td>970</td><td>1210</td></tr><tr><td>-50</td><td>60</td><td>90</td><td>120</td><td>150</td><td>180</td><td>210</td><td>240</td><td>270</td><td>300</td><td>450</td><td>590</td><td>890</td><td>1190</td><td>1500</td></tr></table>

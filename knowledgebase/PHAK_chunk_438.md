@@ -1,3 +1,0 @@
- that an increase of power may tend to make the nose rise. The aircraft designer can offset this by establishing a "high thrust line" wherein the line of thrust passes above the CG. [Figures 5- 26 and 5- 27] In this case, as power or thrust is
-
-increased a moment is produced to counteract the down load on the tail. On the other hand, a very "low thrust line" would tend to add to the nose- up effect of the horizontal tail surface. Conclusion: with CG forward of the CL and with an aerodynamic tail- down force, the aircraft usually tries to return to a safe flying attitude.

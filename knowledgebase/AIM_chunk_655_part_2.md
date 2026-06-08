@@ -1,3 +1,0 @@
-3 and 5-1-4. These equipment qualifiers should be filed in Item 10 of FAA Form 7233-4.
-
-4. ATC issues clearances based on equipment qualifiers filed in Items 10 and aircraft capabilities filed in Item 18 (NAV) of FAA Form 7233-4. Operators should file all equipment qualifiers for which the aircraft is certified and capable. They should also file aircraft capabilities in Item 18 as described below.

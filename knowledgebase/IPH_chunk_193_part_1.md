@@ -1,3 +1,0 @@
-## Introduction
-
-This chapter discusses general planning and conduct of instrument approaches by pilots operating under Title 14 of the Code of Federal Regulations (14 CFR) Parts 91,121, 125, and 135. The operations specifications (OpSpecs), standard operating procedures (SOPs), and any other FAA- approved documents for each commercial operator are the final authorities for individual authorizations and limitations as they relate to instrument approaches. While coverage of the various authorizations and approach limitations for all operators is beyond the scope of this chapter, an attempt is made to give examples from generic manuals where it is appropriate.

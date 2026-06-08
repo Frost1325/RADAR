@@ -1,7 +1,0 @@
-when ahead the intended point of landing as the downwind leg is flown. [Figure 13- 10]
-
-The FAA recommends a stabilized approach concept. To the greatest extent practical, on final approach and within 500 feet AGL, the airplane should be on speed, in trim, configured for landing, tracking the extended centerline of the runway, and established in a constant angle of descent toward an aim point in the touchdown zone. Absent unusual flight conditions, only minor corrections are required to maintain this approach to the round out and touchdown.
-
-The final approach should be made with power and at a speed recommended by the manufacturer; if a recommended speed is not furnished, the speed should be no slower than the single- engine best rate- of- climb speed \((\mathrm{V}_{\mathrm{YSE}})\) until short final with the landing assured, but in no case less than critical engine- out minimum control speed \((\mathrm{V}_{\mathrm{MC}})\) . Some multinegine pilots prefer to delay full flap extension to short final with the landing assured. This is an acceptable technique with appropriate experience and familiarity with the airplane.
-
-In the round out for landing, residual power is gradually reduced

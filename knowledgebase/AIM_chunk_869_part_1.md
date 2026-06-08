@@ -1,5 +1,0 @@
-## 5-4-7. Instrument Approach Procedures
-
-a. Aircraft approach category means a grouping of aircraft based on a speed of \(\mathrm{V}_{\mathrm{REF}}\) , if specified, or if \(\mathrm{V}_{\mathrm{REF}}\) is not specified, 1.3 \(\mathrm{V}_{\mathrm{SO}}\) at the maximum certified landing weight. \(\mathrm{V}_{\mathrm{REF}}\) , \(\mathrm{V}_{\mathrm{SO}}\) , and the maximum certified landing weight are those values as established for the aircraft by the certification authority of the country of registry. A pilot must use the minima corresponding to the category determined during certification or higher. Helicopters may use Category A minima. If it is necessary to operate at a
-
-speed in excess of the upper limit of the speed range for an aircraft's category, the minimums for the higher category must be used. For example, an airplane which fits into Category B, but is circling to land at a speed of 145 knots, must use the approach Category D minimums. As an additional example, a Category A airplane (or helicopter) which is operating at 13

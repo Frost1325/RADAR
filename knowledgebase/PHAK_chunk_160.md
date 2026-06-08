@@ -1,5 +1,0 @@
- pilot was determined to keep on schedule by trying to "stretch" the fuel supply instead of landing to refuel. After landing with low fuel state, the pilot realized that this could have easily resulted in an emergency landing in deteriorating weather conditions. This was a chance that was not worth taking to keep the planned schedule.
-
-have been documented as a primary contributor to more than 70 percent of aircraft accidents.
-
-Typically, human factor incidents/accidents are associated with flight operations but recently have also become a major concern in aviation maintenance and air traffic management as well. [Figure 2- 8] Over the past several years, the FAA has made the study and research of human factors a top priority by working closely with engineers, pilots, mechanics, and ATC to apply the latest knowledge about human factors in an effort to help operators and maintainers improve safety and efficiency in their daily operations.

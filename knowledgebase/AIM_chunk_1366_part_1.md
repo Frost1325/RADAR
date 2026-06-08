@@ -1,1 +1,0 @@
-### e. Helideck/Heliport Operational Hazard Warning(s) Procedures

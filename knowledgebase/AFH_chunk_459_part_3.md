@@ -1,1 +1,0 @@
-angle of climb speed, but the rate of climb is less than it was at best rate of climb speed. Trading airspeed for altitude and a temporary increased rate of climb is referred to as a "zoom climb." This type of climb provides an increased rate of climb for a few thousand feet, but it ultimately reduces overall climb performance.

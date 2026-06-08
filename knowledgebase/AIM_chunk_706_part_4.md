@@ -1,3 +1,0 @@
-prediction capability (for TSO-C129a/Class A1/B1/C1 equipment) to provide non-precision approach RAIM, accounting for the latest GPS constellation status (e.g., NOTAMs or NANUs). Receiver non-precision approach RAIM should be checked at airports spaced at intervals not to exceed 60 NM along the RNAV 1 procedure's flight track. "Terminal" or "Approach" RAIM must be available at the ETA over each airport checked; or,
-
-6. Operators not using model-specific software or FAA/VOLPE RAIM data will need FAA operational approval.

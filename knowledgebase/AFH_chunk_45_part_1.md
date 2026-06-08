@@ -1,3 +1,0 @@
-## Parking
-
-Unless parking in a designated, supervised area, the pilot should select a location and heading that prevents propeller or jet blast of other airplanes from striking the airplane unnecessarily. Whenever possible, the airplane should be parked headed into the existing or forecast wind. Often airports have airplane tie downs located on ramp areas which may or may not be aligned with the wind or provide a significant choice in parking location. After stopping in the desired direction, the airplane should be allowed to roll straight ahead enough to straighten the nosewheel or tailwheel.

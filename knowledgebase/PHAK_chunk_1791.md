@@ -1,7 +1,0 @@
- scanning for other aircraft, take advantage of all possible shortcuts and rule- of- thumb computations.
-
-When in flight, it is rarely practical to actually plot a course on a sectional chart and mark checkpoints and distances. Furthermore, because an alternate airport is usually not very far from your original course, actual plotting is seldom necessary.
-
-The course to an alternate destination can be measured accurately with a protractor or plotter but can also be measured with reasonable accuracy using a straightedge and the compass rose depicted around VOR stations. This approximation can be made on the basis of a radial from a nearby VOR or an airway that closely parallels the course to your alternate destination. However, remember that the magnetic heading associated with a VOR radial or printed airway is outbound from the station. To find the course to the station, it may be necessary to determine the reciprocal of that heading. It is typically easier to navigate to an alternate airport that has a VOR or NDB facility on the field.
-
-After selecting the most appropriate alternate destination, approximate the magnetic course to the alternate using a compass rose or airway on the sectional chart. If time permits, try to start the diversion over a prominent ground feature.

@@ -1,5 +1,0 @@
-## Automated Surface Observing System (ASOS)/ Automated Weather Sensor System (AWSS)
-
-Automated Surface Observing System (ASOS)/ Automated Weather Sensor System (AWSS)The automated surface observing system (ASOS)/ automated weather sensor system (AWSS) is the primary surface weather observing system of the United States. The program to install and operate these systems throughout the United States is a joint effort of the NWS, the FAA, and the Department of Defense (DOD). AWSS is a follow- on program that provides identical data as ASOS. ASOS/AWSS is designed to support aviation operations and weather forecast activities. The ASOS/ AWSS provides continuous minute- by- minute observations and performs the basic observing functions necessary to generate a aviation routine weather report (METAR) and other aviation weather information. The information may be transmitted over a discrete VHF radio frequency or the voice portion of a local NAVAID. ASOS/AWSS transmissions on a discrete VHF radio frequency are engineered to be receivable to a maximum of 25 NM from the ASOS/AWSS site and a maximum altitude of 10,000 feet AGL.
-
-At many locations, ASOS/AWSS signals may be

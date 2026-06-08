@@ -1,1 +1,0 @@
-## Section 5. Potential Flight Hazards

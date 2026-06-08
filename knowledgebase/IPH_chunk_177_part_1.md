@@ -1,7 +1,0 @@
-## Controlled Flight Into Terrain (CFIT)
-
-Inappropriate descent planning and execution during arrivals has been a contributing factor to many fatal aircraft accidents. Since the beginning of commercial jet operations, more than 9,000 people have died worldwide because of controlled flight into terrain (CFIT). CFIT is described as an event in which a normally functioning aircraft is inadvertently flown into the ground, water, or an obstacle. Of all CFIT accidents, 7.2 percent occurred during the descent phase of flight.
-
-The basic causes of CFIT accidents involve poor flight crew situational awareness, or SA. One definition of SA is an accurate perception by pilots of the factors and conditions currently affecting the safe operation of the aircraft and the crew. The causes of CFIT are the flight crews' lack of vertical position awareness or their lack of horizontal position awareness in relation to the ground, water, or an obstacle. More than two- thirds of all CFIT accidents are the result of an altitude error or lack of vertical SA. CFIT accidents most often occur during reduced visibility associated with instrument meteorological conditions (IMC), darkness, or a combination of both.
-
-The inability of controllers and pilots to properly communicate has been a factor in many CFIT accidents. Heavy workloads

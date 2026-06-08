@@ -1,3 +1,0 @@
-</td></tr><tr><td>Practical test standards (PTS)</td><td>1-9</td></tr><tr><td>Specific excess power (Ps)</td><td>4-3, 4-8, 4-14, 4-16, 4-17, 4-18</td></tr></table>
-
-<table><tr><td>Speed margins</td><td>16-4</td></tr><tr><td>Speed sense</td><td>1-1</td></tr><tr><td>Spin awareness</td><td>5-22, 5-27, 13-18, 17-4</td></tr><tr><td>Spin procedures</td><td>5-23</td></tr><tr><td>Developed phase</td><td>5-24</td></tr><tr><td>Entry phase</td><td>5-24</td></tr><tr><td>Incipient phase</td><td>5-24</td></tr><tr><td>Recovery phase</td><td

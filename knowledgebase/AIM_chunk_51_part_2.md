@@ -1,5 +1,0 @@
-systems are installed. Pilots may use GPS via TSO- C129() authorized for Class A1, B1, B3, C1, or C3 operations GPS via TSO- C196(); or GPS/WAAS with either TSO- C145() or TSO- C146(). When using TSO- C129() or TSO- C196() receivers, the avionics necessary to receive all of the ground-based facilities appropriate for the route to the destination airport and any required alternate airport must be installed and operational. Ground-based facilities necessary for these routes must be operational.
-
-(1) GPS en route IFR operations may be conducted in Alaska outside the operational service volume of ground-based navigation aids when a TSO-C145() or TSO-C146() GPS/wide area augmentation system (WAAS) system is installed and operating. WAAS is the U.S. version of a satellite-based augmentation system (SBAS).
-
-[a] In Alaska, aircraft may operate on GNSS Q-routes with GPS (TSO-C129 () or TSO-C196 ()) equipment while the aircraft remains in Air Traffic Control (ATC

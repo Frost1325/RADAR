@@ -1,3 +1,0 @@
- of moisture present in the atmosphere is dependent upon the temperature of the air. Every \(20^{\circ}\mathrm{F}\) increase in temperature doubles the amount of moisture the air can hold. Conversely, a decrease of \(20^{\circ}\mathrm{F}\) cuts the capacity in half.
-
-Water is present in the atmosphere in three states: liquid, solid, and gaseous. All three forms can readily change to another, and all are present within the temperature ranges of the atmosphere. As water changes from one state to another, an exchange of heat takes place. These changes occur through the processes of evaporation, sublimation, condensation, deposition, melting, or freezing. However, water vapor is added into the atmosphere only by the processes of evaporation and sublimation.

@@ -1,5 +1,0 @@
-eight hundred broken OVC020CB . . . . . . . two thousand overcast cumulonimbus clouds 28/23 . . . . . . . temperature two eight, dew point two three A3000 . . . . . . . altimeter three zero zero zero RMK . . . . . . . . remarks TSRA B24 . . . . . . . thunderstorm and rain began at two four TS W MOV E thunderstorm west moving east
-
-c. Aerodrome Forecast (TAF). A concise statement of the expected meteorological conditions at an airport during a specified period. At most locations, TAFs have a 24 hour forecast period. However, TAFs for some locations have a 30 hour forecast period. These forecast periods may be shorter in the case of an amended TAF. TAFs use the same codes as METAR weather reports. They are scheduled four times daily for 24-hour periods beginning at 0000Z, 0600Z, 1200Z, and 1800Z.
-
-Forecast times in the TAF are depicted in two ways. The first is a 6

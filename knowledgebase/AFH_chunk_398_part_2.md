@@ -1,3 +1,0 @@
-maintained after a turn has been started, the turn continues to tighten, an unexpected result for pilots accustomed to a nose- wheel. In consequence, it is common for pilots making the transition between the two types to experience difficulty in early taxi attempts. As long as taxi speeds are kept low, however, no serious problems result, and pilots typically adjust quickly to the technique of using rudder pressure to start a turn, then neutralizing the pedals as the turn continues, and finally using an opposite pedal input to stop the turn and regain straight- line travel.
-
-Because of this inbuilt instability, the most important lesson that can be taught in tailwheel airplanes is to taxi and make turns at slow speeds.

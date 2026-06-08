@@ -1,7 +1,0 @@
- inside each ear to the back of the throat on each side called the Eustachian tube. These tubes are usually closed but open during chewing, yawning, or swallowing to equalize pressure. Even a slight difference between external pressure and middle ear pressure can cause discomfort. [Figure 17- 2]
-
-During a climb, middle ear air pressure may exceed the pressure of the air in the external ear canal causing the eardrum to bulge outward. Pilots become aware of this pressure change when they experience alternate sensations of "fullness" and "clearing." During descent, the reverse happens. While the pressure of the air in the external ear canal increases, the middle ear cavity, which equalized with the lower pressure at altitude, is at lower pressure than the external ear canal. This results in the higher outside pressure causing the eardrum to bulge inward.
-
-This condition can be more difficult to relieve due to the fact that the partial vacuum tends to constrict the walls of the Eustachian tube. To remedy this often painful condition, which also causes a temporary reduction in hearing
-
-sensitivity, pinch the nostrils shut, close the mouth and lips, and blow slowly and gently into the mouth and nose.

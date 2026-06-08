@@ -1,3 +1,0 @@
-30^{\circ}\) during power- on stalls. If aggressive pitch attitudes are coupled with uncoordinated rudder inputs, spin entry is likely to be quick and aggressive.
-
-Depending on the LSA design, especially those airplanes which use control tubes rather than wires and pulleys, flight in turbulence may couple motion to the stick rather distinctively. If a transitioning pilot's flight experience is only with airplanes that have control cables and pulleys, the first flight in turbulence may be disconcerting; however, once the pilot becomes familiar with the control sensations induced by the turbulence, it only becomes another means for the pilot to feel the airplane.

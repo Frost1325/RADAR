@@ -1,3 +1,0 @@
-## J
-
-<table><tr><td>Jet airplane approach and landing</td><td>16-17, 16-18, 16-19, 16-20, 16-21, 16-22, 16-23, 16-24</td></tr><tr><td>Approach speed</td><td>16-22</td></tr><tr><td>Glidepath control</td><td>16-22</td></tr><tr><td>Landing requirements</td><td>16-19</td></tr><tr><td>Landing speeds</td><td>16-20</td></tr><tr><td>Approach climb</td><td>16-20</td></tr><tr><td>Landing climb</td><td>16-20</td></tr><tr><td>\(V_{REF}\)</td><td>16-20</td></tr><tr><td>\(V_{SO}\)</td><td>16-20</td></tr

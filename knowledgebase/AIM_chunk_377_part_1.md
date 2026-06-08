@@ -1,7 +1,0 @@
-## REFERENCE- AIM, Traffic Control Light Signals, Paragraph 4-3-13
-
-(b) When you are approximately 3 to 5 miles from the airport, advise the tower of your position and join the airport traffic pattern. From this point on, watch the tower for light signals. Thereafter, if a complete pattern is made, transmit your position downwind and/or turning base leg.
-
-2. Transmitter inoperative. Remain outside or above the Class D surface area until the direction and flow of traffic has been determined;then, join the airport traffic pattern. Monitor the primary local control frequency as depicted on Sectional Charts for landing or traffic information, and look for a light signal which may be addressed to your aircraft. During hours of daylight, acknowledge tower transmissions or light signals by rocking your wings. At night, acknowledge by blinking the landing or navigation lights. To acknowledge tower transmissions during daylight hours, hovering helicopters will turn in the direction of the controlling facility and flash the landing light. While in flight, helicopters should show their acknowledgement of receiving a transmission by making shallow banks in opposite directions. At night, helicopters will acknowledge receipt of transmissions by flashing either the landing or the search light.
-
-3. Transmitter and receiver inoperative. Remain outside or

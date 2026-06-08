@@ -1,7 +1,0 @@
-## Takeoff and Climb
-
-The most noticeable difference between daylight and nighttime flying is the limited availability of outside visual references at night. Therefore, flight instruments should be used to a greater degree in controlling the airplane. This is particularly true on night takeoffs and climbs. The pilot should adjust the flight deck lights to a minimum brightness that will allow for reading the instruments and switches but not hinder outside vision. Dimming the lights also eliminates reflections on the windshield and windows.
-
-After ensuring that the final approach and runway are clear of other air traffic, or when cleared for takeoff by the air traffic controller, the pilot turns the landing and taxi lights ON and lines the airplane up with the centerline of the runway. If the runway does not have centerline lighting, the painted centerline and the distance from the runway edge lights on each side indicate the center. The heading indicator should be noted and correspond or set to the known runway direction. To begin the takeoff, the pilot releases the brakes and advances the throttle smoothly to maximum allowable power. As it accelerates, the airplane should be kept moving straight ahead between and parallel to the runway edge lights.
-
-The procedure for night takeoffs is the same as for normal daytime takeoffs except that many of the runway visual cues

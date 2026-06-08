@@ -1,6 +1,0 @@
-
-1. Decrease the distances shown by \(10\%\) for each 4 knots of headwind. 2. Increase the distance by \(10\%\) for each \(60^{\circ}\) F temperature increase above standard. 3. For operation on a dry, grass runway, increase distances (both "ground roll" and "total to clear 50 ft obstacle") by \(20\%\) of the "total to clear 50 ft obstacle" figure.
-
-It must be emphasized that the manufacturers' information and data furnished in the AFM/POF is not standardized. Some provide the data in tabular form, while others use graphs. In addition, the performance data may be presented on the basis of standard atmospheric conditions, pressure altitude, or density altitude. The performance information in the AFM/POF has little or no value unless the user recognizes those variations and makes the necessary adjustments.
-
-To be able to make practical use of the aircraft's capabilities and limitations, it is essential to understand the significance of the operational data. The pilot must be cognizant of the basis for the performance data, as well as the meanings of the various terms used in expressing performance capabilities and limitations.

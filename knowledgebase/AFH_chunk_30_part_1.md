@@ -1,3 +1,0 @@
-## Risk Identification
-
-Identifying hazards and associated risk is key to preventing risk and accidents. If a pilot fails to search for risk, it is likely that he or she will neither see it nor appreciate it for what it represents. Unfortunately, in aviation, pilots seldom have the opportunity to learn from their small errors in judgment because even small mistakes in aviation are often fatal. In order to identify risk, the use of standard procedures is of great assistance. Several procedures are discussed in detail in the Risk Management Handbook (FAA- H- 8083- 2).

@@ -1,3 +1,0 @@
-### b. Operating Characteristics:
-
-If an aircraft or ground vehicle occupies an activation zone on the runway, the PAPI light fixtures on that runway will flash. The glide path indication is not affected, i.e. the configuration of red and white PAPI lights observed by the pilot on approach does not change. The stand- alone FAROS system flashes the PAPI lights when traffic occupies an activation zone whether or not there is an aircraft on approach.

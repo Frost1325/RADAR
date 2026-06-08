@@ -1,5 +1,0 @@
-## 1-1-1. General
-
-a. Various types of air navigation aids are in use today, each serving a special purpose. These aids have varied owners and operators, namely: the Federal Aviation Administration (FAA), the military services, private organizations, individual states and foreign governments. The FAA has the statutory authority to establish, operate, maintain air navigation facilities and to prescribe standards for the operation of any of these aids which are used for instrument flight in federally controlled airspace. These aids are tabulated in the Airport/Facility Directory (A/FD).
-
-b. Pilots should be aware of the possibility of momentary erroneous indications on cockpit displays when the primary signal generator for a ground-based navigational transmitter (for example, a glideslope, VOR, or nondirectional beacon) is inoperative. Pilots should disregard any navigation indication, regardless of its apparent validity, if the particular transmitter was identified by NOTAM or otherwise as unusable or inoperative.

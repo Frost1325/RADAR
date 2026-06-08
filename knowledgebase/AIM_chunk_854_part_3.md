@@ -1,5 +1,0 @@
-6 GPS/WAAS equipment.
-
-(c) LNAV/VNAV. LNAV/VNAV identifies APV minimums developed to accommodate an RNAV IAP with vertical guidance, usually provided by approach certified Baro-VNAV, but with lateral and vertical integrity limits larger than a precision approach or LPV. LNAV stands for Lateral Navigation; VNAV stands for Vertical Navigation. This minima line can be flown by aircraft with a statement in the Aircraft Flight Manual that the installed equipment supports GPS approaches and has an approach-approved barometric VNAV, or if the aircraft has been demonstrated to support LNAV/VNAV approaches. This includes Class 2, 3 and 4 TSO-C146 GPS/WAAS equipment. Aircraft using LNAV/VNAV minimums will descend to landing via an internally generated descent path based on satellite or other approach approved VNAV systems. Since electronic vertical guidance is provided, the minima will be published as a DA. Other navigation systems may be specifically authorized to use this line of minima. (See Section A, Terms/Landing Minima Data, of the U.S. Terminal Procedures books.)
-
-(d) LP. "LP" is the acronym for localizer performance. Approaches to LP lines of minima take

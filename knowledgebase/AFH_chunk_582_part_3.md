@@ -1,3 +1,0 @@
-Securing and servicing</td><td>2-23</td></tr><tr><td>Potential energy</td><td>4-1, 4-10, 4-18, 4-19, 16-18, 16-19</td></tr><tr><td>Power available</td><td>4-5, 4-14, 4-15, 4-16, 4-17, 4-18, 4-19, 13-3, 13-19, 13-29, 13-34,<br>16-20, 18-4</td></tr><tr><td>Power control</td><td>3-5, 4-6, 12-10, 16-2</td></tr></table>
-
-<table><tr><td>Power-off accuracy approaches</td><td>9-24</td></tr><tr><td>90° Power-off approach</td><td>9-25, 9-26

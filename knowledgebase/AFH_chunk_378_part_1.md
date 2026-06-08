@@ -1,5 +1,0 @@
-## \(\mathbf{V_{MC}}\) Demo Stall Avoidance
-
-As discussed earlier, with normally aspirated engines, \(\mathrm{V_{MC}}\) decreases with altitude. Stalling speed \((\mathrm{V_S})\) , however, remains the same. Except for a few models, published \(\mathrm{V_{MC}}\) is almost always higher than \(\mathrm{V_S}\) . At sea level there is usually a margin of several knots between \(\mathrm{V_{MC}}\) and \(\mathrm{V_S}\) , but the margin decreases with altitude, and at some altitude, \(\mathrm{V_{MC}}\) and \(\mathrm{V_S}\) are the same. [Figure 13- 14]
-
-Should a stall occur while the airplane is under asymmetrical power, a spin entry is likely. The yawing moment induced from asymmetrical thrust is little different from that induced by full rudder in an intentional spin in the appropriate model of single- engine airplane. In this case, however, the airplane will depart controlled flight in the direction of the idle engine, not in the direction of applied rudder. Twins are not required to demonstrate recoveries from spins

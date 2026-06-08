@@ -1,7 +1,0 @@
-### e. Helping the Flightcrew Locate the Scene
-
-1. If the LZ coordinator has access to a GPS unit, the exact latitude and longitude of the LZ should be relayed to the HEMS pilot. If unable to contact the pilot directly, relay the information to the HEMS ground communications specialist for relaying to the pilot, so that they may locate your scene more efficiently. Recognize that the aircraft may approach from a direction different than the direct path from the takeoff point to the scene, as the pilot may have to detour around terrain, obstructions or weather en route.
-
-2. Especially in daylight hours, mountainous and densely populated areas can make sighting a scene from the air difficult. Often, the LZ coordinator on the ground will be asked if she or he can see or hear the helicopter.
-
-3. Flightcrews use a clock reference method for directing one another's attention to a certain direction from the aircraft. The nose of the aircraft is always \(12\mathrm{o'}\) clock, the right side is \(3\mathrm{o'}\) clock, etc. When the LZ coordinator sees the aircraft, he/she should use this method to assist the flightcrew by indicating the scene's clock reference position from the nose of the aircraft.

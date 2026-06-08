@@ -1,5 +1,0 @@
- temperatures by allowing the density to vary. However, a known density occurs for any one temperature and pressure altitude. The density of the air has a pronounced effect on aircraft and engine performance. Regardless of the actual altitude of the aircraft, it will perform as though it were operating at an altitude equal to the existing density altitude.
-
-Air density is affected by changes in altitude, temperature, and humidity. High density altitude refers to thin air, while low density altitude refers to dense air. The conditions that result in a high density altitude are high elevations, low atmospheric pressures, high temperatures, high humidity, or some combination of these factors. Lower elevations, high atmospheric pressure, low temperatures, and low humidity are more indicative of low density altitude.
-
-## Effect of Pressure on Density

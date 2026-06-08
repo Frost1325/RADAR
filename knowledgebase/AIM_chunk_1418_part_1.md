@@ -1,3 +1,0 @@
-## 10-2-4. Emergency Medical Service (EMS) Multiple Helicopter Operations
-
-a. Background. EMS helicopter operators often overlap other EMS operator areas. Standardized procedures can enhance the safety of operating multiple helicopters to landing zones (LZs) and to hospital heliports. Communication is the key to successful operations and in maintaining organization between helicopters, ground units and communication centers. EMS helicopter operators which operate in the same areas should establish joint operating procedures and provide them to related agencies.

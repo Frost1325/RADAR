@@ -1,3 +1,0 @@
-this leg, the database record must include the heading to an intercept (VI) value in the Path and Terminator field. This value directs the avionics to follow a specified heading to intercept the subsequent leg at an unspecified position.
-
-The path and terminator concept is a very important part of airborne navigation database coding. In general, it is not necessary for pilots to have an in- depth knowledge of the ARINC coding standards; however, pilots should be familiar with the concepts related to coding in order to understand the limitations of specific RNAV systems that use databases.

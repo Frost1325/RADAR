@@ -1,3 +1,0 @@
-## LNAV, LNAV/VNAV and Circling Minimums
-
-There are some RNAV procedures with lower non- precision LNAV minimums [Figure 4- 17] than vertically- guided LNAV/VNAV minimums. Circling procedures found on the same approach chart may also have lower minimums than the vertically- guided LNAV/VNAV procedure. Each RNAV procedure is evaluated independently and different approach segments have differing required obstacle clearance (ROC) values, obstacle evaluation area (OEA) dimensions and final segment types. Figure 4- 18 explains the differences.

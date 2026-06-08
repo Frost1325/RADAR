@@ -1,7 +1,0 @@
-these speeds when operating in the traffic pattern of an airport without an operating control tower. In any case, the pilot should adjust the airspeed, when necessary, so that it is compatible with the airspeed of other aircraft in the traffic pattern.
-
-When entering the traffic pattern at an airport without an operating control tower, inbound pilots are expected to observe other aircraft already in the pattern and to conform to the traffic pattern in use. The pilot should enter the traffic pattern at a point well clear of any other observed aircraft. If there are no other aircraft observed, the pilot should check traffic indicators and wind indicators on the ground to determine which runway and traffic pattern direction to use. [Figure 8- 2] Many airports have L- shaped traffic pattern indicators displayed with a segmented circle adjacent to the runway. The short member of the L shows the direction in which traffic pattern turns are made when using the runway parallel to the long member. The pilot should check the indicators from a distance or altitude well above the traffic pattern in case any other aircraft are in the traffic pattern.
-
-Consider the following points when arriving at an airport for landing:
-
-- The pilot should be aware of the appropriate traffic pattern altitude before entering the pattern and remain clear of the traffic flow until established on the entry

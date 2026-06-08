@@ -1,5 +1,0 @@
-who are formally listed. The FAA requires the commissioning of an "FAA approved LVO/ SMGCS Operation" for all new Category III ILS supported runways. Since there are no regulatory takeoff minimums for 14 CFR Part 91 operations, the information provided by FAA AC 120- 57 and FAA Order 8000.94 must be understood so that the general aviation pilot can understand LVO and SMGCS during day or night.
-
-The SMGCS low visibility taxi plan includes the enhancement of taxiway and runway signs, markings, and lighting, as well as the creation of SMGCS visual aid diagrams. [Figure 1- 4] The plan also clearly identifies taxi routes and their supporting facilities and equipment. Airport enhancements that are part of the SMGCS program include, but are not limited to:
-
-- Controllable Stop bars lights—these consist of a row of red, unidirectional, in-pavement lights that can be controlled by ATC. They provide interactions with and aircraft that prevent runway incursions during takeoff operations. These are required for operations at less than 500 ft RVR.- Non-Controllable Stop bars lights—these are

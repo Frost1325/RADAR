@@ -1,3 +1,0 @@
-sport)</td><td>17-14</td></tr><tr><td>Approaches to stalls (impending stalls), power-on, or power-off</td><td>5-17</td></tr><tr><td>Attitude and sink rate control</td><td>18-4</td></tr><tr><td>Attitude flying</td><td>3-4</td></tr></table>
-
-<table><tr><td>Autoland systems</td><td>18-22</td></tr><tr><td>B</td><td></td></tr><tr><td>Ballistic parachute systems</td><td>18-22</td></tr><tr><td>Ballooning during round out</td><td>9-32</td></tr><tr><td>Bank control</td><td>3-5, 6-5, 18-18</td></tr><tr><td>Basic safety concepts</td><td>18-2</td></tr><tr><td>Before start and starting engine</td><td>17-12</td></tr><

@@ -1,5 +1,0 @@
-the mode controller. The autopilot then maneuvers the airplane to satisfy the computed commands of the FD.
-
-Like any computer, the FD/AP system only does what it is told. The pilot should ensure that it has been programmed properly for the particular phase of flight desired. The armed and/or engaged modes are usually displayed on the mode controller or separate annunciator lights. When the airplane is being hand- flown, if the FD is not being used at any particular moment, it should be off so that the command bars are pulled from view.
-
-Prior to system engagement, all FD/AP computer and trim checks should be accomplished. Many newer systems cannot be engaged without the completion of a self- test. The pilot should also be familiar with various methods of disengagement, both normal and emergency. System details, including approvals and limitations, can be found in the supplements section of the AFM/POI. Additionally, many avionics manufacturers can provide informative pilot operating guides upon request.

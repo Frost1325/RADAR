@@ -1,1 +1,0 @@
-Sketches of airports also are being added to aid VFR pilots in surface movement activities. In support of the FAA Runway Incursion Program, full page airport diagrams and "Hot Spot" locations are included in the A/FD section of the CS. These charts are the same as those published in the IFR TPP and are printed for airports with complex runway or taxiway layouts.

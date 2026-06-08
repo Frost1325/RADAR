@@ -1,7 +1,0 @@
-## Lift-Off
-
-Since a good takeoff depends on the proper takeoff attitude, it is important to know how this attitude appears and how it is attained. The ideal takeoff attitude requires only minimum pitch adjustments shortly after the airplane lifts off to attain the speed for the best rate of climb \((\mathrm{V}_{\mathrm{Y}})\) . [Figure 6- 3] The pitch attitude necessary for the airplane to accelerate to \(\mathrm{V}_{\mathrm{Y}}\) speed should be demonstrated by the instructor and memorized by the student. Flight instructors should be aware that initially, the student pilot may have a tendency to hold excessive back- elevator pressure just after lift- off, resulting in an abrupt pitch- up.
-
-Each type of airplane has a best pitch attitude for normal lift- off; however, varying conditions may make a difference in the required takeoff technique. A rough field, a smooth field, a hard surface runway, or a short or soft, muddy field all call for a slightly different technique, as will smooth air in contrast to a strong, gusty wind. The different techniques for those other- than- normal conditions are discussed later in this chapter.
-
-When all the flight controls become effective during the

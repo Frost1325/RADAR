@@ -1,3 +1,0 @@
-high update rate surveillance sensor is a component of this system only for specific runway spacing. Additional procedures for simultaneous independent approaches are described in Paragraph 5- 4- 15, Simultaneous (Parallel) Independent ILS/ RNAV/GLS Approaches. Simultaneous Close Parallel PRM approaches, whether conducted utilizing a high update rate PRM surveillance sensor or not, must meet all of the following requirements: pilot training, PRM in the approach title, NTZ monitoring utilizing a final monitor aid, publication on an AAUP, and use of a secondary PRM communication frequency.
-
-Simultaneous close parallel ILS PRM approaches are depicted on a separate Approach Procedure Chart titled ILS PRM Rwy XXX (Simultaneous Close Parallel).

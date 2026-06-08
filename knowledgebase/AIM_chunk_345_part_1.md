@@ -1,5 +1,0 @@
-### b. Air Ambulance Flights.
-
-Because of the priority afforded air ambulance flights in the ATC system, extreme discretion is necessary when using the term "MEDEVAC." It is only intended for those missions of an urgent medical nature and to be utilized only for that portion of the flight requiring expeditious handling. When requested by the pilot, necessary notification to expedite ground handling of patients, etc., is provided by ATC; however, when possible, this information should be passed in advance through non- ATC communications systems.
-
-1. Civilian air ambulance flights responding to medical emergencies (first call to an accident scene, carrying patients, organ donors, organs, or other urgently needed lifesaving medical material) will be expedited by ATC when necessary. When expeditious handling is necessary, include the word "MEDEVAC" in the flight plan per paragraphs 5-1-8 and 5-1-9. In radio communications, use the call sign"MEDEVAC," followed by the aircraft registration letters/numbers.

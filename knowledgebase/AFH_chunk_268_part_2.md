@@ -1,5 +1,0 @@
-, and it is necessary to use rudder pressure to keep the airplane straight as it settles onto the runway.
-
-The pilot needs to be extremely cautious of ballooning when there is a crosswind present because the crosswind correction may be inadvertently released or it may become inadequate. Because of the lower airspeed after ballooning, the crosswind affects the airplane more. Consequently, the wing has to be lowered even further to compensate for the increased drift. It is imperative that the pilot makes certain that the appropriate wing is down and that directional control is maintained with opposite rudder. If there is any doubt, or the airplane starts to drift, the pilot should execute a go- around.
-
-When ballooning is excessive, it is best to execute a go- around immediately and not attempt to salvage the landing. Power should be applied before the airplane enters a stalled condition.

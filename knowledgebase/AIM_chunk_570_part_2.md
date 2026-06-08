@@ -1,3 +1,0 @@
-380</td><td></td></tr><tr><td>FL 370</td><td></td></tr><tr><td>FL 360</td><td></td></tr><tr><td>FL 350</td><td></td></tr><tr><td>FL 340</td><td></td></tr><tr><td>FL 330</td><td></td></tr><tr><td>FL 320</td><td></td></tr><tr><td>FL 310</td><td></td></tr><tr><td>FL 300</td><td></td></tr><tr><td>FL 290</td><td></td></tr></table>
-
-NOTE- Odd Flight Levels: Magnetic Course 000- 179 Degrees Even Flight Levels: Magnetic Course 180- 359 Degrees.

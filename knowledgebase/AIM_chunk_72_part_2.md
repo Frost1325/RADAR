@@ -1,1 +1,0 @@
-NOTAMS are published and testing is actually occurring, Air Traffic Control will advise pilots requesting or cleared for a GPS or RNAV (GPS) approach that GPS may not be available and request intentions. If pilots have reported GPS anomalies, Air Traffic Control will request the pilot's intentions and/or clear the pilot for an alternate approach, if available and operational.

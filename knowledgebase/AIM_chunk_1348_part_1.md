@@ -1,7 +1,0 @@
-## 10-1-3. Helicopter Approach Procedures to VFR Heliports
-
-a. Helicopter approaches may be developed for heliports that do not meet the design standards for an IFR heliport. The majority of IFR approaches to VFR heliports are developed in support of helicopter emergency medical services (HEMS) operators. These approaches can be developed from conventional NAVAIDs or a RNAV system (including GPS). They are developed either as a Special Approach (pilot training is required for special procedures due to their unique characteristics) or a public approach (no special training required). These instrument procedures are developed as either an approach designed to a specific landing site, or an approach designed to a point-in-space.
-
-1. Approach to a specific landing site. The approach is aligned to a missed approach point from which a landing can be accomplished with a maximum course change of 30 degrees. The visual segment from the MAP to the landing site is evaluated for obstacle hazards. These procedures are annotated: "PROCEED VISUALLY FROM (NAMED MAP) OR CONDUCT THE SPECIFIED MISSED APPROACH."
-
-(a) This phrase requires the pilot to either acquire and maintain visual contact with the landing site at or prior to

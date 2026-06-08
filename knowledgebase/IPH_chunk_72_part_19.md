@@ -1,5 +1,0 @@
-the ability to predict what the pilot will actually do. RNAV departure procedures have the ability to increase the capacity of terminal airspace by increasing on- time departures, airspace utilization, and improved predictability.
-
-All public RNAV SIDs and graphic ODPs are RNAV 1. These procedures generally start with an initial RNAV or heading leg near the departure end runway. In addition, these procedures require system performance currently met by GPS, DME/DME/Inertial Reference Unit (IRU) RNAV systems that satisfy the criteria discussed in AC 90- 100, U.S. Terminal and En Route Area Navigation (RNAV) Operations. RNAV departures are identifiable by the inclusion of the term RNAV in the title of the departure. From a required navigation performance (RNP) standpoint, RNAV departure routes are designed with 1 or 2 NM performance standards as listed below. This means you as the pilot and your aircraft equipment must be able to maintain the aircraft within 1 or 2 NM either side of route centerline. [Figure 1- 27]
-
-- RNAV 1 procedures require that the aircraft's total system error remain bounded by \(\pm 1\) NM for

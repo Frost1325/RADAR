@@ -1,7 +1,0 @@
-gradient is an altitude gain of one and one-half feet per 100 feet of horizontal travel. Climb gradient may also be expressed as a function of altitude gain per nautical mile (NM), or as a ratio of the horizontal distance to the vertical distance (10:1, for example). [Figure 13-5B] Unlike rate of climb, climb gradient is affected by wind. Climb gradient is improved with a headwind component and reduced with a tailwind component.
-
-- The all-engine service ceiling of multigenie airplanes is the highest altitude at which the airplane can maintain a steady rate of climb of 100 fpm with both engines operating. The airplane has reached its absolute ceiling when climb is no longer possible.
-
-- The single-engine service ceiling is reached when the multigenie airplane can no longer maintain a 50 fpm rate of climb with OEI, and its single-engine absolute ceiling when climb is no longer possible.
-
-The takeoff in a multigenie airplane should be planned in sufficient detail so that the appropriate action is taken in the event of an engine failure. The pilot should be thoroughly familiar with the airplane's performance capabilities and limitations in order to make an informed takeoff decision as part of the

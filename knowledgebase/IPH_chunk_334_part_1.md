@@ -1,1 +1,0 @@
-# Helicopter Instrument Procedures

@@ -1,5 +1,0 @@
- passenger. It is recommended that all bags be weighed to make a precise computation of how the aircraft CG is positioned.
-
-The importance of the CG was stressed in the discussion of stability, controllability, and performance. Unequal load distribution causes accidents. A competent pilot understands and respects the effects of CG on an aircraft.
-
-Weight and balance are critical components in the utilization of an aircraft to its fullest potential. The pilot must know how much fuel can be loaded onto the aircraft without violating CG limits, as well as weight limits to conduct long or short flights with or without a full complement of allowable passengers. For example, an aircraft has four seats and can carry 60 gallons of fuel. How many passengers can the aircraft safely carry? Can all those seats be occupied at all times with the varying fuel loads? Four people who each weigh 150 pounds leads to a different weight and balance computation than four people who each weigh 200 pounds. The second scenario loads an additional 200 pounds onto the aircraft and is equal to about 30 gallons of fuel.

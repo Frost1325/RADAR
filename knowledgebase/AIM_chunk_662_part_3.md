@@ -1,1 +1,0 @@
-td>Destination</td><td></td><td></td><td></td><td></td></tr><tr><td>Alternate</td><td></td><td></td><td></td><td></td></tr><tr><td>ADIZ</td><td>Airspace Restrictions</td><td></td><td></td><td></td><td></td></tr></table>

@@ -1,7 +1,0 @@
- from GPS to LOC or VOR while the autopilot is engaged in NAV (course tracking mode) causes the autopilot's NAV mode to disengage. The autopilot's lateral control will default to ROL (wing level) until the pilot takes action to reengage the NAV mode to track the desired navigation source.
-
-## Risk Management
-
-Risk management is the last of the three flight management skills needed for mastery of the glass flight deck aircraft. The enhanced situational awareness and automation capabilities offered by a glass flight deck airplane vastly expand its safety and utility, especially for personal transportation use. At the same time, there is some risk that lighter workloads could lead to complacency.
-
-Humans are characteristically poor monitors of automated systems. When asked to passively monitor an automated system for faults, abnormalities, or other infrequent events, humans perform poorly. The more reliable the system, the poorer the human performance. For example, the pilot only monitors a backup alert system, rather than the situation that the alert system is designed to safeguard. It is a paradox of automation that technically advanced avionics can both increase and decrease pilot awareness.

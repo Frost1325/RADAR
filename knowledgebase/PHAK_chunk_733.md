@@ -1,5 +1,0 @@
- wet- sump system is the oil pump, which draws oil from the sump and routes it to the engine. After the oil passes through the engine, it returns to the sump. In some engines, additional lubrication is supplied by the rotating crankshaft, which splashes oil onto portions of the engine.
-
-An oil pump also supplies oil pressure in a dry- sump system, but the source of the oil is located external to the engine in a separate oil tank. After oil is routed through the engine, it is pumped from the various locations in the engine back to the oil tank by scavenge pumps. Dry- sump systems allow for a greater volume of oil to be supplied to the engine, which makes them more suitable for very large reciprocating engines.
-
-The oil pressure gauge provides a direct indication of the oil system operation. It ensures the pressure in pounds per square inch (psi) of the oil supplied to the engine. Green indicates the normal operating range, while red indicates the minimum and maximum pressures. There should be an indication of oil pressure during engine start. Refer to the AFM/POH for manufacturer limitations.

@@ -1,3 +1,0 @@
-mechanism in place, such as NOTAMs, to provide status update on individual radar sites since TIS is a nonessential, supplemental information service.
-
-The FAA also operates en route Mode S radars (not illustrated) that rotate once every 12 seconds. These sites will require additional development of TIS before any possible implementation. There are no plans to implement TIS in the en route Mode S radars at the present time.

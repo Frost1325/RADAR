@@ -1,3 +1,0 @@
-With a 10- knot tailwind, the descent rate increases to 1,056 fpm. "Copter" Point- in- space (PinS) approach procedures are restricted to helicopters with a maximum \(\mathrm{V}_{\mathrm{MINI}}\) of 70 KIAS and an IFR approach angle that enables them to meet the final approach angle/descent gradient. Pilots of helicopters with
-
-<table><tr><td>Manufacturer</td><td>VMINI Limitations</td><td>MAX IFR Approach Angle</td><td>G/A Mode Speed</td></tr><tr><td>Augusta</td><td></td><td></td><td></td></tr><tr><td>A-109</td><td>60 (80 coupled)</td><td></td><td></td></tr><tr><td>A-109C</td><td>40</td><td>9.0</td><td></td></tr><tr><td>Bell</td><td></td><td></td><td></td></tr><tr><td>BH 212</td><td

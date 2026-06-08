@@ -1,5 +1,0 @@
- into complacency. Over time, concern surfaced that the manual flying skills of the automated flight crews deteriorated due to over- reliance on computers. The flight crew managers said they worried that pilots would have less "stick- and- rudder" proficiency when those skills were needed to manually resume direct control of the aircraft.
-
-A major study was conducted to evaluate the performance of two groups of pilots. The control group was composed of pilots who flew an older version of a common twin- jet airliner equipped with analog instrumentation and the experimental group was composed of pilots who flew the same aircraft, but newer models equipped with an electronic flight instrument system (EFIS) and a flight management system (FMS). The pilots were evaluated in maintaining aircraft parameters, such as heading, altitude, airspeed, glideslope, and localizer deviations, as well as pilot control inputs. These were recorded during a variety of normal, abnormal, and emergency maneuvers during 4 hours of simulator sessions.
-
-## Results of the Study

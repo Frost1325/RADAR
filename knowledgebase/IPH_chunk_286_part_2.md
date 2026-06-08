@@ -1,3 +1,0 @@
-approaches by the controller upon initial contact or through ATIS. [Figure 4- 50]
-
-Dallas/Fort Worth International airport is one of the few airports that makes use of converging ILS approaches because its runway configuration has multiple parallel runways and two offset runways. [Figure 4- 51] The approach chart title indicates the use of converging approaches and the notes section highlights other runways that are authorized for converging approach procedures. Note the slight different in charting titles on the IAPs. Soon all Converging ILS procedures will be charted in the newer format shown in Figure 4- 50, with the use of "V" in the title, and "CONVERGING" in parenthesis.

@@ -1,3 +1,0 @@
-1,013.2 millibars (mb). The thickness of the atmosphere is limited; therefore, the higher the altitude, the less air there is above. For this reason, the weight of the atmosphere at 18,000 feet is one- half what it is at sea level.
-
-The pressure of the atmosphere varies with time and location. Due to the changing atmospheric pressure, a standard reference was developed. The standard atmosphere at sea level is a surface temperature of \(59^{\circ}\mathrm{F}\) or \(15^{\circ}\mathrm{C}\) and a surface pressure of 29.92 inches of mercury ("Hg) or 1,013.2 mb. [Figure 4- 2]

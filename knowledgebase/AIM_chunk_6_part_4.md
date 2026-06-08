@@ -1,5 +1,0 @@
-repair station in the local area provides this service. A representative of the repair station must make an entry into the aircraft logbook or other permanent record certifying to the radial accuracy and the date of transmission. The owner, operator or representative of the repair station may accomplish the necessary checks in the aircraft and make a logbook entry stating the results. It is necessary to verify which test radial is being transmitted and whether you should get a "to" or "from" indication.
-
-f. Airborne and ground check points consist of certified radials that should be received at specific points on the airport surface or over specific landmarks while airborne in the immediate vicinity of the airport.
-
-1. Should an error in excess of plus or minus 4 degrees be indicated through use of a ground check, or plus or minus 6 degrees using the airborne check, Instrument Flight Rules (IFR) flight must not be attempted without first correcting the source of the error.

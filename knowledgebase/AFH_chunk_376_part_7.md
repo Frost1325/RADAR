@@ -1,5 +1,0 @@
-149(b)). \(\mathrm{V_{MC}}\) increases as the center-of-gravity (CG) is moved aft. The moment arm of the rudder is reduced, and therefore its effectivity is reduced, as the CG is moved aft. For a typical light twin, the aft-most CG limit is the most unfavorable CG position. Historically, 14 CFR part 23 calls for \(\mathrm{V_{MC}}\) to be determined at the most unfavorable weight. For twins certificated under CAR 3 or early 14 CFR part 23, the weight at which \(\mathrm{V_{MC}}\) was determined was not specified. \(\mathrm{V_{MC}}\) increases as weight is reduced. [Figure 13-13]
-
-- Landing gear retracted (section 23.149(b)(4)). \(\mathrm{V_{MC}}\) increases when the landing gear is retracted. Extended landing gear aids directional stability, which tends to decrease \(\mathrm{V_{MC}}\) .
-
-- Flaps in the takeoff position (section 23.149(b)(3)). This normally includes wing flaps and cowl flaps

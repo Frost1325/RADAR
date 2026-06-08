@@ -1,7 +1,0 @@
-## Short-Field Approach and Landing
-
-Short- field approaches and landings require the use of procedures for approaches and landings at fields with a relatively short landing area or where an approach is made over obstacles that limit the available landing area. [Figure 9- 20 and Figure 9- 21] This low- speed type of power- on approach is closely related to the performance of flight near minimum controllable airspeeds.
-
-To land within a short field or a confined area, the pilot needs to have precise, positive control of the rate of descent and airspeed, and fly an approach that clears any obstacles, results in little or no floating during the round out, and permits the airplane to be stopped in the shortest possible distance. When safety and conditions permit, a wider- than- normal pattern with a longer final approach may be used. This allows the pilot ample opportunity to adjust and stabilize the descent angle after the airplane is configured and trimmed. A stabilized approach is essential.
-
-The procedures for landing on a short field or for landing approaches over obstacles as recommended in the AFM/POI should be used. [Figure 9- 22 and Figure 9- 23] These procedures generally involve a final approach started

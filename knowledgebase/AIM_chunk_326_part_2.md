@@ -1,3 +1,0 @@
-frequencies for potential traffic conflicts with their aircraft especially when operating on an active runway and/or when conducting a final approach to landing.
-
-c. All pilots will find the Pilot/Controller Glossary very helpful in learning what certain words or phrases mean. Good phraseology enhances safety and is the mark of a professional pilot. Jargon, chatter, and "CB" slang have no place in ATC communications. The Pilot/Controller Glossary is the same glossary used in FAA Order JO 7110.65, Air Traffic Control. We recommend that it be studied and reviewed from time to time to sharpen your communication skills.

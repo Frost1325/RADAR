@@ -1,5 +1,0 @@
-## NOTE-
-
-Some approach charts have an arrival holding pattern depicted at the IAF using a "thin line" holding symbol. It is charted where holding is frequently required prior to starting the approach procedure so that detailed holding instructions are not required. The arrival holding pattern is not authorized unless assigned by Air Traffic Control. Holding at the same fix may also be depicted on the enroute chart. A hold-in-lieu of procedure turn is depicted by a "thick line" symbol, and is part of the instrument approach procedure as described in paragraph 5- 4- 9 (See U. S. Terminal Procedures booklets page E1 for both examples.)
-
-6. A procedure turn is not required when an approach can be made directly from a specified intermediate fix to the final approach fix. In such cases, the term "NoPT" is used with the appropriate course and altitude to denote that the procedure turn is not required. If a procedure turn is desired, and when cleared to do so by ATC, descent below the procedure turn altitude should not be made until the aircraft is established on the inbound course, since some NoPT altitudes may be lower than the procedure turn altitudes.

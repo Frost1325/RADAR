@@ -1,6 +1,0 @@
-
-## T-Tail
-
-In a T- tail configuration, the elevator is above most of the effects of downwash from the propeller, as well as airflow around the fuselage and/or wings during normal flight conditions. Operation of the elevators in this undisturbed air allows control movements that are consistent throughout most flight regimes. T- tail designs have become popular on many light and large aircraft, especially those with aft fuselage- mounted engines because the T- tail configuration removes the tail from the exhaust blast of the engines. Seaplanes and amphibians often have T- tails in order to keep the horizontal surfaces as far from the water as possible. An additional benefit is reduced noise and vibration inside the aircraft.
-
-In comparison with conventional- tail aircraft, the elevator on a T- tail aircraft must be moved a greater distance to raise the nose a given amount when traveling at slow speeds. This is because the conventional- tail aircraft has the downwash from the propeller pushing down on the tail to assist in raising the nose.

@@ -1,3 +1,0 @@
-, the tail is forced down by its own weight, resulting in a sudden increase in lift. If the pilot now pushes forward in an attempt to again make contact with the surface, a potentially dangerous pilot- induced oscillation may develop. It is far better to respond to a bounced wheel landing attempt by initiating a go- around or converting to a three- point landing if conditions permit.
-
-Note: The only difference between three- point and wheel landings is the timing of the touchdown (early and later). There is no difference between the approach angles and airspeeds in the two techniques.

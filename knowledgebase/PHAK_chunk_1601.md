@@ -1,5 +1,0 @@
- LAA services include local airport advisories, automated weather reporting with voice broadcasting, and a continuous Automated Surface Observing System (ASOS)/Automated Weather Observing Station (AWOS) data display, other continuous direct reading instruments, or manual observations available to the specialist.
-
-## Military Training Routes (MTRs)
-
-Military Training Routes (MTRs)MTRs are routes used by military aircraft to maintain proficiency in tactical flying. These routes are usually established below 10,000 feet MSL for operations at speeds in excess of 250 knots. Some route segments may be defined at higher altitudes for purposes of route continuity. Routes are identified as IFR (IR), and VFR (VR), followed by a number. [Figure 15- 7] MTRs with no segment above 1,500 feet AGL are identified by four number characters (e.g., IR1206, VR1207). MTRs that include one or more segments above 1,500 feet AGL are identified by three number characters (e.g., IR206, VR207). IFR low altitude en route charts depict all IR routes and all VR routes that

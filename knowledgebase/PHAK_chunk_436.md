@@ -1,5 +1,0 @@
- attitude, lessening the wing's AOA and drag and allowing the airspeed to increase. As the aircraft continues in the nose- low attitude and its speed increases, the downward force on the horizontal stabilizer is once again increased. Consequently, the tail is again pushed downward and the nose rises into a climbing attitude.
-
-As this climb continues, the airspeed again decreases, causing the downward force on the tail to decrease until the nose lowers once more. Because the aircraft is dynamically stable, the nose does not lower as far this time as it did before. The aircraft acquires enough speed in this more gradual dive to start it into another climb, but the climb is not as steep as the preceding one.
-
-After several of these diminishing oscillations, in which the nose alternately rises and lowers, the aircraft finally settles down to a speed at which the downward force on the tail exactly counteracts the tendency of the aircraft to dive. When this condition is attained, the aircraft is once again in balanced flight and continues in stabilized flight as long as this attitude and airspeed are not changed.

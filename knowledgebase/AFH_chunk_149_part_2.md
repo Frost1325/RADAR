@@ -1,7 +1,0 @@
-flaps should be extended and pitch attitude adjusted to maintain the airspeed. Once in a normal approach, the pilot sets the power to idle.
-
-When the approach attitude and airspeed have stabilized, the pilot should smoothly raise the airplane's nose to an attitude that induces a stall. Directional control should be maintained and wings held level by coordinated use of the ailerons and rudder. Once the airplane reaches an attitude that will lead to a stall, the pitch attitude is maintained with the elevator until the stall occurs. The stall is recognized by the full- stall cues previously described.
-
-Recovery from the stall is accomplished by reducing the AOA, applying as much nose- down control input as required to eliminate the stall warning, leveling the wings, maintaining coordinated flight, and then applying power as needed. Right rudder pressure may be necessary to overcome the engine torque effects as power is advanced and the nose is being lowered. [Figure 5- 11] If simulating an inadvertent stall on approach to landing, the pilot should initiate a go- around by establishing a positive rate of climb. Once in a climb, the flaps and landing gear should be retracted as necessary.
-
-Recovery from power- off stalls should also be practiced from shallow bank

@@ -1,3 +1,0 @@
-><td>Mountain Obscuration</td></tr><tr><td>MTR...</td><td>Military Training Route</td></tr><tr><td>MVA...</td><td>Minimum Vectoring Altitude</td></tr><tr><td>MWA...</td><td>Mountain Wave Activity</td></tr><tr><td>MWO...</td><td>Meteorological Watch Office</td></tr><tr><td>NAS...</td><td>National Airspace System</td></tr><tr><td>NASA...</td><td>National Aeronautics and Space<br>Administration</td></tr><tr><td>NAVAID...</td><td>Navigational Aid</td></tr><tr><td>NAVCEN...</td><td>Coast Guard Navigation Center</td></tr><tr><td>NCWF...</td><td>National Convective Weather Forecast</td></tr><tr><td>NDB...</td><td>Nondirectional Radio Beacon</td></tr></table>
-
-<table><tr><td>Abbreviation/ Acronym</td><td>Meaning</td></tr><tr><td rowspan="2">NEXRAD...</td><td>

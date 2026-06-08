@@ -1,3 +1,0 @@
-autical miles from the coastline within the U.S. Flight Information Region, in Class E airspace below 10,000 feet MSL. However, in airspace underlying a Class B airspace area designated for an airport, or in a VFR corridor designated through such as a Class B airspace area, pilots are expected to comply with the 200 knot speed limit specified in 14 CFR Section 91.117(c).
-
-k. For operations in a Class C and Class D surface area, ATC is authorized to request or approve a speed greater than the maximum indicated airspeeds prescribed for operation within that airspace (14 CFR Section 91.117(b)).

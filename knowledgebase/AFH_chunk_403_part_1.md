@@ -1,3 +1,0 @@
-## Directional Control
-
-Directional ControlAfter absorbing all the information presented to this point, the transitioning pilot may conclude that the best approach to maintaining directional control is to limit rudder inputs from fear of overcontrolling. Although intuitive, this is an incorrect assumption: the disadvantages built in to the tailwheel design sometimes require vigorous rudder inputs to maintain or retain directional control. The best approach is to understand the fact that tailwheel aircraft are not damaged from the use of too much rudder, but rather from rudder inputs held for too long.

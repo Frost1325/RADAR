@@ -1,7 +1,0 @@
-## 4-3-23. Use of Aircraft Lights
-
-a. Aircraft position lights are required to be lighted on aircraft operated on the surface and in flight from sunset to sunrise. In addition, aircraft equipped with an anti-collision light system are required to operate that light system during all types of operations (day and night). However, during any adverse meteorological conditions, the pilot-in-command may determine that the anti-collision lights should be turned off when their light output would constitute a hazard to safety (14 CFR Section 91.209). Supplementary strobe lights should be turned off on the ground when they adversely affect ground personnel or other pilots, and in flight when there are adverse reflection from clouds.
-
-b. An aircraft anti-collision light system can use one or more rotating beacons and/or strobe lights, be colored either red or white, and have different (higher than minimum) intensities when compared to other aircraft. Many aircraft have both a rotating beacon and a strobe light system.
-
-c. The FAA has a voluntary pilot safety program, Operation Lights On, to enhance the see-and-avoid concept. Pilots are encouraged to turn on their landing lights during takeoff; i.e., either after takeoff clearance

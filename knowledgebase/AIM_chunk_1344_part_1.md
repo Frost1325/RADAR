@@ -1,5 +1,0 @@
-## 10-1-2. Helicopter Instrument Approaches
-
-a. Helicopters are capable of flying any published 14 CFR Part 97, Standard Instrument Approach Procedures (SIAPs), for which they are properly equipped, subject to the following limitations and conditions:
-
-1. Helicopters flying conventional (non-Copter) SIAPs may reduce the visibility minima to not less than one half the published Category A landing visibility minima, or \(1 / 4\) statute mile visibility/1200 RVR, whichever is greater unless the procedure is annotated with "Visibility Reduction by Helicopters NA." This annotation means that there are penetrations of the final approach obstacle identification surface (OIS) and that the 14 CFR Section 97.3 visibility reduction rule does not apply and you must take precaution to avoid any obstacles in the visual segment. No reduction in MDA/DA is permitted. The helicopter may initiate the final approach segment at speeds up to the upper limit of the highest approach category authorized by the procedure, but must be slowed to no more than 90 KIAS at the missed approach point (MAP) in order to apply the visibility reduction. Pilots are cautioned that such

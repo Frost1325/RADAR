@@ -1,3 +1,0 @@
-## General
-
-Multienine and single- engine airplanes operate differently during an engine failure. In a multienine airplane, loss of thrust from one engine affects both performance and control. The most obvious problem is the loss of 50 percent of power, which reduces climb performance 80 to 90 percent. In some cases after an engine failure, the ability to climb or maintain altitude in a light- twin may not exist. After an engine failure, asymmetrical thrust also creates control issues for the pilot. Attention to both these factors is crucial to safe OEI flight.

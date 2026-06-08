@@ -1,7 +1,0 @@
-[Figure 16- 11] Target reversers are simple clamshell doors that swivel from the stowed position at the engine tailpipe to redirect thrust to a more forward direction.
-
-Cascade reversers are normally found on turbofan engines and are often designed to reverse only the fan air portion. Blocking doors in the shroud obstruct forward fan thrust and redirect it through cascade vanes to generate reverse thrust.
-
-On most installations, the pilot selects reverse thrust with the thrust levers at idle by pulling up the reverse levers to a detent. Doing so positions the reversing mechanisms for operation but leaves the engines at idle rpm. Further upward and backward movement of the reverse levers increases engine power. Reverse is canceled by closing the reverse levers to the idle reverse position, then dropping them fully back to the forward idle position. This last movement selects the stowed position, and the reversers return to the forward thrust position.
-
-Reverse thrust is more effective at high speed than at low speed. For maximum reverse thrust efficiency, the pilot should use it as soon as is prudent after touchdown. The pilot should remember that some airplanes tend to pitch nose- up when reverse is selected on landing and this effect, particularly when combined with the nose- up pitch effect from

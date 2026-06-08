@@ -1,5 +1,0 @@
-way or taxilane on a paved surface where the adjoining pavement to the taxiway edge is intended for use by aircraft, e.g., an apron. Dashed taxiway edge markings consist of a broken double yellow line, with each line being at least 6 inches (15 cm) in width, spaced 6 inches (15 cm) apart (edge to edge). These lines are 15 feet (4.5 m) in length with 25 foot (7.5 m) gaps. (See FIG 2-3-9. )
-
-d. Taxi Shoulder Markings. Taxiways, holding bays, and aprons are sometimes provided with paved shoulders to prevent blast and water erosion. Although shoulders may have the appearance of full strength pavement they are not intended for use by aircraft, and may be unable to support an aircraft. Usually the taxiway edge marking will define this area. Where conditions exist such as islands or taxiway curves that may cause confusion as to which side of the edge stripe is for use by aircraft, taxiway shoulder markings may be used to indicate the pavement is unusable. Taxiway shoulder markings are yellow. (See FIG 2-3-10. )
-
-e. Surface Painted Taxi

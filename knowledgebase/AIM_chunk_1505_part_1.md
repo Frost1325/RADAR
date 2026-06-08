@@ -1,3 +1,0 @@
-## [References are to page numbers]
-
-Minimums, 1- 1- 10 Instrument Meteorological Conditions (IMC), 5- 2- 6 Integrated Terminal Weather System, 4- 3- 12 Intercept, 6- 2- 1 Interception Procedures, 5- 6- 2 Signals, 5- 6- 7 Interchange Aircraft, 4- 2- 4 International Flight Plan, IFR, Domestic, International, 5- 1- 17 International Flight Plan (FAA Form 7233- 4)- IFR Flights (For Domestic or International Flights), 5- 1- 17 Intersection Takeoffs, 4- 3- 13 IR. See IFR Military Training Routes IRU. See Inertial Reference Unit ITWS. See Integrated Terminal Weather System

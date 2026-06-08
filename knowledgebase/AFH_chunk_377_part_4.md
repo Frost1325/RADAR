@@ -1,3 +1,0 @@
-23, section 23.149(e), 150 pounds of force was permitted. Most twins will run out of rudder travel long before 150 pounds of pressure is required. Still, the rudder pressure used during any \(\mathrm{V_{MC}}\) demonstration may seem considerable.
-
-Maintaining altitude is not a criterion in accomplishing this maneuver. This is a demonstration of controllability, not performance. Many airplanes will lose (or gain) altitude during the demonstration. Remaining at or above a minimum of 3,000 feet AGL throughout the maneuver is considered to be effective risk mitigation of certain hazards.

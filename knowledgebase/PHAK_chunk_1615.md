@@ -1,5 +1,0 @@
-. ADM involves a systematic approach to risk assessment and stress management in aviation, illustrates how personal attitudes can influence decision- making, and how those attitudes can be modified to enhance safety in the flight deck. More detailed information regarding ADM and risk mitigation can be found in Chapter 2, "Aeronautical Decision- Making."
-
-Pilots also comply with very strict FAA general operating and flight rules as outlined in the CFR, including the FAA's important "see and avoid" mandate. These regulations provide the historical foundation of the FAA regulations governing the aviation system and the individual classes of airspace. Figure 15- 9 lists the operational and equipment requirements for these various classes of airspace. It is helpful to refer to this figure as the specific classes are discussed in greater detail.
-
-## Class A

@@ -1,7 +1,0 @@
- also be a disadvantage because a flight instructor who fails to organize the flight training can cost a student pilot time and expense through repetitious training. One way for a student pilot to avoid this problem is to ensure the flight instructor has a well- documented training syllabus.
-
-## How To Find a Reputable Flight Program
-
-To obtain information about pilot training, contact the local FSDO, which maintains a current file on all schools within its district. The choice of a flight school depends on what type of certificate is sought, and whether an individual wishes to fly as a sport pilot or wishes to pursue a career as a professional pilot. Another consideration is the amount of time that can be devoted to training. Ground and flight training should be obtained as regularly and frequently as possible because this assures maximum retention of instruction and the achievement of requisite proficiency.
-
-Do not make the determination based on financial concerns alone, because the quality of training is very important. Prior to making a final decision, visit the schools under consideration and talk with management, instructors, and students. Request a personal tour of the flight school facility.

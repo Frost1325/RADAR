@@ -1,5 +1,0 @@
-atus, stratocumulus, and nimbostratus. Fog is also classified as a type of low cloud formation. Clouds in this family create low ceilings, hamper visibility, and can change rapidly. Because of this, they influence flight planning and can make visual flight rules (VFR) flight impossible.
-
-Middle clouds form around 6,500 feet AGL and extend up to 20,000 feet AGL. They are composed of water, ice crystals, and supercooled water droplets. Typical middle- level clouds include altostratus and altocumulus. These types of clouds may be encountered on cross- country flights at higher altitudes. Altostratus clouds can produce turbulence and may contain moderate icing. Altocumulus clouds, which usually form when altostratus clouds are breaking apart, also may contain light turbulence and icing.
-
-High clouds form above 20,000 feet AGL and usually form only in stable air. They are made up of ice crystals and pose no real threat of turbulence or aircraft icing. Typical high level clouds are cirrus, cirrostratus, and circocumulus.

@@ -1,7 +1,0 @@
-## Touchdown and Rollout
-
-A proper approach and flare positions the airplane to touch down in the touchdown target zone, which is usually about 1,000 feet beyond the runway threshold. Once the main wheels have contacted the runway, the pilot should maintain directional control and initiate the stopping process on the runway that remains in front of the airplane. The runway distance available to stop is longest if the touchdown was on target. The energy to be dissipated is least if there is no excess speed.
-
-At the point of touchdown, the airplane represents a very large mass that is moving at a relatively high speed. The large total energy gets dissipated by the brakes, the aerodynamic drag, and the thrust reversers (if available). The nose- wheel should be lowered onto the ground immediately after touchdown because a jet airplane decelerates poorly when held in a nose- high attitude, and placing the nose- wheel tire(s) on the ground assists in maintaining directional control. Lowering the nose gear decreases the wing AOA, decreasing the lift, placing more load onto the tires, thereby increasing tire- to- ground friction. Landing distance charts for jet airplanes assume that the nose- wheel is lowered onto the runway within 4 seconds of touchdown.
-
-There are only

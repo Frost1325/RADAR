@@ -1,7 +1,0 @@
-## OEI Climb Performance
-
-Best OEI climb performance is obtained at \(\mathrm{V_{YSE}}\) with maximum available power and minimum drag. After the flaps and landing gear have been retracted and the propeller of the failed engine feathered, a key element in best climb performance is minimizing sideslip.
-
-For any airplane, sideslip can be confirmed through the use of a yaw string. A yaw string is a piece of string or yarn approximately 18 to 36 inches in length taped to the base of the windshield or to the nose near the windshield along the airplane centerline. In twoengine coordinated flight, the relative wind causes the string to align itself with the longitudinal axis of the airplane, and it positions itself straight up the center of the windshield. This is zero sideslip. Experimentation with slips and skids vividly displays the location of the relative wind. A particular combination of aileron and rudder also establishes zero sideslip during OEI flight. Adequate altitude, flying speed, and caution should be maintained if attempting these maneuvers.
-
-With a single- engine airplane or a multie engine airplane with both engines operative, sideslip is eliminated when the ball of the turn and bank instrument is centered. This

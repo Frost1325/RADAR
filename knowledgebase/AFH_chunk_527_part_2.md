@@ -1,3 +1,0 @@
-runway. This situation, if not anticipated, can result in serious errors in judgment of height and distance. Approaching the runway in a relatively nose- high attitude can also cause the perception that the airplane is close to a stall. This may cause the pilot to lower the nose abruptly and risk touching down on the nose- wheel.
-
-With the flaps retracted and the power reduced for landing, the airplane is slightly less stable in the pitch and roll axes. Without flaps, the airplane tends to float considerably during roundout. The pilot should avoid the temptation to force the airplane onto the runway at an excessively high speed. Neither should the pilot flare excessively because without flaps, this might cause the tail to strike the runway.

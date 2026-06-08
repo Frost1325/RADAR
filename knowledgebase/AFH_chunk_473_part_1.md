@@ -1,3 +1,0 @@
-## Configuration Deviation List
-
-A Configuration Deviation List (CDL) is used in the same manner as an MEL but it differs in that it addresses missing external parts of the aircraft rather than failing internal systems and their constituent parts. They typically include elements, such as service doors, power receptacle doors, slat track doors, landing gear doors, APU ram air doors, flaps fairings, nose- wheel spray deflectors, position light lens covers, slat segment seals, static dischargers, etc.

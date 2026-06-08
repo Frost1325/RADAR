@@ -1,7 +1,0 @@
-## b. Radar Approach Control.
-
-1. Where radar is approved for approach control service, it is used not only for radar approaches (Airport Surveillance Radar [ASR] and Precision Approach Radar [PAR]) but is also used to provide vectors in conjunction with published nonradar approaches based on radio NAVAIDs (ILS, VOR, NDB, TACAN). Radar vectors can provide course guidance and expedite traffic to the final approach course of any established IAP or to the traffic pattern for a visual approach. Approach control facilities that provide this radar service will operate in the following manner:
-
-(a) Arriving aircraft are either cleared to an outer fix most appropriate to the route being flown with vertical separation and, if required, given holding information or, when radar handoffs are effected between the ARTCC and approach control, or between two approach control facilities, aircraft are cleared to the airport or to a fix so located that the handoff will be completed prior to the time the aircraft reaches the fix. When radar handoffs are utilized, successive arriving flights may be handed off to approach control with radar separation in lieu of vertical separation.
-
-(b) After release to approach control, aircraft are vectored to the final approach course (ILS, RNAV, GL

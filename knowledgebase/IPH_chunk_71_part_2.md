@@ -1,7 +1,0 @@
-to notify you of specific activity, but these are strictly advisory. [Figure 1- 26] If you are unable to comply with a specific requirement, you must not file the procedure as part of your flight plan. If ATC assigns you a SID, you may need to quickly recalculate your all- engines- operating performance numbers. If you cannot comply with the climb gradient in the SID, you should not accept a clearance for that SID and furthermore, you must not accept the procedure if ATC assigns it.
-
-A clearance for a SID which contains published altitude restrictions may be issued using the phraseology "climb via." Climb via is an abbreviated clearance that requires
-
-compliance with the procedure lateral path, associated speed and altitude restrictions along the cleared route or procedure. Expanded procedures for "Climb via" can be found in the AIM.
-
-ATC can assign SIDs or radar vectors as necessary for traffic management and convenience. To fly a SID, you must receive approval to do so in a clearance. In order to accept a clearance that includes a SID, you must have the charted SID procedure in your possession at the time of departure. It is your responsibility as pilot in command to accept or reject the issuance of a SID by AT

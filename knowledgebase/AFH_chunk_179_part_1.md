@@ -1,3 +1,0 @@
-## Crosswind Takeoff
-
-While it is usually preferable to take off directly into the wind whenever possible or practical, there are many instances when circumstances or judgment indicate otherwise. Therefore, the pilot must be familiar with the principles and techniques involved in crosswind takeoffs, as well as those for normal takeoffs. A crosswind affects the airplane during takeoff much as it does during taxiing. With this in mind, the pilot should be aware that the technique used for crosswind correction during takeoffs closely parallels the crosswind correction techniques used for taxiing.

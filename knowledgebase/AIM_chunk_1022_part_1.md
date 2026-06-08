@@ -1,7 +1,0 @@
-## 6-2-3. Intercept and Escort
-
-a. The concept of airborne intercept and escort is based on the Search and Rescue (SAR) aircraft establishing visual and/or electronic contact with an aircraft in difficulty, providing in-flight assistance, and escorting it to a safe landing. If bailout, crash landing or ditching becomes necessary, SAR operations can be conducted without delay. For most incidents, particularly those occurring at night and/or during instrument flight conditions, the availability of intercept and escort services will depend on the proximity of SAR units with suitable aircraft on alert for immediate dispatch. In limited circumstances, other aircraft flying in the vicinity of an aircraft in difficulty can provide these services.
-
-b. If specifically requested by a pilot in difficulty or if a distress condition is declared, SAR coordinators will take steps to intercept and escort an aircraft. Steps may be initiated for intercept and escort if an urgency condition is declared and unusual circumstances make such action advisable.
-
-c. It is the pilot's prerogative to refuse intercept and escort services. Escort services will normally be provided to the nearest adequate airport. Should the pilot receiving escort services continue onto another location after reaching a safe airport, or decide not to divert to the nearest safe airport, the escort aircraft is not obligated to

@@ -1,5 +1,0 @@
-ages. They may be used in clearances involving climbs, descents, turns, or speed changes. In the flight deck, the words "reaching" and "leaving" sound much alike.
-
-For altitude awareness during climb, pilots often call out altitudes on the flight deck. The pilot monitoring may call 2,000 and 1,000 feet prior to reaching an assigned altitude. The callout may be, "two" climbing through the transit to go altitude (QNH), both pilots set their altimeters to 29.92 inches of mercury and announce "2992 inches" (or 'standard,' on some aircraft) and the flight level passing. For example, "2992 inches" (standard), flight level one eight zero. The second officer on three pilot crews may ensure that both pilots have inserted the proper altimeter setting. On international flights, pilots must be prepared to differentiate, if necessary, between barometric pressure equivalents with inches of mercury, and millibars or hectopascals, to eliminate any potential for error. For example, 996 millibars erroneously being set as 2996.
-
-For a typical IFR flight, the majority

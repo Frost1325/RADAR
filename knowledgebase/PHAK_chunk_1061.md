@@ -1,5 +1,0 @@
- terms,
-
-the imaginary point at which all the weight is concentrated. To provide the necessary balance between longitudinal stability and elevator control, the CG is usually located slightly forward of the center of lift. This loading condition causes a nose- down tendency in flight, which is desirable during flight at a high AOA and slow speeds.
-
-As mentioned earlier, a safe zone within which the balance point (CG) must fall is called the CG range. The extremities of the range are called the forward CG limits and aft CG limits. These limits are usually specified in inches, along the longitudinal axis of the airplane, measured from a reference point called a datum reference. The datum is an arbitrary point, established by aircraft designers that may vary in location between different aircraft. [Figure 10- 2]

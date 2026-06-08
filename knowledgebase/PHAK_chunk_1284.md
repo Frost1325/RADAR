@@ -1,5 +1,0 @@
- the temperature of air near the ground is cooled to the air's dew point. At this point, water vapor in the air condenses and becomes visible in the form of fog. Fog is classified according to the manner in which it forms and is dependent upon the current temperature and the amount of water vapor in the air.
-
-On clear nights, with relatively little to no wind present, radiation fog may develop. [Figure 12- 21] Usually, it forms in low- lying areas like mountain valleys. This type of fog occurs when the ground cools rapidly due to terrestrial radiation, and the surrounding air temperature reaches its dew point. As the sun rises and the temperature increases, radiation fog lifts and eventually burns off. Any increase in wind also speeds the dissipation of radiation fog. If radiation fog is less than 20 feet thick, it is known as ground fog.
-
-When a layer of warm, moist air moves over a cold surface, advection fog is likely to occur. Unlike radiation fog, wind is required to form advection fog. Winds of up to 15 knots

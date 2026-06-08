@@ -1,7 +1,0 @@
- no reliable signal is being received. The appearance of the HDG flag indicates the compass card is not functioning properly.
-
-## Radio Magnetic Indicator (RMI)
-
-The RMI is a navigational aid providing aircraft magnetic or directional gyro heading and very high frequency omnidirectional range (VOR), GPS, and automatic direction
-
-finder (ADF) bearing information. [Figure 16- 31] Remote indicating compasses were developed to compensate for errors in and limitations of older types of heading indicators. The remote compass transmitter is a separate unit usually mounted in a wingtip to eliminate the possibility of magnetic interference. The RMI consists of a compass card, a heading index, two bearing pointers, and pointer function switches. The two pointers are driven by any two combinations of a GPS, an ADF, and/or a VOR. The pilot has the ability to select the navigation aid to be indicated. The pointer indicates the course to the selected NAVAID or waypoint. In Figure 16- 31, the green pointer is indicating the station tuned on the ADF. The yellow pointer is indicating the course to a VOR or GPS waypoint. Note that there is no requirement for a pilot to select a course with the RMI. Only the selected navigation source is pointed to by the needle(s).

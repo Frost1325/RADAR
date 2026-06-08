@@ -1,3 +1,0 @@
-policy can be accessed from the FAA's website (http://www.faa.gov) or FAA's Flight Standards Information Management System (FSIMS http://fsims.faa.gov).
-
-- AC 120-76, Guidelines for the Certification, Airworthiness, and Operational Use of Electronic Flight Bags;- AC 91-78, Use of Class 1 or Class 2 Electronic Flight Bag (EFB);- AC 20-173, Installation of Electronic Flight Bag Components;- FAA Order 8900.1 Volume 4, Chapter 15, § 1, Electronic Flight Bag authorization for use; and- FAA Order 8900.1 Volume 3, Chapter 18, § 3, Part A Operations Specifications - General

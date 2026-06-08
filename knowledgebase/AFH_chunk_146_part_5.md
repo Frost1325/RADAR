@@ -1,7 +1,0 @@
-will improve lift and the stall margin.
-
-6. Return to the desired flightpath. Apply smooth and coordinated flight control movements to return the airplane to the desired flightpath being careful to avoid a secondary stall. However, be situationally aware of the proximity to terrain during the recovery and take the necessary flight control action to avoid contact with it.
-
-The above procedure can be adapted for the type of aircraft flown. For example, a single- engine training airplane without an autopilot would likely only use four of the six steps. The first step is not applicable. The actual first step is the reduction of the AOA until the stall warning is eliminated. Use of pitch trim is less of a concern in a training airplane because most pilots can overpower the trim in these airplanes. Any improper trim can be corrected when returning to the desired flightpath. The next step is rolling the wings level followed by the addition of power as needed all while maintaining coordinated flight. If the airplane is not equipped with speedbrakes or spoilers, this step is also skipped. Returning to the desired flightpath concludes the recovery.
-
-Similarly, a glider pilot does not have an autopilot; therefore, the first step is the reduction of AOA until the stall warning is eliminated. The pilot would then roll

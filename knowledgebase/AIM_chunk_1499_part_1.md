@@ -1,3 +1,0 @@
-## E
-
-Ear Block, 8- 1- 4EFAS. See En Route Flight Advisory ServiceEFVS. See Enhanced Flight Vision SystemsELT. See Emergency Locator TransmittersEmergency, 6- 1- 1Air Piracy, 6- 3- 6Airborne Aircraft Inspection, 7- 5- 8Aircraft, Overdue, 6- 2- 5Body Signals, 6- 2- 6Ditching Procedures, 6- 3- 3Explosives Detection, FAA K- 9 Team Program, 6- 2- 3Fuel Dumping, 6- 3- 7Inflight Monitoring and Reporting, 6- 2- 3Intercept and Escort, 6- 2- 1Locator Transmitters, 6- 2- 2Obtaining Assistance, 6- 3- 2Pilot Authority, 6- 1- 1Pilot Responsibility, 6- 1- 1Request Assistance Immediately, 6- 1- 1Search and Rescue, 6- 2- 4Services, 6- 2-

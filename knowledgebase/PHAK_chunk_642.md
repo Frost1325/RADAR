@@ -1,5 +1,0 @@
-{C_{L - MAX}})\) than the plain or split flap. While there are many types of slotted flaps, large aircraft often have double- and even triple- slotted flaps. These allow the maximum increase in drag without the airflow over the flaps separating and destroying the lift they produce.
-
-Fowler flaps are a type of slotted flap. This flap design not only changes the camber of the wing, it also increases the wing area. Instead of rotating down on a hinge, it slides backwards on tracks. In the first portion of its extension, it increases the drag very little, but increases the lift a great deal as it increases both the area and camber. Pilots should be aware that flap extension may cause a nose- up or down pitching moment, depending on the type of aircraft, which the pilot will need to compensate for, usually with a trim adjustment. As the extension continues, the flap deflects downward. During the last portion of its travel, the flap increases the drag with little additional increase in lift.
-
-## Leading Edge Devices

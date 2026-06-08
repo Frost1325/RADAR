@@ -1,7 +1,0 @@
- aviation technologies. Electronic flight displays (EFDs) have made vast improvements in how information is displayed and what information is available to the pilot. Pilots can access electronic databases that contain all of the information traditionally contained in multiple handbooks, reducing clutter in the flight deck. [Figure 2- 21]
-
-MFDs are capable of displaying moving maps that mirror sectional charts. These detailed displays depict all airspace, including Temporary Flight Restrictions (TFRs). MFDs are so descriptive that many pilots fall into the trap of relying solely on the moving maps for navigation. Pilots also draw upon the database to familiarize themselves with departure and destination airport information.
-
-More pilots now rely on electronic databases for flight planning and use automated flight planning tools rather than planning the flight by the traditional methods of laying out charts, drawing the course, identifying navigation points (assuming a VFR flight), and using the POH to figure out the weight and balance and performance charts. Whichever method a pilot chooses to plan a flight, it is
-
-important to remember to check and confirm calculations. Always remember that it is up to the pilot to maintain basic airmanship skills and use those skills often to maintain proficiency in all tasks.

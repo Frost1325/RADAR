@@ -1,5 +1,0 @@
- then begins to drop off. This peak is called the \(\mathrm{C_{L - MAX}}\) . The amount of lift the wing produces drops dramatically after exceeding the \(\mathrm{C_{L - MAX}}\) or critical AOA, but as stated above, it does not completely stop producing lift.
-
-In most straight- wing aircraft, the wing is designed to stall the wing root first. The wing root reaches its critical AOA first making the stall progress outward toward the wingtip. By having the wing root stall first, aileron effectiveness is maintained at the wingtips, maintaining controllability of the aircraft. Various design methods are used to achieve the stalling of the wing root first. In one design, the wing is "twisted" to a higher AOA at the wing root. Installing stall strips on the first 20- 25 percent of the wing's leading edge is another method to introduce a stall prematurely.
-
-The wing never completely stops producing lift in a stalled condition. If it did, the aircraft would fall to the Earth. Most training aircraft are designed for the nose of the aircraft to

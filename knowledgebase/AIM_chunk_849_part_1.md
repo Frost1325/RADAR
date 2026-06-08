@@ -1,7 +1,0 @@
-## NOTE-
-
-1. Pilots are cautioned to adhere to altitudes as prescribed because, in certain instances, they may be used as the basis for vertical separation of aircraft by ATC. When a depicted altitude is specified in the ATC clearance, that altitude becomes mandatory as defined above.
-
-2. The ILS glide slope is intended to be intercepted at the published glide slope intercept altitude. This point marks the PFAF and is depicted by the "lightning bolt" symbol on U.S. Government charts. Intercepting the glide slope at this altitude marks the beginning of the final approach segment and ensures required obstacle clearance during descent from the glide slope intercept altitude to the lowest published decision altitude for the approach. Interception and tracking of the glide slope prior to the published glide slope interception altitude does not necessarily ensure that minimum, maximum, and/or mandatory altitudes published for any preceding fixes will be complied with during the descent. If the pilot chooses to track the glide slope prior to the glide slope interception altitude, they remain responsible for complying with published altitudes for any preceding stepdown fixes encountered during the subsequent descent.
-
-3. Approaches used for simultaneous (parallel) independent and simultaneous close parallel operations procedurally require descending on the glideslope from the altitude at which the

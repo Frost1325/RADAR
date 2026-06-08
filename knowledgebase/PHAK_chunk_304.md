@@ -1,7 +1,0 @@
- composite fuselage, to have both a higher pressure differential and higher humidity in the cabin than previous airliners. Engineers are no longer as concerned about corrosion from moisture condensation on the hidden areas of the fuselage skins, such as behind insulation blankets. This should lead to lower long- term maintenance costs for the airlines.
-
-Another advantage of composites is their good performance in a flexing environment, such as in helicopter rotor blades. Composites do not suffer from metal fatigue and crack growth as do metals. While it takes careful engineering, composite rotor blades can have considerably higher design lives than metal blades, and most new large helicopter designs have all composite blades, and in many cases, composite rotor hubs.
-
-## Disadvantages of Composites
-
-Composite construction comes with its own set of disadvantages, the most important of which is the lack of visual proof of damage. Composites respond differently from other structural materials to impact, and there is often no obvious sign of damage. For example, if a car backs into an aluminum fuselage, it might dent the fuselage. If the fuselage is not dented, there is no damage. If the fuselage is dented, the damage is visible and repairs are made.

@@ -1,3 +1,0 @@
-, “Aeronautics and Space,” which encompasses all aspects of civil aviation from how to earn a pilot’s certificate to maintenance of an aircraft. Title 14 CFR Chapter 1, Federal Aviation Administration, is broken down into subchapters A through N as illustrated in Figure 1- 12.
-
-For the pilot, certain parts of 14 CFR are more relevant than others. During flight training, it is helpful for the pilot to become familiar with the parts and subparts that relate

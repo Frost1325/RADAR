@@ -1,5 +1,0 @@
-# Fundamentals of Stall Recovery
-
-Depending on the complexity of the airplane, stall recovery could consist of as many as six steps. Even so, the pilot should remember the most important action to an impending stall or a full stall is to reduce the AOA. There have been numerous situations where pilots did not first reduce AOA, and instead prioritized power and maintaining altitude, which resulted in a loss of control. This section provides a generic stall recovery procedure for light general aviation aircraft adapted from a template developed by major airplane manufacturers and can be adjusted appropriately for the aircraft used. [Figure 5-10] However, a pilot should always follow the aircraft-specific manufacturer's recommended procedures if published and current.
-
-<table><tr><td colspan="2">Stall Recovery Template</td></tr><tr><td>1. Wing leveler or autopilot</td><td>1. Disconnect</td></tr><tr><td>2. a) Pitch nose-down<br>b) Trim nose-down pitch</td><td>2. a) Apply until impending stall indications are eliminated<br>b) As needed</td></tr><tr><td>3. Bank</td><td>3. Wings Level</td></tr><tr><td>

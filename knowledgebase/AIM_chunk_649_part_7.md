@@ -1,1 +1,0 @@
-the radiotelephony is new or has changed within the last 60 days. In cases where there is no three-letter designator but only an assigned radiotelephony or an assigned three-letter designator is used in a medical emergency, the radiotelephony must be included in the remarks field. Items of a personal nature are not accepted.

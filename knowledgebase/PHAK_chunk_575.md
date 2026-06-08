@@ -1,3 +1,0 @@
-odynamic theory also assumes the effects of viscosity (the property of a fluid that tends to prevent motion of one part of the fluid with respect to another) are negligible and classifies air as an ideal fluid conforming to the principles of ideal- fluid aerodynamics such as continuity, Bernoulli's principle, and circulation.
-
-In reality, air is compressible and viscous. While the effects of these properties are negligible at low speeds, compressibility effects in particular become increasingly important as speed increases. Compressibility (and to a lesser extent viscosity) is of paramount importance at speeds approaching the speed of sound. In these speed ranges, compressibility causes a change in the density of the air around an aircraft.

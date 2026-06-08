@@ -1,3 +1,0 @@
-## g. Hydrogen Sulfide Gas Helideck/Heliport Operational Hazard Warning(s)/Procedures
-
-1. Background. Hydrogen sulfide \((\mathrm{H}_2\mathrm{S})\) gas: Hydrogen sulfide gas in higher concentrations \((300 - 500\mathrm{ppm})\) can cause loss of consciousness within a few seconds and presents a hazard to pilots on/near offshore helidecks. When operating in offshore areas that have been identified to have concentrations of hydrogen sulfide gas, the following practices are recommended.

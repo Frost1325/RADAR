@@ -1,7 +1,0 @@
- the passage of the front, nimbostratus and altostratus clouds are visible, precipitation decreases, and visibility improves.
-
-## Thunderstorms
-
-A thunderstorm makes its way through three distinct stages before dissipating. It begins with the cumulus stage, in which lifting action of the air begins. If sufficient moisture
-
-and instability are present, the clouds continue to increase in vertical height. Continuous, strong updrafts prohibit moisture from falling. Within approximately 15 minutes, the thunderstorm reaches the mature stage, which is the most violent time period of the thunderstorm's life cycle. At this point, drops of moisture, whether rain or ice, are too heavy for the cloud to support and begin falling in the form of rain or hail. This creates a downward motion of the air. Warm, rising air; cool, precipitation- induced descending air; and violent turbulence all exist within and near the cloud. Below the cloud, the down- rushing air increases surface winds and decreases the temperature. Once the vertical motion near the top of the cloud slows down, the top of the cloud spreads out and takes on an anvil- like shape. At this point, the storm enters the dissipating stage. This is when the downdrafts spread out and replace the updrafts needed to sustain the storm. [Figure 12- 28]

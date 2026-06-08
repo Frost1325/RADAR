@@ -1,7 +1,0 @@
-the same time, elevator should usually be held full back to add downward pressure to the tailwheel assembly and improve tailwheel steering response. However, in a strong quartering headwind a wing could lift, and the elevator may be held closer to neutral.
-
-When taxiing with a quartering tailwind, this fuselage angle reduces the tendency of the wind to lift either wing. Nevertheless, the basic vulnerability to surface winds common to all tailwheel airplanes makes it essential to be aware of wind direction at all times, so holding the stick away from the crosswind is good practice (left aileron in a right quartering tailwind).
-
-Elevator positioning in tailwinds is a bit more complex. Standard teaching tends to recommend full forward stick in any degree of tailwind, arguing that a tailwind striking the elevator when it is deflected full down increases downward pressure on the tailwheel assembly and increases directional control. Equally important, if the elevator were to remain deflected up, a strong tailwind can get under the control surface and lift the tail with unfortunate consequences for the propeller and engine.
-
-While stick- forward positioning is essential in strong tailwinds, it is not likely to be an appropriate response when winds are light. The propeller wash in

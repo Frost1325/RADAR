@@ -1,7 +1,0 @@
-051° (060° - 9°) would be flown.
-
-Remember, if variation is west, add; if east, subtract. One method for remembering whether to add or subtract variation is the phrase "east is least (subtract) and west is best (add)."
-
-## Deviation
-
-Determining the magnetic heading is an intermediate step necessary to obtain the correct compass heading for the flight. To determine compass heading, a correction for deviation must be made. Because of magnetic influences within an aircraft, such as electrical circuits, radio, lights, tools, engine, and magnetized metal parts, the compass needle is frequently deflected from its normal reading. This deflection is called deviation. The deviation is different for each aircraft, and it also may vary for different headings in the same aircraft. For instance, if magnetism in the engine attracts the north end of the compass, there would be no effect when the plane is on a heading of MN. On easterly or westerly headings, however, the compass indications would be in error, as shown in Figure 16- 11. Magnetic attraction can come from many other parts of the aircraft; the assumption of attraction in the engine is merely used for the purpose of illustration.

@@ -1,3 +1,0 @@
-# m. Helicopter Rapid Refueling Procedures (HRR)
-
-**1. Background.** Helicopter Rapid Refueling (HRR), engine(s)/rotors operating, can be conducted safely when utilizing trained personnel and observing safe practices. This recommended practice provides minimum guidance for HRR as outlined in National Fire Protection Association (NFPA) and industry practices. For detailed guidance, please refer to National Fire Protection Association (NFPA) Docu-ment 407, “Standard for Aircraft Fuel Servicing,”1990 edition, including 1993 HRR Amendment.

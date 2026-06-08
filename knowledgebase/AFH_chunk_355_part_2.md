@@ -1,7 +1,0 @@
-, the "lip" surrounding the air intake is heated either electrically or with bleed air. In the absence of AFM/POH guidance to the contrary, anti- icing equipment should be actuated prior to flight into known or suspected icing conditions.
-
-Deicing equipment is generally limited to pneumatic boots on wing and tail leading edges. Deicing equipment is installed to remove ice that has already formed on protected surfaces. Upon pilot actuation, the boots inflate with air from the pneumatic pumps to break off accumulated ice. After a few seconds of inflation, they are deflated back to their normal position with the assistance of a vacuum. The pilot monitors the buildup of ice and cycles the boots as directed in the AFM/POH. An ice light on the left engine nacelle allows the pilot to monitor wing ice accumulation at night.
-
-Other airframe equipment necessary for flight in icing conditions includes an alternate induction air source and an alternate static system source. Ice tolerant antennas are also installed.
-
-In the event of impact ice accumulating over normal engine air induction sources, carburetor heat (carbureted engines) or alternate air (fuel- injected engines) should be selected. Ice buildup on normal induction sources can be detected by a loss of engine rpm with

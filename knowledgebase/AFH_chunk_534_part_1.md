@@ -1,5 +1,0 @@
-# Abnormal Engine Instrument Indication
-
-The AFM/POH for the specific airplane contains information that should be followed in the event of any abnormal engine instrument indications. The table shown in Figure 18-11 offers generic information on some of the more commonly experienced in-flight abnormal engine instrument indications, their possible causes, and corrective actions.
-
-<table><tr><td>Malfunction</td><td>Probable Cause</td><td>Corrective Action</td></tr><tr><td>Loss of rpm during cruise flight<br>(non-altitude engines)</td><td>Carburetor or induction icing or air filter clogging</td><td>Apply carburetor heat. If dirty filter is suspected and<br>non-filtered air is available, switch selector to unfiltered<br>position.</td></tr><tr><td rowspan="2">Loss of manifold pressure during<br>cruise flight</td><td>Same as above</td><td>Same as above.</td></tr><tr><td>Turbocharger failure</td><td>Possible exhaust leak. Shut down engine or use lowest<br>practicable power setting. Land as soon as possible.</td></tr><tr><td>Gain

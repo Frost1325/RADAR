@@ -1,7 +1,0 @@
-below the MVA, which will provide at least 1,000 feet clearance above obstacles. The pilot is not expected to exceed 1,000 feet per minute rate of descent in the event a descending breakout is issued.
-
-4. Hand-flown Breakouts. The use of the autopilot is encouraged while flying an ILS PRM or LDA PRM approach, but the autopilot must be disengaged in the rare event that a breakout is issued. Simulation studies of breakouts have shown that a hand-flown breakout can be initiated consistently faster than a breakout performed using the autopilot.
-
-5. TCAS. The ATC breakout instruction is the primary means of conflict resolution. TCAS, if installed, provides another form of conflict resolution in the unlikely event other separation standards would fail. TCAS is not required to conduct a closely spaced approach.
-
-The TCAS provides only vertical resolution of aircraft conflicts, while the ATC breakout instruction provides both vertical and horizontal guidance for conflict resolutions. Pilots should always immediately follow the TCAS Resolution Advisory (RA), whenever it is received. Should a TCAS RA be received before, during, or after an ATC breakout instruction is issued, the pilot should follow the RA, even if it

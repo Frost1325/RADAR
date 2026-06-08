@@ -1,7 +1,0 @@
-sign, type aircraft, radar beacon code (if transponder equipped), destination, and request traffic information.
-
-4. Approach control will issue wind and runway, except when the pilot states "have numbers" or this information is contained in the ATIS broadcast and the pilot states that the current ATIS information has been received. Traffic information is provided on a workload permitting basis. Approach control will specify the time or place at which the pilot is to contact the tower on local control frequency for further landing information. Radar service is automatically terminated and the aircraft need not be advised of termination when an arriving VFR aircraft
-
-receiving radar services to a tower- controlled airport where basic radar service is provided has landed, or to all other airports, is instructed to change to tower or advisory frequency. (See FAA Order JO 7110.65, Air Traffic Control, paragraph 5- 1- 13, Radar Service Termination.)
-
-5. Sequencing for VFR aircraft is available at certain terminal locations (see locations listed in the Airport/Facility Directory). The purpose of the service is to adjust the flow of arriving VFR and IFR aircraft into the traffic pattern in a safe and orderly manner and to provide radar traffic information to departing VFR

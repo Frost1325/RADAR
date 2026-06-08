@@ -1,5 +1,0 @@
- new type of aircraft, the manufacturer usually selects one with a pitch that operates efficiently at the expected cruising speed of the aircraft. Every fixed- pitch propeller must be a compromise because it can be efficient at only a given combination of airspeed and revolutions per minute (rpm). Pilots cannot change this combination in flight.
-
-When the aircraft is at rest on the ground with the engine operating, or moving slowly at the beginning of takeoff, the propeller efficiency is very low because the propeller is restrained from advancing with sufficient speed to permit its fixed- pitch blades to reach their full efficiency. In this situation, each propeller blade is turning through the air at an AOA that produces relatively little thrust for the amount of power required to turn it.
-
-To understand the action of a propeller, consider first its motion, which is both rotational and forward. As shown by

@@ -1,3 +1,0 @@
- is the specific range; that is, nautical miles (NM) of flying distance versus the amount of fuel consumed. Range must be clearly distinguished from the item of endurance. Range involves consideration of flying distance, while endurance involves consideration of flying time. Thus, it is appropriate to define a separate term, specific endurance.
-
-\[\mathrm{specifich}\mathrm{endurance} = \frac{\mathrm{flight}\mathrm{hours}}{\mathrm{ponds}\mathrm{of}\mathrm{fuel}}\] \[\mathrm{or\] \[\mathrm{specifich}\mathrm{endurance} = \frac{\mathrm{flight}\operatorname{hours}/\mathrm{hour}}{\mathrm{ponds}\mathrm{of}\mathrm{fuel}/\mathrm{hour}}\] \[\mathrm{or\] \[\mathrm{specifich}\mathrm{endurance} = {\frac{1}{\mathrm{fuel}\mathrm{flow}}}\]

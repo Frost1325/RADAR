@@ -1,1 +1,0 @@
-. . . . . . . scattered \((3 / 8\) to \(4 / 8\) of clouds) BKN . . . . . . . . broken \((5 / 8\) to \(7 / 8\) of clouds) OVC . . . . . . . . overcast \((8 / 8\) clouds) CB . . . . . . . . . . . . . . . . . . . . Cumulonimbus when present TCU . . . . . . . . . . . . . . . . . . . Towering cumulus when present

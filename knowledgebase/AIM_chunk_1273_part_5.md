@@ -1,5 +1,0 @@
-container and be easily reachable and preferably floatable.
-
-TBL7-5-1 Jurisdictions Controlling Navigable Bodies of Water
-
-<table><tr><td colspan="3">Authority to Consult For Use of a Body of Water</td></tr><tr><td>Location</td><td>Authority</td><td>Contact</td></tr><tr><td>Wilderness Area</td><td>U.S. Department of Agriculture, Forest Service</td><td>Local forest ranger</td></tr><tr><td>National Forest</td><td>USDA Forest Service</td><td>Local forest ranger</td></tr><tr><td>National Park</td><td>U.S. Department of the Interior, National Park Service</td><td>Local park ranger</td></tr><tr><td>Indian Reservation</td><td>USDI, Bureau of Indian Affairs</td><td>Local Bureau office</td></tr><tr><td>State Park</td><td>State government or state forestry or park service</td><td>Local state aviation office for further information</td></tr><tr><td>Canadian National and Provincial Parks</td><td>Supervised

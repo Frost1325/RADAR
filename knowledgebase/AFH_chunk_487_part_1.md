@@ -1,3 +1,0 @@
-## Weather Considerations
-
-Managing weather factors is important for all aircraft but becomes more significant as the weight of the airplane decreases. Smaller, lighter weight airplanes are more easily affected by strong winds (especially crosswinds), turbulence, terrain influences, and other hazardous conditions. [Figures 17- 6 and 17- 7] LSA Pilots should carefully consider any hazardous weather and effectively use an appropriate set of personal minimums to mitigate flight risk. Some LSAs have a maximum recommend wind velocity regardless of wind direction. [Figure 17- 8] While this is not a limitation, it would be prudent to heed any factory recommendations.

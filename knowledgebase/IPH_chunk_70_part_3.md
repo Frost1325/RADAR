@@ -1,3 +1,0 @@
-and they expect you to notify them if you are unable to fulfill their request. ATC also expects you to make contact immediately if an instruction causes you to compromise safety due to obstructions or traffic.
-
-It is prudent to review radar SID charts prior to use because this type of procedure often includes nonstandard lost communication procedures. If you were to lose radio contact while being vectored by ATC, you would be expected to comply with the lost communication procedure as outlined on the chart, not necessarily those procedures outlined in the AIM. [Figure 1- 25]

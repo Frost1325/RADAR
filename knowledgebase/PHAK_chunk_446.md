@@ -1,5 +1,0 @@
- To provide additional positive stability to that provided by the fuselage, a vertical fin is added. The fin acts similar to the feather on an arrow in maintaining straight flight. Like the weather vane and the arrow, the farther aft this fin is placed and the larger its size, the greater the aircraft's directional stability.
-
-If an aircraft is flying in a straight line, and a sideward gust of air gives the aircraft a slight rotation about its vertical axis (i.e., the right), the motion is retarded and stopped by the fin because while the aircraft is rotating to the right, the air is striking the left side of the fin at an angle. This causes pressure on the left side of the fin, which resists the turning motion and slows down the aircraft's yaw. In doing so, it acts somewhat like the weather vane by turning the aircraft into the relative wind. The initial change in direction of the aircraft's flight path is generally slightly behind its change of heading. Therefore, after a slight yawing of the aircraft
-
-to the right, there is a brief moment when the aircraft is still moving along its original path, but its longitudinal axis is pointed slightly to the right.

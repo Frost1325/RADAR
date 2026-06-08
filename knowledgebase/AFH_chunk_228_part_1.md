@@ -1,7 +1,0 @@
-## Stabilized Approach Concept
-
-A stabilized approach is one in which the pilot establishes and maintains a constant- angle glide path towards a predetermined point on the landing runway. It is based on the pilot's judgment of certain visual clues and depends on maintaining a constant final descent airspeed and configuration.
-
-An airplane descending on final approach at a constant rate and airspeed travels in a straight line towards a spot on the ground ahead, commonly called the aiming point. If the airplane maintains a constant glide path without a round out for landing, it will strike the ground at the aiming point. [Figure 9- 5]
-
-To the pilot, the aiming point appears to be stationary. It does not appear to move under the nose of the aircraft and does not appear to move forward away from the aircraft. This feature identifies the aiming point—it does not move. However, objects in front of and beyond the aiming point do appear to move as the distance is closed, and they appear to move in opposite directions! For a constant angle glide path, the distance between the horizon and the aiming point remains constant. If descending at a constant angle and the distance between the perceived aiming point and the horizon appears to increase (aiming point moving down away from the horizon), then the true

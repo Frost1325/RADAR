@@ -1,5 +1,0 @@
-## IFR Alternate Requirements
-
-On Aeronautical Information Services charts, standard alternate minimums are not published. If the airport has other than standard alternate minimums, they are listed in the front of the approach chart booklet. The presence of a triangle with an A on the approach chart indicates the listing of alternate minimums should be consulted. Airports that do not qualify for use as an alternate airport are designated with an A N/A. [Figure 1- 13]
-
-The requirement for an alternate depends on the aircraft category, equipment installed, approach navigational aid (NAVAID), and forecast weather. For example, airports with only a global positioning system (GPS) approach procedure cannot be used as an alternate by TSO- C129 or C196 users unless certain requirements are met (see AIM) even though the "N/A" has been removed from the approach chart. For select area navigation (RNAV) GPS and GPS approach procedures, the "N/A" is being removed so they may be used as an alternate by aircraft equipped with an approach- approved Wide Area Augmentation System (WAAS) receiver employing with (TSO- C145 or C146) or TSO- C12

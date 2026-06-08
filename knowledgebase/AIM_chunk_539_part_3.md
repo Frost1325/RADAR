@@ -1,1 +1,0 @@
-The intruder is descending \(>500\mathrm{fpm}\) , indicated by the downward arrow next to the "-07" relative altitude information. The absence of this arrow when an altitude tag is present indicates level flight or a climb/descent rate less than \(500\mathrm{fpm}\) .

@@ -1,5 +1,0 @@
-number of variables to a minimum during the final approach.- The airplane should be on profile before descending below 1,000 feet. Configuration, trim, speed, and glidepath should be at or near the optimum parameters early in the approach to avoid distractions and conflicts as the airplane nears the threshold window. An optimum glidepath angle of about \(3^{\circ}\) should be established and maintained.- Indicated airspeed should be between zero and 10 knots above the target airspeed by 500 feet AGL. There are strong relationships between trim, speed, and power in most jet airplanes, and it is important to stabilize the speed in order to minimize those other variables.
-
-- The optimum descent rate is dependent upon ground speed. A rule of thumb is to multiply half of ground speed by 10. For example, a 130-knot ground speed should result in a (65 times 10) 650 feet per minute descent rate. Typical descent rates fall between 500 and 700 feet per minute. An excessive vertical speed may indicate a problem with the approach.
-
-Every approach should be evaluated at 500 feet. In a typical jet airplane, this is approximately

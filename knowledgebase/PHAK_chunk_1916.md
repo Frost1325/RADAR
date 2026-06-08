@@ -1,5 +1,0 @@
- but pilots must keep in mind that the risks of night flying are different than during the day and often times higher. [Figure 17- 16] Pilots who are cautious and educated on night- flying techniques can mitigate those risks and become very comfortable and proficient in the task.
-
-## Night Blind Spot
-
-It is estimated that once fully adapted to darkness, the rods are 10,000 times more sensitive to light than the cones, making them the primary receptors for night vision. Since the cones are concentrated near the fovea, the rods are also responsible for much of the peripheral vision. The concentration of cones in the fovea can make a night blind spot in the center of the field of vision. To see an object clearly at night, the pilot must expose the rods to the image. This can be done by looking \(5^{\circ}\) to \(10^{\circ}\) off center of the object to be seen. This can be tried in a dim light in a darkened room. When looking directly at the light, it dims or disappears altogether. When looking slightly off center, it becomes clearer and brighter.

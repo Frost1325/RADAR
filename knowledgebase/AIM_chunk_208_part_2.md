@@ -1,5 +1,0 @@
-GA airports where a control tower is not operating. Airports offering this service are listed in the A/FD and the published service hours may be changed by NOTAM D. Final Guard is automatically provided with RAA.
-
-3. Remote Airport Information Service (RAIS) is provided in support of short term special events like small to medium fly-ins. The service is advertised by NOTAM D only. The FSS will not have access to a continuous readout of the current winds and altimeter; therefore, RAIS does not include weather and/or Final Guard service. However, known traffic, special event instructions, and all other services are provided.
-
-continuous readout of the current winds and altimeter; therefore, RAIS does not include weather and/ or Final Guard service. However, known traffic, special event instructions, and all other services are provided..

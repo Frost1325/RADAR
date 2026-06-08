@@ -1,5 +1,0 @@
-ircraft Operational CommunicationsAPT WP—Airport WaypointAPV—Approach with Vertical GuidanceARINC—Aeronautical Radio IncorporatedA-RNAV—Advanced Area NavigationARTCC—Air Route Traffic Control CenterARTS—Automated Radar Terminal SystemASDA—Accelerate-Stop Distance AvailableASDE-X—Airport Surface Detection Equipment-Model XA-SMGCS—Advanced Surface Movement Guidance and Control SystemASOS—Automated Surface Observing SystemASR—Airport Surveillance RadarASRS—Aviation Safety Reporting SystemATA—Air Transport AssociationATC—Air Traffic ControlATCAA—Air Traffic Control Assigned AirspaceATCRBS—Air Traffic Control Radar Beacon SystemATCS—Air Traffic Control SpecialistATD—Along-Track Distance ATIS—Automatic Terminal Information Service  ATS—Air Traffic Service  AWC—Aviation Weather Center  AWOS—Automated Weather Observing System  AWSS—Automated Weather Sensor System
-
-B  Baro- VNAV—Barometric Vertical Navigation  B- RNAV—European Basic RNAV
-
-C  CAT—Category  CDI—Course Deviation Indicator  CDL—Configuration Deviation List  CENRAP—Center Radar ARTS Processing  CFA—Controlled Firing Areas  CFIT

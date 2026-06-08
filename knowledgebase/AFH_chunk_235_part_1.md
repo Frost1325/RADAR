@@ -1,3 +1,0 @@
-## Power
-
-Power is the pilot's first concern. The instant a pilot decides to go around, full or maximum allowable takeoff power should be applied smoothly, without hesitation, and held until flying speed and controllability are restored. An airplane that is settling toward the ground has inertia that needs to be overcome, and sufficient power is needed to stop the descent. The application of power is smooth, as well as positive. Abrupt movements of the throttle in some airplanes cause the engine to falter. Carburetor heat is turned off to obtain maximum power, as applicable.

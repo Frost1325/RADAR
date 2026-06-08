@@ -1,5 +1,0 @@
- to mitigate risk is to perceive hazards. By incorporating the PAVE checklist into preflight planning, the pilot divides the risks of flight into four categories: Pilot- in- command (PIC), Aircraft, enVironment, and External pressures (PAVE) which form part of a pilot's decision- making process.
-
-With the PAVE checklist, pilots have a simple way to remember each category to examine for risk prior to each flight.
-
-Once a pilot identifies the risks of a flight, he or she needs to decide whether the risk, or combination of risks, can be managed safely and successfully. If not, make the decision to cancel the flight. If the pilot decides to continue with the flight, he or she should develop strategies to mitigate the risks. One way a pilot can control the risks is to set personal minimums for items in each risk category. These are limits unique to that individual pilot's current level of experience and proficiency.

@@ -1,1 +1,0 @@
-1- 29 Automatic Altitude Reporting, 4- 1- 15 Automatic Dependent Surveillance- Broadcast Services, 4- 5- 14 Automatic Dependent Surveillance- Rebroadcast, 4- 5- 20 Automatic Flight Information Service (AFIS) - Alaska FSSs Only, 4- 1- 8 Automatic Terminal Information Service, 4- 1- 7 AWOS. See Automated Weather Observing System

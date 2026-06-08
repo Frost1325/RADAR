@@ -1,5 +1,0 @@
- obscurations. Weather phenomena may be reported as being precipitation, obscurations, and other phenomena, such as squalls or funnel clouds.
-
-Descriptions of weather phenomena as they begin or end and hailstone size are also listed in the “Remarks” sections of the report. [Figure 13- 5]
-
-8. Sky condition—always reported in the sequence of amount, height, and type or indefinite ceiling/height (vertical visibility) (BKN008 OVC012CB, VV003). The heights of the cloud bases are reported with a three-digit number in hundreds of feet AGL. Clouds above 12,000 feet are not detected or reported by an automated station. The types of clouds, specifically towering cumulus (TCU) or cumulonimbus (CB) clouds, are reported with their height. Contractions are used to describe the amount of cloud coverage and obscuring phenomena. The amount of sky coverage is reported in eighths of the sky from horizon to horizon. [Figure 13-6]

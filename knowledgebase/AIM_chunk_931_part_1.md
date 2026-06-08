@@ -1,5 +1,0 @@
-## EXAMPLE-
-
-Cleared contact approach (and, if required) at or below (altitude) (routing) if not possible (alternative procedures) and advise.
-
-c. A contact approach is an approach procedure that may be used by a pilot (with prior authorization from ATC) in lieu of conducting a standard or special IAP to an airport. It is not intended for use by a pilot on an IFR flight clearance to operate to an airport not having a published and functioning IAP. Nor is it intended for an aircraft to conduct an instrument approach to one airport and then, when "in the clear," discontinue that approach and proceed to another airport. In the execution of a contact approach, the pilot assumes the responsibility for obstruction clearance. If radar service is being received, it will automatically terminate when the pilot is instructed to change to advisory frequency.

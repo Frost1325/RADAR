@@ -1,1 +1,0 @@
-When reporting GPS anomalies, be very specific and include the location, altitude, and duration of the anomaly. Deliberate GPS interference or outage areas resulting from pre-approved government tests will be disseminated in NOTAMs. These outages should not be reported to ATC, as this condition is known and not an anomaly. See also AIM 1- 1- 13.

@@ -1,1 +1,0 @@
-) ). (2) Groton VOR (FSS transmits on 110.85 and receives on \(122.1\mathrm{MHz}\) ). (3) Bridgeport VOR (FSS transmits on 108.8 and receives on \(122.1\mathrm{MHz}\) ).

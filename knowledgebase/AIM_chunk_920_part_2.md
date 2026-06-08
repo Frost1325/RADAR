@@ -1,3 +1,0 @@
-final approach fix, to permit the RPAT aircraft to transition in visual conditions along a predefined lateral and vertical path to align with the runway centerline.
-
-4. RNP Converging Runway Operations. At airports where runways converge, but may or may not intersect, an RNP AR approach can provide a precise curved missed approach path that conforms to aircraft separation minimums for simultaneous operations (See FIG 5-4-25). By flying this curved missed approach path with high accuracy and containment provided by RNP, dual runway operations may continue to be used to lower ceiling and visibility values than currently available. This type of operation allows greater capacity at airports where it can be applied.

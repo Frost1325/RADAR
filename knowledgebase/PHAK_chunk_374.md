@@ -1,7 +1,0 @@
- decreased just enough to maintain the relationship between lift and weight. The timing of this decrease in AOA needs to be coordinated with the increase in thrust and airspeed. Otherwise, if the AOA is decreased too fast, the aircraft will descend, and if the AOA is decreased too slowly, the aircraft will climb.
-
-As the airspeed varies due to thrust, the AOA must also vary to maintain level flight. At very high speeds and level flight, it is even possible to have a slightly negative AOA. As thrust is reduced and airspeed decreases, the AOA must increase in order to maintain altitude. If speed decreases enough, the required AOA will increase to the critical AOA. Any further increase in the AOA will result in the wing stalling. Therefore, extra vigilance is required at reduced thrust settings and low speeds so as not to exceed the critical angle of attack. If the airplane is equipped with an AOA indicator, it should be referenced to help monitor the proximity to the critical AOA.
-
-Some aircraft have the ability to change the direction of the thrust rather than changing the AOA. This is accomplished either by pivoting the engines or by vectoring the exhaust gases. [Figure 5- 4]
-
-## Lift

@@ -1,5 +1,0 @@
-of the NAVAIDs. You are conducting Class II navigation when outside the OSV of the NAVAIDs. The duration of the Class II navigation is more than 1 hour. Therefore, long- range navigation equipment or a flight navigator is required.
-
-descent rate. This information must be updated while in flight for changes in altitude, weather, and wind. The approach gate is an imaginary point used by ATC to vector aircraft to the final approach course. The approach gate is established along the final approach course 1 NM from the final approach fix (FAF) on the side away from the airport and is located no closer than 5 NM from the landing threshold. Flight manuals or operating handbooks may also contain a fuel, time, and distance to descend chart that contains the same information.
-
-One technique that is often used is the descent rule of thumb, which is used to determine when you need to descend in terms of the number of miles prior to the point at which you desire to arrive at your new altitude. First, divide the altitude needed to be lost by 300. For example, if cruising altitude is 7,000 feet and you want to get down to a pattern altitude of 1,000 feet.

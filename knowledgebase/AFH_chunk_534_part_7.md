@@ -1,3 +1,0 @@
-per mixture control setting<br>Defective ignition or valves<br>Detonation or preignition<br>Induction air leak<br>Plugged fuel nozzle (fuel injection)<br>Excessive fuel pressure or fuel flow</td><td>Adjust mixture for smooth operation<br>Consult maintenance personnel.<br>Reduce power, enrich mixture, open cowl flaps to reduce<br>cylinder head temp. Land as soon as practicable.<br>Reduce power. Consult maintenance.<br>Same as above.</td></tr><tr><td>Loss of fuel pressure</td><td>Engine-driven pump failure<br>No fuel</td><td>Lean mixture control.<br>Turn on boost pumps.<br>Switch tanks, turn on fuel.</td></tr></table>
-
-Figure 18-11. Commonly experienced in-flight abnormal engine instrument indications, their possible causes, and corrective actions.

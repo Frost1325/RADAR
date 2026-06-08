@@ -1,5 +1,0 @@
-located with a visual checkpoint is pronounceable based on the name of the visual checkpoint and may be used for ATC communications. Each VFR waypoint name appears in parentheses adjacent to the geographic location on the chart. Latitude/longitude data for all established VFR waypoints may be found in the appropriate regional Chart Supplement U.S.
-
-When filing VFR flight plans, use the five- letter identifier as a waypoint in the route of flight section if there is an intended course change at that point or if used to describe the planned route of flight. This VFR filing would be similar to VOR use in a route of flight. Pilots must use the VFR waypoints only when operating under VFR conditions.
-
-Any VFR waypoints intended for use during a flight should be loaded into the receiver while on the ground and prior to departure. Once airborne, pilots should avoid programming routes or VFR waypoint chains into their receivers.

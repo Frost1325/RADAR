@@ -1,3 +1,0 @@
-tr><td>D2</td><td>RNAV 1 GNSS</td></tr><tr><td>D3</td><td>RNAV 1 DME/DME</td></tr><tr><td>D4</td><td>RNAV 1 DME/DME/IRU</td></tr></table>
-
-<table><tr><td></td><td>RNP SPECIFICATIONS</td></tr><tr><td>L1</td><td>RNP 4</td></tr><tr><td>O1</td><td>Basic RNP 1 all permitted sensors</td></tr><tr><td>O2</td><td>Basic RNP 1 GNSS</td></tr><tr><td>O3</td><td>Basic RNP 1 DME/DME</td></tr><tr><td>O4</td><td>Basic RNP 1 DME/DME/IRU</td></tr><tr><td>S1</td><td>RNP APCH</td></tr><tr><td>S2</td><td>RNP APCH with BARO-VNAV</td></tr><tr><td>T1</td><td

@@ -1,3 +1,0 @@
-In the case of a missed approach, I'll press TOGA (Take- off/Go- Around button used on some turbojets), call 'go- around thrust, flaps 15, positive climb, gear up, set me up,' climb straight ahead to 2,000 feet then climbing right turn to 3,000 feet toward Monroe or we'll follow the tower's instructions. Any questions?"
-
-PM: "I'll back up the auto- speedbrakes. Other than that, I don't have any questions."

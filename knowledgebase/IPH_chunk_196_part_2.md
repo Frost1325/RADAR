@@ -1,7 +1,0 @@
-the crewmember and dispatcher training to support the use of system weather products, must be accepted or approved.
-
-Operators not certificated under the provisions of 14 CFR Part 119 are encouraged to use FAA/NWS products through the Flight Service Stations (FSS). FSS provide pilot weather briefings, en route weather, receive and process instrument flight rule (IFR) and visual flight rule (VFR) flight plans, relay air traffic control (ATC) clearances, and issue NOTAMs. They also provide assistance to lost aircraft and aircraft in emergency situations and conduct VFR search and rescue services.
-
-Direct User Access Terminal System (DUATS), funded by the FAA, allows any pilot to access weather information and file a flight plan via computer. Two contract vendors currently provide information services within the DUATS system, and can be accessed via the Internet at www.duats.com or www.1800wxbrief.com. The current vendors of DUATS II service and the associated phone numbers are listed in Chapter 7 of the Aeronautical Information Manual (AIM).
-
-Flight Information Service—Broadcast (FIS- B) provides certain aviation weather and other aeronautical information to aircraft equipped with an appropriate flight deck display. Reception

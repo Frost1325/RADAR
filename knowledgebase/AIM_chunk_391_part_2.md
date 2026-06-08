@@ -1,7 +1,0 @@
-wind cone is collocated with a wind tee, the wind tee may be manually aligned with the runway in use to indicate landing direction. These signaling devices may be located in the center of the segmented circle and may be lighted for night use. Pilots are cautioned against using a tetrahedron to indicate wind direction.
-
-3. The landing direction indicator. A tetrahedron is installed when conditions at the airport warrant its use. It may be used to indicate the direction of landings and takeoffs. A tetrahedron may be located at the center of a segmented circle and may be lighted for night operations. The small end of the tetrahedron points in the direction of landing. Pilots are cautioned against using a tetrahedron for any purpose other than as an indicator of landing direction. Further, pilots should use extreme caution when making runway selection by use of a
-
-tetrahedron in very light or calm wind conditions as the tetrahedron may not be aligned with the designated calm- wind runway. At airports with control towers, the tetrahedron should only be referenced when the control tower is not in operation. Tower instructions supersede tetrahedron indications.
-
-4. Landing strip indicators. Installed in pairs

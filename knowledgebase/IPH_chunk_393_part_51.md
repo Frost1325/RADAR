@@ -1,7 +1,0 @@
-two aircraft, or between aircraft and airspace.
-
-Vertical Navigation (VNAV). Traditionally, the only way to get glidepath information during an approach was to use a ground- based NAVAID, but modern area navigation systems allow flight crews to display an internally generated descent path that allows a constant rate descent to minimums during approaches that would otherwise include multiple level- offs.
-
-Vertical Navigation Planning. Included within certain STARs is information provided to help you reduce the amount of low altitude flying time for high performance aircraft, like jets and turboprops. An expected altitude is given for a key fix along the route. By knowing an intermediate altitude in advance when flying a high performance aircraft, you can plan the power or thrust settings and aircraft configurations that result in the most efficient descent, in terms of time, fuel requirements, and engine wear.
-
-Visual Approach. A visual approach is an ATC authorization for an aircraft on an IFR flight plan to proceed visually to the airport of intended landing; it is not an IAP. Also, there is no missed approach segment. When it is operationally beneficial, ATC may authorize pilots to conduct a visual approach to the airport in lieu of the published IAP. A visual approach can be initiated by a pilot or the controller

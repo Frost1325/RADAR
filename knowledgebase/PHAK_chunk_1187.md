@@ -1,5 +1,0 @@
- to arrive at the destination. It is important to remember that the data from the charts will not be accurate if the aircraft is not in good working order or when operating under adverse conditions. Always consider the necessity to compensate for the performance numbers if the aircraft is not in good working order or piloting skills are below average.
-
-Each aircraft performs differently and, therefore, has different performance numbers. Compute the performance of the aircraft prior to every flight, as every flight is different. (See appendix for examples of performance charts for a Cessna Model 172R and Challenger 605. )
-
-Every chart is based on certain conditions and contains notes on how to adapt the information for flight conditions. It is important to read every chart and understand how to use it. Read the instructions provided by the manufacturer. For an explanation on how to use the charts, refer to the example provided by the manufacturer for that specific chart. [Figure 11- 20]

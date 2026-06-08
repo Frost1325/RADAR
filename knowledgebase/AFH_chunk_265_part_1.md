@@ -1,7 +1,0 @@
-## High Round Out
-
-Sometimes when the airplane appears to temporarily stop moving downward, the round out has been made too rapidly and the airplane is flying level, too high above the runway. Continuing the round out further reduces the airspeed and increases the AOA to the critical angle. This results in the airplane stalling and dropping hard onto the runway. To prevent this, the pitch attitude is held constant until the airplane decelerates enough to again start descending. Then the round out is continued to establish the proper landing attitude. This procedure is only used when there is adequate airspeed. It may be necessary to add a slight amount of power to keep the airspeed from decreasing excessively and to avoid losing lift too rapidly.
-
-When the proper landing attitude is attained, the airplane is approaching a stall because the airspeed is decreasing and the critical AOA is being approached, even though the pitch attitude is no longer being increased. [Figure 9- 32]
-
-Although back- elevator pressure may be relaxed slightly, the nose should not be lowered to make the airplane descend when fairly close to the runway unless some power is added momentarily. The momentary decrease in lift that results from lowering the nose and decreasing the AOA might cause the airplane to contact the ground with the

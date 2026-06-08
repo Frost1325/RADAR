@@ -1,7 +1,0 @@
- not be located for flight. These limits are published for each aircraft in the Type Certificate Data Sheet (TCDS), or aircraft specification and the AFM or pilot's operating handbook (POH). If the CG is not within the allowable limits after loading, it will be necessary to relocate some items before flight is attempted.
-
-The forward CG limit is often established at a location that is determined by the landing characteristics of an aircraft. During landing, one of the most critical phases of flight, exceeding the forward CG limit may result in excessive loads on the nosewheel, a tendency to nose over on tailwheel type airplanes, decreased performance, higher stalling speeds, and higher control forces.
-
-## Control
-
-In extreme cases, a CG location that is beyond the forward limit may result in nose heaviness, making it difficult or impossible to flare for landing. Manufacturers purposely place the forward CG limit as far rearward as possible to aid pilots in avoiding damage when landing. In addition to decreased static and dynamic longitudinal stability, other undesirable effects caused by a CG location aft of the allowable range may include extreme control difficulty, violent stall characteristics, and very light control forces which make it easy to overstress an aircraft inadvertently.

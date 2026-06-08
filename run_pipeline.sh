@@ -31,22 +31,33 @@ echo "  Generator: $GEN_MODEL"
 echo "  $(date)"
 echo "=============================================="
 
+# Step 0: Extract archives if needed
+if [ ! -d ./knowledgebase ]; then
+    echo ""
+    echo "[Step 0/5] Extracting knowledgebase.tar.gz..."
+    tar xzf knowledgebase.tar.gz
+fi
+if [ ! -d ./dataset ]; then
+    echo "[Step 0/5] Extracting dataset.tar.gz..."
+    tar xzf dataset.tar.gz
+fi
+
 # Step 1: Build index (skip if already exists)
 if [ ! -f ./knowledgebase/index/embeddings.npy ]; then
     echo ""
-    echo "[Step 1/4] Building vector index..."
+    echo "[Step 1/5] Building vector index..."
     python -m radar.index \
         --corpus_dir ./knowledgebase \
         --index_dir ./knowledgebase/index \
         --embed_model all-MiniLM-L6-v2
 else
     echo ""
-    echo "[Step 1/4] Index already exists, skipping."
+    echo "[Step 1/5] Index already exists, skipping."
 fi
 
 # Step 2: Radar retrieval
 echo ""
-echo "[Step 2/4] Radar Retrieval (vector → rerank → threshold)..."
+echo "[Step 2/5] Radar Retrieval (vector → rerank → threshold)..."
 python -m radar.retrieve \
     --input ./dataset/AeroQA.jsonl \
     --output ./results/retrieval.jsonl \
@@ -59,7 +70,7 @@ python -m radar.retrieve \
 
 # Step 3: Answer generation
 echo ""
-echo "[Step 3/4] Answer Generation..."
+echo "[Step 3/5] Answer Generation..."
 python -m radar.generate \
     --qa_path ./dataset/AeroQA.jsonl \
     --retrieval_file ./results/retrieval.jsonl \
@@ -73,7 +84,7 @@ python -m radar.generate \
 
 # Step 4: Evaluation
 echo ""
-echo "[Step 4/4] Evaluation..."
+echo "[Step 4/5] Evaluation..."
 python -m radar.evaluate \
     --gold ./dataset/AeroQA.jsonl \
     --pred ./results/answers.jsonl \

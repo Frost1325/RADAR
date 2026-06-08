@@ -1,5 +1,0 @@
-. In addition, single- engine stalls, or stalls with significantly more power on one engine than the other, should not be attempted due to the likelihood of a departure from controlled flight and possible spin entry. Similarly, simulated engine failures should not be performed during stall entry and recovery.
-
-<table><tr><td colspan="2">Stall Recovery Template</td></tr><tr><td>1. Wing leveler or autopilot</td><td>1. Disconnect</td></tr><tr><td>2. a) Nose-down pitch control</td><td>2. a) Apply until impending stall indications are eliminated</td></tr><tr><td>b) Nose-down pitch trim</td><td>b) As needed</td></tr><tr><td>3. Bank</td><td>3. Wings Level</td></tr><tr><td>4. Thrust/Power</td><td>4. As needed</td></tr><tr><td>5. Speed brakes/spollers</td><td>5. Retract</td></tr><tr><td>6. Return to the desired flight path</td><td></td></tr></table>
-
-Figure 13-9

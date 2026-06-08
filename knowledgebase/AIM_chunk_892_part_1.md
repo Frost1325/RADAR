@@ -1,3 +1,0 @@
-## NOTE-
-
-Either simultaneous dependent ILS approaches or SOIA LDA PRM and ILS PRM approaches may be conducted to these runways depending on weather conditions and traffic volume. Pilots should use caution so as not to confuse these operations. Use SOIA procedures only when the ATIS ad- vertises PRM approaches are in use, refer to AIM paragraph 5-4-16. SFO is the only airport where both procedures are presently conducted.

@@ -1,5 +1,0 @@
-miles prior to the point at which you desire to arrive at your new altitude. First, divide the altitude needed to be lost by 300. For example, if cruising altitude is 7,000 feet and you want to get down to a pattern altitude of 1,000 feet. The altitude you want to lose is 6,000 feet, which when divided by 300 results in 20. Therefore, you need to start your descent 20 NM out and leave some extra room so that you are at pattern altitude prior to the proper entry. It is also necessary to know what rate- of- descent (ROD) to use.
-
-To determine ROD for a three- degree path, simply multiply your groundspeed by 5. If you are going 120 knots, your ROD to fly the desired path would be 600 fpm \((120 \times 5 = 600)\) . It was determined in the previous example that a
-
-descent should be initiated at 20 NM to lose 6,000 feet. If the groundspeed is 120 knots, that means the aircraft is moving along

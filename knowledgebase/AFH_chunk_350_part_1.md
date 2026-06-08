@@ -1,5 +1,0 @@
-## Combustion Heater
-
-Combustion heaters are another common item on multigenie airplanes not found on single- engine airplanes. A combustion heater is best described as a small furnace that burns gasoline to produce heated air for occupant comfort and windshield defogging. Most are thermostatically operated and have a separate hour meter to record time in service for maintenance purposes. Automatic over- temperature protection is provided by a thermal switch mounted on the unit that cannot be accessed in flight. This requires the pilot or mechanic to visually inspect the unit for possible heat damage in order to reset the switch.
-
-Manufacturers often suggest a cool- down period when shutting down a combustion heater. Most heater instructions recommend that outside air be permitted to circulate through the unit for at least 15 seconds in flight or that the ventilation fan can be operated for at least 2 minutes on the ground. Failure to provide an adequate cool down usually trips the thermal switch and renders the heater inoperative until the switch is reset.

@@ -1,1 +1,0 @@
-is done by turning the track selector until the TB is centered and noting the degrees difference between \(180^{\circ}\) or \(0^{\circ}\) . The maximum bearing error with the VOT system check is plus or minus \(4^{\circ}\) and apparent errors greater than \(4^{\circ}\) indicate that the VOR receiver is beyond acceptable tolerance.

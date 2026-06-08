@@ -1,7 +1,0 @@
- Commerce took over the responsibilities of operating the centers and continued to advance the ATC facilities. ATC has come a long way from the early controllers using maps, chalkboards, and performing mental math calculations in order to separate aircraft along flight routes.
-
-## The Civil Aeronautics Act of 1938
-
-In 1938, the Civil Aeronautics Act transferred the civil aviation responsibilities to a newly created, independent body, named the Civil Aeronautics Authority (CAA). This Act empowered the CAA to regulate airfares and establish new routes for the airlines to service.
-
-President Franklin Roosevelt split the CAA into two agencies—the Civil Aeronautics Administration (CAA) and the Civil Aeronautics Board (CAB). Both agencies were still part of the Department of Commerce but the CAB functioned independently of the Secretary of Commerce. The role of the CAA was to facilitate ATC, certification of airmen and aircraft, rule enforcement, and the development of new airways. The CAB was charged with rule making to enhance safety, accident investigation, and the economic regulation of the airlines. Then in 1946, Congress gave the CAA the responsibility of administering the Federal Aid

@@ -1,7 +1,0 @@
- correction of \(5^{\circ}\) or a heading correction of \(355^{\circ}\) should be flown. If this correction is adequate, the aircraft remains on the radial. If not, small variations in heading should be made to keep the needle centered and consequently keep the aircraft on the radial.
-
-As the VOR station is passed, the course deviation needle fluctuates, then settles down, and the "TO" indication changes to "FROM." If the aircraft passes to one side of the station, the needle deflects in the direction of the station as the indicator changes to "FROM."
-
-Generally, the same techniques apply when tracking outbound as those used for tracking inbound. If the intent is to fly over the station and track outbound on the reciprocal of the inbound radial, the course selector should not be changed. Corrections are made in the same manner to keep the needle centered. The only difference is that the omnidirectional range indicator indicates "FROM."
-
-If tracking outbound on a course other than the reciprocal of the inbound radial, this new course or radial must be set in the course selector and a turn made to intercept this course. After this course is reached, tracking procedures are the same as previously discussed.

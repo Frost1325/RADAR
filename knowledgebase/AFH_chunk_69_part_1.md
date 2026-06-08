@@ -1,7 +1,0 @@
-## Glides
-
-A glide is a basic maneuver in which the airplane loses altitude in a controlled descent with little or no engine power. Forward motion is maintained by gravity pulling the airplane along an inclined path, and the descent rate is controlled by the pilot balancing the forces of gravity and lift. To level off from a partial power descent using a 1,000 feet per minute descent rate, the pilot should use 10 percent (100 feet in this example) as the distance above the desired level- off altitude to begin raising the nose and adding power to stop the descent and maintain airspeed.
-
-Although glides are directly related to the practice of power- off accuracy landings, they have a specific operational purpose in normal landing approaches, and forced landings after engine failure. Therefore, it is necessary that they be performed more subconsciously than other maneuvers because most of the time during their execution, the pilot will be giving full attention to details other than the mechanics of performing the maneuver. Since glides are usually performed relatively close to the ground, accuracy of their execution and the formation of proper technique and habits are of special importance.
-
-The glide ratio of an airplane is the distance the airplane travels in relation to the altitude it loses. For example

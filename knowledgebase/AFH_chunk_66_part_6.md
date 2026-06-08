@@ -1,3 +1,0 @@
-slowly to allow for the airspeed to increase. A loss of altitude may result if the pitch attitude is changed too rapidly without allowing the airspeed to increase proportionately.
-
-After the airplane is established in level flight at a constant altitude, climb power should be retained temporarily so that the airplane accelerates to the cruise airspeed. When the airspeed reaches the desired cruise airspeed, the throttle setting and the propeller control, if equipped, should be set to the cruise power setting and the airplane re- trimmed.

@@ -1,7 +1,0 @@
-## Establishing a Turn
-
-On most light single- engine airplanes, the top surface of the engine cowling is fairly flat, and its horizontal surface to the natural horizon provides a reasonable indication for initially setting the degree of bank angle. [Figure 3- 16] The pilot should then crosscheck the flight instruments to verify that the correct bank angle has been achieved. Information obtained from the attitude indicator shows the angle of the wing in relation to the horizon.
-
-The pilot's seating position in the airplane is important as it affects the interpretation of outside visual references. A common problem is that a pilot may lean away from the turn in an attempt to remain in an upright position in relation to the horizon. This should be corrected immediately if the pilot is to properly learn to use visual references. [Figure 3- 17]
-
-Because most airplanes have side- by- side seating, a pilot does not sit on the airplane's longitudinal axis, which is where the airplane rotates in roll. The pilot sits slightly off to one side, typically the left, of the longitudinal axis. Due to parallax error, this makes the nose of the airplane appear to rise when making a left turn (due to pilot lowering in relation to the longitudinal axis) and the nose

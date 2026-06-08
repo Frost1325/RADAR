@@ -1,7 +1,0 @@
-ground, the wings continue to support much of the weight of the airplane. [Figure 9- 24] This technique minimizes the nose- over forces that suddenly affect the airplane at the moment of touchdown.
-
-The use of flaps during soft- field landings aids in touching down at minimum speed and is recommended whenever practical. In low- wing airplanes, the flaps may suffer damage from mud, stones, or slush thrown up by the wheels. If flaps are used, it is generally inadvisable to retract them during the after- landing roll because the need for flap retraction is less important than the need for total concentration on maintaining full control of the airplane.
-
-The final- approach airspeed used for short- field landings is equally appropriate to soft- field landings. The use of higher approach speeds may result in excessive float in ground effect, and floating makes a smooth, controlled touchdown even more difficult. There is no reason for a steep angle of descent unless obstacles are present in the approach path.
-
-Touchdown on a soft or rough field is made at the lowest possible airspeed with the airplane in a nose- high pitch attitude. In nose- wheel type airplanes, after the main wheels touch the surface, the pilot should

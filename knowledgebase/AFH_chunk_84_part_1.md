@@ -1,5 +1,0 @@
-## Three Basic Rules of Energy Control
-
-An "energy- control" map can help visualize the basic energy control rules. [Figure 4- 8] The energy- control map depicts not only the trajectories of an airplane transitioning from an arbitrary initial energy state (1) to other target states (2, 3, 4, 5, 6, and 7), but also the changes in energy caused by the throttle (blue/red arrows) and the elevator (green arrows). In other words, it allows pilots to visualize the basic control rules for moving an airplane from any state to another. The edge of the sustainable energy state envelope (where \(P_{S} = 0\) at full throttle) is also illustrated.
-
-Note that the line of constant total energy (dashed line) that divides the area in the map requiring more total energy (blue area) from that which requires less energy (red area) is depicted relative to the arbitrary initial energy state (1). The throttle adds (blue arrow) or subtracts (red arrow) the amount of total energy demanded by the new target energy state, while the elevator (green arrows) distributes the correct amount of total energy between potential and kinetic energies. By balancing the simultaneous actions of the

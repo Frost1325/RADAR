@@ -1,5 +1,0 @@
-## 4-4-13. Runway Separation
-
-Tower controllers establish the sequence of arriving and departing aircraft by requiring them to adjust flight or ground operation as necessary to achieve proper spacing. They may "HOLD" an aircraft short of the runway to achieve spacing between it and an arriving aircraft; the controller may instruct a pilot to "EXTEND DOWNWIND" in order to establish spacing from an arriving or departing aircraft. At times a clearance may include the word "IMMEDIATE." For example: "CLEARED FOR IMMEDIATE TAKEOFF." In such cases "IMMEDIATE" is used for purposes of air traffic separation. It is up to the pilot to refuse the clearance if, in the pilot's opinion, compliance would adversely affect the operation.
-
-REFERENCE- AIM, Gate Holding due to Departure Delays, Paragraph 4- 3- 15

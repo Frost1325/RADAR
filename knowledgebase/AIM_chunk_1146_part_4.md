@@ -1,5 +1,0 @@
-The important thing is that the information is relayed so other pilots may benefit from your observation. If a portion of the report needs clarification, the ground station will request the information. Completed PIREPs will be transmitted to weather circuits as in the following examples:
-
-TBL7-1-7 PIREP Element Code Chart
-
-<table><tr><td></td><td>PIREP ELEMENT</td><td>PIREP CODE</td><td>CONTENTS</td></tr><tr><td>1.</td><td>3-letter station identifier</td><td>XXX</td><td>Nearest weather reporting location to the reported phenomenon</td></tr><tr><td>2.</td><td>Report type</td><td>UA or UUA</td><td>Routine or Urgent PIREP</td></tr><tr><td>3.</td><td>Location</td><td>/OV</td><td>In relation to a VOR</td></tr><tr><td>4.</td><td>Time</td><td>/TM</td><td>Coordinated Universal Time</td></tr><tr><td>5.</td><td>Altitude</td><

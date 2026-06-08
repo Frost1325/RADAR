@@ -1,7 +1,0 @@
-the aircraft and the imposition of severe penalties and inconvenience to both passengers and crew. A flight plan on file with ATC authorities does not necessarily constitute the prior permission required by certain other authorities. The possibility of fatal consequences cannot be ignored in some areas of the world.
-
-e. Current NOTAMs for foreign locations must also be reviewed. The publication Notices to Airmen, Domestic/International, published biweekly, contains considerable information pertinent to foreign flight. Current foreign NOTAMs are also available from the U.S. International NOTAM Office in Washington, D.C., through any local FSS.
-
-f. When customs notification is required, it is the responsibility of the pilot to arrange for customs notification in a timely manner. The following guidelines are applicable:
-
-1. When customs notification is required on flights to Canada and Mexico and a predeparture flight plan cannot be filed or an advise customs message (ADCUS) cannot be included in a predeparture flight plan, call the nearest en route domestic or International FSS as soon as radio communication can be established and file a VFR or DVFR flight plan, as required, and include as the last item the advise customs information. The station with which such a flight plan is filed will forward it to the appropriate FSS who

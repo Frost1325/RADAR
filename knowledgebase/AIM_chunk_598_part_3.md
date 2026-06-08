@@ -1,5 +1,0 @@
-ateral Separation Initiative Web Page. For U.S. operators, one set of RNP 10 and RNP 4 Job Aids provides references to FAA documents. For international operators, a second set of Job Aids provide references to the ICAO PBN Manual. These Job Aids address the operational and airworthiness elements of aircraft and operator authorization and provide references to appropriate document paragraphs. The Job Aids provide a method for operators to develop and authorities to track the operator/aircraft program elements required for RNP 10 or RNP 4 authorization.
-
-e. Qualification of Aircraft Equipped With a Single Long-Range Navigation System (S-LRNS) For RNP 10 Operations In GoMex CTA's.
-
-1. Background. S-LRNS operations in the Gulf of Mexico, the Caribbean Sea and the other designated areas have been conducted for at least 25 years. Provisions allowing aircraft equipage with a S-LRNS for operations in specified oceanic and off-shore areas are contained in the following sections of 14 Code of Federal Regulations (CFR): 91.511, 121.351, 125.203

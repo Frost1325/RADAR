@@ -1,7 +1,0 @@
-}_{\mathrm{SSE}}\) introduces a very high and unnecessary training risk.
-
-If the engines are equipped with dynamic crankshaft counterweights, it is essential to make throttle reductions for simulated failures smoothly. Other areas leading to dynamic counterweight damage include high rpm and low manifold pressure combinations, overboosting, and propeller feathering. Severe damage or repetitive abuse to counterweights will eventually lead to engine failure. Dynamic counterweights are found on larger, more complex engines—instructors may check with maintenance personnel or the engine manufacturer to determine if their airplane engines are so equipped.
-
-When an instructor simulates an engine failure, the learner should respond with the appropriate memory items and retard the appropriate propeller control toward the FEATHER position. Assuming zero thrust will be set, the instructor promptly moves the propeller control forward and sets the appropriate manifold pressure and rpm. It is vital that the learner be kept informed of the instructor's intentions. At this point the instructor may say words to the effect, "I have the right engine; you have the left. I have set zero thrust and the right engine is simulated feathered." Any ambiguity as to who is operating what systems or controls increases the likelihood of an unintended outcome.
-
-Following a simulated engine failure, the instructor cares for

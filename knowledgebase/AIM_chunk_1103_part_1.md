@@ -1,5 +1,0 @@
-## 7-1-9. Transcribed Weather Broadcast (TWEB) (Alaska Only)
-
-Equipment is provided in Alaska by which meteorological and aeronautical data are recorded on tapes and broadcast continuously over selected L/MF and VOR facilities. Broadcasts are made from a series of individual tape recordings, and changes, as they occur, are transcribed onto the tapes. The information provided varies depending on the type equipment available. Generally, the broadcast contains a summary of adverse conditions, surface weather observations, pilot weather reports, and a density altitude statement (if applicable). At the discretion of the broadcast facility, recordings may also include a
-
-synopsis, winds aloft forecast, en route and terminal forecast data, and radar reports. At selected locations, telephone access to the TWEB has been provided (TEL- TWEB). Telephone numbers for this service are found in the Supplement Alaska A/FD. These broadcasts are made available primarily for preflight and inflight planning, and as such, should not be considered as a substitute for specialist- provided preflight briefings.

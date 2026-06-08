@@ -1,3 +1,0 @@
-wave drag." When speed exceeds the critical Mach number by about 10 percent, wave drag increases sharply. A considerable increase in thrust (power) is required to increase flight speed beyond this point into the supersonic range where, depending on the airfoil shape and the AOA, the boundary layer may reattach.
-
-Normal shock waves form on the wing's upper surface and form an additional area of supersonic flow and a normal shock wave on the lower surface. As flight speed approaches the speed of sound, the areas of supersonic flow enlarge and the shock waves move nearer the trailing edge. [Figure 5- 67]

@@ -1,5 +1,0 @@
-V (GPS) RWY 30 approach shown in Figure 4- 16, would already know which minimums they were authorized to use. The company's OpSpecs, FOM, and the AFM for the pilot's aircraft would dictate the specific operational conditions and procedures by which this type of approach could be flown.
-
-There are several items of note that are specific to this type of approach that should be considered and briefed. One is the terminal arrival area (TAA) that is displayed in the approach planview. TAAs, discussed later in this chapter, depict the boundaries of specific arrival areas, and the MIA for those areas. The TAAs should be included in an IAP briefing in the same manner as any other IFR transition altitude. It is also important to note that the altitudes listed in the TAAs should be referenced in place of the MSAs on the approach chart for use in emergency situations.
-
-In addition to the obvious differences contained in the planview of Figure 4- 16, RNAV (GPS) approach procedure example, pilots should be aware of the issues related to Baro- VNAV and RNP. The notes section of the procedure in the example contains restrictions relating to these topics.

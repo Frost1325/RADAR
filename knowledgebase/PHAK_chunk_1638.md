@@ -1,5 +1,0 @@
- the symbols are the same except there is less detail due to the smaller scale. [Figure 16- 3] These charts are revised annually except several Alaskan charts and the Mexican/Caribbean charts, which are revised every 2 years.
-
-## Latitude and Longitude (Meridians and Parallels)
-
-The equator is an imaginary circle equidistant from the poles of the Earth. Circles parallel to the equator (lines running east and west) are parallels of latitude. They are used to measure degrees of latitude north (N) or south (S) of the equator. The angular distance from the equator to the pole is one- fourth of a circle or \(90^{\circ}\) . The 48 conterminous states of the United States are located between \(25^{\circ}\) and \(49^{\circ}\) N latitude. The arrows in Figure 16- 4 labeled "Latitude" point to lines of latitude. Meridians of longitude are drawn from the North Pole to the South Pole and are at right angles to the Equator. The "Prime
