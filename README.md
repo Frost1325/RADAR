@@ -105,8 +105,6 @@ Average question (`Q-Len`), answer (`A-Len`), and reference context (`C-Len`) le
 | Documentation & Regulations | 89 | 3.44% |
 | **Total** | **2,588** | **100.00%** |
 
-> **Note on naming disambiguation:** This AeroQA benchmark (2,588 chunk-grounded RAG QA pairs over four FAA instructional manuals) is distinct from the earlier namesake AeroQA dataset introduced with KITLM at ICON 2023 (Agarwal et al., 2023), which consists of ~34k synthetic closed-book single- and multi-hop questions derived from an NTSB aircraft accident-report knowledge graph.
-
 ---
 
 ## Quick Start
